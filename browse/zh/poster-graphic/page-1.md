@@ -237,7 +237,7 @@ Exclusions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/587ea551-9368-4ee0-bd1c-2d70beb7c56a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/kumiko_shiraki/status/2067895169936998866>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/587ea551-9368-4ee0-bd1c-2d70beb7c56a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kumiko_shiraki/status/2067895169936998866>)
 
 ---
 
@@ -268,7 +268,7 @@ Exclusions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/54e08365-9866-4dbb-bf28-7f3df1d5b46f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/94vanAI/status/2068542240948097076>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/54e08365-9866-4dbb-bf28-7f3df1d5b46f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/94vanAI/status/2068542240948097076>)
 
 ---
 
@@ -290,7 +290,7 @@ outlines, simple rounded geometric shapes, flat solid color fills, minimal facia
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9af03401-d6be-40b8-b693-acb42ec8466c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ciri_ai/status/2068566585397383601>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9af03401-d6be-40b8-b693-acb42ec8466c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ciri_ai/status/2068566585397383601>)
 
 ---
 
@@ -312,7 +312,7 @@ Luxury birthday poster, 3:4 portrait, premium editorial studio style. Off-white 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ee8fc73a-911e-45d5-8870-8c91418667a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MissDelulu9/status/2065640238698172748>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ee8fc73a-911e-45d5-8870-8c91418667a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MissDelulu9/status/2065640238698172748>)
 
 ---
 
@@ -368,7 +368,7 @@ Luxury birthday poster, 3:4 portrait, premium editorial studio style. Off-white 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/7ce0b4b7-d6c4-49af-8ba3-8f492005f936?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2060662517223895178>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7ce0b4b7-d6c4-49af-8ba3-8f492005f936?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2060662517223895178>)
 
 ---
 
@@ -390,7 +390,7 @@ Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/17b0cc64-b838-4c1c-b4fc-e41f3a4d3a31?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/kingofdairyque/status/2069767917424746734>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/17b0cc64-b838-4c1c-b4fc-e41f3a4d3a31?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kingofdairyque/status/2069767917424746734>)
 
 ---
 
@@ -424,7 +424,7 @@ Thick white outline cutout around the character, white doodle overlays, clean ne
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/f240a369-a8cb-4e80-9c3e-71dbb881800b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ariaxawan/status/2054437224004141058>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f240a369-a8cb-4e80-9c3e-71dbb881800b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ariaxawan/status/2054437224004141058>)
 
 ---
 
@@ -445,7 +445,7 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/921bd691-513e-4273-af55-4a32602a8ef8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/RizwanAly07/status/2065440072980377654>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/921bd691-513e-4273-af55-4a32602a8ef8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/RizwanAly07/status/2065440072980377654>)
 
 ---
 
@@ -543,7 +543,7 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b6072daf-6e7e-4c29-89db-b073a7447bb5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/abs_uiux/status/2069692803924349109>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b6072daf-6e7e-4c29-89db-b073a7447bb5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/abs_uiux/status/2069692803924349109>)
 
 ---
 
@@ -580,7 +580,7 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4d06ffe8-d207-4d44-b98a-330cdea4e830?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069721086833414439>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4d06ffe8-d207-4d44-b98a-330cdea4e830?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069721086833414439>)
 
 ---
 
@@ -681,7 +681,7 @@ No overly detailed architecture.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ab0cecdb-cc11-4fda-ba96-f510983dd4b2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ChillaiKalan__/status/2069319929871081910>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ab0cecdb-cc11-4fda-ba96-f510983dd4b2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ChillaiKalan__/status/2069319929871081910>)
 
 ---
 
@@ -718,7 +718,7 @@ No realism, no watercolor, no painterly effects, no photorealism, no shading, no
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5340dd00-fe60-47eb-ae7d-004a6a809103?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/oggii_0/status/2069643205818437808>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5340dd00-fe60-47eb-ae7d-004a6a809103?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/oggii_0/status/2069643205818437808>)
 
 ---
 
@@ -782,7 +782,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ad759eb0-5fe5-48e6-8ada-917ef411abde?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/aripratama293/status/2058868372935205183>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ad759eb0-5fe5-48e6-8ada-917ef411abde?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aripratama293/status/2058868372935205183>)
 
 ---
 
@@ -839,7 +839,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/61d7469a-1c08-495e-a13b-e8bd8ffa3169?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AmirMushich/status/2069839832046575830>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/61d7469a-1c08-495e-a13b-e8bd8ffa3169?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AmirMushich/status/2069839832046575830>)
 
 ---
 
@@ -878,7 +878,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/de17e8cf-9f91-4321-94ef-3ad7b318a7ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VigoCreativeAI/status/2069373590718321089>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/de17e8cf-9f91-4321-94ef-3ad7b318a7ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2069373590718321089>)
 
 ---
 
@@ -899,7 +899,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fd2dc468-5c6f-452d-8eb8-effccbde7d0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/hx831126/status/2067675233700757774>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fd2dc468-5c6f-452d-8eb8-effccbde7d0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hx831126/status/2067675233700757774>)
 
 ---
 
@@ -925,7 +925,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/918303c8-708c-4ee1-8f4d-4e48629e37ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/xiaoxiaodong01/status/2065822596781035553>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/918303c8-708c-4ee1-8f4d-4e48629e37ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xiaoxiaodong01/status/2065822596781035553>)
 
 ---
 
@@ -969,7 +969,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e170c92b-1860-4721-ade7-f10f14bc7e84?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069296654352515390>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e170c92b-1860-4721-ade7-f10f14bc7e84?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069296654352515390>)
 
 ---
 
@@ -1008,7 +1008,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/04e6a655-6409-4d72-93f1-9acd2dbb5aa3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VigoCreativeAI/status/2065430476567838897>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/04e6a655-6409-4d72-93f1-9acd2dbb5aa3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2065430476567838897>)
 
 ---
 
@@ -1029,7 +1029,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3f2a365a-8ea2-4f3d-b338-ad54171070f8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/aleenaamiir/status/2069424734077689974>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3f2a365a-8ea2-4f3d-b338-ad54171070f8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aleenaamiir/status/2069424734077689974>)
 
 ---
 
@@ -1068,7 +1068,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a56bacd8-6c9b-4380-b3a1-39ed9538c0cf?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VigoCreativeAI/status/2064234723220811848>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a56bacd8-6c9b-4380-b3a1-39ed9538c0cf?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2064234723220811848>)
 
 ---
 
@@ -1124,7 +1124,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3999f9fa-d813-4dfa-bf78-23546b0f6d1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069366773518835720>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3999f9fa-d813-4dfa-bf78-23546b0f6d1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069366773518835720>)
 
 ---
 
@@ -1168,7 +1168,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/c1a9bdba-742e-461d-828a-e581352b94d7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/xpg0970/status/2058958343293526286>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c1a9bdba-742e-461d-828a-e581352b94d7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xpg0970/status/2058958343293526286>)
 
 ---
 
@@ -1189,6 +1189,315 @@ Design a hyper-realistic FIFA 2026 football poster inspired by premium sports ed
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bd708689-2258-4b03-8d4b-d0abfd546675?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Tegadesigns/status/2066855625573781717>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bd708689-2258-4b03-8d4b-d0abfd546675?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Tegadesigns/status/2066855625573781717>)
+
+---
+
+<a id="prompt-7664757d-d685-4a98-9e4c-7baf140683a8"></a>
+
+## Trying out this Hand Drawn Isometric with Landmarks on  🗽✨
+
+<a href="https://musesignal.com/zh/prompt/7664757d-d685-4a98-9e4c-7baf140683a8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLGqhXnXEAAtufi.jpg?format=jpg&amp;name=small" width="480" alt="Trying out this Hand Drawn Isometric with Landmarks on  🗽✨" /></a>
+
+**GPT Image 2** · 原作者: TechieSA
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Use GPT Image 2 for best results!🔥
+“Create a hand drawn isometric schematic diagram of [LANDMARK] map with colors. White background. 1080x1080 dimension.”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7664757d-d685-4a98-9e4c-7baf140683a8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2067621201229328848>)
+
+---
+
+<a id="prompt-60cb71e6-4fc7-4789-a66e-8ed7adbca661"></a>
+
+## Ultra-Realistic YouTube Livestream Mockup
+
+<a href="https://musesignal.com/zh/prompt/60cb71e6-4fc7-4789-a66e-8ed7adbca661?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HGfyiewakAEyfQu.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic YouTube Livestream Mockup" /></a>
+
+**GPT Image 2** · 原作者: sammy
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-realistic YouTube livestream screenshot in 16:9 aspect ratio, DSLR-quality, sharp focus, natural lighting, and cinematic tone. The interface should look exactly like a real YouTube live stream, including a top bar with the YouTube logo on the left, a search bar in the center, and a profile icon on the right. Include a red “LIVE” badge with a viewer count (around 1.2M watching), and display the video title: “Elon Musk & Sam Altman LIVE: OpenAI x xAI Merger Discussion.” Show the channel name “Tech Insights Live” with a visible red subscribe button. Add a live chat sidebar on the right with fast-scrolling, realistic user comments reacting to the merger news. Include a red progress bar at the bottom.
+The video frame should be a split-screen video call layout. On the left side, show Elon Musk, early 50s, with a focused and slightly serious expression, wearing a black t-shirt or dark blazer, lit with soft cool lighting and slightly dramatic shadows, sitting in a minimalist tech office with dim lighting and subtle futuristic elements. On the right side, show Sam Altman, late 30s, with a calm, analytical expression and slight smile, wearing a casual t-shirt or light sweater, with neutral indoor lighting and balanced exposure, in a modern office or home workspace that is clean and minimal.
+Add overlay elements such as a lower-third text reading “LIVE Discussion: OpenAI & xAI Potential Merger,” along with subtitles mentioning “AI alignment, future of AGI, and strategic collaboration...” Include small mic or audio wave indicators near each speaker.
+Apply slightly cool color grading with high contrast for realism. Add subtle screen reflections and glare to mimic a real screen capture. Include slight YouTube-style compression artifacts and noise to enhance authenticity.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/60cb71e6-4fc7-4789-a66e-8ed7adbca661?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sumiturkude007/status/2046871599702499628>)
+
+---
+
+<a id="prompt-b6836c57-e441-481d-bdee-9d9984cebd4b"></a>
+
+## 文字穿插：让封面人物站到标题前面
+
+<a href="https://musesignal.com/zh/prompt/b6836c57-e441-481d-bdee-9d9984cebd4b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKwESM9WUAEiDUu.jpg?format=jpg&amp;name=small" width="480" alt="文字穿插：让封面人物站到标题前面" /></a>
+
+**GPT Image 2** · 原作者: Vigo Zhao
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"style_name": "Sunlit Kinetic Block Type Photo Poster",
+"style_slug": "sunlit-kinetic-block-type-photo-poster-style",
+"style_version": "2.1.0",
+"style_summary": "A high-energy editorial sports and lifestyle poster style built from full-bleed sunlit photography, oversized cream condensed block typography, diagonal subject crops, compact microcopy clusters, and vivid blue-sky color fields.",
+"environment_variables": {
+"SUBJECT": "main subject",
+"SUBJECT_ACTION": "main action",
+"PRODUCT_OR_PROP": "object, product, or prop",
+"LOCATION": "environment or setting",
+"BACKGROUND_ELEMENTS": "secondary scene details",
+"MAIN_TEXT": "main headline or graphic text",
+"SECONDARY_TEXT": "small repeated supporting text",
+"ACCENT_SYMBOL": "separator or decorative symbol",
+"WARDROBE_STYLE": "styling direction",
+"STYLE_FIDELITY_ANCHORS": "observable style traits that must remain visible",
+"SOURCE_CONTENT_TO_AVOID": "literal source content that generated samples must not recreate",
+"ASPECT_RATIO": "9:16 or 16:9"
+},
+CUT / MOVE / FRESH / SHIFT——如果你是杂志封面，你的那个字会是什么？
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b6836c57-e441-481d-bdee-9d9984cebd4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2066031131674259640>)
+
+---
+
+<a id="prompt-86a2fc32-bab2-481e-9de2-f51583d3b2db"></a>
+
+## 12 Camera Moves Every Cinematographer Should Know
+
+<a href="https://musesignal.com/zh/prompt/86a2fc32-bab2-481e-9de2-f51583d3b2db?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKsNhAsbEAAfB7Q.jpg?format=jpg&amp;name=small" width="480" alt="12 Camera Moves Every Cinematographer Should Know" /></a>
+
+**GPT Image 2** · 原作者: Beginnersblog
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Cinematographers learn 12 camera moves in film school.
+Most AI creators don't know a single one. Because nobody told the camera what to do.
+.
+.
+Here they are:
+→ Push-in — moves toward the subject
+Builds tension. Creates intimacy. Use it slowly.
+→ Pull-back — retreats to reveal
+Isolation. Scale. Endings. The reveal shot.
+→ Pan — horizontal rotation, camera stays fixed
+Suspense lives in what you haven't shown yet.
+→ Tilt — vertical version of the pan
+Tilt up on a hero. They look powerful immediately.
+→ Tracking shot — camera travels with the subject
+Energy. Forward motion. You feel like you're there.
+→ Arc / orbit — circles the subject
+Hero moments. Product showcases. Keep it under 30 degrees.
+→ Crane / jib — sweeps vertically on a boom
+Grandeur. Scale. The "god-view" of cinematography.
+→ Zoom — focal length changes, camera doesn't move
+Flatter look than a dolly. Fast zoom = music video energy.
+→ Dolly zoom — camera goes one way, lens goes the other
+Background warps. Subject stays still. Pure psychological dread.
+→ Whip pan / crash zoom — extreme speed for transitions
+Shock. Comedy. Stops the scroll every time.
+→ Handheld — natural shake, no stabilisation
+Add "subtle" or the model goes full earthquake.
+→ Static + angles — low, high, Dutch, bird's-eye, worm's-eye
+Low angle = power.
+Dutch angle = unease.
+Bird's-eye = scale.
+The mistake everyone makes: stacking multiple moves into one prompt. One move. One clip. Always.
+And add "slow" to almost everything. Slow moves hide what AI can't render cleanly. Fast moves expose every flaw.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/86a2fc32-bab2-481e-9de2-f51583d3b2db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/beginnersblog1/status/2065759796104761770>)
+
+---
+
+<a id="prompt-494e646c-420d-4a1e-891f-1b4f0ce7707f"></a>
+
+## Continuous Line Travel Poster of a Country
+
+<a href="https://musesignal.com/zh/prompt/494e646c-420d-4a1e-891f-1b4f0ce7707f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQiO-2CaEAA5wNE.jpg?format=jpg&amp;name=small" width="480" alt="Continuous Line Travel Poster of a Country" /></a>
+
+**GPT Image 2** · 原作者: simeon-sanai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium vertical 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+Include:
+One dominant iconic landmark
+A second architectural landmark subtly integrated into the skyline
+A famous natural landscape in the background
+Local transportation
+Traditional clothing or cultural detail
+A recognizable food or drink
+Small street-life moments
+Birds, clouds, plants and tiny decorative elements
+Handwritten labels pointing to selected elements
+At the top, use a large playful hand-lettered title:
+“[COUNTRY]”
+Below it, add a tiny elegant subtitle:
+“A little world to discover”
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/494e646c-420d-4a1e-891f-1b4f0ce7707f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2092079254775435448>)
+
+---
+
+<a id="prompt-a498c325-ea6c-45b0-a0ca-c3009dbf25b5"></a>
+
+## Clean Storyboard Infographic for ASMR Unboxing
+
+<a href="https://musesignal.com/zh/prompt/a498c325-ea6c-45b0-a0ca-c3009dbf25b5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNF2Q88bIAAQp-9.jpg?format=jpg&amp;name=small" width="480" alt="Clean Storyboard Infographic for ASMR Unboxing" /></a>
+
+**GPT Image 2** · 原作者: Shore Lyn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a clean, premium storyboard infographic for a product ASMR unboxing video.
+Design specifications:
+Background: White background with a modern, minimalist layout.
+Title at the top: STORYBOARD
+Product name in bold dark blue: HAN RIVER WET & DRY 2 IN 1 STEAM IRON
+Subtitle: ASMR UNBOXING (POV HAND)
+Information boxes below the title:
+Duration: 30 Seconds (3 Parts)
+Style: POV Hand, ASMR, Premium Product Commercial
+Audience: Home Users, Housewife, Young Adults
+Voiceover: No Voiceover (Pure ASMR)
+Audio Suggestion: Tapping, Crinkle, Cardboard, Click, Steam, Water Pouring
+Layout:
+Create 12 storyboard panels arranged in a 4 column × 3 row grid, divided into three horizontal blocks labeled PART 1 (0 to 10s), PART 2 (10 to 20s), and PART 3 (20 to 30s).
+Each panel should contain:
+A numbered dark blue badge (1 to 12) with its respective timestamp.
+A realistic cinematic image showing the scene.
+Handwritten white and orange doodle text sketched over the image.
+Four text sections below every image:
+VISUAL:
+ACTION:
+DOODLE:
+AUDIO:
+Aesthetic Style:
+Premium lifestyle commercial advertising style. Realistic product photography, light wood or beige table, soft warm studio lighting, shallow depth of field, POV hands only with no face visible. The product is a sleek, cream colored handheld steam iron with a gold rimmed ceramic base.
+Storyboard sequence:
+PART 1 (0 to 10s)
+1 (0 to 2.5s)
+Visual: Product box placed flat on a wooden table.
+Action: Hands enter frame and tap the sides of the box.
+Doodle: NEW!
+Audio: Cardboard tapping.
+2 (2.5 to 5s)
+Visual: Close up of the box lid, focusing on the brand logo.
+Action: Fingers gently trace the printed logo and illustration.
+Doodle: LET'S OPEN!
+Audio: Finger scratching on cardboard.
+3 (5 to 7.5s)
+Visual: A box cutter slicing the sealing tape.
+Action: Blade slowly cuts through the adhesive tape.
+Doodle: SLICE...
+Audio: Tape cutting.
+4 (7.5 to 10s)
+Visual: The box flaps are opened, revealing the wrapped product and manual inside.
+Action: Hands open the main flaps wide.
+Doodle: WOW!
+Audio: Box opening.
+PART 2 (10 to 20s)
+5 (10 to 12.5s)
+Visual: Instruction manual being held up.
+Action: Hands flip through the pages of the manual.
+Doodle: MANUAL
+Audio: Paper flipping.
+6 (12.5 to 15s)
+Visual: The iron is lifted out, still wrapped in its protective plastic sheet.
+Action: Pulling the wrapped unit completely out of the box.
+Doodle: CRINKLE~
+Audio: Plastic crinkling.
+7 (15 to 17.5s)
+Visual: Peeling away the protective plastic cover to reveal the premium body.
+Action: Hands slowly unwrap and twist the iron to inspect it.
+Doodle: SO CLEAN!
+Audio: Plastic removal.
+8 (17.5 to 20s)
+Visual: Ultra close up of the pristine ceramic soleplate.
+Action: A single finger smoothly glides down the center of the soleplate.
+Doodle: SMOOTH
+Audio: Finger glide on ceramic.
+PART 3 (20 to 30s)
+9 (20 to 22.5s)
+Visual: Rotating the ergonomic handle.
+Action: Hand twists the handle 180 degrees until it locks into place.
+Doodle: 180°
+Audio: Handle rotation click.
+10 (22.5 to 25s)
+Visual: Water being added to the built in tank.
+Action: Pouring clean water slowly into the small inlet using a measuring cup.
+Doodle: FILL
+Audio: Water pouring.
+11 (25 to 27.5s)
+Visual: The steam button being pressed.
+Action: Thumb presses the button, and a powerful burst of steam erupts from the base.
+Doodle: PSSSH~
+Audio: Steam release blast.
+12 (27.5 to 30s)
+Visual: Final hero shot of the steam iron standing upright next to its box and measuring cup.
+Action: Hand enters frame to give a confident thumbs up.
+Doodle: READY!
+Audio: Light tap on the table.
+Footer Infographic Sections:
+WHAT'S IN THE BOX:
+Small grid icons showing Steam Iron, Instruction Manual, Measuring Cup, and Power Cord.
+KEY FEATURES:
+Checkmarks for Wet & Dry 2 in 1
+180° Swivel Handle
+150ml Water Tank
+Ceramic Soleplate
+Powerful Steam
+WARRANTY:
+A prominent 2 YEARS WARRANTY shield badge.
+IDEAL FOR / WHY CHOOSE IT:
+Minimalist icons for Home Use, Travel, Small Spaces
+Bullet points:
+Lightweight
+Easy to Use
+Fast Heating
+Safe
+Metadata Text Line:
+Total Duration: 30 Seconds
+Format: Vertical (9:16)
+Style: POV Hand, ASMR, Premium Product Commercial
+Typography should resemble a professional creative agency storyboard layout featuring neat spacing, sharp dark blue accents, thin gray grid boundaries, and a highly polished presentation structure perfect for a client pitch.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a498c325-ea6c-45b0-a0ca-c3009dbf25b5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2076572186220155024>)
 
 ---

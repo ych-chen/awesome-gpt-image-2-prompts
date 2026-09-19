@@ -19,7 +19,7 @@ Please transform the entire image into a single Decorative Folk Flat Illustratio
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e05d84d2-fe83-487c-9b3b-696a8d0478e8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2066742340434424079>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e05d84d2-fe83-487c-9b3b-696a8d0478e8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2066742340434424079>)
 
 ---
 
@@ -47,7 +47,7 @@ Style: soft pastel anime illustration, thick sketch line art, cute childhood cha
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/fbcbb4ce-157e-4059-b24f-978d16baf884?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/story_with_ai/status/2064897910358085806>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fbcbb4ce-157e-4059-b24f-978d16baf884?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/story_with_ai/status/2064897910358085806>)
 
 ---
 
@@ -72,7 +72,7 @@ Quality: masterpiece, highly detailed, professional illustration, crisp outlines
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/650682ba-116a-465c-99b0-22110a263d36?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Taaruk_/status/2067624585785487681>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/650682ba-116a-465c-99b0-22110a263d36?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2067624585785487681>)
 
 ---
 
@@ -93,7 +93,7 @@ Quality: masterpiece, highly detailed, professional illustration, crisp outlines
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/57c2508a-4d47-48a2-baa8-665123d782b4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/hagamight/status/2069525908910993788>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/57c2508a-4d47-48a2-baa8-665123d782b4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/hagamight/status/2069525908910993788>)
 
 ---
 
@@ -117,7 +117,7 @@ Set against a pure black background, emphasizing strong contrast and visual impa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/83ae1fe6-826e-431b-b0f9-c7b92d69ddbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/noorlewisx/status/2064539506305561076>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/83ae1fe6-826e-431b-b0f9-c7b92d69ddbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/noorlewisx/status/2064539506305561076>)
 
 ---
 
@@ -138,7 +138,7 @@ Ultra-realistic action photography, extreme fisheye lens, 8mm, worm’s-eye view
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7bc9428c-1530-441e-ad0c-393eca4fadf4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AiwithLariab/status/2067484351378690487>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7bc9428c-1530-441e-ad0c-393eca4fadf4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2067484351378690487>)
 
 ---
 
@@ -165,7 +165,7 @@ Create a stylized watercolor and gouache illustration based on the following art
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/816f98a0-47d0-4a3d-b0db-8dc1cf518c86?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2067088864523805046>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/816f98a0-47d0-4a3d-b0db-8dc1cf518c86?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2067088864523805046>)
 
 ---
 
@@ -191,7 +191,7 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/74dc8865-8352-428f-b55e-d2d90a72545f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AIwithkhan/status/2066858886511161451>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/74dc8865-8352-428f-b55e-d2d90a72545f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AIwithkhan/status/2066858886511161451>)
 
 ---
 
@@ -213,7 +213,7 @@ eyes, tiny mouth and deadpan [EXPRESSION], wearing [CLOTHING], with [ANIMAL] per
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7e120ea4-7981-4277-99cf-4446058486eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MissDelulu9/status/2064688962539798779>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7e120ea4-7981-4277-99cf-4446058486eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2064688962539798779>)
 
 ---
 
@@ -234,7 +234,7 @@ eyes, tiny mouth and deadpan [EXPRESSION], wearing [CLOTHING], with [ANIMAL] per
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/fecc3796-c385-45ac-a733-b65325222bb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/TechieBySA/status/2068384583649739182>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fecc3796-c385-45ac-a733-b65325222bb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2068384583649739182>)
 
 ---
 
@@ -255,7 +255,7 @@ Prompt 1: Convert this image into a soft, handcrafted paper-cut layered illustra
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/acf5e57a-cdf0-43b5-ae22-179f938b0c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2068192617242960081>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/acf5e57a-cdf0-43b5-ae22-179f938b0c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2068192617242960081>)
 
 ---
 
@@ -280,7 +280,7 @@ Warm golden-hour sunlight illuminates the wooden desk, casting soft cinematic sh
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/46818d78-f979-4f43-9ca6-752f8b9df098?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AiwithLariab/status/2067948869091278932>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/46818d78-f979-4f43-9ca6-752f8b9df098?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2067948869091278932>)
 
 ---
 
@@ -301,7 +301,7 @@ Tansform the entire image into a single flat, decorative folk-art illustration w
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7775a901-29bb-4ece-ae91-871a0afcac31?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Sairah_0/status/2067888380634108118>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7775a901-29bb-4ece-ae91-871a0afcac31?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2067888380634108118>)
 
 ---
 
@@ -359,7 +359,7 @@ Prompt 2:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/442c73bb-2325-4e8a-8bad-8bd6cb1b2696?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Maercihh/status/2055224183152620023>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/442c73bb-2325-4e8a-8bad-8bd6cb1b2696?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2055224183152620023>)
 
 ---
 
@@ -380,7 +380,7 @@ Transform the uploaded photo into a cute black-and-white hand-drawn chibi doodle
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a6627d09-ef3c-4a17-8942-4a507c48c866?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Taaruk_/status/2069094152164536336>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a6627d09-ef3c-4a17-8942-4a507c48c866?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2069094152164536336>)
 
 ---
 
@@ -407,7 +407,7 @@ Create a stylized gouache and marker illustration based on the following artisti
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/51209500-d9dd-4c54-aeb5-5a50643434eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Sairah_0/status/2067163760738148674>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/51209500-d9dd-4c54-aeb5-5a50643434eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2067163760738148674>)
 
 ---
 
@@ -446,7 +446,7 @@ Create a stylized gouache and marker illustration based on the following artisti
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/499d9e0b-3aa6-4665-8147-28197e32de0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MrLarus/status/2069746084537110590>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/499d9e0b-3aa6-4665-8147-28197e32de0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrLarus/status/2069746084537110590>)
 
 ---
 
@@ -467,7 +467,7 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/bc111e7d-3763-4ad0-8ea3-5578af86585c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/azed_ai/status/2067925399947067728>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bc111e7d-3763-4ad0-8ea3-5578af86585c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/azed_ai/status/2067925399947067728>)
 
 ---
 
@@ -488,7 +488,7 @@ Please transform the entire image into a single Decorative Folk Flat Illustratio
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/bb8db6cf-d1e6-4a16-af5a-c558cb311175?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2067477780342931799>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bb8db6cf-d1e6-4a16-af5a-c558cb311175?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2067477780342931799>)
 
 ---
 
@@ -509,7 +509,7 @@ A claymation-style [subject], sculpted with visible fingerprints, hand-painted i
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d49ce9dd-77ad-4ace-b7aa-1cd2e4ec62eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/azed_ai/status/2068651171339022387>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d49ce9dd-77ad-4ace-b7aa-1cd2e4ec62eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/azed_ai/status/2068651171339022387>)
 
 ---
 
@@ -539,7 +539,7 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8d9a26e2-8ef5-43c6-9e2f-1ef031abb3c7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/TechieBySA/status/2091529289283866634>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8d9a26e2-8ef5-43c6-9e2f-1ef031abb3c7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2091529289283866634>)
 
 ---
 
@@ -567,7 +567,7 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/78ccefa4-1c40-4d4c-8163-1b7f20e44855?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/TechieBySA/status/2091167214195847433>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/78ccefa4-1c40-4d4c-8163-1b7f20e44855?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2091167214195847433>)
 
 ---
 
@@ -689,7 +689,7 @@ hardcoded blue hair when not in reference, hardcoded cloud clip when not in refe
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f089f4a3-f0e1-4987-b7b4-6293d8b81552?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2080580411487600862>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f089f4a3-f0e1-4987-b7b4-6293d8b81552?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2080580411487600862>)
 
 ---
 
@@ -710,6 +710,203 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0e706338-ef5b-4853-8390-57029acacf68?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Sairah_0/status/2067816667535794641>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0e706338-ef5b-4853-8390-57029acacf68?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2067816667535794641>)
+
+---
+
+<a id="prompt-f3058342-1259-4c23-9150-e3453732e357"></a>
+
+## Playful Ink-Twin Doodle with Real Subject
+
+<a href="https://musesignal.com/prompt/f3058342-1259-4c23-9150-e3453732e357?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN9-uGxaAAAtbwW.jpg?format=jpg&amp;name=small" width="480" alt="Playful Ink-Twin Doodle with Real Subject" /></a>
+
+**GPT Image 2** · Creator: WasifAI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+prompt
+{
+"identity_ref": {
+"source": "uploaded photo",
+"lock": ["face", "eyes/nose/mouth", "skin tone", "hair (length/texture/color)", "accessories", "exact outfit"],
+"rule": "no invented details"
+},
+"composition": {"format": "vertical 4:5/9:16", "figures": ["real subject", "ink-twin doodle"], "layout": "side by side, poses fully visible"},
+"real_subject": {"style": "photoreal, full-body", "outfit": "match reference exactly", "expression": "playful, embarrassed, caught-out charm", "pose": "natural, toned-down version"},
+"ink_twin": {
+"style": "rough black sketch/charcoal doodle on wall",
+"recognizability": "silhouette only (hair/outfit/pose shape)",
+"avoid": ["realistic 2nd person", "flat shadow", "color cartoon"],
+"energy": "amplified, chaotic vs real subject",
+"extras": "optional sparse comic marks (motion lines/star/heart)"
+},
+"pose_rule": {
+"instruction": "new playful/mischievous shared pose each time",
+"avoid": ["pointing", "finger-guns", "mirrored/repeated poses"],
+"relationship": "subject = subtle version; twin = amplified cartoon version, same beat"
+},
+"setting": {"background": "clean minimal wall (white/cream/gray)", "lighting": "soft, even, daylight-style, face visible"},
+"mood": "playful, stylish, chaotic-fun, shareable",
+"negative_prompt": [
+"invented appearance", "outfit changes", "twin as real 2nd person",
+"flat/creepy shadow", "color cartoon twin", "weak resemblance",
+"clutter", "repeated/stiff/mirrored poses", "text", "watermark",
+"extra limbs", "bad hands"
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f3058342-1259-4c23-9150-e3453732e357?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/doctorwasif/status/2080520917831307671>)
+
+---
+
+<a id="prompt-c958e627-a4d7-4e5a-83cb-34ac6a4ba1ca"></a>
+
+## Crocheted Seaside Shop in Spring Magic
+
+<a href="https://musesignal.com/prompt/c958e627-a4d7-4e5a-83cb-34ac6a4ba1ca?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKx0HqdboAA3EOS.jpg?format=jpg&amp;name=small" width="480" alt="Crocheted Seaside Shop in Spring Magic" /></a>
+
+**GPT Image 2** · Creator: Soulful Ai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Stitching a little bit of spring magic into reality. 🧵✨
+Made with GPT image 2 on @TapNow_AI
+PROMPT 1:
+A highly detailed 3D tactical crochet art diorama of a pastel blue, two story seaside shop from a straight on perspective, inspired by
+The building is crocheted with neat, tight light blue yarn stitches, featuring a peachy pink yarn door and window frames. On the left, a massive, fluffy, ultra-textured cumulus cloud is crafted using thick, chunky white bouclé yarn to give it a 3D pop-out effect, set against a light blue crocheted sky. Below, the ocean is made of wavy horizontal rows of dark and light blue yarn, and the beach is stitched with textured beige sand yarn. A tiny crocheted bicycle with thin wire wheels, miniature chairs, a white umbrella, potted green yarn plants, a brown wooden-pole power line with thin yarn threads, and a small pink vending machine are all meticulously detailed in yarn. The entire piece is neatly enclosed inside a light, natural wooden frame, sitting flat on a neutral canvas fabric background, showing rich textile textures.
+PROMPT 2:
+A detailed, high-resolution close-up photograph of a meticulously crafted, intricate three-dimensional crochet diorama, presented inside a deep walnut wood frame with a clear glass front, sitting on a neutral textured surface. The subject is a miniaturized European-style street corner, recreated entirely through various crochet and textile arts, maintaining all elements from image_9.png. The buildings are rendered with tight, even crochet stitches, in their exact colors and positions: the mint-green and salmon-pink main structure with the striped awning, and the adjacent pink and yellow buildings. All features, including the multiple large, textured, voluminous light-pink crocheted cherry blossom trees (rendered with complex cluster-stitches), are present. The ground-floor detailed doors, windows with internal warm lights (like LED filaments within a yarn grille), balconies with crochet flower boxes, menu boards, potted plants, lamps, and cobblestone street pavement are all preserved with extreme fidelity. The sign over the striped awning retains its text. The surrounding blue crochet field is also visible. The deep walnut frame has clean lines and a visible grain. Natural, soft daylight from a large window illuminates the diorama, creating soft, warm shadows within the recessed scene and highlighting the rich textures of every yarn stitch and fiber. The depth of the diorama is clearly visible through the clear glass, showcasing the multi-layered construction. The focus is sharp across the central diorama, with the wood frame edges and the surface below softly out of focus. The entire piece is framed as a high-end, artisan craft.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c958e627-a4d7-4e5a-83cb-34ac6a4ba1ca?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/soulful__ai/status/2066164537519137004>)
+
+---
+
+<a id="prompt-12ddb833-519a-4e36-a33b-0d5e15f34fed"></a>
+
+## Miniature Paper-Cut City Diorama
+
+<a href="https://musesignal.com/prompt/12ddb833-519a-4e36-a33b-0d5e15f34fed?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQdeRK-aYAAYdQd.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Paper-Cut City Diorama" /></a>
+
+**GPT Image 2** · Creator: Taaruk
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a charming miniature 3D travel illustration on a clean white textured paper background, inspired by a handcrafted paper-cut souvenir postcard. Build a small floating city diorama featuring the iconic landmarks and cultural symbols of [CITY/COUNTRY] arranged together on a narrow elevated stone-and-brick platform, with a soft watercolor-painted patch of blue water underneath. Include recognizable local architecture, monuments, transportation, trees, street lamps, flags, small signs, and a few tiny people, all rendered as detailed handcrafted miniature models. Add a small airplane flying overhead with a playful dotted flight path, simple hand-drawn clouds and birds in the surrounding negative space. Use soft pastel colors, subtle warm lighting, delicate shadows, realistic miniature textures, paper-cut edges, handcrafted clay-and-paper aesthetic, whimsical yet sophisticated travel-poster design, lots of clean white negative space, centered composition, adorable collectible souvenir aesthetic. Add elegant handwritten-style text at the bottom reading “[CITY] ”. Vertical 4:5 composition, highly detailed, polished, clean, nostalgic, premium travel illustration, no clutter, no photorealistic background.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/12ddb833-519a-4e36-a33b-0d5e15f34fed?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2091744246021992669>)
+
+---
+
+<a id="prompt-6caf16e2-1f21-4c66-ae21-4109d767a06e"></a>
+
+## Isometric Country Diorama on Off-White
+
+<a href="https://musesignal.com/prompt/6caf16e2-1f21-4c66-ae21-4109d767a06e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQTB3f8aYAAxQC6.jpg?format=jpg&amp;name=small" width="480" alt="Isometric Country Diorama on Off-White" /></a>
+
+**GPT Image 2** · Creator: K
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-detailed photorealistic isometric miniature scale-model diorama of [COUNTRY], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact real-world silhouette shape of the country — not a square tile, but the true precise geographic outline of the country's borders and coastline, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like a chunk of the real land physically cut out and lifted. The shape of the slab matches the country's actual geography precisely, including any islands, peninsulas or coastline indentations.
+The entire top surface faithfully recreates the country's real geography and terrain: mountain ranges with correct elevation and snow coverage, rivers in their real positions, major forests and plains, deserts, coastlines with beaches and cliffs. Every major city is visible as a dense urban cluster in its correct geographic position. The country's most iconic landmarks are rendered in accurate positions and to recognizable scale. Terrain elevation is fully physically modeled — mountain ranges rise dramatically, valleys are sunken, plains are flat, creating real varied 3D topography across the entire surface.
+Dense micro-detail: individual buildings in city clusters, tiny roads and highways connecting settlements, railways, bridges, harbors with boats, agricultural field patterns in rural areas, individual trees and forest coverage. Every region has its correct landscape character — the terrain of the north looks different from the south.
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus across the whole surface, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors. Lush greens, snow-capped peaks, golden plains, deep blue water along the coastline.
+Layout: the shaped diorama floats centered in the lower two-thirds of the frame with clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the continent or region name at the very top, then directly below [COUNTRY] in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element — with a small flat rectangular flag of [COUNTRY] sitting immediately to the right of the country name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the country name, floating naturally beside the name as one cohesive unit, not pushed to the far edge but sitting close and attached to the right end of the country name text. Then small wide-tracked caps below with the capital city and population.
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6caf16e2-1f21-4c66-ae21-4109d767a06e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ChillaiKalan__/status/2091009348302774706>)
+
+---
+
+<a id="prompt-8d5f1afd-b060-4367-b42b-f965f42bab7a"></a>
+
+## Whimsical Hand-Drawn Doodle Portrait
+
+<a href="https://musesignal.com/prompt/8d5f1afd-b060-4367-b42b-f965f42bab7a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQdYQQ5bMAAM0CA.jpg?format=jpg&amp;name=small" width="480" alt="Whimsical Hand-Drawn Doodle Portrait" /></a>
+
+**GPT Image 2** · Creator: Sairah
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Use the provided reference image as the main identity and pose reference. Transform the person into a cute, playful, hand-drawn doodle illustration while preserving their recognizable identity.
+STYLE:
+- Adorable handmade sketchbook doodle aesthetic
+- Simple black pen/pencil line art with slightly rough, imperfect strokes
+- Childlike, charming, whimsical drawing style
+- Minimal coloring with soft pastel accents
+- White/off-white paper background
+- Visible hand-drawn texture and natural sketch imperfections
+- Avoid polished digital vector art or overly clean anime rendering
+CHARACTER:
+- Preserve the person's key facial features, face shape, hairstyle, hair length, clothing, accessories, and overall appearance from the reference
+- Keep the person's recognizable characteristics rather than making them look like a generic character
+- Use simplified cute proportions with a slightly oversized head and expressive eyes
+- Large round hand-drawn eyes, tiny nose, small cheerful mouth, and subtle blush on the cheeks
+- Keep the original hairstyle recognizable while translating it into loose sketchy strokes
+POSE & EXPRESSION:
+- Preserve the main pose and body direction from the reference
+- Give the character a cute, cheerful, playful expression
+- Natural hand gestures and expressive body language
+- Add small doodle elements around the character that match the mood, such as hearts, stars, crowns, sparkles, motion lines, flowers, or tiny symbols
+DRAWING DETAILS:
+- Black sketch lines should be slightly uneven, textured, and imperfect
+- Use loose cross-hatching and scribbled shading where appropriate
+- Pastel pink, yellow, blue, or other soft colors may be used sparingly for cheeks and decorative doodles
+- Keep the illustration mostly monochrome with selective colorful accents
+- White background with plenty of negative space
+- Make it feel like someone personally drew the character with a black marker or pencil on paper
+COMPOSITION:
+- Center the character prominently
+- Keep the framing similar to the reference photo
+- Add a few cute surrounding doodles without distracting from the character
+- Clean, simple composition suitable for a profile picture, sticker, social media post, or cute illustration
+IMPORTANT:
+Do not make the character photorealistic. Do not make it overly polished, 3D, glossy, or professionally vectorized. The final result should look like an authentic cute handmade doodle drawn by a talented person in a sketchbook, while still clearly resembling the person in the reference image.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8d5f1afd-b060-4367-b42b-f965f42bab7a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2091737602051498494>)
+
+---
+
+<a id="prompt-0b7925a9-6ca0-4147-8895-25173a8c1c97"></a>
+
+## Playful 3D Caricature with Oversized Charm
+
+<a href="https://musesignal.com/prompt/0b7925a9-6ca0-4147-8895-25173a8c1c97?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQJQrmobYAATCMh.jpg?format=jpg&amp;name=small" width="480" alt="Playful 3D Caricature with Oversized Charm" /></a>
+
+**GPT Image 2** · Creator: Ciri
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A highly stylized 3D caricature of [Character], with an oversized head, expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Minimal background to emphasize the character’s charm and presence.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0b7925a9-6ca0-4147-8895-25173a8c1c97?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2090321907933733245>)
 
 ---

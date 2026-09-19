@@ -23,7 +23,7 @@
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2a6bf6e6-3267-4414-9dd4-b0c581b969ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/xiaoxiaodong01/status/2065714873292734934>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2a6bf6e6-3267-4414-9dd4-b0c581b969ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xiaoxiaodong01/status/2065714873292734934>)
 
 ---
 
@@ -44,7 +44,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/17211d74-f872-458a-92f3-a1db76e262fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SadiaMalik182/status/2058425462888726529>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/17211d74-f872-458a-92f3-a1db76e262fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SadiaMalik182/status/2058425462888726529>)
 
 ---
 
@@ -65,7 +65,7 @@ A high-quality, realistic selfie of a beautiful young East Asian woman with long
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/095839dd-d2f9-4ece-a306-ddb81d2ebc5e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AvelyrahnAI/status/2066724927139725368>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/095839dd-d2f9-4ece-a306-ddb81d2ebc5e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2066724927139725368>)
 
 ---
 
@@ -93,7 +93,7 @@ Glamorous surrealism, golden French fries in a pink glitter covered container, p
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/65e05df0-f164-4d33-8819-ef7e914a59d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/soulful__ai/status/2071797871515697356>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/65e05df0-f164-4d33-8819-ef7e914a59d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/soulful__ai/status/2071797871515697356>)
 
 ---
 
@@ -114,7 +114,7 @@ Young Japanese girl with long silky black hair, soft wispy bangs, fair glowing s
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/95588259-b0da-4143-ae03-6f83e700afd1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/saniaspeaks_/status/2069253364660216193>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/95588259-b0da-4143-ae03-6f83e700afd1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/saniaspeaks_/status/2069253364660216193>)
 
 ---
 
@@ -135,7 +135,7 @@ An ultra-realistic, cinematic portrait of a beautiful young East Asian woman wit
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AvelyrahnAI/status/2066084544349143355>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2066084544349143355>)
 
 ---
 
@@ -157,7 +157,7 @@ Meanwhile this is what I got from ChatGPT
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d72c8244-dbca-48b6-bfa1-32e5786d7bb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Angaisb_/status/2091559210169360861>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d72c8244-dbca-48b6-bfa1-32e5786d7bb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Angaisb_/status/2091559210169360861>)
 
 ---
 
@@ -184,7 +184,7 @@ GPT2 x 清透 x 微缩 x 饮料 x 美学提示词
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/0ccb6a15-f843-4116-8c6d-35dc37758b4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/xiaoxiaodong01/status/2064975907362897960>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0ccb6a15-f843-4116-8c6d-35dc37758b4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xiaoxiaodong01/status/2064975907362897960>)
 
 ---
 
@@ -205,7 +205,7 @@ Create an ultra-premium cinematic food advertisement designed like a billion-dol
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/06da7dca-467b-4327-a2fc-1dd2ec094088?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/obsidian_fr1/status/2058565295137227067>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/06da7dca-467b-4327-a2fc-1dd2ec094088?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/obsidian_fr1/status/2058565295137227067>)
 
 ---
 
@@ -226,7 +226,7 @@ Create a stylized geometric cubist food poster featuring an iconic modern Algeri
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b330789e-8009-4f7d-9097-7a7e9ae1aef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MaAyyoub/status/2060300262963609758>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b330789e-8009-4f7d-9097-7a7e9ae1aef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MaAyyoub/status/2060300262963609758>)
 
 ---
 
@@ -331,6 +331,6 @@ travel editorial
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2fc272ad-d041-4c68-b539-43c1e8fffb3d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Naiknelofar788/status/2068305415729999902>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2fc272ad-d041-4c68-b539-43c1e8fffb3d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2068305415729999902>)
 
 ---

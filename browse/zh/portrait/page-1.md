@@ -47,7 +47,7 @@ SPRING / SUMMER
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/50114a08-4de1-4e5c-8df1-fa5ed862fa2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/you1873118/status/2067166621253476463>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/50114a08-4de1-4e5c-8df1-fa5ed862fa2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/you1873118/status/2067166621253476463>)
 
 ---
 
@@ -85,7 +85,7 @@ SPRING / SUMMER
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/62bd44c9-5d50-4c07-804f-33e8f1a2af60?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069070973018550356>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/62bd44c9-5d50-4c07-804f-33e8f1a2af60?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069070973018550356>)
 
 ---
 
@@ -112,7 +112,7 @@ Important details: white silk shirt, not knit, loose and glossy fabric, sunlight
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a5af9c91-fa00-4445-a905-1fa900e0d876?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AI_money_club/status/2067731526448738460>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a5af9c91-fa00-4445-a905-1fa900e0d876?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2067731526448738460>)
 
 ---
 
@@ -136,7 +136,7 @@ Avoid: eye contact, posing, waving, anime, illustration, plastic skin, extreme c
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1ea1c1e0-71ab-4674-bd76-9d500544b282?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MissDelulu9/status/2064553143288172582>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1ea1c1e0-71ab-4674-bd76-9d500544b282?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MissDelulu9/status/2064553143288172582>)
 
 ---
 
@@ -175,7 +175,7 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/494fcfc3-aa56-41e8-b043-20ccf3c077e7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/BubbleBrain/status/2065815868349849630>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/494fcfc3-aa56-41e8-b043-20ccf3c077e7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/BubbleBrain/status/2065815868349849630>)
 
 ---
 
@@ -201,7 +201,7 @@ Style: low-saturation navy obsidian mood, cold-toned luxury, film highlight bloo
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9556eb39-e9aa-4482-a6aa-3b74f68fbf34?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/BubbleBrain/status/2067158519477059762>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9556eb39-e9aa-4482-a6aa-3b74f68fbf34?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/BubbleBrain/status/2067158519477059762>)
 
 ---
 
@@ -222,7 +222,7 @@ A warm 35mm film photograph shot from a low-left oblique angle, capturing the fu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/54d12f98-a00c-41f1-9472-81c1edb695cc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/johnAGI168/status/2066893593583788388>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/54d12f98-a00c-41f1-9472-81c1edb695cc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/johnAGI168/status/2066893593583788388>)
 
 ---
 
@@ -301,7 +301,7 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/john_my07/status/2067642906035585315>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/john_my07/status/2067642906035585315>)
 
 ---
 
@@ -328,7 +328,7 @@ Mood: authentic football fan culture, Tokyo nightlife, candid photobook atmosphe
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/419004e8-8995-4091-9ab4-b852e5b15e56?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/BubbleBrain/status/2066143248779993553>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/419004e8-8995-4091-9ab4-b852e5b15e56?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/BubbleBrain/status/2066143248779993553>)
 
 ---
 
@@ -349,7 +349,7 @@ A CCTV-style surveillance footage of a stylish teenage girl walking past a secur
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/69d42e9f-97fa-4ce3-822d-641df18ccfbf?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AiwithLariab/status/2068558572716236897>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/69d42e9f-97fa-4ce3-822d-641df18ccfbf?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2068558572716236897>)
 
 ---
 
@@ -370,7 +370,7 @@ Ultra-realistic Gen Z-style selfie collage featuring three vertical smartphone f
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/7e79aeb5-1823-4b7f-b59a-22695d388b85?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/doctorwasif/status/2069058903493787767>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7e79aeb5-1823-4b7f-b59a-22695d388b85?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/doctorwasif/status/2069058903493787767>)
 
 ---
 
@@ -413,7 +413,7 @@ Ultra-realistic Gen Z-style selfie collage featuring three vertical smartphone f
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8f24fd65-41cf-44c0-ba1f-49acf9ccc112?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/you1873118/status/2069077633409966448>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f24fd65-41cf-44c0-ba1f-49acf9ccc112?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/you1873118/status/2069077633409966448>)
 
 ---
 
@@ -434,7 +434,7 @@ Ultra-realistic candid street portrait of a beautiful young woman with naturally
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/miratechtool/status/2062398444346438060>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/miratechtool/status/2062398444346438060>)
 
 ---
 
@@ -462,7 +462,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/simplyfutureai/status/2066480589809856717>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/simplyfutureai/status/2066480589809856717>)
 
 ---
 
@@ -484,7 +484,7 @@ The first draft was much worse.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ed512133-6052-4407-9de8-6d1216233cff?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Kunda623270/status/2065369500330127791>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ed512133-6052-4407-9de8-6d1216233cff?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Kunda623270/status/2065369500330127791>)
 
 ---
 
@@ -505,7 +505,7 @@ Restore and enhance an old damaged photo. Remove scratches, stains, and noise. R
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/15b23340-a600-448f-96d0-caf96f6cb9b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AiwithLariab/status/2075549421073469614>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/15b23340-a600-448f-96d0-caf96f6cb9b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2075549421073469614>)
 
 ---
 
@@ -553,7 +553,7 @@ AI skin, smooth skin, beauty filter, porcelain skin, wax figure skin, cartoon, C
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8a0be4fe-a239-483a-ad62-b734c21cdadc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067532378696978780>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8a0be4fe-a239-483a-ad62-b734c21cdadc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067532378696978780>)
 
 ---
 
@@ -597,7 +597,7 @@ Negative prompt: low resolution, blurry face, bad anatomy, extra fingers, deform
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e37b4c31-a40a-40df-acf4-07de78094665?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/JustBethanyai/status/2068467846540128384>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e37b4c31-a40a-40df-acf4-07de78094665?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/JustBethanyai/status/2068467846540128384>)
 
 ---
 
@@ -619,7 +619,7 @@ Vertical composition (4:5), subject centered slightly left of frame, side-facing
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e7580322-aa94-4801-9438-0ca2f4d774f5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/oggii_0/status/2067091219084443919>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e7580322-aa94-4801-9438-0ca2f4d774f5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/oggii_0/status/2067091219084443919>)
 
 ---
 
@@ -640,7 +640,7 @@ Hyper-realistic 8K close self-shot, young European woman, slightly low angle, ar
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/340dff89-b24f-4255-8ff4-69de29caeb2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Stonic_AI/status/2069649170429075962>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/340dff89-b24f-4255-8ff4-69de29caeb2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Stonic_AI/status/2069649170429075962>)
 
 ---
 
@@ -664,7 +664,7 @@ Prompt Below
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/12ddc3da-865a-407f-9980-061dbfdd1cb8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/JustBethanyai/status/2069287893764305304>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/12ddc3da-865a-407f-9980-061dbfdd1cb8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/JustBethanyai/status/2069287893764305304>)
 
 ---
 
@@ -685,7 +685,7 @@ Ultra realistic lifestyle fashion collage of a beautiful young woman in a wide o
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2d960e41-06aa-4c55-b153-be37e38b1006?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Stonic_AI/status/2069268026399338999>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2d960e41-06aa-4c55-b153-be37e38b1006?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Stonic_AI/status/2069268026399338999>)
 
 ---
 
@@ -713,7 +713,7 @@ Gpt image2要看运气，大概率被拦截。
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/081bc42e-fa02-4360-97df-e6c1257e66af?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VoxcatAI/status/2091339610505007347>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/081bc42e-fa02-4360-97df-e6c1257e66af?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VoxcatAI/status/2091339610505007347>)
 
 ---
 
@@ -863,7 +863,7 @@ Gpt image2要看运气，大概率被拦截。
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/43fbfa5f-491d-4b13-9c5d-f17a0a9cf71b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/underwoodxie96/status/2069337363713753480>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/43fbfa5f-491d-4b13-9c5d-f17a0a9cf71b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/underwoodxie96/status/2069337363713753480>)
 
 ---
 
@@ -887,6 +887,123 @@ Here's how I did it 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/7b75bb01-2238-4dc1-ba66-8d48e60701a6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/soulful__ai/status/2076534227580113004>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7b75bb01-2238-4dc1-ba66-8d48e60701a6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/soulful__ai/status/2076534227580113004>)
+
+---
+
+<a id="prompt-64ba151a-d0df-40c2-bb89-d6b6abdfc61d"></a>
+
+## Y2K Street Portrait with Peace Sign
+
+<a href="https://musesignal.com/zh/prompt/64ba151a-d0df-40c2-bb89-d6b6abdfc61d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOKnygsbQAAdyFP.jpg?format=jpg&amp;name=small" width="480" alt="Y2K Street Portrait with Peace Sign" /></a>
+
+**GPT Image 2** · 原作者: Taaruk
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A candid Y2K street photography portrait of a cheerful young woman with a short messy bob haircut, laughing naturally while flashing a peace sign directly toward the camera, her outstretched hand dominating the foreground with dramatic perspective distortion, playful carefree expression, hair blowing wildly in the wind, captured on a quiet Japanese residential street, nostalgic early-2000s aesthetic, handheld snapshot feel, imperfect composition, shallow depth of field with soft foreground blur, dynamic motion blur from movement, dreamy cinematic softness, warm sepia-green film tones, faded Kodak Portra 400 / Fujifilm Superia look, subtle film grain, blooming highlights, vintage point-and-shoot camera flash mixed with soft overcast daylight, authentic analog photography, low contrast, muted earthy colors, spontaneous slice-of-life moment, cozy nostalgic atmosphere, emotional documentary style, imperfect focus, natural skin texture, 35mm film, disposable camera aesthetic, 28mm wide-angle lens, f/2.8, close-up portrait, ultra-realistic, highly detailed, editorial photography.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/64ba151a-d0df-40c2-bb89-d6b6abdfc61d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Taaruk_/status/2081410514182435158>)
+
+---
+
+<a id="prompt-adc4b8ca-9ca4-4500-b1bf-2130a83a0333"></a>
+
+## Playful Beauty in Pink Bathrobe
+
+<a href="https://musesignal.com/zh/prompt/adc4b8ca-9ca4-4500-b1bf-2130a83a0333?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLBU4FQawAAUk6P.jpg?format=jpg&amp;name=small" width="480" alt="Playful Beauty in Pink Bathrobe" /></a>
+
+**GPT Image 2** · 原作者: Avelyrah
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic commercial beauty advertisement, vertical 9:16 composition, 8K UHD, hyper-detailed studio photography. A beautiful young woman with long, voluminous curly dark-brown hair stands centered against a smooth solid bubblegum-pink background.
+She wears a cozy pink-and-white checkered plush fleece bathrobe with a shawl collar, arms loosely crossed, one hand raised with her index finger gently touching her chin. Her head is slightly tilted, eyes looking sideways with a playful, thoughtful expression and softly pursed glossy pink lips. Natural makeup, radiant skin, subtle blush, pink manicured nails, expressive eyes, fashion-magazine quality.
+Surrounding her from the four sides of the frame near to her face
+are four elegant disembodied male hands of presenting floating realistic symbolic objects instead of products. Top left: a glowing red crystal heart labeled "TRUE LOVE" with small floating heart particles and a soft romantic aura. Top right: a luxurious gold jewelry set displayed on a velvet bust, sparkling with premium gemstone reflections. Bottom left: a golden fame trophy shaped like a Hollywood-style star, surrounded by subtle spotlight beams and prestige-inspired details. Bottom right: a miniature luxury lifestyle scene featuring a modern white mansion, exotic palm trees, luxury sports car, infinity pool, and premium living elements.
+Bright high-key studio lighting, clean shadows, vibrant saturated pink color palette, polished advertising aesthetic, perfectly balanced composition, sharp focus on woman and symbols, luxury branding style, premium magazine campaign quality, realistic textures, cinematic depth, glossy reflections, ultra-detailed 3D rendering, modern social media viral poster, eye-catching visual storytelling, professional fashion photography, masterpiece quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/adc4b8ca-9ca4-4500-b1bf-2130a83a0333?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2067245555332571432>)
+
+---
+
+<a id="prompt-ff2f80aa-bd6b-4456-aeb0-91bdcb693f3e"></a>
+
+## Golden Hour Elegance with Crystal Glass
+
+<a href="https://musesignal.com/zh/prompt/ff2f80aa-bd6b-4456-aeb0-91bdcb693f3e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMiFoZOXwAAjc_C.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Elegance with Crystal Glass" /></a>
+
+**GPT Image 2** · 原作者: Zyrella
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic lifestyle portrait of a beautiful woman standing in a luxurious outdoor café during golden hour, wearing a shimmering mint-green sleeveless knit top, elegant white high-waisted trousers, gold hoop earrings, bracelets and rings. She is holding a crystal whiskey glass very close to the camera, creating a dramatic forced-perspective composition. The glass contains an amber-colored sparkling drink with large ice cubes, fresh peach slices, mint leaves, and an explosive splash frozen mid-air. Floating peach slices, mint leaves, and droplets suspended around the glass. The woman's face remains perfectly sharp behind the drink with a confident, soft expression, cinematic warm lighting, creamy bokeh, lush green plants in the background, shallow depth of field, premium luxury aesthetic, editorial beverage photography, ultra-detailed glass reflections, HDR, photorealistic, 85mm lens, f/1.8, natural skin texture, 8K, masterpiece, commercial advertising quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ff2f80aa-bd6b-4456-aeb0-91bdcb693f3e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Zyrellix/status/2074054562122752127>)
+
+---
+
+<a id="prompt-f4a8f4fb-b0e0-443b-99dc-1482b680ad8e"></a>
+
+## Candid Backstage Selfie with Tired Smile
+
+<a href="https://musesignal.com/zh/prompt/f4a8f4fb-b0e0-443b-99dc-1482b680ad8e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLeVALwa8AAmiZr.jpg?format=jpg&amp;name=small" width="480" alt="Candid Backstage Selfie with Tired Smile" /></a>
+
+**GPT Image 2** · 原作者: WasifAI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic accidental iPhone front-camera selfie of the same woman from the reference image, preserving exact identity, facial features, hairstyle, and proportions. Backstage at a live concert, captured candidly while walking through a corridor. She turns slightly with a relaxed, tired post-performance smile and soft laugh, messy wind-blown hair, natural unposed expression.
+Shot feels accidental: arm extended, phone too close, tilted framing, off-center crop, slight motion blur on hair and arm. Authentic iPhone front-camera look with low-light grain, slight overexposure from stage lights, lens bloom, mild focus inconsistency, and natural smartphone processing.
+Background softly blurred: backstage hallway, LED lights, equipment cases, staff silhouettes, arena glow. 3:4 aspect ratio.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f4a8f4fb-b0e0-443b-99dc-1482b680ad8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/doctorwasif/status/2069286390333153746>)
+
+---
+
+<a id="prompt-f72506a7-8a6c-47d7-8e49-9b2c2381248f"></a>
+
+## Low-Angle Portrait of Idol on Lounge Chair
+
+<a href="https://musesignal.com/zh/prompt/f72506a7-8a6c-47d7-8e49-9b2c2381248f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK8R4YHbEAAyF0u.jpg?format=jpg&amp;name=small" width="480" alt="Low-Angle Portrait of Idol on Lounge Chair" /></a>
+
+**GPT Image 2** · 原作者: こやす69＠AIプロンプト屋
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Vertical 9:16 ultra-realistic iPhone-style photo.
+A fictional 20-year-old Japanese woman with a cute idol-like charm is posing on a white cushioned lounge chair.
+Camera angle: strong low-angle shot from the foot end of the lounge chair. The camera is positioned very low near the cushion surface, close to her extended foot in the extreme foreground. The extended foot appears large and softly blurred, while the leg creates a strong diagonal leading line toward her body and smiling face. Her body extends diagonally away from the camera, and she turns her upper body and face back over her shoulder with a cheerful natural smile.
+Pose: relaxed side-kneeling pose, rear three-quarter view, one leg extended toward the camera, the other knee bent farther back for balance. One hand rests casually on the lounge chair, the other arm relaxed naturally. The mood is playful, sunny, and lifestyle-like, not overly posed.
+Outfit: casual summer clothes, loose white linen shirt over a light inner top, pale denim shorts, natural wrinkles and soft fabric folds.
+Background: bright resort terrace, poolside lounge area, blue sky, palm trees, white parasols, clean summer atmosphere.
+Style: ultra-realistic photography, natural skin texture, realistic hair strands, 24mm smartphone wide-angle lens, forced perspective, face in focus, foreground foot slightly out of focus, crisp daylight realism, candid iPhone snapshot.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f72506a7-8a6c-47d7-8e49-9b2c2381248f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2067011084079218921>)
 
 ---

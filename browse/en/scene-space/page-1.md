@@ -19,7 +19,7 @@ Draw in a simple hand-drawn doodled style cartoon, as if sketched by a person wi
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3f747533-d7cf-4a29-94a3-4c3c5862e29f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/oggii_0/status/2069773202675658902>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3f747533-d7cf-4a29-94a3-4c3c5862e29f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/oggii_0/status/2069773202675658902>)
 
 ---
 
@@ -48,7 +48,7 @@ Draw in a simple hand-drawn doodled style cartoon, as if sketched by a person wi
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/761b43f7-3193-4c88-b19f-9a03ee18f899?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MrLarus/status/2067943717621653640>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/761b43f7-3193-4c88-b19f-9a03ee18f899?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrLarus/status/2067943717621653640>)
 
 ---
 
@@ -69,7 +69,7 @@ Young Japanese girl with long silky black hair and soft wispy bangs, sitting cas
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/28903d24-b446-4ac2-81e5-056f4b611178?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/saniaspeaks_/status/2067813435136680242>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/28903d24-b446-4ac2-81e5-056f4b611178?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/saniaspeaks_/status/2067813435136680242>)
 
 ---
 
@@ -96,7 +96,7 @@ Audio: no background music. Ambient sound only - skateboard wheels rolling on pa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/973f5d7d-597b-4aab-847a-2e568a3d5087?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/noorlewisx/status/2065746957499605274>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/973f5d7d-597b-4aab-847a-2e568a3d5087?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/noorlewisx/status/2065746957499605274>)
 
 ---
 
@@ -119,7 +119,7 @@ Follow the step by step tutorial to create 👇👇👇
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1eaf6deb-f1a7-4455-8ba9-326b2c1ee832?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/alizagori1/status/2074492560161300722>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1eaf6deb-f1a7-4455-8ba9-326b2c1ee832?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/alizagori1/status/2074492560161300722>)
 
 ---
 
@@ -143,7 +143,7 @@ Prompt in ALT
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d8d62cda-002a-4359-8689-742517ebd9f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2065155683301917132>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d8d62cda-002a-4359-8689-742517ebd9f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2065155683301917132>)
 
 ---
 
@@ -167,7 +167,7 @@ Prompt in ALT⤵️
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a47a37d7-d0c8-4199-b9ee-a9981138f539?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2079560686087090564>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a47a37d7-d0c8-4199-b9ee-a9981138f539?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2079560686087090564>)
 
 ---
 
@@ -196,7 +196,7 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/db22151b-d41c-4f6c-85a3-51c0d780cdc4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/RuzainaMeer/status/2064227861586981139>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/db22151b-d41c-4f6c-85a3-51c0d780cdc4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RuzainaMeer/status/2064227861586981139>)
 
 ---
 
@@ -230,7 +230,7 @@ dark background, black snake, green snake, yellow snake, cartoon, chibi, anthrop
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/273431bf-f74e-4ece-84a9-46f16df92c60?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2080436947323924795>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/273431bf-f74e-4ece-84a9-46f16df92c60?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2080436947323924795>)
 
 ---
 
@@ -254,7 +254,7 @@ Prompt in ALT⤵️
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0d78f14c-3b71-40c9-badb-6c352d4d6958?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2069511377325060316>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0d78f14c-3b71-40c9-badb-6c352d4d6958?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2069511377325060316>)
 
 ---
 
@@ -276,7 +276,7 @@ Negative Prompt: bad anatomy, malformed hands, extra fingers, missing fingers, i
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a5abcb54-f120-49a6-9a8c-5713cfce8eaa?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MissDelulu9/status/2064292228961652882>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a5abcb54-f120-49a6-9a8c-5713cfce8eaa?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2064292228961652882>)
 
 ---
 
@@ -297,7 +297,7 @@ Negative Prompt: bad anatomy, malformed hands, extra fingers, missing fingers, i
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/799359bc-a20d-4651-af4e-4d6c93e63b09?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/de_mon010/status/2067153251682976209>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/799359bc-a20d-4651-af4e-4d6c93e63b09?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/de_mon010/status/2067153251682976209>)
 
 ---
 
@@ -321,7 +321,7 @@ Create an adorable handmade collectible doll with exact facial resemblance to th
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2ec5f0f7-d490-4b57-a1b3-616b657c6319?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/RizwanAly07/status/2063908782149898376>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2ec5f0f7-d490-4b57-a1b3-616b657c6319?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2063908782149898376>)
 
 ---
 
@@ -422,7 +422,7 @@ Prompt;
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/147f7ee4-3dc4-42e4-8ce6-751915a1c081?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Maercihh/status/2060938531233804572>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/147f7ee4-3dc4-42e4-8ce6-751915a1c081?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2060938531233804572>)
 
 ---
 
@@ -444,7 +444,7 @@ You Can Try It Here:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1e920c12-3f04-44da-a0b1-ec28d19a9dce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NoOneIsHere2603/status/2066729708549755270>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1e920c12-3f04-44da-a0b1-ec28d19a9dce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NoOneIsHere2603/status/2066729708549755270>)
 
 ---
 
@@ -467,7 +467,7 @@ viral aesthetics
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/5b593aeb-4756-43d7-b953-3a53c9aeadb3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/RizwanAly07/status/2065233429432770982>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5b593aeb-4756-43d7-b953-3a53c9aeadb3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2065233429432770982>)
 
 ---
 
@@ -488,7 +488,7 @@ Ultra-realistic cinematic sports fan room at night, cozy luxury interior with wa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/86a07863-7e89-4efe-9a2d-24ef2499bbd3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Sairah_0/status/2066509536907907151>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/86a07863-7e89-4efe-9a2d-24ef2499bbd3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2066509536907907151>)
 
 ---
 
@@ -509,7 +509,7 @@ A cozy, ultra-detailed cinematic digital portrait of a cute futuristic AI robot 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0fe4c68e-107f-4749-9899-94b994d1793a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NoOneIsHere2603/status/2064686704439762975>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0fe4c68e-107f-4749-9899-94b994d1793a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NoOneIsHere2603/status/2064686704439762975>)
 
 ---
 
@@ -532,7 +532,7 @@ Include surrounding fans taking photos, chanting, waving flags, Messi jerseys vi
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/323a532d-39b6-44af-9505-1e9b2c99ab70?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/miratechtool/status/2066414904223961397>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/323a532d-39b6-44af-9505-1e9b2c99ab70?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/miratechtool/status/2066414904223961397>)
 
 ---
 
@@ -557,7 +557,7 @@ Style & Technicals: Cinematic documentary style, volumetric lighting, rich color
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/afb85975-e489-4112-bb34-e8349f67897e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Malzahran2/status/2067985115695681780>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/afb85975-e489-4112-bb34-e8349f67897e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Malzahran2/status/2067985115695681780>)
 
 ---
 
@@ -581,7 +581,7 @@ Hyper-realistic textures, glossy luxury surfaces, floating dust particles, dream
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1b4e5ef6-4931-4171-9431-3b584673b9ae?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/obsidian_fr1/status/2057471693875220483>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1b4e5ef6-4931-4171-9431-3b584673b9ae?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/obsidian_fr1/status/2057471693875220483>)
 
 ---
 
@@ -604,7 +604,7 @@ Use the reference photo while keeping the face completely unchanged and identica
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/cb1ef4c3-f1f5-42dd-ac6c-c8459fb2d3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ZephyraLeigh/status/2067992753901130084>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/cb1ef4c3-f1f5-42dd-ac6c-c8459fb2d3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ZephyraLeigh/status/2067992753901130084>)
 
 ---
 
@@ -626,7 +626,7 @@ You Can Try It Here:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/61c16b49-e4a3-4d9b-b2a0-58075459bebd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NoOneIsHere2603/status/2066515574063247808>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/61c16b49-e4a3-4d9b-b2a0-58075459bebd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NoOneIsHere2603/status/2066515574063247808>)
 
 ---
 
@@ -650,6 +650,399 @@ Style & Technicals: National Geographic documentary style, wide-angle lens, fast
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/5cca7d60-a0b7-4a85-9eef-9afa56d1fa86?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Malzahran2/status/2067925145482576057>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5cca7d60-a0b7-4a85-9eef-9afa56d1fa86?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Malzahran2/status/2067925145482576057>)
+
+---
+
+<a id="prompt-a31fdc58-ad62-4a03-b7b2-1fca9bcaee7f"></a>
+
+## Amber Light Through Window on Dark Blue Wall
+
+<a href="https://musesignal.com/prompt/a31fdc58-ad62-4a03-b7b2-1fca9bcaee7f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIVXZZpXAAAuqUN.jpg?format=jpg&amp;name=small" width="480" alt="Amber Light Through Window on Dark Blue Wall" /></a>
+
+**GPT Image 2** · Creator: 神奇小喷菇AIGC
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT-image2 prompt：
+艺术摄影风格。画面中心是一束明亮的琥珀色矩形光影，像是傍晚的阳光穿过窗户投射在深蓝色（Dark Blue）的墙面上。
+前景是精细的树枝剪影，枝头点缀着几朵盛开的花朵，一只灵动的小鸟静静地停歇在枝头。
+关键视觉点：
+1. 剪影（Silhouette）：小鸟和花枝呈现出完全的深色剪影，在亮黄色的背景光下轮廓极其清晰。
+2. 色彩对比（Color Contrast）：深蓝色的环境背景色与中心温暖的黄色窗光形成鲜明的补色对比。
+3. 氛围：画面极其干净，充满诗意与禅意，极简构图，柔和的光影边缘。
+4. 4k分辨率，超高画质，电影级质感。
+--ar 9:16 --v 6.0
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a31fdc58-ad62-4a03-b7b2-1fca9bcaee7f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/xpg0970/status/2055144975365484567>)
+
+---
+
+<a id="prompt-e2efb57f-a186-4fd1-b40a-786df013d2de"></a>
+
+## The Glasshouse Café: A Warm Invitation
+
+<a href="https://musesignal.com/prompt/e2efb57f-a186-4fd1-b40a-786df013d2de?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJxwgX_a0AAYt2k.jpg?format=jpg&amp;name=small" width="480" alt="The Glasshouse Café: A Warm Invitation" /></a>
+
+**GPT Image 2** · Creator: Hemayxn.ai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+The coffee shop.
+Created with GPT Image 2.0
+Prompt 👇
+Create a breathtaking luxury watercolor-style illustration titled:
+"THE PLACE PEOPLE STAY TOO LONG."
+IMPORTANT:
+Do NOT recreate a normal coffee-shop portrait.
+Instead, create a scene so warm and inviting that viewers wish they could step inside it.
+STYLE:
+Masterpiece watercolor illustration.
+Premium storybook realism.
+Rich painterly textures.
+Visible brushwork.
+Elegant paper grain.
+Warm hand-painted atmosphere.
+MAIN SUBJECT:
+A naturally beautiful young woman seated inside a hidden glasshouse café.
+She should feel:
+genuine,
+approachable,
+intelligent,
+effortlessly charming.
+Not model-like perfection.
+Not influencer aesthetics.
+Her smile should feel authentic and unforced.
+WARDROBE:
+Soft oversized cream knit sweater.
+Loose sleeves.
+Minimal jewelry.
+Simple elegance.
+SCENE:
+A magical glasshouse café surrounded by nature.
+Floor-to-ceiling windows.
+Morning sunlight streaming through plants.
+Wildflowers growing inside the café.
+Books stacked on shelves.
+Tiny hanging lanterns.
+Steam rising from coffee.
+Handwritten notes pinned to walls.
+A sleeping cat curled beside her chair.
+Outside:
+Gentle rain tapping against glass.
+Blurred greenery.
+Small birds perched near the windows.
+DETAILS:
+The woman is reading a book.
+A warm latte sits nearby.
+Several pages contain pressed flowers.
+Tiny watercolor imperfections should make everything feel handmade.
+The environment should contain dozens of subtle cozy details that reward viewers for looking longer.
+LIGHTING:
+Soft rainy-morning light.
+Warm café glow.
+Golden highlights on hair.
+Diffused window illumination.
+Gentle shadows.
+COLOR PALETTE:
+warm beige, cream, soft sage green, dusty rose, golden sunlight, muted browns.
+COMPOSITION:
+The café environment should be just as important as the woman.
+Viewers should first notice her.
+Then slowly discover:
+books,
+plants,
+rain,
+lanterns,
+cat,
+flowers,
+coffee details.
+MOOD:
+Peace. Comfort. Safety. Nostalgia.
+The image should feel like a memory people wish they had.
+NO:
+modern influencer posing
+excessive glamour
+fashion-magazine styling
+heavy makeup
+dramatic cinematic effects
+AI fantasy aesthetics
+The final artwork should feel:
+like the most beautiful rainy morning someone has experienced in years.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e2efb57f-a186-4fd1-b40a-786df013d2de?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/hemayxn/status/2061646442356470195>)
+
+---
+
+<a id="prompt-8eb2a646-28a8-4f79-9f4c-037c02ac1b5a"></a>
+
+## Forced Perspective Makeup at the Great Sphinx
+
+<a href="https://musesignal.com/prompt/8eb2a646-28a8-4f79-9f4c-037c02ac1b5a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLPq9bdXwAA1OX8.jpg?format=jpg&amp;name=small" width="480" alt="Forced Perspective Makeup at the Great Sphinx" /></a>
+
+**GPT Image 2** · Creator: Zephyra Leigh
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+PROMPT ⬇
+[Reference Image]
+Use the reference photo while keeping the face completely unchanged and identical to the original subject, A creative forced-perspective photograph at the Great Sphinx of Giza, Egypt. In the foreground, a young woman with long dark hair, photographed in profile, holds a lipstick wand near the camera, her lips puckered as if applying lipstick. Due to forced perspective, the lipstick appears to be touching the lips of the Great Sphinx in the background, creating an optical illusion that she is applying makeup to the ancient monument.
+The Sphinx is shot from a low angle, looking majestic and weathered, carved from sandy limestone, with visible erosion details on its face.
+Bright daytime lighting, warm desert tones, vivid blue sky with fluffy white clouds. Sharp focus on both the woman's hand/lipstick and the Sphinx's face, shallow depth of field on the background landscape. Shot on a wide-angle lens to enhance the size illusion, travel photography style, vibrant and playful, high resolution, professional composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8eb2a646-28a8-4f79-9f4c-037c02ac1b5a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ZephyraLeigh/status/2068254998593745132>)
+
+---
+
+<a id="prompt-657a3e4c-6f17-4846-9f1f-18166dbdb283"></a>
+
+## Storm Tunnel to Muddy Pitch
+
+<a href="https://musesignal.com/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLQlH4uasAAmDkE.jpg?format=jpg&amp;name=small" width="480" alt="Storm Tunnel to Muddy Pitch" /></a>
+
+**GPT Image 2** · Creator: 𝐌
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT STORYBOARD PROMPT
+Scenel (0:00-0:02) -Storm Tunnel: Heavy rain hammers the stadium tunnel entrance.
+Hero stands already soaked, water dripping from his jaw and hair, kit clinging to him. 85mm push-in, dramatic low light, water droplets visible in slow motion.
+Scene 2 (0:02 -0:04) -Mud and Lightning: Hero sprints onto a waterlogged World Cup 2026
+final pitch. Lightning briefly illum inates the packed stadium. Floodlights reflect off standing puddles on the grass.
+Scenes 3-5 (0:04 0:10)-Trick Sequence in Storm: Body feint past USA defender on slick
+turfboth nearly slip. Heel roll past Belgium through standing water with visible splash. Drag-back 360 past Argentina, kit now caked in mud. Orbit spin past France, barely visible through sheets of rain. Nutmeg past Norway striker, both completely drenched. Ground-level tracking through heavy rain, fast whip-pans, speed ram ps.
+Scene 6 (0:100:12) -Desperate Header: A cross com es in through the storm. Hero dives
+full stretch, body parallel to the muddy ground, connecting with a desperate header. Macro slow motion, water spraying from the impact.
+Scenes 7-8 (0:12 0:15) -Net & Trophy in Rain: Ball hits net. Hero lands face-down in mud,
+then rises completely soaked and filthy, arms raised. Teammates slide in beside him through the wet grass. Trophy lift in pouring rain, water cascading off the gold trophy, fireworks struggling through storm clouds.
+Visual consistency: same face, same mud-soaked kit, same drenched hair throughout. No logos. ARRI Alexa 35 grade, desaturated storm tones, anamorphic flores through rain.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068319029438329285>)
+
+---
+
+<a id="prompt-d38dc2c1-17b3-444e-89e0-73e438fa9b3c"></a>
+
+## Glowing Portal Over Dark Reflective Surface
+
+<a href="https://musesignal.com/prompt/d38dc2c1-17b3-444e-89e0-73e438fa9b3c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLIRkLIbQAAVMpB.jpg?format=jpg&amp;name=small" width="480" alt="Glowing Portal Over Dark Reflective Surface" /></a>
+
+**GPT Image 2** · Creator: BMX
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Core Concept: A surreal sci-fi / divine energy scene where a glowing circular portal or halo opens above a dark reflective surface, sending a vertical stream of light, rain, or energy downward into a bright impact point.
+Main Visual Elements:
+1. Glowing Ring / Portal : A white circular ring floats in the upper center. It looks like a portal, halo, UFO beam, or futuristic light source. The glow is very clean and strong, creating the main focus.
+2. Vertical Light Rain / Energy Beam : Thin vertical lines fall from the ring to the ground. It feels like rain, digital light particles, or energy strands. This gives the image a mysterious sci fi atmosphere.
+3. Bright Impact Point: At the bottom center, the beam hits the wet ground or water surface. The impact glows with white, pink, purple, and faint orange light, almost like energy is burning or opening a gateway.
+4. Dark Wet Ground / Water Surface: The bottom area is reflective, like a wet road, shallow water, or alien landscape. The glowing light reflects on the surface, creating depth and cinematic mood.
+5. Smoke / Mist / Fog: Heavy fog surrounds the scene, especially around the middle and lower background. It hides the environment and makes the image feel dreamlike, eerie, and supernatural.
+6. Color Palette: Mostly black, dark blue, gray, and white, with subtle purple, pink and orange highlights near the impact area.
+7. Mood: Calm, mysterious, spiritual, cinematic and slightly eerie. It feels like something otherworldly is arriving or being summoned.
+8. Camera / Composition: Vertical portrait frame. Center focused composition. Low angle or ground level perspective. The viewer’s eye moves from the glowing ring down through the beam to the bright impact point.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d38dc2c1-17b3-444e-89e0-73e438fa9b3c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/bmx_ai13/status/2067865715613593747>)
+
+---
+
+<a id="prompt-e722963d-54cd-478a-8d1b-0ff0e989cfa0"></a>
+
+## Enchanted Crystal Valley at Sunrise
+
+<a href="https://musesignal.com/prompt/e722963d-54cd-478a-8d1b-0ff0e989cfa0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLQClw1bsAA5T1g.jpg?format=jpg&amp;name=small" width="480" alt="Enchanted Crystal Valley at Sunrise" /></a>
+
+**GPT Image** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"prompt": {
+"style": "ultra-detailed fantasy crystal landscape illustration",
+"quality": "4K UHD",
+"aspect_ratio": "4:5",
+"art_style": [
+"fantasy digital painting",
+"storybook illustration",
+"vibrant gemstone fantasy",
+"high-detail concept art",
+"dreamlike magical realism"
+],
+"scene": {
+"environment": "enchanted crystal valley",
+"time_of_day": "sunrise",
+"atmosphere": "magical, ethereal, luminous, whimsical",
+"sky": {
+"gradient": [
+"soft pink",
+"lavender",
+"light blue",
+"deep indigo"
+],
+"elements": [
+"star-filled galaxy",
+"sparkling nebula clouds",
+"floating geometric crystal clouds",
+"constellation-like gemstone formations",
+"tiny glowing stars"
+]
+}
+},
+"foreground": {
+"flora": [
+{
+"type": "crystal tree",
+"position": "left side",
+"appearance": "towering emerald, teal, sapphire, and turquoise crystal branches",
+"surface": "highly reflective faceted gemstones"
+},
+{
+"type": "crystal tree",
+"position": "right side",
+"appearance": "golden amber and silver crystal branches",
+"surface": "radiant reflective facets"
+}
+],
+"ground_cover": [
+"multicolored crystal flowers",
+"gemstone blossoms",
+"crystal shrubs",
+"small faceted mineral clusters",
+"sparkling gemstone pebbles"
+],
+"colors": [
+"purple",
+"magenta",
+"violet",
+"gold",
+"emerald green",
+"turquoise",
+"cyan",
+"pink"
+]
+},
+"midground": {
+"features": [
+"rolling crystal-covered hills",
+"dense gemstone gardens",
+"clusters of translucent quartz formations",
+"iridescent mineral structures"
+]
+},
+"background": {
+"mountains": {
+"type": "giant crystal mountains",
+"colors": [
+"violet",
+"lavender",
+"pink",
+"iridescent white"
+],
+"details": [
+"faceted surfaces",
+"rainbow light reflections",
+"glowing edges"
+]
+},
+"sun": {
+"position": "right side horizon",
+"appearance": "golden radiant crystal sun",
+"effects": [
+"warm light rays",
+"lens glow",
+"magical illumination"
+]
+}
+},
+"lighting": {
+"type": "cinematic volumetric lighting",
+"source": "rising crystal sun",
+"effects": [
+"glowing reflections",
+"gemstone refractions",
+"soft bloom",
+"radiant highlights",
+"subsurface crystal glow"
+]
+},
+"materials": [
+"quartz",
+"amethyst",
+"emerald",
+"sapphire",
+"opal",
+"topaz",
+"diamond-like crystals"
+],
+"color_palette": {
+"primary": [
+"emerald green",
+"turquoise",
+"violet",
+"lavender"
+],
+"secondary": [
+"gold",
+"pink",
+"cyan",
+"white"
+]
+},
+"rendering": {
+"detail_level": "extreme",
+"sharpness": "ultra-sharp",
+"texture_quality": "highly detailed crystal facets",
+"dynamic_range": "HDR",
+"effects": [
+"sparkling particles",
+"magical glow",
+"light scattering",
+"prismatic reflections",
+"rainbow refraction"
+]
+},
+"negative_prompt": [
+"low resolution",
+"blurry",
+"dark scene",
+"realistic humans",
+"text",
+"watermark",
+"logo",
+"noise",
+"flat lighting",
+"dull colors",
+"low detail"
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e722963d-54cd-478a-8d1b-0ff0e989cfa0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2068280987948359734>)
 
 ---

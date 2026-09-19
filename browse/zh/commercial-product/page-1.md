@@ -31,7 +31,7 @@
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1d5e09a2-bb8d-4c9d-bdca-b9d0310b08d1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2067562275666334068>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1d5e09a2-bb8d-4c9d-bdca-b9d0310b08d1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2067562275666334068>)
 
 ---
 
@@ -61,7 +61,7 @@ on subject, cinematic color grading."
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/514ec371-bc9c-4ebe-9bf6-f61d42fa9183?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ozayrr_irl/status/2050214923100368911>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/514ec371-bc9c-4ebe-9bf6-f61d42fa9183?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ozayrr_irl/status/2050214923100368911>)
 
 ---
 
@@ -89,7 +89,7 @@ Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading,
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4385109c-9158-4893-bf7b-99d65113f089?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Sairah_0/status/2066431422098018496>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4385109c-9158-4893-bf7b-99d65113f089?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2066431422098018496>)
 
 ---
 
@@ -149,7 +149,7 @@ Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading,
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/31930789-95e4-4271-93d1-6904946588e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2068009878702915648>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/31930789-95e4-4271-93d1-6904946588e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2068009878702915648>)
 
 ---
 
@@ -245,7 +245,7 @@ The poster should feel like New Balance hired a luxury fashion house, an archite
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/hemayxn/status/2062371028819710321>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hemayxn/status/2062371028819710321>)
 
 ---
 
@@ -287,7 +287,7 @@ The poster should feel like New Balance hired a luxury fashion house, an archite
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9413b141-a68b-47ff-877f-5a2d5b882637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/liyue_ai/status/2092085273400430991>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9413b141-a68b-47ff-877f-5a2d5b882637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/liyue_ai/status/2092085273400430991>)
 
 ---
 
@@ -311,7 +311,7 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a1f20293-d9c5-4b68-823c-495a794c2ee5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AI_money_club/status/2090929438644998339>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a1f20293-d9c5-4b68-823c-495a794c2ee5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2090929438644998339>)
 
 ---
 
@@ -477,7 +477,7 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e1ab75f3-a127-4875-88c9-7c3dbf3b34aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2091483360740995287>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e1ab75f3-a127-4875-88c9-7c3dbf3b34aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2091483360740995287>)
 
 ---
 
@@ -501,7 +501,7 @@ Check it out:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/56356110-6ba9-4c05-810c-8d329746c7b0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SadiaMalik182/status/2063924923597238553>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/56356110-6ba9-4c05-810c-8d329746c7b0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SadiaMalik182/status/2063924923597238553>)
 
 ---
 
@@ -528,7 +528,7 @@ She gently sprays the perfume into the air. The mist transforms into shimmering 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5d2f8af1-5f31-4a38-a00c-1979bd4eb086?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SyntheSarah/status/2072890042142650726>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5d2f8af1-5f31-4a38-a00c-1979bd4eb086?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SyntheSarah/status/2072890042142650726>)
 
 ---
 
@@ -551,7 +551,7 @@ Luxury perfume commercial, minimalist white architectural interior with tall pil
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/84e1f8b1-0a6a-425a-bffc-1a4b6d7808dc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Kashberg_0/status/2080143259557581285>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/84e1f8b1-0a6a-425a-bffc-1a4b6d7808dc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Kashberg_0/status/2080143259557581285>)
 
 ---
 
@@ -572,7 +572,7 @@ Ultra-realistic IMAX-level Netflix-style cinematic luxury terrace portrait, 9:16
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/06ee0e63-9548-4d7d-a2e7-8691e5ee47aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AvelyrahnAI/status/2067453735262163111>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/06ee0e63-9548-4d7d-a2e7-8691e5ee47aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2067453735262163111>)
 
 ---
 
@@ -593,7 +593,7 @@ A high-quality professional outdoor photograph featuring the woman from image_0.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/25c21258-99f4-4b9c-9160-36f4c068fb08?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AvelyrahnAI/status/2068634600042365184>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/25c21258-99f4-4b9c-9160-36f4c068fb08?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2068634600042365184>)
 
 ---
 
@@ -614,7 +614,7 @@ Create a premium 4:5 FMCG hero advertisement from the uploaded product image. Pr
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fb55e59a-39a0-4ce6-86dc-9b0d190cd51f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/im_shahid7/status/2076615912904704265>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fb55e59a-39a0-4ce6-86dc-9b0d190cd51f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2076615912904704265>)
 
 ---
 
@@ -636,7 +636,7 @@ Ultra-clean automotive poster design featuring a [CAR], perfect side profile, po
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9c6eed03-7457-4d17-bfa5-3f881b8e1c70?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2091388301328666776>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9c6eed03-7457-4d17-bfa5-3f881b8e1c70?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2091388301328666776>)
 
 ---
 
@@ -661,7 +661,7 @@ white and pastel-pink girly string bikini, white base fabric with tiny pink flor
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b49e412a-7a79-402e-a259-684af2f0ebca?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AI_money_club/status/2092227999164694952>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b49e412a-7a79-402e-a259-684af2f0ebca?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2092227999164694952>)
 
 ---
 
@@ -688,7 +688,7 @@ SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Eleg
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/17f8599a-d9ac-4980-abb1-4f6df6545fce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Shorelyn_/status/2077345203049148886>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/17f8599a-d9ac-4980-abb1-4f6df6545fce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2077345203049148886>)
 
 ---
 
@@ -774,7 +774,7 @@ SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Eleg
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5ac3f7a6-0e61-45a2-90a3-434233ab80db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2072563781314720089>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5ac3f7a6-0e61-45a2-90a3-434233ab80db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2072563781314720089>)
 
 ---
 
@@ -819,7 +819,7 @@ Tiffany & Co. campaign aesthetic, soft luxury lighting, cinematic romance, cryst
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/766005ad-fb93-4ffa-89bb-faf43b074354?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Strength04_X/status/2080989603536965782>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/766005ad-fb93-4ffa-89bb-faf43b074354?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2080989603536965782>)
 
 ---
 
@@ -854,7 +854,7 @@ Tiffany & Co. campaign aesthetic, soft luxury lighting, cinematic romance, cryst
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8bd48a1d-16b5-498f-a0b9-09599b48db1c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2076173673053196568>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8bd48a1d-16b5-498f-a0b9-09599b48db1c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2076173673053196568>)
 
 ---
 
@@ -875,7 +875,7 @@ Ultra-realistic commercial coffee photography featuring a steaming latte in a ce
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b99bd7cf-b7a2-47e4-ae10-bd250960cb71?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/CaliraVal/status/2063455263169085486>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b99bd7cf-b7a2-47e4-ae10-bd250960cb71?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/CaliraVal/status/2063455263169085486>)
 
 ---
 
@@ -900,7 +900,7 @@ Style: Apple-inspired 3D icon design, Pixar-quality character rendering, hyper-r
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/6143e9a3-f911-4a96-b4f5-0291b7840ecc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/mon010_de/status/2076247921901924809>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6143e9a3-f911-4a96-b4f5-0291b7840ecc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mon010_de/status/2076247921901924809>)
 
 ---
 
@@ -925,7 +925,7 @@ Shot on Sony A7R IV, [LENS TYPE] lens, shallow depth of field, luxury magazine a
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/sha_zdiii/status/2056942927797276971>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2056942927797276971>)
 
 ---
 
@@ -949,6 +949,200 @@ Add small text in the top-right corner reading “Designed by M”. At the botto
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1cc2280f-331b-41f4-b578-bdac663fa139?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Strength04_X/status/2069786891948634259>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1cc2280f-331b-41f4-b578-bdac663fa139?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2069786891948634259>)
+
+---
+
+<a id="prompt-cfea5eac-5899-4e25-a4d3-9e64aa3339f8"></a>
+
+## Luminous Skincare Editorial with Model and Product
+
+<a href="https://musesignal.com/zh/prompt/cfea5eac-5899-4e25-a4d3-9e64aa3339f8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPwefD5aoAAkj0H.jpg?format=jpg&amp;name=small" width="480" alt="Luminous Skincare Editorial with Model and Product" /></a>
+
+**GPT Image 2** · 原作者: Maercih
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"SUBJECT": "<user-defined subject/image>",
+"HEADER": "<user-defined editorial header>",
+"POSE": "<user-defined pose>",
+"BOTTLE_IN_HAND": "<user-provided product/bottle>",
+"prompt": "Create a premium high-fashion skincare editorial poster using SUBJECT as the main model. Preserve the subject's identity, facial structure, natural features, hairstyle, hair color, body proportions, and recognizable appearance accurately. The model should have exceptionally fair, luminous, healthy-looking skin with a natural dewy glow, including the face, neck, arms, and visible shoulder. Skin must remain realistic with visible natural texture and subtle pores — no plastic skin, excessive retouching, or artificial whitening.\n\nPlace the subject in POSE while naturally holding BOTTLE_IN_HAND. Preserve the bottle's exact shape, proportions, cap, material, color, label placement, and recognizable product appearance. The bottle should remain clearly visible and naturally integrated into the composition.\n\nDress the subject in a minimal, sophisticated black outfit with clean fashion-editorial styling. Keep the clothing secondary to the face and product.\n\nCreate a refined luxury beauty-campaign aesthetic: warm neutral studio background, soft directional diffused lighting, subtle highlights across the cheekbones and shoulder, controlled shadows, realistic skin reflections, elegant contrast, premium commercial photography, sophisticated composition, understated sensuality, and high-end magazine styling.\n\nUse HEADER as the main editorial headline. The header should feel catchy, sophisticated, and fashion-forward, with elegant high-contrast serif typography. Automatically generate tasteful supporting editorial typography around the composition only when appropriate, keeping it minimal and avoiding clutter. Do not use a brand name as the main header unless HEADER explicitly contains one.\n\nComposition should feel like a real luxury skincare magazine campaign photographed by a professional beauty photographer. Close-up portrait framing, realistic depth of field, refined tonal grading, subtle film texture, premium print-editorial finish, photorealistic detail, natural hands and fingers, accurate product geometry, and intentional negative space.\n\nDo not add watermarks, corner brackets, website names, AI labels, creator credits, or unrelated text. Do not change the user's defined SUBJECT, HEADER, POSE, or BOTTLE_IN_HAND."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cfea5eac-5899-4e25-a4d3-9e64aa3339f8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2088577912861762049>)
+
+---
+
+<a id="prompt-407c1dd8-fa4a-4e11-87cd-e63b71650f3a"></a>
+
+## Premium Minimalist Product Advertisement Poster
+
+<a href="https://musesignal.com/zh/prompt/407c1dd8-fa4a-4e11-87cd-e63b71650f3a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM3cb0-aIAADkTP.jpg?format=jpg&amp;name=small" width="480" alt="Premium Minimalist Product Advertisement Poster" /></a>
+
+**GPT Image 2** · 原作者: Maercih
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"PRODUCT_NAME": "<ENTER DRINK OR FOOD NAME>",
+"prompt": "Create a premium minimalist product advertisement poster for {{PRODUCT_NAME}}.\n\nAutomatically analyze the entered product name and generate a complete luxury ad around it.\n\nThe AI should:\n- Determine the product’s typical appearance, ingredients, colors, textures, serving style, and category.\n- Generate a realistic version of the product if no reference image is provided, or faithfully recreate the uploaded reference image if one exists.\n- Automatically choose a clean background palette inspired by the product’s dominant colors.\n- Design a soft, modern, geometric backdrop that matches the product mood.\n- Create an elegant serif headline using {{PRODUCT_NAME}}.\n- Add a short premium subtitle describing the product’s freshness, flavor, or key selling point.\n- Choose small decorative icons that suit the product, such as fruit, leaf, water drop, bean, herb, or citrus elements.\n- Select typography colors that contrast beautifully with the background.\n- Adjust all design decisions according to the entered product.\n\nLayout:\n- Product positioned prominently on one side.\n- Generous negative space for text.\n- Large luxury serif headline.\n- Clean secondary line and subtle accent elements.\n- Soft realistic shadows and studio lighting.\n- Minimal clutter, editorial composition, and premium ad balance.\n\nStyle:\nModern commercial beverage branding, premium lifestyle advertising, Scandinavian minimalism, editorial product photography, photorealistic, soft studio lighting, luxury aesthetic.\n\nDo not include logos, watermarks, prices, QR codes, badges, or unnecessary decorative clutter.\n\nEverything—including colors, typography, iconography, headline styling, subtitle, background, lighting, garnish styling, and overall mood—must automatically adapt based solely on {{PRODUCT_NAME}}.",
+"negative_prompt": "logo, watermark, branding, PickBite, QR code, discount labels, prices, clutter, poor typography, low quality, blurry, noisy, oversaturated colors, unrealistic product, distorted glass, distorted plate, duplicate objects, cropped subject, cartoon, illustration, CGI, extra objects",
+"aspect_ratio": "4:5",
+"style": "Luxury Minimalist Product Advertisement",
+"quality": "Ultra Realistic 8K"
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/407c1dd8-fa4a-4e11-87cd-e63b71650f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2075557646984466769>)
+
+---
+
+<a id="prompt-654f19f6-f703-42d5-9ec6-15d761d7c193"></a>
+
+## Playful Mixed-Media Brand Campaign Poster
+
+<a href="https://musesignal.com/zh/prompt/654f19f6-f703-42d5-9ec6-15d761d7c193?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLMOovhacAIBf2K.jpg?format=jpg&amp;name=small" width="480" alt="Playful Mixed-Media Brand Campaign Poster" /></a>
+
+**GPT Image 2** · 原作者: Johnn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Innovative mixed-media brand campaign poster, vertical format, premium minimalist studio setup on a bright off-white background. A real photographed [BRAND PRODUCT] serves as the centerpiece while playful hand-drawn black marker illustrations extend beyond it, merging the physical and illustrated worlds seamlessly. A quirky doodle character is [SCENE], using, climbing, carrying, or creatively interacting with the product in an unexpected way. The sketch style is energetic, imperfect, and expressive, featuring handwritten details, arrows, tiny props, motion lines, and humorous visual storytelling. Elegant bold typography at the top displays the [BRAND] tagline, while the authentic full-color [BRAND] logo sits neatly at the bottom. Crisp studio shadows, photorealistic product textures, strong contrast between real and illustrated elements, modern advertising composition, viral social media campaign aesthetic, imaginative art direction, polished creative agency quality, highly scroll-stopping.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/654f19f6-f703-42d5-9ec6-15d761d7c193?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/john_my07/status/2068012753361813692>)
+
+---
+
+<a id="prompt-87634a21-01bc-45ae-ad97-20eadc996399"></a>
+
+## Elegant Bridal Lookbook: Four-View Lace Mermaid Gown
+
+<a href="https://musesignal.com/zh/prompt/87634a21-01bc-45ae-ad97-20eadc996399?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjlj2fboAA4aMr.jpg?format=jpg&amp;name=small" width="480" alt="Elegant Bridal Lookbook: Four-View Lace Mermaid Gown" /></a>
+
+**GPT Image 2** · 原作者: serein
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+提示词：
+白色极简摄影棚背景，婚纱图鉴 / 服装目录排版，时尚婚纱 lookbook，干净高级感，整张画面采用四宫格展示，包含正面 Front、侧面 Side、背面 Back、大头贴 Headshot，中英文双语标注，顶部有婚纱名称中英文标题与编号，整体版式简洁规整，轻奢时尚杂志风，高级婚纱产品展示图。
+模特为同一位年轻女生，可爱一点、略带混血感，五官精致，皮肤白皙通透，长发大波浪，大弧度卷松，自然蓬松，温柔气质，淡妆，眼神自然，站姿优雅，手部结构自然，避免肢体扭曲。
+光线柔和均匀，纯白背景，高级影棚打光，画面通透，婚纱细节清晰，蕾丝、薄纱、缎面、刺绣、珠饰、蝴蝶结等材质精致可见。
+⸻
+1｜蕾丝鱼尾婚纱
+提示词：
+白色极简摄影棚背景，婚纱图鉴排版，四宫格婚纱展示，顶部标题 “1｜蕾丝鱼尾婚纱 Lace Mermaid Wedding Dress”，分区标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，下方表情标注 “01 自然微笑 Natural Smile”。
+同一位年轻女生，可爱混血感，长发大波浪，温柔自然气质。
+穿白色无肩带蕾丝鱼尾婚纱，立体刺绣花纹，修身束腰剪裁，半透明蕾丝裙摆，拖地长尾，搭配白色蕾丝长手套与轻薄头纱，优雅法式新娘风。
+正面展示整体轮廓，侧面展示鱼尾曲线，背面展示拖尾与头纱，大头贴为自然微笑，嘴角微微上扬，眼神温柔。
+⸻
+2｜蝴蝶结蛋糕婚纱
+提示词：
+白色极简摄影棚背景，婚纱 lookbook 图鉴，四宫格排版，顶部标题 “2｜蝴蝶结蛋糕婚纱 Bow Cake Wedding Dress”，分区标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，表情标注 “02 俏皮眨眼 Playful Wink”。
+同一位年轻女生，可爱混血感，长发大波浪，甜美温柔。
+穿白色抹胸束腰婚纱，胸前超大蝴蝶结与立体玫瑰装饰，半透明束身马甲结构，多层蓬松薄纱蛋糕长裙，层层荷叶边，甜美公主风。
+大头贴表情为俏皮眨眼，单眼轻闭，嘴角带笑，头微微歪向一侧。
+⸻
+3｜开衩蕾丝鱼尾婚纱
+提示词：
+白色极简影棚背景，婚纱产品目录图，四宫格排版，顶部标题 “3｜开衩蕾丝鱼尾婚纱 Slit Lace Mermaid Wedding Dress”，标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，表情标注 “03 灿烂大笑 Radiant Laugh”。
+同一位年轻女生，可爱混血感，长发大波浪，气质明媚。
+穿白色抹胸蕾丝婚纱，精致花卉刺绣，紧身收腰鱼尾剪裁，高开衩设计，轻薄纱质拖尾，长款头纱，珍珠皇冠，性感优雅新娘造型。
+大头贴为灿烂大笑，露齿笑，眼睛弯起，感染力强。
+⸻
+4｜缎面单肩鱼尾婚纱
+提示词：
+白色极简摄影棚背景，高级婚纱图鉴排版，四宫格布局，顶部标题 “4｜缎面单肩鱼尾婚纱 Satin One-Shoulder Mermaid Wedding Dress”，分区标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，表情标注 “04 坏笑／邪笑 Mischievous Smirk”。
+同一位年轻女生，可爱混血感，长发大波浪，自然又带点小狡黠。
+穿珍珠白缎面单肩婚纱，不对称褶皱领口，贴身收腰鱼尾剪裁，腰侧立体花卉装饰，简洁光泽缎面长裙，侧肩薄纱花饰，极简高级感。
+大头贴表情是坏笑 / 邪笑，单边嘴角上扬，眼神略带得意与狡黠。
+⸻
+5｜蝴蝶花纹蓬裙婚纱
+提示词：
+白色极简影棚背景，婚纱目录风排版，四宫格展示，顶部标题 “5｜蝴蝶花纹蓬裙婚纱 Butterfly Pattern Ball Gown Wedding Dress”，分区标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，表情标注 “06 天真无邪 Innocent Sweetness”。
+同一位年轻女生，可爱混血感，长发大波浪，清纯甜美。
+穿白色细肩带婚纱，方形领口，满身立体蝴蝶结与花朵蕾丝刺绣，收腰A字蓬裙，半透明薄纱长裙，搭配短款头纱，清新甜美少女新娘风。
+大头贴表情为天真无邪，眼睛明亮，神情干净单纯，嘴角自然上扬。
+⸻
+6｜复古宫廷婚纱
+提示词：
+白色极简摄影棚背景，婚纱图鉴排版，四宫格布局，顶部标题 “6｜复古宫廷婚纱 Vintage Court Wedding Dress”，分区标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，表情标注 “07 暗爽得意 Secretly Pleased”。
+同一位年轻女生，可爱混血感，长发大波浪，优雅中带一点高级时装感。
+穿白色抹胸束身宫廷婚纱，胸口立体花朵装饰，宽大立体缎面蓬裙，高开衩结构，搭配黑色超长礼服手套与黑色蝴蝶结装饰，复古黑白高级时装感。
+大头贴表情为暗爽得意，单边嘴角轻扬，眼神半眯，带一点藏不住的得意。
+⸻
+7｜极简条纹纱裙婚纱
+提示词：
+白色极简影棚背景，婚纱产品目录图，四宫格排版，顶部标题 “7｜极简条纹纱裙婚纱 Minimal Striped Tulle Wedding Dress”，分区标注 正面 Front、侧面 Side、背面 Back、大头贴 Headshot，表情标注 “08 宠溺笑 Adoring Smile”。
+同一位年轻女生，可爱混血感，长发大波浪，温柔安静。
+穿象牙白无肩带婚纱，简洁抹胸上身，腰部半透明几何网格设计，A字长裙，多层横向立体缎带条纹覆盖薄纱裙摆，极简现代新娘风。
+大头贴表情为宠溺笑，嘴角温柔上扬，眼神柔软，像在看自己很喜欢的人。
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/87634a21-01bc-45ae-ad97-20eadc996399?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/you1873118/status/2092174959095496705>)
+
+---
+
+<a id="prompt-52798367-dab3-4792-8712-f80a6e4ab8e7"></a>
+
+## First Bite Satisfaction: Premium Subway Commercial
+
+<a href="https://musesignal.com/zh/prompt/52798367-dab3-4792-8712-f80a6e4ab8e7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN0-EGibIAAhQ0R.jpg?format=jpg&amp;name=small" width="480" alt="First Bite Satisfaction: Premium Subway Commercial" /></a>
+
+**GPT Image 2** · 原作者: ᴍᴜʀᴘʜʏ
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Act as an award-winning food advertising creative director, commercial food stylist, portrait photographer, senior branding designer, CGI artist, and global QSR campaign designer specializing in Subway, McDonald’s, Burger King, Five Guys, Shake Shack, and Behance-featured food advertising. Create the second slide of a premium Subway Instagram carousel. This slide should communicate the satisfaction of taking the very first bite. The emotion should instantly make viewers crave the sandwich. Do not create a restaurant. Do not create a casual snapshot. Create an iconic premium commercial advertisement. Instagram Poster, 4:5 Vertical, 8K Ultra HD, Commercial Print Quality. Modern Subway global campaign, Behance featured quality, Minimal premium composition, Luxury commercial photography, Bold graphic hierarchy, Swiss-grid inspired layout, One clear visual message. A handsome young man is taking the first satisfying bite of a freshly made Subway sandwich. Eyes gently closed in enjoyment. Natural facial expression. Authentic bite. Visible compression of the bread where the teeth meet. Fresh vegetables slightly pushing outward naturally. Tiny sauce movement. Nothing exaggerated. The image should communicate freshness, satisfaction, and appetite. Male, 22–28 years old, Healthy appearance, Modern hairstyle, Light stubble, Natural skin texture, Visible pores, No AI beauty skin, Clean fingernails, Relaxed confident expression, Premium commercial casting. One hero Subway sandwich only. Italian Herbs & Cheese bread. Fresh oven-baked texture. Visible herb seasoning. Golden toasted crust. Double grilled chicken. Melted cheese. Fresh lettuce. Tomatoes. Red onion. Green peppers. Black olives. Pickles. Chipotle Southwest sauce. Mayonnaise. Everything perfectly layered. Ingredients overflowing naturally. Fresh moisture droplets. Ultra realistic food styling. Both hands naturally holding the sandwich. Relaxed fingers. No awkward pose. No distorted anatomy. Natural grip pressure. Premium commercial hand styling. Model positioned on the right side. Large typography area on the left. Sandwich occupies approximately 35–40% of the frame. Face occupies approximately 40% of the frame. Everything aligned to a professional advertising grid. Strong negative space. Deep Subway Green (#008C45) background. Tone-on-tone geometric arrow pattern inspired by Subway branding. Soft radial gradient. Clean premium studio backdrop. No restaurant. No kitchen. No environmental elements. Large bold headline: EAT. FRESH. FEEL GOOD. Modern condensed sans-serif typography. White and Subway Yellow text. Small supporting copy: “Made Fresh. Made For You.” Three minimalist feature icons: Fresh Ingredients, Oven-Baked Bread, Made Your Way. Small pricing area. Rounded yellow CTA button. Reserved Subway logo placement at the top-left. Minimal premium layout. Luxury commercial food lighting with a large soft octabox key light, soft front fill, subtle rim light separating the subject, beautiful catchlights in the eyes, natural skin highlights, glossy sandwich highlights, soft realistic shadows, premium advertising studio setup. Captured on an ARRI Alexa 65, 85mm commercial portrait lens, Eye-level hero perspective, f/5.6, Extremely sharp focus, Natural perspective, No wide-angle distortion. Color palette: Primary Subway Green, Accent Subway Yellow, Neutral White. No competing colors. Clean premium branding. Luxury commercial retouching, Micro-contrast enhancement, Natural skin retouch, Food texture enhancement, Bread crispness, Ingredient vibrance, Gloss optimization, Premium print finish, No HDR, No oversharpening, No artificial glow. Hyper-realistic, Commercial food photography, Global advertising agency quality, Behance-featured aesthetic, Award-winning campaign, 8K Ultra HD. Negative Prompt: No AI slop, No restaurant interior, No kitchen, No extra people, No fries, No drink, No packaging clutter, No distorted fingers, No deformed teeth, No unrealistic bite
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/52798367-dab3-4792-8712-f80a6e4ab8e7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Diplomeme/status/2079886853134807086>)
+
+---
+
+<a id="prompt-fcb88ac2-98f4-4052-8f81-6b915eba85c3"></a>
+
+## Luxury Fast-Food Ad with Chefs and Gourmet Dishes
+
+<a href="https://musesignal.com/zh/prompt/fcb88ac2-98f4-4052-8f81-6b915eba85c3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HI2Sb74a0AA-P2s.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Fast-Food Ad with Chefs and Gourmet Dishes" /></a>
+
+**GPT Image 2** · 原作者: Noira.
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Luxury cinematic fast-food advertisement collage featuring three beautiful young female chefs, each with a different attractive face, hairstyle, and stylish chef outfit. One chef holding a delicious cheesy pizza, one presenting a juicy gourmet burger, and one showcasing a perfectly grilled sandwich. Premium restaurant background with warm golden lighting, glowing kitchen ambiance, smoke and sparks effects, black gold and red aesthetic, modern commercial photography style, hyper realistic 8k.
+Ultra detailed food with melted cheese, crispy textures, fresh vegetables, glossy buns, realistic steam, vibrant ingredients, depth of field, dramatic shadows, luxury fast-food branding, premium advertisement composition.
+Bold stylish typography:
+“TASTE THAT EVERYONE LOVES”
+“Fresh Ingredients • Premium Quality • Made With Love”
+Instagram/X viral poster design, cinematic food campaign, modern graphics, glowing highlights, professional advertising look.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fcb88ac2-98f4-4052-8f81-6b915eba85c3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/veylorvisions/status/2057461617487651311>)
 
 ---

@@ -1,26 +1,27 @@
 {
   "schema_version": 1,
-  "template_version": 1,
-  "data_revision": "7087621dfbafc7073ed2f29119665f92e62382c6aca1ef4506d928c59cecd9a4",
-  "count": 132,
+  "template_version": 2,
+  "data_revision": "47afa132e6857f1b2559ed5dd343645707e6f98a69c27f8faed052e181264ed1",
+  "count": 366,
+  "readme_count": 60,
   "categories": {
-    "character-art": 24,
-    "commercial-product": 24,
+    "character-art": 81,
+    "commercial-product": 81,
     "food-drink": 11,
-    "portrait": 25,
-    "poster-graphic": 24,
-    "scene-space": 24
+    "portrait": 82,
+    "poster-graphic": 81,
+    "scene-space": 30
   },
   "models": {
-    "gpt-image": 14,
-    "gpt-image-2": 118
+    "gpt-image": 44,
+    "gpt-image-2": 322
   },
   "families": {
-    "gpt-image": 132
+    "gpt-image": 366
   },
-  "content_updated_at": "2026-09-18T08:42:21.703Z",
+  "content_updated_at": "2026-09-19T03:18:45.118Z",
   "selection": {
-    "limit": 300,
+    "limit": 600,
     "source_imports": [
       "twitter_scrape"
     ],
