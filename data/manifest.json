@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "template_version": 1,
+  "data_revision": "7087621dfbafc7073ed2f29119665f92e62382c6aca1ef4506d928c59cecd9a4",
+  "count": 132,
+  "categories": {
+    "character-art": 24,
+    "commercial-product": 24,
+    "food-drink": 11,
+    "portrait": 25,
+    "poster-graphic": 24,
+    "scene-space": 24
+  },
+  "models": {
+    "gpt-image": 14,
+    "gpt-image-2": 118
+  },
+  "families": {
+    "gpt-image": 132
+  },
+  "content_updated_at": "2026-09-18T08:42:21.703Z",
+  "selection": {
+    "limit": 300,
+    "source_imports": [
+      "twitter_scrape"
+    ],
+    "strategy": "persistent-category-family-balanced-cohort"
+  },
+  "dataset_file": "prompts.json",
+  "image_policy": "external-twitter-only-no-musesignal-cdn-fallback",
+  "repository": "ych-chen/awesome-gpt-image-2-prompts",
+  "catalog_repository": "ych-chen/awesome-ai-image-prompts",
+  "family": "gpt-image"
+}
