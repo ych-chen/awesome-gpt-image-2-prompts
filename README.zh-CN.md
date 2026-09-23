@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **367** | **60** | 2026-09-23 |
+| **368** | **60** | 2026-09-23 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -29,7 +29,7 @@
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
 | 人像摄影 | 82 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| 商业产品 | 81 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| 商业产品 | 82 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
 | 海报设计 | 82 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 11 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 81 | [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
@@ -922,6 +922,31 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 ---
 
+<a id="prompt-a7824a69-5ba5-41eb-a572-89dfcb1c4a9c"></a>
+
+#### Ultra-Realistic Soda Can Streetwear Ad Poster
+
+<a href="https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKp5CKmaYAATtdf.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Soda Can Streetwear Ad Poster" /></a>
+
+**GPT Image** · 原作者: Eesha
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic commercial beverage advertisement poster, low-angle wide lens perspective, confident young female model holding an oversized soda can toward the camera, can dominating foreground with dramatic forced perspective, urban streetwear fashion, black cap, hoop earrings, layered silver chains, cropped white tank top, glossy bomber jacket matching product color, edgy Gen-Z energy. High-detail aluminum can with water droplets, premium packaging design, vibrant branding typography, graffiti-inspired graphics, hand-drawn doodles, paint splashes, brush strokes, torn paper textures, halftone dots, arrows, stars, lightning bolts, stickers, barcode elements, collage aesthetic.
+
+Background filled with dynamic paint splashes and street-art textures in matching brand colors. Bold hand-painted headline typography, energetic promotional slogans, flavor callouts, lifestyle marketing phrases, magazine-quality layout, modern energy drink campaign, high contrast lighting, sharp focus, commercial product photography, fashion editorial styling, premium advertising design, vibrant colors, photorealistic skin texture, depth of field, highly detailed, 8k, professional branding mockup.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/MissDelulu9/status/2065596558444478893>)
+
+---
+
 <a id="prompt-4fbd933d-e500-482b-bb9b-d1382412573d"></a>
 
 #### Midnight Aurora: Luxury Perfume in Arctic Night
@@ -1118,29 +1143,6 @@ End on a hero shot of the product with glowing healthy skin.
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2e18beeb-3626-4f6d-a266-ff8eb14e55e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/luciaverseai/status/2049780308040663295>)
-
----
-
-<a id="prompt-a6de6841-2d3f-44ef-8b51-ac1591667e2c"></a>
-
-#### MIRA Brand Fashion Editorial with Cinematic Typography
-
-<a href="https://musesignal.com/zh/prompt/a6de6841-2d3f-44ef-8b51-ac1591667e2c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKg3FTyXYAA1in8.jpg?format=jpg&amp;name=small" width="480" alt="MIRA Brand Fashion Editorial with Cinematic Typography" /></a>
-
-**GPT Image 2** · 原作者: Mira
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ultra-realistic fashion editorial poster of a beautiful young woman standing beside giant vertical 3D “MIRA” typography. She has natural olive skin, soft facial features, long dark brown wavy hair, no glasses, no makeup look, realistic lips, subtle skin texture, and calm confident eyes. Outfit: oversized premium black t-shirt with clean white “MIRA” logo printed on chest, relaxed black cargo joggers, white-red luxury sneakers. Pose is casual and cinematic — hands inside pockets, one leg crossed naturally, leaning slightly with relaxed posture. Background is a dark matte charcoal studio with soft gradient lighting and luxury minimal aesthetic. The huge “MIRA” text beside her should look ultra-premium: glossy white 3D typography with depth, shadows, bevel edges, soft reflections, modern futuristic branding style, vertically stacked in an artistic layout. Lighting should be soft cinematic studio lighting with subtle rim light around hair and shoulders, realistic shadows, depth, and contrast. Add slight ambient glow behind typography for luxury branding feel. Composition should feel like a premium Nike / Zara / Balenciaga campaign poster mixed with modern AI-fashion branding aesthetics. Style: hyper realistic, editorial photography, DSLR quality, luxury streetwear campaign, clean minimal design, elegant typography composition, natural beauty, no AI artifacts, no overprocessed skin, no exaggerated makeup, ultra detailed fabric texture, soft cinematic tones, 8k masterpiece, fashion magazine quality.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a6de6841-2d3f-44ef-8b51-ac1591667e2c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/miratechtool/status/2064961134881313104>)
 
 ---
 
@@ -2407,11 +2409,12 @@ You Can Try It Here:
 
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
-| GPT Image | 44 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
+| GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
 | GPT Image 2 | 323 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 
 ## 最近发布
 
+- [Ultra-Realistic Soda Can Streetwear Ad Poster](<https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
 - [Continuous Line-Art Travel Poster](<https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
@@ -2419,7 +2422,6 @@ You Can Try It Here:
 - [Ultra-Realistic YouTube Livestream Mockup](<https://musesignal.com/zh/prompt/60cb71e6-4fc7-4789-a66e-8ed7adbca661?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Gourmet Burger and Crispy Fries on a Wooden Tray](<https://musesignal.com/zh/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Midnight Aurora: Luxury Perfume in Arctic Night](<https://musesignal.com/zh/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Storm Tunnel to Muddy Pitch](<https://musesignal.com/zh/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 
@@ -2440,7 +2442,7 @@ You Can Try It Here:
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 367](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 368](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

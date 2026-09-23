@@ -878,3 +878,26 @@ Style: Professional advertising campaign, photorealistic, corporate branding, mo
 **[Try on MuseSignal →](<https://musesignal.com/prompt/66573d12-456f-4235-8900-369afeb95cef?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/abs_uiux/status/2068279175362887977>)
 
 ---
+
+<a id="prompt-a7824a69-5ba5-41eb-a572-89dfcb1c4a9c"></a>
+
+## Ultra-Realistic Soda Can Streetwear Ad Poster
+
+<a href="https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKp5CKmaYAATtdf.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Soda Can Streetwear Ad Poster" /></a>
+
+**GPT Image** · Creator: Eesha
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic commercial beverage advertisement poster, low-angle wide lens perspective, confident young female model holding an oversized soda can toward the camera, can dominating foreground with dramatic forced perspective, urban streetwear fashion, black cap, hoop earrings, layered silver chains, cropped white tank top, glossy bomber jacket matching product color, edgy Gen-Z energy. High-detail aluminum can with water droplets, premium packaging design, vibrant branding typography, graffiti-inspired graphics, hand-drawn doodles, paint splashes, brush strokes, torn paper textures, halftone dots, arrows, stars, lightning bolts, stickers, barcode elements, collage aesthetic.
+
+Background filled with dynamic paint splashes and street-art textures in matching brand colors. Bold hand-painted headline typography, energetic promotional slogans, flavor callouts, lifestyle marketing phrases, magazine-quality layout, modern energy drink campaign, high contrast lighting, sharp focus, commercial product photography, fashion editorial styling, premium advertising design, vibrant colors, photorealistic skin texture, depth of field, highly detailed, 8k, professional branding mockup.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2065596558444478893>)
+
+---

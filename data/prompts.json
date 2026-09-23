@@ -6976,6 +6976,33 @@
     "content_hash": "96f2765497a8fd9f0e6df046bbd5bc0774cdfd7ffcd9674f5cd78b516d92d086"
   },
   {
+    "id": "a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
+    "title": "Ultra-Realistic Soda Can Streetwear Ad Poster",
+    "prompt": "Ultra-realistic commercial beverage advertisement poster, low-angle wide lens perspective, confident young female model holding an oversized soda can toward the camera, can dominating foreground with dramatic forced perspective, urban streetwear fashion, black cap, hoop earrings, layered silver chains, cropped white tank top, glossy bomber jacket matching product color, edgy Gen-Z energy. High-detail aluminum can with water droplets, premium packaging design, vibrant branding typography, graffiti-inspired graphics, hand-drawn doodles, paint splashes, brush strokes, torn paper textures, halftone dots, arrows, stars, lightning bolts, stickers, barcode elements, collage aesthetic.\n\nBackground filled with dynamic paint splashes and street-art textures in matching brand colors. Bold hand-painted headline typography, energetic promotional slogans, flavor callouts, lifestyle marketing phrases, magazine-quality layout, modern energy drink campaign, high contrast lighting, sharp focus, commercial product photography, fashion editorial styling, premium advertising design, vibrant colors, photorealistic skin texture, depth of field, highly detailed, 8k, professional branding mockup.",
+    "category": "commercial-product",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Eesha",
+      "handle": "MissDelulu9"
+    },
+    "source_platform": "X",
+    "source_id": "2065596558444478893",
+    "source_url": "https://x.com/MissDelulu9/status/2065596558444478893",
+    "images": [
+      "https://pbs.twimg.com/media/HKp5CKmaYAATtdf.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKp5Df5bUAAdwsR.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
+    "published_at": "2026-09-23T11:45:14.841748+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "91dcd95076f06cd7caadd71ff7dbf259f6b05201ab76bdecc255a826e06ae784"
+  },
+  {
     "id": "a958e691-a8d0-4c41-b6af-650c1f54801d",
     "title": "Personal Branding Acronym Poster with Pixar Character",
     "prompt": "Create an elegant vertical personal branding acronym poster.\nINPUT:\nA person'name: LARIAB\nTASK:\nAutomatically generate a premium personality acronym using each letter of the name.\nFor every letter:\n1. Generate one sophisticated positive personality trait beginning with that letter.\n2. Generate one concise inspirational sentence (10–18 words).\n3. Generate a matching hand-drawn doodle icon.\nLayout:\nLeft side:\nA charming Pixar-inspired 3D character.\nFull body.\nFriendly smile.\nConfident pose.\nStylish modern outfit.\nRight side:\nLarge colorful 3D wall-mounted letters arranged vertically using the person's name.\nBeside each letter:\nElegant handwritten script trait title\nShort description\nSmall doodle icon\nExample structure:\nE\nEmpathetic\nDeeply understands others and responds with genuine compassion.\nR\nReliable\nA trusted presence who consistently delivers support and confidence.\nI\nInsightful\nRecognizes opportunities and meaning beyond what others notice.\nK\nKindhearted\nCreates positive connections through warmth and sincerity.\nA\nAmbitious\nPursues meaningful goals with determination and vision.\nVisual style:\nwarm cream wall\nsoft sunlight from upper left\nrealistic shadows\npastel color palette\npink\nlavender\nmint\ncoral\nyellow\npremium Pinterest aesthetic\npersonal branding infographic\neditorial design\nclean typography\nhigh readability\nminimal luxury style\nbalanced composition\n3D stylized render\nDisney Pixar quality\noctane render\nglobal illumination\nBottom area:\nGenerate a motivational closing sentence related to the personality profile.\nImportant:\nAll generated words must be real English words.\nAll descriptions must be grammatically correct.\nNo placeholder text.\nNo gibberish.\nNo spelling errors.\nNo random letters.\nNo fake words.”",
