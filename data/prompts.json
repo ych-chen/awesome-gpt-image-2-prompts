@@ -4271,6 +4271,33 @@
     "content_hash": "0a859752e4bfee7723ca487cab5e5e567e9483af7716dc654ee457cf08ab6571"
   },
   {
+    "id": "6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5",
+    "title": "Continuous Line-Art Travel Poster",
+    "prompt": "Create a premium vertical aspect ratio 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.\n\nInstead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.\n\nUse bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.\n\nInclude:\n\nOne dominant iconic landmark\n\nA second architectural landmark subtly integrated into the skyline\n\nA famous natural landscape in the background\n\nLocal transportation\n\nTraditional clothing or cultural detail\n\nA recognizable food or drink\n\nSmall street-life moments\n\nBirds, clouds, plants and tiny decorative elements\n\nHandwritten labels pointing to selected elements\n\nAt the top, use a large playful hand-lettered title:\n\n“[COUNTRY]”\n\nBelow it, add a tiny elegant subtitle:\n\n“A little world to discover”\n\nMake the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2092177406115348739",
+    "source_url": "https://x.com/Goodmanprotocol/status/2092177406115348739",
+    "images": [
+      "https://pbs.twimg.com/media/HQjoPO0bEAAdsvC.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQjoQMfbsAA2W_V.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5",
+    "published_at": "2026-09-23T07:39:34.961111+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "cd9f8901740407ba8f616dc0b7be344fbb562c984f36d043c30051250f12ae37"
+  },
+  {
     "id": "6e3fd323-ab53-4391-ad22-b55ced6292ee",
     "title": "Chibi Girl Diving into Giant Coffee Mug",
     "prompt": "Create an extremely detailed 3D miniature scene. A kitchen table with a giant beige mug on it, bearing the words ‘Coffee Time’ and featuring coffee beans arranged to form a smile. Next to it is a miniature diving board, on which stands a very cute chibi-style girl with wavy red hair and blue eyes, wearing yellow pyjamas with white stripes, as she dives into the mug. Giant mug, diving board + springboard Shallow depth of field, blurred modern kitchen background, bright lighting, 8K UHD.",

@@ -804,3 +804,58 @@ Style: ultra-realistic 3D render, premium luxury travel editorial, soft warm stu
 **[Try on MuseSignal →](<https://musesignal.com/prompt/78b4bcd4-0380-4e35-8a9f-f1ba36cdf4af?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2091891227767480556>)
 
 ---
+
+<a id="prompt-6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5"></a>
+
+## Continuous Line-Art Travel Poster
+
+<a href="https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjoPO0bEAAdsvC.jpg?format=jpg&amp;name=small" width="480" alt="Continuous Line-Art Travel Poster" /></a>
+
+**GPT Image 2** · Creator: Saul Goodman
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a premium vertical aspect ratio 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+
+Include:
+
+One dominant iconic landmark
+
+A second architectural landmark subtly integrated into the skyline
+
+A famous natural landscape in the background
+
+Local transportation
+
+Traditional clothing or cultural detail
+
+A recognizable food or drink
+
+Small street-life moments
+
+Birds, clouds, plants and tiny decorative elements
+
+Handwritten labels pointing to selected elements
+
+At the top, use a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2092177406115348739>)
+
+---
