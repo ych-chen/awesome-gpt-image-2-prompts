@@ -548,3 +548,36 @@ A breathtakingly beautiful young woman with a radiant, symmetrical face, featuri
 **[Try on MuseSignal →](<https://musesignal.com/prompt/bfdd2c53-cd3b-4448-9753-3c72ff8b0dcf?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CaliraVal/status/2064688681315946862>)
 
 ---
+
+<a id="prompt-777a95ba-cdad-4727-bef2-eff205eb8637"></a>
+
+## High Fashion B&amp;W Editorial Portrait
+
+<a href="https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQhOB3haoAA0GOb.jpg?format=jpg&amp;name=small" width="480" alt="High Fashion B&amp;W Editorial Portrait" /></a>
+
+**GPT Image 2** · Creator: BMX
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a high fashion black and white editorial portrait of a slim young woman posing dynamically against a completely seamless white studio background.
+
+Pose & Composition: Three quarter side profile, body turned toward the right while her face looks back toward the camera. Her torso bends slightly forward with an exaggerated fashion pose. One arm reaches dramatically toward the camera, creating strong foreshortening so the hand appears very large in the foreground. Fingers are spread naturally with long manicured nails and several metallic rings. Her opposite arm extends backward to the right side of the frame. Crop around the upper thighs while keeping both arms visible.
+Face & Hair: Sharp editorial facial features, intense confident expression, slightly parted lips, defined cheekbones, dark smoky eye makeup and thin brows. Short jet black bob haircut with very short blunt micro bangs, slightly flipped and curled ends around the neck.
+
+Wardrobe: Ultra glossy black patent leather cropped jacket with oversized sculptural sleeves, exaggerated folds, reflective highlights and a futuristic wet look finish. The jacket exposes the waist and stomach. Low rise fitted pants with an abstract marbled psychedelic pattern in gray and black.
+Camera: Fashion photography, slightly wide angle lens around 28–35mm. Camera positioned near chest level. Strong perspective distortion from the hand reaching very close to the lens. Crisp facial focus with the foreground hand slightly softer.
+
+Lighting: High key white studio lighting with strong directional highlights reflecting from the patent leather. Bright clean background, deep black clothing, dramatic monochrome tonal contrast, smooth grayscale skin.
+Style: Avant garde 1990s/early 2000s fashion editorial, experimental magazine photography, futuristic cyber fashion aesthetic, edgy couture posing, surreal proportions caused by perspective, polished but slightly raw analog-photo character, fine film grain.
+
+Color: Pure black and white monochrome, bright whites, deep glossy blacks and silver gray midtones.
+No text, no typography, no logo, no watermark, no borders, no interface elements. aspect ratio 16:9
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/bmx_ai13/status/2092105940539527653>)
+
+---

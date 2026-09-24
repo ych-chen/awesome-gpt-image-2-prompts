@@ -4836,6 +4836,32 @@
     "content_hash": "702b2402a708ab49610c89229ed9f45f5004900621c5f51436652c3bac57682d"
   },
   {
+    "id": "777a95ba-cdad-4727-bef2-eff205eb8637",
+    "title": "High Fashion B&W Editorial Portrait",
+    "prompt": "Create a high fashion black and white editorial portrait of a slim young woman posing dynamically against a completely seamless white studio background.\n\nPose & Composition: Three quarter side profile, body turned toward the right while her face looks back toward the camera. Her torso bends slightly forward with an exaggerated fashion pose. One arm reaches dramatically toward the camera, creating strong foreshortening so the hand appears very large in the foreground. Fingers are spread naturally with long manicured nails and several metallic rings. Her opposite arm extends backward to the right side of the frame. Crop around the upper thighs while keeping both arms visible.\nFace & Hair: Sharp editorial facial features, intense confident expression, slightly parted lips, defined cheekbones, dark smoky eye makeup and thin brows. Short jet black bob haircut with very short blunt micro bangs, slightly flipped and curled ends around the neck.\n\nWardrobe: Ultra glossy black patent leather cropped jacket with oversized sculptural sleeves, exaggerated folds, reflective highlights and a futuristic wet look finish. The jacket exposes the waist and stomach. Low rise fitted pants with an abstract marbled psychedelic pattern in gray and black.\nCamera: Fashion photography, slightly wide angle lens around 28–35mm. Camera positioned near chest level. Strong perspective distortion from the hand reaching very close to the lens. Crisp facial focus with the foreground hand slightly softer.\n\nLighting: High key white studio lighting with strong directional highlights reflecting from the patent leather. Bright clean background, deep black clothing, dramatic monochrome tonal contrast, smooth grayscale skin.\nStyle: Avant garde 1990s/early 2000s fashion editorial, experimental magazine photography, futuristic cyber fashion aesthetic, edgy couture posing, surreal proportions caused by perspective, polished but slightly raw analog-photo character, fine film grain.\n\nColor: Pure black and white monochrome, bright whites, deep glossy blacks and silver gray midtones.\nNo text, no typography, no logo, no watermark, no borders, no interface elements. aspect ratio 16:9",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "BMX",
+      "handle": "bmx_ai13"
+    },
+    "source_platform": "X",
+    "source_id": "2092105940539527653",
+    "source_url": "https://x.com/bmx_ai13/status/2092105940539527653",
+    "images": [
+      "https://pbs.twimg.com/media/HQhOB3haoAA0GOb.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637",
+    "published_at": "2026-09-24T05:10:19.75714+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "da6837944928d509e0f259ce64d6150d49ab9fbd75f341a7ef4434bb7ed7ea5e"
+  },
+  {
     "id": "77dab16d-7faa-452d-852d-6226becaa33c",
     "title": "Vintage Travel Journal Watercolor Sketch",
     "prompt": "Hand-drawn travel journal illustration in a refined ink-and-watercolor sketch style, vintage travel postcard aesthetic, textured cream paper background, expressive cobalt blue fineliner linework with warm ochre, muted olive green and soft terracotta watercolor washes, loose architectural sketches, minimalist urban scenery, elegant handwritten typography at the top with large destination title and smaller cursive subtitle, cozy travel diary composition, charming lifestyle illustration, stylish young traveler in relaxed casual clothing, cinematic composition, clean negative space, subtle cross-hatching, soft brush pen strokes, editorial magazine cover design, modern gouache and watercolor fusion, imperfect hand-drawn charm, warm nostalgic atmosphere, European sketchbook aesthetic, Moleskine travel journal, whimsical urban storytelling, premium illustrated poster, highly detailed, balanced composition, soft paper grain, natural ink bleed, sophisticated color harmony, artistic travel print, 4K, museum-quality illustration.",

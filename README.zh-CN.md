@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **372** | **60** | 2026-09-24 |
+| **373** | **60** | 2026-09-24 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,7 +28,7 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 82 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| 人像摄影 | 83 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
 | 商业产品 | 83 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
 | 海报设计 | 83 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 13 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 10
+### 人像摄影 · 11
 
 [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -365,6 +365,41 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/john_my07/status/2067642906035585315>)
+
+---
+
+<a id="prompt-777a95ba-cdad-4727-bef2-eff205eb8637"></a>
+
+#### High Fashion B&amp;W Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQhOB3haoAA0GOb.jpg?format=jpg&amp;name=small" width="480" alt="High Fashion B&amp;W Editorial Portrait" /></a>
+
+**GPT Image 2** · 原作者: BMX
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a high fashion black and white editorial portrait of a slim young woman posing dynamically against a completely seamless white studio background.
+
+Pose & Composition: Three quarter side profile, body turned toward the right while her face looks back toward the camera. Her torso bends slightly forward with an exaggerated fashion pose. One arm reaches dramatically toward the camera, creating strong foreshortening so the hand appears very large in the foreground. Fingers are spread naturally with long manicured nails and several metallic rings. Her opposite arm extends backward to the right side of the frame. Crop around the upper thighs while keeping both arms visible.
+Face & Hair: Sharp editorial facial features, intense confident expression, slightly parted lips, defined cheekbones, dark smoky eye makeup and thin brows. Short jet black bob haircut with very short blunt micro bangs, slightly flipped and curled ends around the neck.
+
+Wardrobe: Ultra glossy black patent leather cropped jacket with oversized sculptural sleeves, exaggerated folds, reflective highlights and a futuristic wet look finish. The jacket exposes the waist and stomach. Low rise fitted pants with an abstract marbled psychedelic pattern in gray and black.
+Camera: Fashion photography, slightly wide angle lens around 28–35mm. Camera positioned near chest level. Strong perspective distortion from the hand reaching very close to the lens. Crisp facial focus with the foreground hand slightly softer.
+
+Lighting: High key white studio lighting with strong directional highlights reflecting from the patent leather. Bright clean background, deep black clothing, dramatic monochrome tonal contrast, smooth grayscale skin.
+Style: Avant garde 1990s/early 2000s fashion editorial, experimental magazine photography, futuristic cyber fashion aesthetic, edgy couture posing, surreal proportions caused by perspective, polished but slightly raw analog-photo character, fine film grain.
+
+Color: Pure black and white monochrome, bright whites, deep glossy blacks and silver gray midtones.
+No text, no typography, no logo, no watermark, no borders, no interface elements. aspect ratio 16:9
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/bmx_ai13/status/2092105940539527653>)
 
 ---
 
@@ -2097,7 +2132,7 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 <a id="selected-scene-space"></a>
 
-### 场景空间 · 10
+### 场景空间 · 9
 
 [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2349,30 +2384,6 @@ Visual consistency: same face, same mud-soaked kit, same drenched hair throughou
 
 ---
 
-<a id="prompt-61c16b49-e4a3-4d9b-b2a0-58075459bebd"></a>
-
-#### Epic Sunset Football Match in a Massive Stadium
-
-<a href="https://musesignal.com/zh/prompt/61c16b49-e4a3-4d9b-b2a0-58075459bebd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK288_FbIAA8qgE.jpg?format=jpg&amp;name=small" width="480" alt="Epic Sunset Football Match in a Massive Stadium" /></a>
-
-**GPT Image 2** · 原作者: Sheikh Sharik 2.0
-
-创作场景: 场景空间
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-“Cinematic sunset football match in a massive stadium, score 1-1 in the final moments, intense crowd cheering, dramatic orange and golden sunset sky, player about to score a last-minute winning goal, goalkeeper diving, emotional atmosphere, ultra realistic, cinematic lighting, highly detailed, stadium lights glowing, epic sports photography, 4K”
-You Can Try It Here:
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/61c16b49-e4a3-4d9b-b2a0-58075459bebd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/NoOneIsHere2603/status/2066515574063247808>)
-
----
-
 ## 继续探索
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [领取免费积分开始创作](<https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2384,10 +2395,11 @@ You Can Try It Here:
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 327 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 328 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 
 ## 最近发布
 
+- [High Fashion B&amp;W Editorial Portrait](<https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Minimalist Marker-Pen New York City Travel Poster](<https://musesignal.com/zh/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Luxury Wellness Detox Drink Poster](<https://musesignal.com/zh/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Red Bull Cinematic 3D Commercial Ad](<https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
@@ -2395,7 +2407,6 @@ You Can Try It Here:
 - [Ultra-Realistic Soda Can Streetwear Ad Poster](<https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
 - [Continuous Line-Art Travel Poster](<https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 
@@ -2416,7 +2427,7 @@ You Can Try It Here:
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 372](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 373](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
