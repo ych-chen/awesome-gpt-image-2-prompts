@@ -581,3 +581,138 @@ No text, no typography, no logo, no watermark, no borders, no interface elements
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/bmx_ai13/status/2092105940539527653>)
 
 ---
+
+<a id="prompt-90b5c046-fbc3-4089-a86a-2c04a749530e"></a>
+
+## Golden Hour Portrait Collage
+
+<a href="https://musesignal.com/zh/prompt/90b5c046-fbc3-4089-a86a-2c04a749530e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSPAzm0aYAAEg4W.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Portrait Collage" /></a>
+
+**GPT Image 2** · 原作者: Laraib Fatima‎
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+image_generation": {
+"face": {
+"preserve_original": true,
+"reference_match": true,
+"description": "Maintain the same facial structure, skin tone, eye shape, and natural expressions across all frames, with consistent identity in each pose."
+},
+
+"photo_style": {
+"type": "golden hour portrait collage",
+"camera_angle": "varied close-up and medium portrait angles",
+"lighting": "warm golden hour sunlight casting soft window shadows",
+"mood": "soft, calm, intimate, aesthetic",
+"texture": "natural skin texture, soft highlights, gentle contrast",
+"focus": "sharp focus on face with smooth background falloff"
+},
+
+"subject": {
+"poses": [
+"looking upward toward light",
+"soft smile facing camera",
+"side profile with downward gaze",
+"over-the-shoulder glance",
+"direct close-up with relaxed lips",
+"hand in hair casual pose",
+"head tilted back toward light",
+"clean side profile portrait",
+"thoughtful pose with hand near chin"
+],
+"expression": "natural, minimal, relaxed, emotionally subtle",
+"hair": {
+"style": "long straight hair worn loose",
+"color": "light to medium brown",
+"details": "natural shine with soft light highlights"
+},
+"clothing": {
+"type": "casual minimalist outfit",
+"details": "simple dark t-shirt with no visible branding"
+}
+},
+
+"composition": {
+"layout": "3x3 grid collage",
+"consistency": "uniform lighting and background across all frames",
+"framing": "clean portrait framing with slight pose variation"
+},
+
+"environment": {
+"setting": "indoor space near a window",
+"background": "plain wall with warm sunlight and shadow patterns",
+"atmosphere": "quiet, minimal, artistic indoor ambiance"
+},
+
+"aesthetic": {
+"style": "Instagram aesthetic portrait set",
+"features": [
+"golden hour light",
+"window shadow patterns",
+"minimal makeup",
+"natural expressions",
+"clean editorial portrait look"
+]
+}
+
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/90b5c046-fbc3-4089-a86a-2c04a749530e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2099733908011282670>)
+
+---
+
+<a id="prompt-91fbd50b-e970-4ad2-aa28-4490857c6463"></a>
+
+## Cinematic Paris Night Fashion Portrait
+
+<a href="https://musesignal.com/zh/prompt/91fbd50b-e970-4ad2-aa28-4490857c6463?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSLRN1DakAAge6x.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Paris Night Fashion Portrait" /></a>
+
+**GPT Image 2** · 原作者: Laraib Fatima‎
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a highly realistic cinematic nighttime fashion portrait of a woman standing directly in front of the Eiffel Tower in Paris.
+
+SUBJECT:
+A stylish adult woman with long, straight-to-slightly-wavy black hair flowing naturally in the wind. She has a confident yet relaxed expression and a subtle editorial-fashion attitude. Preserve the reference face with maximum fidelity if a reference image is provided: exact facial structure, face shape, eyes, nose, lips, skin tone, proportions, and natural identity. Do not alter or beautify the facial identity.
+
+OUTFIT:
+She wears a fitted black leather biker jacket with realistic leather texture, structured shoulders, silver/gunmetal buttons and zippers, over a simple black top. Elegant, minimal, modern Parisian street-fashion aesthetic.
+
+ACCESSORIES:
+Large stylish dark sunglasses with a glossy black frame and slightly tinted lenses. Minimal accessories, keeping the overall look sophisticated and understated.
+
+POSE:
+Medium-to-full body portrait. She stands confidently with her shoulders relaxed, body facing the camera, while her head is tilted slightly to one side. Her arms rest naturally in front of her body. Hair is gently blown sideways by the night breeze. Expression is calm, mysterious, and confident.
+
+BACKGROUND:
+The Eiffel Tower is directly behind her, centered and dramatically illuminated with warm golden lights. The tower should appear large and impressive, extending upward behind the subject. Paris streets and distant city lights are visible near the bottom of the frame with realistic bokeh from cars and street lamps.
+
+LIGHTING:
+Nighttime cinematic lighting, warm golden illumination from the Eiffel Tower, subtle soft light on the woman's face, realistic highlights on the leather jacket and sunglasses, deep navy-black night sky, strong subject separation, natural shadows.
+
+CAMERA:
+Professional fashion photography, full-frame camera look, 85mm portrait lens, shallow depth of field, realistic optical bokeh, sharp focus on the woman, slightly softer Eiffel Tower background, natural skin texture, realistic hair strands.
+
+COMPOSITION:
+Vertical 9:16 composition, centered subject, Eiffel Tower perfectly aligned behind her, symmetrical cinematic framing, subject occupying the lower-middle portion of the frame, dramatic negative space above, premium luxury fashion editorial aesthetic.
+
+STYLE:
+Ultra-realistic photography, cinematic color grading, photorealistic skin, realistic fabric and leather texture, natural proportions, high detail, sophisticated Paris-at-night atmosphere, subtle film grain, professional Vogue-style fashion photography.
+
+NEGATIVE PROMPT:
+cartoon, anime, illustration, CGI, plastic skin, excessive beauty filter, distorted face, altered identity, asymmetrical eyes, extra fingers, malformed hands, duplicate person, distorted Eiffel Tower, unrealistic hair, oversaturated colors, low resolution, blurry subject, artificial skin, watermark, text, logo.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/91fbd50b-e970-4ad2-aa28-4490857c6463?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2099471210094760329>)
+
+---

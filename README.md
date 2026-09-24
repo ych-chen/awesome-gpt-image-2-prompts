@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **373** | **60** | 2026-09-24 |
+| **376** | **60** | 2026-09-24 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,8 +28,8 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 83 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| Commercial &amp; Product | 83 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| Portrait | 85 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| Commercial &amp; Product | 84 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
 | Poster &amp; Graphic | 83 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 13 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 81 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 11
+### Portrait · 13
 
 [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -368,6 +368,145 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-90b5c046-fbc3-4089-a86a-2c04a749530e"></a>
+
+#### Golden Hour Portrait Collage
+
+<a href="https://musesignal.com/prompt/90b5c046-fbc3-4089-a86a-2c04a749530e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSPAzm0aYAAEg4W.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Portrait Collage" /></a>
+
+**GPT Image 2** · Creator: Laraib Fatima‎
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+image_generation": {
+"face": {
+"preserve_original": true,
+"reference_match": true,
+"description": "Maintain the same facial structure, skin tone, eye shape, and natural expressions across all frames, with consistent identity in each pose."
+},
+
+"photo_style": {
+"type": "golden hour portrait collage",
+"camera_angle": "varied close-up and medium portrait angles",
+"lighting": "warm golden hour sunlight casting soft window shadows",
+"mood": "soft, calm, intimate, aesthetic",
+"texture": "natural skin texture, soft highlights, gentle contrast",
+"focus": "sharp focus on face with smooth background falloff"
+},
+
+"subject": {
+"poses": [
+"looking upward toward light",
+"soft smile facing camera",
+"side profile with downward gaze",
+"over-the-shoulder glance",
+"direct close-up with relaxed lips",
+"hand in hair casual pose",
+"head tilted back toward light",
+"clean side profile portrait",
+"thoughtful pose with hand near chin"
+],
+"expression": "natural, minimal, relaxed, emotionally subtle",
+"hair": {
+"style": "long straight hair worn loose",
+"color": "light to medium brown",
+"details": "natural shine with soft light highlights"
+},
+"clothing": {
+"type": "casual minimalist outfit",
+"details": "simple dark t-shirt with no visible branding"
+}
+},
+
+"composition": {
+"layout": "3x3 grid collage",
+"consistency": "uniform lighting and background across all frames",
+"framing": "clean portrait framing with slight pose variation"
+},
+
+"environment": {
+"setting": "indoor space near a window",
+"background": "plain wall with warm sunlight and shadow patterns",
+"atmosphere": "quiet, minimal, artistic indoor ambiance"
+},
+
+"aesthetic": {
+"style": "Instagram aesthetic portrait set",
+"features": [
+"golden hour light",
+"window shadow patterns",
+"minimal makeup",
+"natural expressions",
+"clean editorial portrait look"
+]
+}
+
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/90b5c046-fbc3-4089-a86a-2c04a749530e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2099733908011282670>)
+
+---
+
+<a id="prompt-91fbd50b-e970-4ad2-aa28-4490857c6463"></a>
+
+#### Cinematic Paris Night Fashion Portrait
+
+<a href="https://musesignal.com/prompt/91fbd50b-e970-4ad2-aa28-4490857c6463?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSLRN1DakAAge6x.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Paris Night Fashion Portrait" /></a>
+
+**GPT Image 2** · Creator: Laraib Fatima‎
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a highly realistic cinematic nighttime fashion portrait of a woman standing directly in front of the Eiffel Tower in Paris.
+
+SUBJECT:
+A stylish adult woman with long, straight-to-slightly-wavy black hair flowing naturally in the wind. She has a confident yet relaxed expression and a subtle editorial-fashion attitude. Preserve the reference face with maximum fidelity if a reference image is provided: exact facial structure, face shape, eyes, nose, lips, skin tone, proportions, and natural identity. Do not alter or beautify the facial identity.
+
+OUTFIT:
+She wears a fitted black leather biker jacket with realistic leather texture, structured shoulders, silver/gunmetal buttons and zippers, over a simple black top. Elegant, minimal, modern Parisian street-fashion aesthetic.
+
+ACCESSORIES:
+Large stylish dark sunglasses with a glossy black frame and slightly tinted lenses. Minimal accessories, keeping the overall look sophisticated and understated.
+
+POSE:
+Medium-to-full body portrait. She stands confidently with her shoulders relaxed, body facing the camera, while her head is tilted slightly to one side. Her arms rest naturally in front of her body. Hair is gently blown sideways by the night breeze. Expression is calm, mysterious, and confident.
+
+BACKGROUND:
+The Eiffel Tower is directly behind her, centered and dramatically illuminated with warm golden lights. The tower should appear large and impressive, extending upward behind the subject. Paris streets and distant city lights are visible near the bottom of the frame with realistic bokeh from cars and street lamps.
+
+LIGHTING:
+Nighttime cinematic lighting, warm golden illumination from the Eiffel Tower, subtle soft light on the woman's face, realistic highlights on the leather jacket and sunglasses, deep navy-black night sky, strong subject separation, natural shadows.
+
+CAMERA:
+Professional fashion photography, full-frame camera look, 85mm portrait lens, shallow depth of field, realistic optical bokeh, sharp focus on the woman, slightly softer Eiffel Tower background, natural skin texture, realistic hair strands.
+
+COMPOSITION:
+Vertical 9:16 composition, centered subject, Eiffel Tower perfectly aligned behind her, symmetrical cinematic framing, subject occupying the lower-middle portion of the frame, dramatic negative space above, premium luxury fashion editorial aesthetic.
+
+STYLE:
+Ultra-realistic photography, cinematic color grading, photorealistic skin, realistic fabric and leather texture, natural proportions, high detail, sophisticated Paris-at-night atmosphere, subtle film grain, professional Vogue-style fashion photography.
+
+NEGATIVE PROMPT:
+cartoon, anime, illustration, CGI, plastic skin, excessive beauty filter, distorted face, altered identity, asymmetrical eyes, extra fingers, malformed hands, duplicate person, distorted Eiffel Tower, unrealistic hair, oversaturated colors, low resolution, blurry subject, artificial skin, watermark, text, logo.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/91fbd50b-e970-4ad2-aa28-4490857c6463?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2099471210094760329>)
+
+---
+
 <a id="prompt-777a95ba-cdad-4727-bef2-eff205eb8637"></a>
 
 #### High Fashion B&amp;W Editorial Portrait
@@ -458,7 +597,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 12
+### Commercial &amp; Product · 11
 
 [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>)
 
@@ -957,6 +1096,674 @@ Use case: Commercial &amp; Product
 
 ---
 
+<a id="prompt-e41867db-d405-44f7-88c2-a9be9baa92eb"></a>
+
+#### Luxury Fashion Campaign with Hidden Stone Portraits
+
+<a href="https://musesignal.com/prompt/e41867db-d405-44f7-88c2-a9be9baa92eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSRIgMAaYAAQfgV.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Fashion Campaign with Hidden Stone Portraits" /></a>
+
+**GPT Image 2** · Creator: Laraib Fatima‎
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT image 2 on chatgpt
+
+Prompt:
+Vertical 2:3 ultra-photorealistic luxury fashion campaign photograph.
+
+Create a completely original high-end fashion campaign that feels like the debut visual identity of an experimental luxury fashion house.
+
+The scene should combine architectural sculpture, fashion photography, hidden portrait art, shallow reflective water, and warm cinematic sunlight.
+
+The result should feel expensive, artistic, mysterious, sophisticated, and highly original.
+
+It should look like a real professionally photographed luxury campaign rather than digital artwork.
+
+MAIN SUBJECT:
+
+A beautiful young adult woman stands as the clear hero of the composition.
+
+Place her in the lower-middle foreground surrounded by enormous sculptural architectural forms.
+
+She should remain large enough for her face, outfit, and body language to be clearly readable.
+
+Her natural proportions must remain realistic.
+
+She should feel physically present inside the environment rather than composited into it.
+
+HAIR:
+
+Long dark-brown hair with naturally rich volume.
+
+Create a soft center-to-slightly-off-center part.
+
+Hair falls freely past the shoulders toward the lower chest.
+
+The texture is naturally wavy with loose irregular bends rather than defined curls.
+
+Create soft volume around the crown and sides.
+
+Several front strands naturally frame the face.
+
+More hair volume falls over one shoulder while the remaining hair flows naturally behind the other shoulder.
+
+Include delicate wispy strands around the forehead and cheeks.
+
+Add subtle natural flyaways.
+
+Individual strands should be visible in the sunlight.
+
+Hair should have realistic dimensional texture and restrained natural shine.
+
+The hairstyle should feel effortless and lightly moved by the outdoor air.
+
+No ponytail.
+No braid.
+No tight curls.
+No perfectly straight hair.
+No heavily styled salon hairstyle.
+No artificial plastic-looking hair.
+
+OUTFIT:
+
+Create a completely new luxury outfit inspired by quiet contemporary fashion.
+
+Dress the woman in a long dusty-rose blush tailored coat made from premium soft wool-cashmere fabric.
+
+The coat should have a relaxed elongated silhouette reaching below the knees.
+
+Create wide sculptural lapels.
+
+Slightly oversized shoulders.
+
+Long sleeves with soft gathered cuffs.
+
+Subtle structured tailoring through the upper body.
+
+The coat should remain open naturally.
+
+Underneath, she wears a clean ivory square-neck silk-blend top with a minimal elegant silhouette.
+
+Pair it with high-waisted wide-leg cream trousers.
+
+The trousers should have a sophisticated tailored construction with a clean waistband, subtle front pleats, smooth flowing fabric, and natural weight.
+
+The trouser legs should extend almost to the floor while remaining clearly separated from the shoes.
+
+Complete the outfit with minimalist ivory leather low-profile sneakers.
+
+The overall styling should feel like contemporary luxury resort tailoring.
+
+No denim.
+No sweater.
+No dress.
+No skirt.
+No casual streetwear.
+No logos on clothing.
+
+ACCESSORIES:
+
+Add a small structured ivory leather shoulder bag.
+
+The bag hangs naturally beside the woman's hip.
+
+Minimal antique-gold hardware.
+
+Add small delicate gold hoop earrings.
+
+Add one extremely thin gold bracelet.
+
+Add a refined minimalist wristwatch with a small neutral dial.
+
+Accessories should remain understated and secondary to the fashion silhouette.
+
+No oversized jewelry.
+No flashy diamonds.
+No visible brand logos.
+No excessive accessories.
+
+MAKEUP & FACE:
+
+Keep the reference woman's facial identity completely intact.
+
+Natural luxury editorial makeup.
+
+Fresh realistic skin with visible natural pores.
+
+Soft warm complexion.
+
+Very subtle satin skin finish.
+
+Lightly defined eyebrows.
+
+Natural lashes.
+
+Soft neutral taupe eyeshadow.
+
+Very subtle brown eyeliner close to the lash line.
+
+Muted rosy-nude lips.
+
+Soft natural blush across the cheeks.
+
+No heavy contouring.
+
+No exaggerated eyelashes.
+
+No glossy artificial skin.
+
+No dramatic makeup transformation.
+
+The face should remain realistic and recognizable.
+
+POSE:
+
+The woman stands naturally on a polished stone walkway.
+
+Her torso remains relaxed and upright.
+
+Her body is slightly angled rather than perfectly square to the camera.
+
+Her head turns gently toward the left side of the frame.
+
+She looks slightly away from the camera with a calm thoughtful expression.
+
+Her expression is soft, confident, peaceful, and sophisticated.
+
+Both hands rest naturally inside the side pockets of her long coat.
+
+Her elbows remain relaxed.
+
+One leg is positioned slightly forward.
+
+The other leg remains naturally behind it.
+
+Create a subtle elegant overlap between the legs without an exaggerated crossed-leg pose.
+
+Her posture should feel candid and effortless.
+
+She should look like she has paused naturally while walking through the architectural installation.
+
+Do not make the pose stiff.
+
+Do not make her look like a mannequin.
+
+Do not create a runway pose.
+
+ARCHITECTURAL CONCEPT:
+
+Build the entire campaign around a monumental sculptural installation inspired by elongated architectural petals and flowing stone blades.
+
+Create approximately six enormous curved stone structures rising from the ground.
+
+Each structure is tall, narrow, organic, and dramatically curved.
+
+They should resemble giant architectural fins or elongated mineral petals.
+
+Use warm ivory limestone mixed with pale blush travertine.
+
+Each structure has a slightly different curve, thickness, height, and angle.
+
+No two structures should be identical.
+
+Avoid perfect symmetry.
+
+The forms should overlap naturally and create multiple layers of depth.
+
+Some structures should lean inward toward the woman.
+
+Others should curve outward toward the sky.
+
+The architecture should create a visual tunnel around the model.
+
+The stone forms must look extremely heavy and physically engineered.
+
+They should have realistic weight, thickness, seams, edges, pores, mineral grain, and subtle imperfections.
+
+Do NOT make them look like paper.
+
+Do NOT make them look like fabric.
+
+Do NOT make them look inflatable.
+
+Do NOT create a literal flower.
+
+The architecture should feel like a completely new luxury art installation.
+
+HIDDEN PORTRAIT SYSTEM:
+
+Create THREE monochrome portrait impressions of the SAME woman within the architectural stone structures.
+
+These must NOT look like ordinary photographs attached to the sculpture.
+
+They should appear mysteriously embedded into the inner surfaces of the curved stone.
+
+The edges should dissolve naturally into the architecture.
+
+The effect should feel halfway between archival photography and an impossible architectural memory.
+
+PORTRAIT ONE:
+
+Place a large monochrome portrait high on the upper-left architectural structure.
+
+The same woman wears elegant black sunglasses.
+
+She faces toward the viewer with a calm confident expression.
+
+Her long dark-brown hair remains consistent with the main woman's identity.
+
+The portrait is softly faded into the stone.
+
+PORTRAIT TWO:
+
+Place another monochrome portrait deeper inside the central-right architectural structure.
+
+The same woman looks downward.
+
+One hand gently touches a section of her hair.
+
+The image should be partially obscured by the curved stone edge.
+
+PORTRAIT THREE:
+
+Place the third monochrome portrait near the lower-right area.
+
+The same woman wears black sunglasses and gently adjusts them while looking toward distant light.
+
+Only part of the portrait should be visible.
+
+Do not arrange the three portraits in a row.
+
+Do not create a grid.
+
+Do not create identical portrait sizes.
+
+Give each portrait a different scale, crop, height, and level of visibility.
+
+The portraits should feel accidentally discovered within the architecture.
+
+PORTRAIT MATERIAL:
+
+Use extremely subtle charcoal-gray monochrome photography.
+
+Very low saturation.
+
+Soft silver-gray highlights.
+
+Slight archival photographic texture.
+
+The portraits should have realistic photographic depth rather than painted faces.
+
+Their tonal values should interact naturally with the stone.
+
+They should become more visible where sunlight touches the architecture.
+
+They should almost disappear inside deeper shadows.
+
+ARCHITECTURAL SIGNATURE:
+
+On one large foreground stone surface, subtly carve a tiny minimalist heart symbol into the limestone.
+
+The carving should look physically engraved into the stone.
+
+Keep it extremely subtle.
+
+No large logo.
+
+No giant typography.
+
+No obvious advertising.
+
+The architecture itself should be the recognizable visual signature of the fashion house.
+
+ENVIRONMENT:
+
+Create an extraordinary open-air luxury architectural courtyard.
+
+The installation stands above a shallow reflective water surface.
+
+Create a polished pale-stone walkway emerging from the water.
+
+The woman stands naturally on this walkway.
+
+Water should surround parts of the architecture.
+
+The surface should contain delicate realistic ripples.
+
+Add a small number of pale pink blossoms floating naturally on the water.
+
+Do not overcrowd the scene.
+
+In the distant background, create a very subtle hazy mountain horizon visible through the architectural openings.
+
+The mountains should remain soft and atmospheric.
+
+Add delicate flowering branches entering from the far left edge and a few restrained branches near the right background.
+
+The botanical elements should feel naturally integrated into the architecture.
+
+No furniture.
+
+No buildings.
+
+No extra people.
+
+FLOOR:
+
+Use polished warm ivory stone.
+
+Create realistic reflections of the woman's shoes, trousers, architecture, and sunlight.
+
+Reflections should be slightly distorted rather than mirror-perfect.
+
+Water and stone should meet naturally.
+
+Add realistic small surface imperfections.
+
+LIGHTING:
+
+Use warm late-afternoon golden-hour sunlight.
+
+The primary sunlight comes from the upper-left side of the environment.
+
+Warm sunlight passes between the architectural structures.
+
+Create strong but soft-edged highlights along the limestone surfaces.
+
+The woman receives warm directional light across her face and coat.
+
+Create a delicate golden rim light around the edges of her hair.
+
+The ivory trousers and top should reflect soft warm light.
+
+The blush coat should catch subtle peach-gold highlights.
+
+Deep architectural shadows should form between the stone structures.
+
+The monochrome portraits should remain partially hidden in shadow.
+
+Create realistic ambient bounce light from the pale stone.
+
+Add subtle reflected light from the water.
+
+No harsh artificial studio lighting.
+
+BOTANICAL SHADOWS:
+
+Allow delicate flowering branches to cast organic shadows across the limestone surfaces.
+
+The shadows should be soft and slightly blurred.
+
+They should overlap naturally with the architectural textures.
+
+Avoid decorative wallpaper-like shadows.
+
+Make them look like real sunlight passing through nearby branches.
+
+COMPOSITION:
+
+Vertical 2:3.
+
+The woman is the primary visual anchor.
+
+Place her approximately in the center-lower portion of the composition.
+
+Her full body must be visible from head to shoes.
+
+The monumental architecture rises dramatically around her.
+
+Use the nearest stone structures as foreground framing elements.
+
+Allow some architectural forms to partially overlap the edges of the frame.
+
+Create strong depth from foreground stone to middle-ground woman to distant architecture and mountains.
+
+Keep the three monochrome portraits distributed organically through the composition.
+
+Do not create a symmetrical layout.
+
+Do not center every architectural element.
+
+Use asymmetrical balance.
+
+Leave controlled breathing space around the woman's head.
+
+The viewer's eye should naturally travel:
+
+woman → architecture → hidden portraits → water → distant horizon.
+
+CAMERA:
+
+Professional medium-format luxury fashion photography.
+
+Vertical 2:3 frame.
+
+Slightly low camera position.
+
+Full-body editorial composition.
+
+Moderate telephoto perspective.
+
+Approximately 85mm lens character.
+
+Natural perspective compression.
+
+No wide-angle distortion.
+
+Keep the woman proportionally realistic.
+
+Sharp focus on the woman's face and outfit.
+
+Architecture remains highly detailed but slightly softer toward the distant background.
+
+Use subtle depth of field.
+
+Natural cinematic lens rendering.
+
+Professional high-end fashion campaign photography.
+
+COLOR PALETTE:
+
+Warm ivory limestone
+Pale blush stone
+Dusty rose
+Soft cream
+Warm beige
+Muted champagne
+Charcoal monochrome
+Natural skin tones
+Soft brown hair
+
+Keep the palette sophisticated and restrained.
+
+No neon.
+
+No highly saturated colors.
+
+No artificial color effects.
+
+MATERIAL REALISM:
+
+Extremely detailed natural limestone.
+
+Visible travertine pores.
+
+Subtle mineral veins.
+
+Tiny natural imperfections.
+
+Realistic stone edges.
+
+Authentic wool-cashmere coat texture.
+
+Individual fabric fibers.
+
+Natural silk texture.
+
+Detailed tailored trouser construction.
+
+Realistic leather sneaker texture.
+
+Subtle gold reflections.
+
+Physically accurate water reflections.
+
+Realistic atmospheric haze.
+
+Natural environmental shadows.
+
+PHOTOREALISM:
+
+Ultra-photorealistic human skin.
+
+Visible but subtle natural pores.
+
+Individual eyelashes.
+
+Individual hair strands.
+
+Natural flyaways.
+
+Realistic facial micro-texture.
+
+Accurate hands and fingers.
+
+Correct anatomy.
+
+Realistic fabric weight.
+
+Natural clothing folds.
+
+Physically believable stone.
+
+Realistic sunlight scattering.
+
+Natural water physics.
+
+Subtle medium-format photographic grain.
+
+Premium cinematic color grading.
+
+No artificial CGI appearance.
+
+ART DIRECTION:
+
+The final image should look like a real luxury fashion campaign photographed at a world-class architectural art installation.
+
+It should not look like a Pinterest collage.
+
+It should not look like a fashion moodboard.
+
+It should not look like a poster template.
+
+The architecture, fashion, portrait art, water, and natural light should feel like one physically existing location.
+
+The visual story should be:
+
+FIRST LOOK:
+An elegant woman standing inside an extraordinary stone installation.
+
+SECOND LOOK:
+The viewer notices the unusual curved architecture.
+
+THIRD LOOK:
+The viewer discovers three mysterious monochrome versions of the same woman hidden inside the stone.
+
+The result should feel quiet, intelligent, cinematic, collectible, mysterious, and unmistakably designer-driven.
+
+NEGATIVE PROMPT:
+
+No identity change.
+No different face.
+No face morphing.
+No facial redesign.
+No different hairstyle from the creative hair description.
+No short hair.
+No ponytail.
+No braid.
+No tight curls.
+No plastic hair.
+
+No dress.
+No skirt.
+No sweater.
+No jeans.
+No denim.
+No sneakers in colors other than ivory.
+No casual streetwear.
+No excessive jewelry.
+No oversized accessories.
+
+No side profile.
+No back-facing pose.
+No walking-away pose.
+No stiff mannequin pose.
+No exaggerated runway pose.
+No distorted hands.
+No extra fingers.
+No missing fingers.
+No duplicated limbs.
+No duplicated bodies.
+No extra people.
+
+No conventional photo collage.
+No rectangular portrait panels.
+No picture frames.
+No floating photographs.
+No mirrors.
+No magazine pages.
+No grid layout.
+No repeated identical portraits.
+
+No giant flower.
+No symmetrical flower sculpture.
+No ordinary studio backdrop.
+No generic beige room.
+No fantasy castle.
+No futuristic spaceship.
+No excessive props.
+No excessive flowers.
+
+No giant readable text.
+No random lettering.
+No large logo.
+No watermark.
+No artificial typography.
+
+No neon.
+No oversaturated colors.
+No cartoon.
+No illustration.
+No anime.
+No CGI-looking skin.
+No plastic skin.
+No unrealistic reflections.
+No distorted architecture.
+
+FINAL OUTPUT:
+
+Ultra-photorealistic luxury fashion campaign.
+Architectural surrealism.
+Contemporary designer fashion.
+Editorial photography.
+Museum-quality art direction.
+Natural human realism.
+Premium medium-format photography.
+Cinematic golden-hour atmosphere.
+Highly detailed materials.
+Vertical 2:3 composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e41867db-d405-44f7-88c2-a9be9baa92eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2099883758518468756>)
+
+---
+
 <a id="prompt-31766bf8-0560-4b8c-865c-7ff278e78eb9"></a>
 
 #### Red Bull Cinematic 3D Commercial Ad
@@ -1002,83 +1809,6 @@ Background filled with dynamic paint splashes and street-art textures in matchin
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2065596558444478893>)
-
----
-
-<a id="prompt-4fbd933d-e500-482b-bb9b-d1382412573d"></a>
-
-#### Midnight Aurora: Luxury Perfume in Arctic Night
-
-<a href="https://musesignal.com/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLJa1NeaAAABqaW.jpg?format=jpg&amp;name=small" width="480" alt="Midnight Aurora: Luxury Perfume in Arctic Night" /></a>
-
-**GPT Image 2** · Creator: Snow
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-premium luxury product photography scene in vertical format featuring a fictional niche perfume called “MIDNIGHT AURORA” as the hero product.
-The perfume bottle has a sleek geometric silhouette crafted from deep sapphire-blue crystal glass with brushed platinum accents and a sculptural metallic cap. Place the bottle on a polished black obsidian pedestal surrounded by glowing crystal fragments and subtle mist.
-The environment evokes a mystical Arctic night under the Northern Lights. In the background, vibrant aurora waves flow across the scene with soft green, blue, and violet light trails. Floating ice crystals, shimmering particles, and translucent frost textures create a magical atmosphere.
-Lighting: dramatic cinematic rim lighting from behind, cool blue key light from the left, subtle platinum reflections on the bottle, volumetric light rays, luxury commercial lighting setup, high-end fragrance campaign aesthetic.
-Color palette: midnight blue, emerald green, icy cyan, silver, violet.
-Camera: Full-frame professional camera, 85mm macro lens, f/2.8 aperture, shallow depth of field, ultra-realistic glass reflections, premium product photography, razor-sharp bottle details, soft creamy bokeh.
-Composition: clean centered composition, bottle occupying the visual focus, balanced negative space, luxury branding aesthetic, magazine-cover quality, photorealistic, 8K, masterpiece, commercial advertising campaign.
-Important: Preserve the exact uploaded product shape and label placement while seamlessly integrating it into the luxury Arctic aurora environment.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2067815062144987542>)
-
----
-
-<a id="prompt-fff7f965-982c-4d70-8366-c9070679f157"></a>
-
-#### BLAZE Energy Drink Ad Layout with Hero Shot
-
-<a href="https://musesignal.com/prompt/fff7f965-982c-4d70-8366-c9070679f157?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKRLHQAb0AAxjT6.jpg?format=jpg&amp;name=small" width="480" alt="BLAZE Energy Drink Ad Layout with Hero Shot" /></a>
-
-**GPT Image 2** · Creator: Sarah
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A professional energy drink advertising layout sheet for BLAZE Energy Drink. The layout is divided into two main sections:
-LEFT SIDE — Hero Shot:
-A young South Asian woman in her mid-20s with bold, confident look, dark hair loosely down with natural waves, wearing a white cropped football jersey and black shorts. She is holding a sleek matte black energy drink can labeled "BLAZE" with bold red and orange flame graphics toward the camera with a fierce, energetic smile. Background is a softly lit football stadium with blurred crowd and green pitch visible behind her. Dynamic golden and red ambient lighting. Text overlay on top-left reads "BLAZE" in large bold modern font, below it "Energy Drink" in smaller clean font. Cursive script reads "Real energy. Real game. Real fire." with a small flame icon. Bottom of hero shot has a rounded rectangle overlay with bold text: "Fuel the Fire. Own the Game."
-RIGHT SIDE — Video Script & Visual Flow:
-Bold heading at top: "VIDEO SCRIPT & VISUAL FLOW"
-Six storyboard panels in a 2-column grid, each with a scene label badge in top-left corner (dark background, white text):
-SCENE 1 – HOOK: Same woman on football pitch, stadium lights behind her, pointing at camera with intense expression. Caption below: "Want to play like a champion? This is my secret fuel."
-SCENE 2 – PRODUCT INTRO: Woman holding the BLAZE can up near her face, stadium bokeh background, fierce smile. Caption: "This is BLAZE Energy Drink — pure fire in every sip."
-SCENE 3 – DRINKING SHOT: Close-up of woman taking a bold sip from the BLAZE can after a match, sweat glistening, golden stadium lights. Caption: "Instant energy boost. Zero crash. All game."
-SCENE 4 – LIFESTYLE SHOT: Woman sitting in stadium stands wearing football jersey, holding BLAZE can, crowd cheering behind her, confetti falling. Caption: "Perfect for match day energy, every single time."
-SCENE 5 – RESULTS: Woman celebrating a goal on the pitch, arms raised, BLAZE can in hand, dynamic motion blur background, stadium roaring. Caption: "Feel the power. Play harder. Go further."
-SCENE 6 – CALL TO ACTION: Woman smiling confidently holding BLAZE can with one hand and football with other hand, bold stadium lighting. Caption: "Grab BLAZE and fuel your game today."
-BOTTOM SECTION — Two panels side by side:
-LEFT — KEY INGREDIENTS box with 4 circle icons and ingredient names with short descriptions:
-- Caffeine: Instant energy boost for peak performance
-- B Vitamins: Supports stamina & endurance
-- Electrolytes: Keeps you hydrated during intense play
-- Taurine: Enhances focus & reaction speed
-RIGHT — SAMPLE SHOTS / B-ROLL IDEAS with 5 small rectangular photos in a row:
-1. BLAZE can close-up on wet grass football pitch
-2. Can being cracked open with energy drink fizz splash
-3. Woman drinking can on sideline during match
-4. Stadium crowd celebrating goal at night with floodlights
-5. BLAZE can flatlay with football, boots and grass props
-Overall aesthetic: dark moody blacks, bold reds, electric oranges and stadium gold tones. High energy cinematic photography. Dynamic dramatic lighting throughout. Premium sports drink feel with FIFA World Cup atmosphere. All photos feature the same consistent South Asian woman model with athletic confident energy.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/fff7f965-982c-4d70-8366-c9070679f157?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/SyntheSarah/status/2063859070914998314>)
 
 ---
 
@@ -2132,7 +2862,7 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 9
+### Scene &amp; Space · 8
 
 [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2350,40 +3080,6 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ---
 
-<a id="prompt-657a3e4c-6f17-4846-9f1f-18166dbdb283"></a>
-
-#### Storm Tunnel to Muddy Pitch
-
-<a href="https://musesignal.com/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLQlH4uasAAmDkE.jpg?format=jpg&amp;name=small" width="480" alt="Storm Tunnel to Muddy Pitch" /></a>
-
-**GPT Image 2** · Creator: 𝐌
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT STORYBOARD PROMPT
-Scenel (0:00-0:02) -Storm Tunnel: Heavy rain hammers the stadium tunnel entrance.
-Hero stands already soaked, water dripping from his jaw and hair, kit clinging to him. 85mm push-in, dramatic low light, water droplets visible in slow motion.
-Scene 2 (0:02 -0:04) -Mud and Lightning: Hero sprints onto a waterlogged World Cup 2026
-final pitch. Lightning briefly illum inates the packed stadium. Floodlights reflect off standing puddles on the grass.
-Scenes 3-5 (0:04 0:10)-Trick Sequence in Storm: Body feint past USA defender on slick
-turfboth nearly slip. Heel roll past Belgium through standing water with visible splash. Drag-back 360 past Argentina, kit now caked in mud. Orbit spin past France, barely visible through sheets of rain. Nutmeg past Norway striker, both completely drenched. Ground-level tracking through heavy rain, fast whip-pans, speed ram ps.
-Scene 6 (0:100:12) -Desperate Header: A cross com es in through the storm. Hero dives
-full stretch, body parallel to the muddy ground, connecting with a desperate header. Macro slow motion, water spraying from the impact.
-Scenes 7-8 (0:12 0:15) -Net & Trophy in Rain: Ball hits net. Hero lands face-down in mud,
-then rises completely soaked and filthy, arms raised. Teammates slide in beside him through the wet grass. Trophy lift in pouring rain, water cascading off the gold trophy, fireworks struggling through storm clouds.
-Visual consistency: same face, same mud-soaked kit, same drenched hair throughout. No logos. ARRI Alexa 35 grade, desaturated storm tones, anamorphic flores through rain.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068319029438329285>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2395,18 +3091,18 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 45 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 328 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 331 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 
 ## Recently published
 
+- [Luxury Fashion Campaign with Hidden Stone Portraits](<https://musesignal.com/prompt/e41867db-d405-44f7-88c2-a9be9baa92eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Golden Hour Portrait Collage](<https://musesignal.com/prompt/90b5c046-fbc3-4089-a86a-2c04a749530e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Cinematic Paris Night Fashion Portrait](<https://musesignal.com/prompt/91fbd50b-e970-4ad2-aa28-4490857c6463?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [High Fashion B&amp;W Editorial Portrait](<https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Minimalist Marker-Pen New York City Travel Poster](<https://musesignal.com/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Luxury Wellness Detox Drink Poster](<https://musesignal.com/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Red Bull Cinematic 3D Commercial Ad](<https://musesignal.com/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Hyderabadi Chicken Biryani Recipe Infographic](<https://musesignal.com/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Ultra-Realistic Soda Can Streetwear Ad Poster](<https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
-- [Continuous Line-Art Travel Poster](<https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Candid Street Portrait in Natural Light](<https://musesignal.com/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2427,7 +3123,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 373](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 376](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
