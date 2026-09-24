@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **371** | **60** | 2026-09-24 |
+| **372** | **60** | 2026-09-24 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -30,7 +30,7 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 | --- | ---: | --- |
 | Portrait | 82 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
 | Commercial &amp; Product | 83 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| Poster &amp; Graphic | 82 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| Poster &amp; Graphic | 83 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 13 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 81 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | Scene &amp; Space | 30 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
@@ -423,7 +423,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 13
+### Commercial &amp; Product · 12
 
 [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>)
 
@@ -1047,51 +1047,9 @@ Overall aesthetic: dark moody blacks, bold reds, electric oranges and stadium go
 
 ---
 
-<a id="prompt-a2efad8e-14fc-4890-be75-0f85c3d55b73"></a>
-
-#### Gaudi-Inspired Perfume Bottles in Luxurious 3x3 Grid
-
-<a href="https://musesignal.com/prompt/a2efad8e-14fc-4890-be75-0f85c3d55b73?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJk7R5yWIAE5P-A.jpg?format=jpg&amp;name=small" width="480" alt="Gaudi-Inspired Perfume Bottles in Luxurious 3x3 Grid" /></a>
-
-**GPT Image 2** · Creator: Shams
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Prompt for Perfumes
-A highly detailed, luxurious product photography of 9 premium perfume bottles arranged in a perfect 3x3 grid, vertical 9:16 aspect ratio. Each perfume bottle is uniquely inspired by Antoni Gaudí's architectural style organic, biomorphic, and fluid forms with flowing curves, no straight lines, intricate mosaic patterns (trencadís), nature-inspired motifs like leaves, flowers, waves, and surreal organic shapes, vibrant yet elegant colored glass with gold and metallic accents.
-Cinematic lighting with dramatic rim lighting, soft volumetric god rays, and luxurious highlights that make the glass bottles glow and sparkle. Minimal clean background in soft gradient off-white to light beige, keeping all focus on the products.
-Each bottle features:
-- A prominent, elegant name label with the perfume name clearly visible in sophisticated typography.
-- A macro, highly detailed luxury label design by Shams on the front of every bottle — ornate, artistic, and premium with fine details, small decorative elements, and "by Shams" signature subtly integrated.
-Perfume names (clearly visible on each bottle):
-Top row:
-1. "Sagrada Bloom"
-2. "Gaudi's Muse"
-3. "Trencadís Whisper"
-Middle row:
-4. "Casa Batlló"
-5. "Organic Reverie"
-6. "Mosaic Flame"
-Bottom row:
-7. "Park Güell"
-8. "Curved Eternity"
-9. "Barcelona Nocturne"
-Ultra-realistic rendering, 4K product photography style, impeccable details, elegant and seductive mood, high-end commercial advertising aesthetic, sharp focus, beautiful bokeh, visually stunning and highly appealing composition.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/a2efad8e-14fc-4890-be75-0f85c3d55b73?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2060743631179546995>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 10
+### Poster &amp; Graphic · 11
 
 [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>)
 
@@ -1555,6 +1513,56 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/921bd691-513e-4273-af55-4a32602a8ef8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2065440072980377654>)
+
+---
+
+<a id="prompt-738a6b81-595b-4ef1-b140-c2c897ceeafb"></a>
+
+#### Minimalist Marker-Pen New York City Travel Poster
+
+<a href="https://musesignal.com/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJeeAuaoAA8kqx.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Marker-Pen New York City Travel Poster" /></a>
+
+**GPT Image 2** · Creator: Sairah
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a vertical 3:4 minimalist marker-pen travel poster of NEW YORK CITY on warm ivory paper.
+
+STYLE:
+Use a rough, imperfect editorial marker illustration style with a modern folk-art feel. Draw with thick, slightly uneven cobalt-blue contour lines. Apply color with visible felt-tip marker strokes, streaky coverage, pressure variation, dry-skip texture, and patchy density. Do not fill shapes completely. Leave many small and medium uncolored gaps so the warm ivory paper remains visible through clothing, buildings, and street elements. Some outlines should break, skip, or fade.
+
+SCENE:
+Depict two lovers walking closely together on a quiet brownstone street in Manhattan. One gently leans toward the other in a natural affectionate pose. Keep the scene intimate and understated.
+
+BACKGROUND SIMPLIFICATION:
+Include only 4 essential New York cues: one brownstone stoop, one black fire escape, one small corner deli awning, and one faint yellow taxi. Optionally suggest a very faint distant skyline silhouette, but do not add more city elements. Keep the background visually quiet.
+
+COMPOSITION:
+Place the couple slightly below center as the emotional focus. Let the supporting background elements sit loosely behind them with incomplete marker fills and broken contour fragments. At least 40 percent of the page should remain untouched warm ivory paper. Keep the layout airy, elegant, and uncluttered.
+
+FINISH GRADIENT:
+The couple is the most resolved area. Nearby background objects are only about 40 to 60 percent rendered. Distant details and outer edges fade into loose marker strokes and untouched paper before reaching the border.
+
+POSTER TYPOGRAPHY:
+Add the title "NEW YORK CITY" at the top in bold hand-drawn uppercase lettering. Add a small handwritten subtitle such as "summer stroll".
+
+COLOR PALETTE:
+Use a restrained palette of deep cobalt blue, muted slate blue, mustard ochre, warm brown, taxi yellow, and warm ivory paper. Keep the palette limited and slightly muted.
+
+MOOD:
+Romantic, calm, urban, nostalgic, stylish, handmade.
+
+NEGATIVE PROMPT:
+fully filled marker coloring, solid flat fills, smooth vector color, polished digital finish, clean perfect outlines, overly complete rendering, crowded background, too many city elements, dense architecture, detailed signage, realistic textures, glossy surfaces, photorealism, watercolor, oil painting, airbrush shading, 3D render, cinematic lighting, dramatic shadows, cluttered layout, billboard overload, hyper-detailed buildings, perfect symmetry, extra fingers, extra limbs, distorted anatomy, blurry face
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2081329857888489966>)
 
 ---
 
@@ -2376,10 +2384,11 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 45 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 326 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 327 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 
 ## Recently published
 
+- [Minimalist Marker-Pen New York City Travel Poster](<https://musesignal.com/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Luxury Wellness Detox Drink Poster](<https://musesignal.com/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Red Bull Cinematic 3D Commercial Ad](<https://musesignal.com/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Hyderabadi Chicken Biryani Recipe Infographic](<https://musesignal.com/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
@@ -2387,7 +2396,6 @@ Explore more examples, search and filters on MuseSignal.
 - [Continuous Line-Art Travel Poster](<https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [MOVE DIFFERENT: New Balance 9060 Luxury Campaign](<https://musesignal.com/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2408,7 +2416,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 371](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 372](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
