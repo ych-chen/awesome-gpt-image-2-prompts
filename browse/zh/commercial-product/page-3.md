@@ -901,3 +901,24 @@ Background filled with dynamic paint splashes and street-art textures in matchin
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MissDelulu9/status/2065596558444478893>)
 
 ---
+
+<a id="prompt-31766bf8-0560-4b8c-865c-7ff278e78eb9"></a>
+
+## Red Bull Cinematic 3D Commercial Ad
+
+<a href="https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpTDC8bgAAerAY.jpg?format=jpg&amp;name=small" width="480" alt="Red Bull Cinematic 3D Commercial Ad" /></a>
+
+**GPT Image 2** · 原作者: Mani
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt - Cinematic 3D action-packed advertisement for Red Bull, captured in an intense mid-motion moment with dramatic studio lighting, dynamic particle effects, and high-impact slow-motion energy. Ultra-hyperrealistic rendering, razor-sharp details, glossy commercial finish, atmospheric depth, and powerful contrast. Viral-ready composition with the Red Bull logo seamlessly integrated into the scene and a sleek, modern slogan positioned cleanly beneath. High-end blockbuster commercial aesthetic
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manibuildsAI/status/2070058317104234669>)
+
+---

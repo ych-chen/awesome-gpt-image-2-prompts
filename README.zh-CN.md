@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **368** | **60** | 2026-09-23 |
+| **371** | **60** | 2026-09-24 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -29,9 +29,9 @@
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
 | 人像摄影 | 82 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| 商业产品 | 82 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| 商业产品 | 83 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
 | 海报设计 | 82 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
-| 食物饮品 | 11 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
+| 食物饮品 | 13 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 81 | [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | 场景空间 | 30 | [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
 
@@ -423,7 +423,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 14
+### 商业产品 · 13
 
 [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>)
 
@@ -922,6 +922,29 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 ---
 
+<a id="prompt-31766bf8-0560-4b8c-865c-7ff278e78eb9"></a>
+
+#### Red Bull Cinematic 3D Commercial Ad
+
+<a href="https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpTDC8bgAAerAY.jpg?format=jpg&amp;name=small" width="480" alt="Red Bull Cinematic 3D Commercial Ad" /></a>
+
+**GPT Image 2** · 原作者: Mani
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt - Cinematic 3D action-packed advertisement for Red Bull, captured in an intense mid-motion moment with dramatic studio lighting, dynamic particle effects, and high-impact slow-motion energy. Ultra-hyperrealistic rendering, razor-sharp details, glossy commercial finish, atmospheric depth, and powerful contrast. Viral-ready composition with the Red Bull logo seamlessly integrated into the scene and a sleek, modern slogan positioned cleanly beneath. High-end blockbuster commercial aesthetic
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/manibuildsAI/status/2070058317104234669>)
+
+---
+
 <a id="prompt-a7824a69-5ba5-41eb-a572-89dfcb1c4a9c"></a>
 
 #### Ultra-Realistic Soda Can Streetwear Ad Poster
@@ -1063,86 +1086,6 @@ Ultra-realistic rendering, 4K product photography style, impeccable details, ele
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a2efad8e-14fc-4890-be75-0f85c3d55b73?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2060743631179546995>)
-
----
-
-<a id="prompt-505f9ae0-e78f-4367-b44b-1667347901b1"></a>
-
-#### Luxury Beauty Ad with Elegant Glamour
-
-<a href="https://musesignal.com/zh/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIu6sEIaIAEzMHN.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Beauty Ad with Elegant Glamour" /></a>
-
-**GPT Image 2** · 原作者: shah\_zadii
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ultra-luxury cinematic beauty advertisement featuring a glamorous elegant woman with [SKIN TONE] skin, [HAIR COLOR] hair styled in a [HAIRSTYLE], and [LIP COLOR] glossy lips matching the featured product shade. Her facial proportions remain realistic and naturally beautiful with soft emotional expression and direct cinematic eye contact toward the camera. She wears a luxurious [DRESS COLOR] velvet/satin outfit with elegant [JEWELRY TYPE] jewelry and high-end glamorous makeup.
-Foreground features a premium luxury cosmetic brand named “[BRAND NAME]” with an elegant [LOGO STYLE] logo engraved on the packaging. The featured product is a glossy luxury [PRODUCT TYPE] called “[PRODUCT NAME]”. The product packaging is glossy black with [METALLIC COLOR] metallic edges and ultra-realistic reflective surfaces. Product text reads: “[PRODUCT TEXT]”. The product shade is [PRODUCT SHADE COLOR] with glittery glossy texture and tiny sparkling particles. Product positioned in a stylish luxury composition beside scattered [DECOR ELEMENTS], velvet rose petals, crystal accessories, and reflective black marble surface.
-Background contains cinematic luxury aesthetics with warm candlelight bokeh, luxury perfume bottles labeled “[PERFUME NAME]”, dark roses, elegant vanity setup, glowing reflections, moody [MAIN COLOR PALETTE] atmosphere, cinematic haze, realistic shallow depth of field, analog grain, ultra-detailed textures, luxury fashion campaign mood.
-Lighting style: soft warm tungsten lighting mixed with subtle golden highlights and dramatic shadow contrast. High-end beauty commercial look with glossy reflections, photorealistic skin texture, premium makeup photography, cinematic realism.
-Shot on Sony A7R IV, [LENS TYPE] lens, shallow depth of field, luxury magazine advertisement composition, ultra realistic, 8K detail, dramatic elegant atmosphere.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2056942927797276971>)
-
----
-
-<a id="prompt-2e18beeb-3626-4f6d-a266-ff8eb14e55e4"></a>
-
-#### Glycolic Acid Serum Storyboard in Cinematic Layout
-
-<a href="https://musesignal.com/zh/prompt/2e18beeb-3626-4f6d-a266-ff8eb14e55e4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HHJHJGqa4AAx2vG.jpg?format=jpg&amp;name=small" width="480" alt="Glycolic Acid Serum Storyboard in Cinematic Layout" /></a>
-
-**GPT Image 2** · 原作者: ⁠ luciaAI
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A cinematic luxury skincare advertising storyboard infographic for a glycolic acid exfoliating serum.
-Layout: 16 panels arranged in a clean 4x4 grid, each panel showing a progressive skincare routine and transformation sequence.
-Subject: A modern young woman with clear glowing skin, natural makeup, soft minimal beauty aesthetic, holding and using a premium glass dropper bottle of glycolic acid serum.
-Style: high-end skincare advertisement storyboard, ultra clean dermatology aesthetic, soft cinematic lighting, white marble and pastel background tones, premium editorial beauty photography style, realistic illustration with subtle glow and smooth skin refinement effects.
-Sequence (visual progression across panels):
-1. luxury serum bottle hero shot on marble surface
-2. close-up of glass bottle and label
-3. dropper extracting serum
-4. serum applied to fingertip
-5. gentle application on face
-6. absorption into skin close-up
-7. skin texture smoothing effect
-8. subtle before-after transition hint
-9. radiant glow beginning to appear
-10. skincare routine mirror scene
-11. dermatologist clean aesthetic vibe
-12. hydration and clarity improvement focus
-13. close-up glowing healthy skin portrait
-14. sunlight reflecting on smooth skin
-15. premium product beauty shot with glow
-16. final hero frame: serum bottle + glowing skin model
-Design: clean grid separation, minimal elegant numbering 1–16, thin lines between panels, soft arrows indicating progression flow, refined editorial layout, balanced composition.
-Title at top: “GLYCOLIC ACID – 16 STEP SKIN TRANSFORMATION”
-Negative prompt: blurry, messy layout, low quality, distorted face, acne exaggeration, watermark, oversaturated colors, broken text, unrealistic anatomy, cluttered design
-📌 Motion prompt: A smooth cinematic skincare commercial animation.
-Gently transition through the 16-panel storyboard in sequence, as if the camera is moving across each frame.
-Soft zoom-ins on key moments like serum drop, application on skin, and glowing skin results.
-Maintain a clean luxury beauty aesthetic with soft lighting, white marble tones, and elegant motion flow.
-Subtle camera pans, slow transitions, and minimal motion blur.
-Focus on premium skincare advertisement feel with calm, soothing progression and radiant skin glow effects.
-End on a hero shot of the product with glowing healthy skin.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2e18beeb-3626-4f6d-a266-ff8eb14e55e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/luciaverseai/status/2049780308040663295>)
 
 ---
 
@@ -1700,7 +1643,7 @@ Apply slightly cool color grading with high contrast for realism. Add subtle scr
 
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 8
+### 食物饮品 · 9
 
 [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>)
 
@@ -1877,13 +1820,13 @@ Meanwhile this is what I got from ChatGPT
 
 ---
 
-<a id="prompt-0ccb6a15-f843-4116-8c6d-35dc37758b4b"></a>
+<a id="prompt-864f840b-f078-46e4-9a81-fe7bc463add2"></a>
 
-#### Clear Miniature Beverage Aesthetic
+#### Luxury Wellness Detox Drink Poster
 
-<a href="https://musesignal.com/zh/prompt/0ccb6a15-f843-4116-8c6d-35dc37758b4b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKhEJdraYAAcFeJ.jpg?format=jpg&amp;name=small" width="480" alt="Clear Miniature Beverage Aesthetic" /></a>
+<a href="https://musesignal.com/zh/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL9Ec9TaoAAT8uZ.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Wellness Detox Drink Poster" /></a>
 
-**GPT Image 2** · 原作者: 小小东
+**GPT Image 2** · 原作者: shah\_zadii
 
 创作场景: 食物饮品
 
@@ -1891,18 +1834,41 @@ Meanwhile this is what I got from ChatGPT
 <summary>完整提示词</summary>
 
 ```text
-GPT2 x 清透 x 微缩 x 饮料 x 美学提示词
-在整理小小东知识星球，50组饮料提示词中， 被这组圈粉了
-竖版的也很给力，越来越觉得，美术我们还是要尊重：
-最佳助手——GPT-image2
-它太会了！
-真是一个宝藏，就等着我们天马行空的挖掘。
-提示词见评论区吧，欢迎交作业
+Minimalist luxury wellness poster design, ultra-realistic healthy detox drink advertisement, clean white marble background, soft natural lighting, premium editorial aesthetic, two transparent glass bottles centered, one bottle filled with layered fresh ingredients ([(fruit/vegetables visible in clean sections)]), second bottle filled with blended smoothie matching ingredient colors, elegant black serif typography at top saying "DRINK FOR [BENEFIT NAME]", thin clean infographic lines pointing to ingredients on left, benefit text box on right with [(4 key health benefits)], beautiful glowing female model beside bottles, natural skin texture, soft makeup, healthy radiant face, calm pose, luxury skincare-commercial vibe, fresh ingredients placed around bottom for realism, clean composition, balanced spacing, modern Instagram viral health post, photorealistic, high-detail, premium branding aesthetic, soft shadows, crisp reflections, highly detailed glass texture, [(viral Instagram wellness ad style)], [(Pinterest aesthetic)], [(premium health brand campaign)], 4K ultra HD, sharp focus, cinematic realism.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0ccb6a15-f843-4116-8c6d-35dc37758b4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/xiaoxiaodong01/status/2064975907362897960>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2071449663841218819>)
+
+---
+
+<a id="prompt-9371c856-1ea1-45e4-8124-2fd10ccac036"></a>
+
+#### Hyderabadi Chicken Biryani Recipe Infographic
+
+<a href="https://musesignal.com/zh/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLfA3lub0AARaX6.jpg?format=jpg&amp;name=small" width="480" alt="Hyderabadi Chicken Biryani Recipe Infographic" /></a>
+
+**GPT Image 2** · 原作者: Mr Das
+
+创作场景: 食物饮品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-clean modern recipe infographic. Showcase a generous serving of authentic Indian Hyderabadi Chicken Biryani as the hero visual — fragrant long-grain basmati rice layered with tender marinated chicken pieces, golden saffron-infused rice, caramelized onions, fresh mint leaves, coriander, and subtle whole spices visible throughout. Present the biryani in an elegant copper handi, traditional serving bowl, or plated portion with fluffy rice grains clearly separated and gentle steam rising. Add complementary sides such as raita, salan, lemon wedges, and sliced onions in a refined presentation.
+Ingredients Section: Display illustrated ingredients with quantities (e.g., chicken, basmati rice, yogurt, onions, tomatoes, ginger-garlic paste, green chilies, mint leaves, coriander leaves, saffron milk, ghee, lemon juice, biryani masala, cardamom, cloves, cinnamon sticks, bay leaves, star anise, etc.). Arrange them in elegant clusters, floating labels, spice bowls, or circular ingredient flows around the main dish.
+Steps Section: Show numbered preparation panels with arrows or connecting lines forming a smooth flow around the biryani. Include small icons for marinating chicken, frying onions, cooking rice, layering ingredients, adding saffron milk, and dum cooking. Highlight key steps such as preparing the marinade, achieving perfectly cooked rice, layering aromatic ingredients, and sealing the pot for dum.
+Additional Info: Display as clean modern badges — total calories, prep time, cook time, servings (e.g., 4–6), difficulty level (medium to advanced), and spice level indicator (medium to spicy).
+Visual Style: Premium editorial food photography meets minimalist infographic. Rich golden, orange, saffron, and warm brown tones dominate the color palette. Soft natural lighting highlights the fluffy rice texture, juicy chicken pieces, glossy caramelized onions, and aromatic garnishes. Clean vector icons, modern sans-serif typography, subtle drop shadows, soft gradients, and light paper textures for information panels.
+Composition Guidelines: Finished Hyderabadi Chicken Biryani as the central hero visual. Ingredients, preparation steps, and nutritional badges arranged dynamically around the dish with a strong visual hierarchy: biryani first, then steps, ingredients, and stats. Plenty of negative space for an airy, premium magazine-quality feel. Social-media optimized.
+Lighting & Background: Soft studio lighting with gentle highlights emphasizing individual rice grains, saffron strands, and tender chicken pieces. Minimal light marble, textured beige stone, or rustic wooden background for a clean yet authentic Indian culinary aesthetic. Ultra-crisp, high-resolution, no watermark. Luxury cookbook quality. 2:3 vertical dimension.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/MrDasOnX/status/2069334630998888598>)
 
 ---
 
@@ -2410,18 +2376,18 @@ You Can Try It Here:
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 323 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 326 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 
 ## 最近发布
 
+- [Luxury Wellness Detox Drink Poster](<https://musesignal.com/zh/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Red Bull Cinematic 3D Commercial Ad](<https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Hyderabadi Chicken Biryani Recipe Infographic](<https://musesignal.com/zh/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Ultra-Realistic Soda Can Streetwear Ad Poster](<https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
 - [Continuous Line-Art Travel Poster](<https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [MOVE DIFFERENT: New Balance 9060 Luxury Campaign](<https://musesignal.com/zh/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Ultra-Realistic YouTube Livestream Mockup](<https://musesignal.com/zh/prompt/60cb71e6-4fc7-4789-a66e-8ed7adbca661?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Gourmet Burger and Crispy Fries on a Wooden Tray](<https://musesignal.com/zh/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Midnight Aurora: Luxury Perfume in Arctic Night](<https://musesignal.com/zh/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 
@@ -2442,7 +2408,7 @@ You Can Try It Here:
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 368](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 371](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

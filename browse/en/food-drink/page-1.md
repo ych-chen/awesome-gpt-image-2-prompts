@@ -334,3 +334,51 @@ travel editorial
 **[Try on MuseSignal →](<https://musesignal.com/prompt/2fc272ad-d041-4c68-b539-43c1e8fffb3d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2068305415729999902>)
 
 ---
+
+<a id="prompt-864f840b-f078-46e4-9a81-fe7bc463add2"></a>
+
+## Luxury Wellness Detox Drink Poster
+
+<a href="https://musesignal.com/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL9Ec9TaoAAT8uZ.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Wellness Detox Drink Poster" /></a>
+
+**GPT Image 2** · Creator: shah\_zadii
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Minimalist luxury wellness poster design, ultra-realistic healthy detox drink advertisement, clean white marble background, soft natural lighting, premium editorial aesthetic, two transparent glass bottles centered, one bottle filled with layered fresh ingredients ([(fruit/vegetables visible in clean sections)]), second bottle filled with blended smoothie matching ingredient colors, elegant black serif typography at top saying "DRINK FOR [BENEFIT NAME]", thin clean infographic lines pointing to ingredients on left, benefit text box on right with [(4 key health benefits)], beautiful glowing female model beside bottles, natural skin texture, soft makeup, healthy radiant face, calm pose, luxury skincare-commercial vibe, fresh ingredients placed around bottom for realism, clean composition, balanced spacing, modern Instagram viral health post, photorealistic, high-detail, premium branding aesthetic, soft shadows, crisp reflections, highly detailed glass texture, [(viral Instagram wellness ad style)], [(Pinterest aesthetic)], [(premium health brand campaign)], 4K ultra HD, sharp focus, cinematic realism.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/sha_zdiii/status/2071449663841218819>)
+
+---
+
+<a id="prompt-9371c856-1ea1-45e4-8124-2fd10ccac036"></a>
+
+## Hyderabadi Chicken Biryani Recipe Infographic
+
+<a href="https://musesignal.com/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLfA3lub0AARaX6.jpg?format=jpg&amp;name=small" width="480" alt="Hyderabadi Chicken Biryani Recipe Infographic" /></a>
+
+**GPT Image 2** · Creator: Mr Das
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-clean modern recipe infographic. Showcase a generous serving of authentic Indian Hyderabadi Chicken Biryani as the hero visual — fragrant long-grain basmati rice layered with tender marinated chicken pieces, golden saffron-infused rice, caramelized onions, fresh mint leaves, coriander, and subtle whole spices visible throughout. Present the biryani in an elegant copper handi, traditional serving bowl, or plated portion with fluffy rice grains clearly separated and gentle steam rising. Add complementary sides such as raita, salan, lemon wedges, and sliced onions in a refined presentation.
+Ingredients Section: Display illustrated ingredients with quantities (e.g., chicken, basmati rice, yogurt, onions, tomatoes, ginger-garlic paste, green chilies, mint leaves, coriander leaves, saffron milk, ghee, lemon juice, biryani masala, cardamom, cloves, cinnamon sticks, bay leaves, star anise, etc.). Arrange them in elegant clusters, floating labels, spice bowls, or circular ingredient flows around the main dish.
+Steps Section: Show numbered preparation panels with arrows or connecting lines forming a smooth flow around the biryani. Include small icons for marinating chicken, frying onions, cooking rice, layering ingredients, adding saffron milk, and dum cooking. Highlight key steps such as preparing the marinade, achieving perfectly cooked rice, layering aromatic ingredients, and sealing the pot for dum.
+Additional Info: Display as clean modern badges — total calories, prep time, cook time, servings (e.g., 4–6), difficulty level (medium to advanced), and spice level indicator (medium to spicy).
+Visual Style: Premium editorial food photography meets minimalist infographic. Rich golden, orange, saffron, and warm brown tones dominate the color palette. Soft natural lighting highlights the fluffy rice texture, juicy chicken pieces, glossy caramelized onions, and aromatic garnishes. Clean vector icons, modern sans-serif typography, subtle drop shadows, soft gradients, and light paper textures for information panels.
+Composition Guidelines: Finished Hyderabadi Chicken Biryani as the central hero visual. Ingredients, preparation steps, and nutritional badges arranged dynamically around the dish with a strong visual hierarchy: biryani first, then steps, ingredients, and stats. Plenty of negative space for an airy, premium magazine-quality feel. Social-media optimized.
+Lighting & Background: Soft studio lighting with gentle highlights emphasizing individual rice grains, saffron strands, and tender chicken pieces. Minimal light marble, textured beige stone, or rustic wooden background for a clean yet authentic Indian culinary aesthetic. Ultra-crisp, high-resolution, no watermark. Luxury cookbook quality. 2:3 vertical dimension.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2069334630998888598>)
+
+---
