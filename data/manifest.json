@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "template_version": 2,
-  "data_revision": "a4fcf8eeca574e7a6f6d596228e7d3b11f0405dcb767288f3219680e85b90f4d",
+  "data_revision": "4f4ebec03629f4e8f72b198ec1644468d4233f3d96906d447d30887d8756da50",
   "count": 376,
   "readme_count": 60,
   "categories": {
@@ -19,7 +19,7 @@
   "families": {
     "gpt-image": 376
   },
-  "content_updated_at": "2026-09-24T06:16:17.560Z",
+  "content_updated_at": "2026-09-25T06:20:59.320Z",
   "selection": {
     "limit": 620,
     "source_imports": [

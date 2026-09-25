@@ -935,11 +935,7 @@ Prompt - Cinematic 3D action-packed advertisement for Red Bull, captured in an i
 <summary>Full prompt</summary>
 
 ```text
-GPT image 2 on chatgpt
-
-Prompt:
 Vertical 2:3 ultra-photorealistic luxury fashion campaign photograph.
-
 Create a completely original high-end fashion campaign that feels like the debut visual identity of an experimental luxury fashion house.
 
 The scene should combine architectural sculpture, fashion photography, hidden portrait art, shallow reflective water, and warm cinematic sunlight.

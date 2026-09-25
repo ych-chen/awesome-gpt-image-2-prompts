@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **376** | **60** | 2026-09-24 |
+| **376** | **60** | 2026-09-25 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -1110,11 +1110,7 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 <summary>完整提示词</summary>
 
 ```text
-GPT image 2 on chatgpt
-
-Prompt:
 Vertical 2:3 ultra-photorealistic luxury fashion campaign photograph.
-
 Create a completely original high-end fashion campaign that feels like the debut visual identity of an experimental luxury fashion house.
 
 The scene should combine architectural sculpture, fashion photography, hidden portrait art, shallow reflective water, and warm cinematic sunlight.

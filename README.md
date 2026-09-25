@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **376** | **60** | 2026-09-24 |
+| **376** | **60** | 2026-09-25 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -1110,11 +1110,7 @@ Use case: Commercial &amp; Product
 <summary>Full prompt</summary>
 
 ```text
-GPT image 2 on chatgpt
-
-Prompt:
 Vertical 2:3 ultra-photorealistic luxury fashion campaign photograph.
-
 Create a completely original high-end fashion campaign that feels like the debut visual identity of an experimental luxury fashion house.
 
 The scene should combine architectural sculpture, fashion photography, hidden portrait art, shallow reflective water, and warm cinematic sunlight.
