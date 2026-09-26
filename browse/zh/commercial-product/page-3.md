@@ -1584,3 +1584,24 @@ Vertical 2:3 composition.
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e41867db-d405-44f7-88c2-a9be9baa92eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2099883758518468756>)
 
 ---
+
+<a id="prompt-6bcebaf7-96c9-451f-9734-fc031f0395e0"></a>
+
+## Streetwear Box Marketing Photograph
+
+<a href="https://musesignal.com/zh/prompt/6bcebaf7-96c9-451f-9734-fc031f0395e0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM22RTraIAABvUs.jpg?format=jpg&amp;name=small" width="480" alt="Streetwear Box Marketing Photograph" /></a>
+
+**GPT Image 2** · 原作者: ORHAN
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-realistic, cinematic marketing photograph from the perspective of inside a giant branded cardboard shipping box looking outward. A confident young man wearing a premium red hoodie, black cargo pants, white sneakers, and black glasses leans into the open box, extending one hand toward the camera as if picking up a package. The box interior is covered with bold red-and-white graphic branding, motivational stickers, shipping labels, barcodes, receipts, quality-control stamps, and typography inspired by modern streetwear packaging. Bright natural daylight illuminates the subject, with a modern office building and blue sky visible in the background. Use a dramatic wide-angle (18mm) lens to exaggerate perspective, making the reaching hand appear closer to the viewer. Hyper-detailed textures, crisp shadows, realistic skin tones, premium commercial advertising style, editorial photography, high contrast, shallow depth of field, luxury streetwear aesthetic, clean composition, 8K, ultra-photorealistic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6bcebaf7-96c9-451f-9734-fc031f0395e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/OrhanGhazi65942/status/2075515422808686895>)
+
+---

@@ -382,3 +382,40 @@ Lighting & Background: Soft studio lighting with gentle highlights emphasizing i
 **[Try on MuseSignal →](<https://musesignal.com/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2069334630998888598>)
 
 ---
+
+<a id="prompt-e2ec30e1-fd91-4781-9696-77042de0d173"></a>
+
+## Luxury Minimalist Food Advertisement Poster
+
+<a href="https://musesignal.com/prompt/e2ec30e1-fd91-4781-9696-77042de0d173?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMw8gdqbcAAEA96.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Minimalist Food Advertisement Poster" /></a>
+
+**GPT Image 2** · Creator: Maercih
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT image 2.0 on ChatGPT.
+
+Prompt:
+
+{
+  "FOOD_NAME": "<ENTER FOOD NAME>",
+
+  "prompt": "Create a premium minimalist food advertisement poster for {{FOOD_NAME}}.\n\nAutomatically analyze the entered food name and generate a complete luxury food advertisement around it.\n\nThe AI should:\n\n• Determine the food's typical appearance, ingredients, colors, textures, plating style and cuisine.\n• Generate a realistic version of the dish if no reference image is provided, Automatically choose a complementary two-tone background inspired by the food's dominant colors.\n• Design a large diagonal geometric background element matching the food palette.\n• Create an elegant serif headline using {{FOOD_NAME}}.\n• Generate a premium handwritten subtitle describing the dish using its signature ingredients and flavor profile.\n• Choose decorative icons that suit the food (coffee bean, basil leaf, wheat, chopsticks, chili, lemon, herb, etc.).\n• Select typography colors that contrast beautifully with the background.\n• Adjust every design decision according to the entered food.\n\nLayout:\n• Food positioned slightly left of center.\n• Large negative space on the right.\n• Luxury serif headline.\n• Elegant handwritten subtitle.\n• Soft realistic shadows.\n• Clean editorial composition.\n\nStyle:\nModern café branding, Scandinavian minimalism, premium restaurant menu design, editorial food photography, photorealistic, commercial advertising, soft studio lighting, luxury aesthetic.\n\nDo not include logos, watermarks, prices, QR codes, badges or branding.\n\nEverything—including colors, typography, iconography, headline styling, subtitle, background, lighting, garnish styling and overall mood—must automatically adapt based solely on {{FOOD_NAME}}.",
+
+  "negative_prompt": "logo, watermark, branding, PickBite, QR code, discount labels, prices, clutter, poor typography, low quality, blurry, noisy, oversaturated colors, unrealistic food, distorted plate, duplicate food, cropped food, cartoon, illustration, CGI, extra objects",
+
+  "aspect_ratio": "4:5",
+
+  "style": "Luxury Minimalist Food Advertisement",
+
+  "quality": "Ultra Realistic 8K"
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e2ec30e1-fd91-4781-9696-77042de0d173?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2075100327188271254>)
+
+---

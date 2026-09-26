@@ -716,3 +716,145 @@ cartoon, anime, illustration, CGI, plastic skin, excessive beauty filter, distor
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/91fbd50b-e970-4ad2-aa28-4490857c6463?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2099471210094760329>)
 
 ---
+
+<a id="prompt-9b8ffac1-4562-451f-9a2a-0e1b29125e1b"></a>
+
+## Candid Korean Street-Fashion Portrait
+
+<a href="https://musesignal.com/zh/prompt/9b8ffac1-4562-451f-9a2a-0e1b29125e1b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS0E7JVaoAAClSI.jpg?format=jpg&amp;name=small" width="480" alt="Candid Korean Street-Fashion Portrait" /></a>
+
+**GPT Image 2** · 原作者: Aqsa
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A photorealistic candid street-fashion portrait of a young woman standing on a busy urban sidewalk at a large city intersection. She has very long, straight dark brown hair flowing down her back, with soft strands framing her face. She has delicate youthful facial features, natural fair skin, subtle makeup, soft pink lips, and a calm slightly playful expression while looking directly at the camera.
+She is wearing an oversized light-gray sweatshirt with a large red heart graphic and bold black lettering across the front. The sweatshirt has an off-shoulder cut with one shoulder exposed and loose oversized sleeves. Underneath, a short white pleated mini skirt is visible. She carries a small white shoulder bag with a soft rounded shape and a silver chain strap. She holds a smartphone loosely in one hand.
+Her pose is playful and casual: her body is slightly turned sideways, one hand raised beside her face making a V/peace sign, while her other hand rests naturally near her skirt. Her head is tilted slightly toward the raised hand.
+The background shows a busy modern Korean city intersection with blue city buses, white and gray cars, vans, traffic signals, tall apartment and office buildings, storefronts, street signs, black-and-white roadside bollards, and tactile yellow paving along the sidewalk. The scene has an authentic everyday urban atmosphere.
+Composition: vertical 4:5 portrait, three-quarter/full-body framing, subject slightly right of center, city traffic and buses clearly visible behind her, natural handheld smartphone perspective, realistic depth and scale.
+Lighting: soft overcast daytime light, bright but diffused sky, gentle natural shadows, realistic urban exposure, slightly cool neutral tones.
+Photography style: ultra-realistic smartphone street photography, Korean/Asian casual fashion aesthetic, natural skin texture, realistic individual hair strands, detailed sweatshirt fabric, authentic city background, subtle depth of field, slight film grain, candid unposed feeling, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, unnatural pose, distorted buses or cars, warped buildings, artificial hair, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9b8ffac1-4562-451f-9a2a-0e1b29125e1b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102342039262413039>)
+
+---
+
+<a id="prompt-96172455-25ee-4a03-909a-785c8869aa6f"></a>
+
+## Pastel Cardigan Gallery Fashion Portrait
+
+<a href="https://musesignal.com/zh/prompt/96172455-25ee-4a03-909a-785c8869aa6f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSv8HXkbMAAiWAf.jpg?format=jpg&amp;name=small" width="480" alt="Pastel Cardigan Gallery Fashion Portrait" /></a>
+
+**GPT Image 2** · 原作者: Aqsa
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A photorealistic full-body fashion portrait of a young woman posing playfully inside a bright minimalist contemporary art gallery. She has long, voluminous dark brown hair styled in soft natural waves, flowing over her shoulders and down her back. Her face has delicate features, natural fair skin, subtle rosy makeup, soft pink lips, and a gentle cheerful smile as she looks directly at the camera.
+She is wearing a flowing white ankle-length dress with delicate ruffled trim and a feminine layered silhouette. Over the dress, she wears an oversized pastel powder-blue knitted cardigan decorated with embroidered pink flowers and green leaves, featuring a ribbed V-neck, wide cuffs, and a green ribbon tie at the front. A simple white shoulder bag hangs from one shoulder.
+She wears classic white high-top canvas sneakers with white laces and black detailing. Her pose is playful and youthful: she stands on one leg while bending the other leg backward and lifting her foot slightly into the air. One hand is raised beside her head making a peace/V sign, while the other arm hangs naturally at her side.
+On the left wall is a large projected or illuminated illustration that visually resembles the woman and her outfit, creating an artistic reflection/portrait effect. On the opposite white wall hangs a minimalist framed photograph or painting of a calm blue ocean and pale sky.
+The gallery has clean white walls, a polished light-gray concrete floor, high-key natural lighting, and a spacious minimalist atmosphere.
+Composition: vertical 4:5 portrait, full-body framing, subject centered slightly right, entire outfit and shoes visible, straight-on camera angle, generous negative space, projection clearly visible on the left.
+Lighting: soft diffused daylight, bright high-key exposure, gentle shadows, pastel tones, subtle glow around the projected artwork, clean editorial lighting.
+Photography style: ultra-realistic lifestyle fashion photography, soft Korean/Asian aesthetic, natural skin texture, realistic individual hair strands, highly detailed knit texture and embroidery, realistic flowing fabric, authentic sneaker details, subtle film grain, delicate pastel color grading, crisp subject with mild background softness, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped clothing, distorted shoes, artificial hair, oversaturated colors, harsh lighting, excessive blur, low resolution, text, watermark, logo.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/96172455-25ee-4a03-909a-785c8869aa6f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102050864743711061>)
+
+---
+
+<a id="prompt-25bc979c-b42e-420b-a6ce-c7712adf3516"></a>
+
+## Candid Travel Portrait on a Railway Platform
+
+<a href="https://musesignal.com/zh/prompt/25bc979c-b42e-420b-a6ce-c7712adf3516?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSlqEs5aAAAJrPj.jpg?format=jpg&amp;name=small" width="480" alt="Candid Travel Portrait on a Railway Platform" /></a>
+
+**GPT Image 2** · 原作者: Aqsa
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A photorealistic candid travel portrait of a young woman standing on a busy railway platform beside a long passenger train. She has long, straight, voluminous dark brown hair flowing naturally over her shoulders and down her back, with a few loose strands around her face. She has delicate youthful features, natural skin texture, subtle makeup, soft pink lips, and a relaxed slightly dreamy expression while looking directly toward the camera.
+She is wearing a cream-beige sleeveless camisole with black trim around the neckline, layered casually with dark short shorts. A dark jacket is draped loosely over one arm. She carries a black shoulder bag and holds a tablet or thin electronic device in one hand. White wired earphones are connected to the device, with the cable naturally hanging across her outfit.
+She stands casually beside the train, one hand lightly touching her hair or shoulder strap, giving the photograph an effortless spontaneous travel moment.
+The train beside her is white with deep burgundy and yellow horizontal stripes, large rectangular windows, and visible carriage numbering. The train extends far into the background, creating strong perspective and leading lines. The platform has tiled flooring, a yellow tactile safety strip along the edge, overhead metal roofing, structural columns, and several distant passengers.
+Bright warm daylight streams through the station roof, creating strong highlights and soft shadows across the woman's hair, face, clothing, and train. The atmosphere feels like a spontaneous travel photograph captured at a busy Southeast Asian railway station.
+Composition: vertical 4:5 portrait, medium-to-full body framing, woman positioned slightly left of center, train dominating the left side, platform and roof creating strong diagonal leading lines toward the background, natural handheld smartphone perspective.
+Photography style: ultra-realistic smartphone photography, candid travel aesthetic, natural skin texture, realistic individual hair strands, detailed fabric, authentic train textures, realistic daylight exposure, subtle motion and depth, gentle warm color grading, slight film grain, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped train, distorted windows, artificial hair, oversaturated colors, extreme blur, low resolution, text, watermark, logo.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/25bc979c-b42e-420b-a6ce-c7712adf3516?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101327348754964799>)
+
+---
+
+<a id="prompt-875ef8e9-d6c2-4f68-a22c-770d2f9e2e6c"></a>
+
+## Cozy Pastel Bedroom Portrait of a Winking Young Woman
+
+<a href="https://musesignal.com/zh/prompt/875ef8e9-d6c2-4f68-a22c-770d2f9e2e6c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSpiGBsbQAAxtZQ.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Pastel Bedroom Portrait of a Winking Young Woman" /></a>
+
+**GPT Image 2** · 原作者: Aqsa
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A photorealistic cozy indoor portrait of a young woman sitting on a soft bed in a dreamy pastel bedroom. She has long, voluminous dark brown hair styled in loose natural waves, with soft wispy bangs framing her forehead and delicate strands around her face. She is looking directly at the camera with a sweet playful expression, gently winking with one eye and smiling softly.
+She wears a white lace-trim camisole with a tiny pink bow at the center, paired with a delicate white ruffled mini skirt. Over it she wears an oversized chunky white knitted cardigan decorated with multiple handmade pink strawberry motifs with small green leafy tops. The cardigan has a relaxed fit, chunky knit texture, and cute pink buttons.
+She has a small pink flower hair clip near one side of her hair and a delicate necklace with a tiny pink pendant. She wears cozy white leg warmers, creating a soft feminine cottagecore aesthetic.
+Her pose is relaxed and playful, sitting with her legs folded comfortably on the bed while one hand reaches up to touch her hair near the flower clip. Her other arm hangs naturally beside her.
+The bedroom has a soft neutral pink-and-white color palette, gentle natural sunlight entering through a window, and warm diffused illumination. A cute white teddy bear with a pink bow sits beside her on the bed. Small pastel decorations, framed cute artwork, and a pink handbag are subtly visible around the room.
+Composition: vertical 4:5 portrait, medium-to-full body framing, subject centered, slightly elevated camera angle, intimate bedroom photography, soft background depth.
+Lighting: warm diffused morning sunlight, gentle window shadows on the wall, soft highlights on her hair and face, dreamy high-key exposure, delicate pastel tones.
+Photography style: ultra-realistic lifestyle photography, soft Korean/Asian fashion aesthetic, natural skin texture, realistic individual hair strands, highly detailed knitted fabric, realistic lace and embroidery, subtle film grain, dreamy pastel color grading, cozy romantic atmosphere, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, unnatural pose, warped clothing, artificial hair, oversaturated colors, harsh lighting, excessive blur, low resolution, text, watermark, logo.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/875ef8e9-d6c2-4f68-a22c-770d2f9e2e6c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101600048341762330>)
+
+---
+
+<a id="prompt-4674ca99-6880-4b9d-8df3-8c2f1c941a90"></a>
+
+## Rainy Autumn Boutique Street-Fashion Portrait
+
+<a href="https://musesignal.com/zh/prompt/4674ca99-6880-4b9d-8df3-8c2f1c941a90?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS3iCaxaIAAvH-J.jpg?format=jpg&amp;name=small" width="480" alt="Rainy Autumn Boutique Street-Fashion Portrait" /></a>
+
+**GPT Image 2** · 原作者: Aqsa
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A photorealistic full-body street-fashion portrait of a young woman standing outside an elegant boutique on a rainy autumn day. She has long, voluminous wavy dark brown hair, soft natural makeup, fair skin, and a bright genuine smile. She is standing beside a large glass storefront display and playfully pointing toward the outfit displayed on the mannequin.
+She is wearing a vintage-inspired olive-green textured cropped knit sweater with a crisp white Peter Pan collar and a small floral brooch on the chest. The sweater is paired with a high-waisted dark olive-brown pleated midi skirt with a flowing A-line silhouette. A delicate white lace layer peeks out beneath the skirt. She wears chunky white Mary Jane-style platform shoes with ankle straps.
+Beside her is a large boutique display window containing a mannequin dressed in a matching olive-green cropped sweater, white collar, dark pleated skirt, and lace-trimmed hem. A violin and a small basket of colorful flowers are arranged at the bottom of the display, creating a charming artistic storefront scene.
+The street is wet from recent rain, reflecting soft ambient light. Behind her are textured stone buildings, parked cars, storefronts, and a cozy coffee shop. The overall atmosphere feels romantic, sophisticated, vintage, and autumnal.
+Composition: vertical 4:5 portrait, full-body framing, woman positioned on the right side, mannequin and storefront clearly visible on the left, eye-level camera angle, natural candid fashion photography.
+Lighting: soft overcast daylight after rain, subtle reflections on wet pavement, gentle diffused highlights, natural shadows, muted earthy color palette.
+Photography style: ultra-realistic fashion photography, authentic street photography, realistic skin texture, detailed knit fabric, natural hair strands, realistic glass reflections, cinematic depth of field, subtle film grain, high detail, 4K.
+Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped mannequin, distorted clothing, unrealistic shoes, oversaturated colors, fake reflections, excessive blur, low resolution, text, watermark, logo.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4674ca99-6880-4b9d-8df3-8c2f1c941a90?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102585153340276909>)
+
+---
