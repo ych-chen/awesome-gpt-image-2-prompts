@@ -1,6 +1,6 @@
-[![Awesome GPT Image &amp; GPT Image 2 Prompts · MuseSignal](assets/banner.png)](https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=banner)
+[![Awesome GPT Image Prompts · MuseSignal](assets/banner.png)](https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=banner)
 
-# Awesome GPT Image & GPT Image 2 Prompts
+# Awesome GPT Image Prompts
 
 **by [MuseSignal](https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=brand)**
 
@@ -8,7 +8,7 @@
 
 完整提示词、真实效果预览、原作者与原始来源。由 MuseSignal 持续整理，覆盖产品摄影、人像、海报等创作场景。
 
-**GPT Image · GPT Image 2**
+**GPT Image · GPT Image 2 · GPT Image 2.5**
 
 > **无需先充值，领取免费积分即可开始体验主流生图模型。**
 >
@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **393** | **60** | 2026-09-26 |
+| **396** | **60** | 2026-09-27 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,10 +28,10 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 99 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| 人像摄影 | 100 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
 | 商业产品 | 85 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| 海报设计 | 83 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
-| 食物饮品 | 14 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
+| 海报设计 | 84 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| 食物饮品 | 15 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 81 | [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | 场景空间 | 31 | [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
 
@@ -45,9 +45,9 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 20
+### 人像摄影 · 18
 
-[GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
+[GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
 <a id="prompt-50114a08-4de1-4e5c-8df1-fa5ed862fa2e"></a>
 
@@ -368,6 +368,41 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-7ca4d603-ab04-407f-9e36-2f68e521fcec"></a>
+
+#### Y2K Japanese Magazine Beauty Portrait
+
+<a href="https://musesignal.com/zh/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSzzVSxaAAAjdeU.jpg?format=jpg&amp;name=small" width="480" alt="Y2K Japanese Magazine Beauty Portrait" /></a>
+
+**GPT Image 2.5** · 原作者: BubbleBrain
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+9:16 vertical, ultra-realistic fashion beauty portrait, early 2000s Japanese fashion magazine editorial, Y2K Asian beauty photobook aesthetic, clearly adult East Asian woman in her mid-20s, delicate small oval face, warm ivory skin, realistic pores and natural skin texture, dewy glossy skin with subtle wet highlights on the forehead, nose bridge, cheeks, shoulders and collarbones, slender cat-like eyes with soft gray-green contact lenses.
+
+Makeup inspired by early-2000s Japanese beauty editorials: translucent luminous base, soft lavender and icy lilac shimmer eyeshadow, subtle pearlescent highlight at the inner corners of the eyes, elongated thin black winged eyeliner, softly defined lower lash line, delicate separated lashes, cool pink blush concentrated lightly across the upper cheeks, subtle highlight on the nose bridge and cheekbones, glossy translucent rose-pink lips with a glassy finish. Overall makeup feels fresh, cool-toned, slightly dreamy, and unmistakably Y2K without looking theatrical.
+
+Glossy black hair styled into symmetrical loose double side buns / Y2K space buns with small outward pigtail ends, thick wispy blunt bangs, long thin face-framing strands resting naturally beside the cheeks. Add several tiny translucent lavender and pale blue hair clips, plus one silver hollow star-shaped metal hair clip. A few loose strands spread softly across the white surface beneath her head.
+
+Wearing a fitted icy powder-blue off-shoulder top in soft stretch fabric, slightly cool-toned and subtly glossy, with straps resting naturally on the upper arms, exposing the shoulders and collarbones. Layered delicate silver necklaces with tiny crystal and translucent acrylic pendants, subtle Y2K jewelry styling, clean and feminine.
+
+The woman is lying relaxed on a clean white studio floor or softly wrinkled white fabric, photographed from directly above. Her body is angled slightly diagonally across the frame, one arm bent loosely near the side of her head, the other resting naturally across her waist or beside her torso. Shoulders relaxed, head tilted only slightly, eyes looking directly up toward the camera. Her space buns and loose hair spread naturally around her head, creating a soft graphic silhouette.
+
+Top-down overhead composition, chest-up to half-body framing, 50mm to 85mm portrait lens, clean editorial composition with generous negative space. Pure white seamless background, high-key studio lighting, large softbox from above and slightly to one side, soft reflector fill, extremely gentle shadows, subtle highlight bloom, bright airy exposure, slight early-2000s magazine softness while keeping the eyes sharply focused.
+
+Realistic fabric folds, individual hair strands, glossy skin highlights, delicate pearlescent makeup reflections, soft nostalgic Y2K Japanese magazine mood, intimate but polished photobook aesthetic, icy blue and lavender color palette, realistic editorial photography, no text, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/BubbleBrain/status/2102322774090133548>)
+
+---
+
 <a id="prompt-e1492cf8-6800-4393-9430-30257d71bd97"></a>
 
 #### Candid Street Portrait of Woman on Storefront Steps
@@ -636,98 +671,6 @@ Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, exc
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/96172455-25ee-4a03-909a-785c8869aa6f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102050864743711061>)
-
----
-
-<a id="prompt-b3ecac4a-4dc9-4c31-8c3a-1f378c44917e"></a>
-
-#### Candid Citrus Garden Portrait
-
-<a href="https://musesignal.com/zh/prompt/b3ecac4a-4dc9-4c31-8c3a-1f378c44917e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HStP_xWbQAAun3Z.jpg?format=jpg&amp;name=small" width="480" alt="Candid Citrus Garden Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic candid outdoor portrait of a young woman sitting on a rustic wooden platform in a lush citrus garden. She has long, dark brown wavy hair flowing naturally over her shoulders and down her back, with a few delicate strands framing her face. She wears a soft beige headscarf or wide fabric headband wrapped loosely around her head.
-She is looking up toward the camera with a playful, cheerful expression, winking with one eye and smiling brightly with soft coral-red lips. Her pose is relaxed and spontaneous, with one arm bent beside her body and one hand resting near her waist.
-She is wearing a fitted white sleeveless textured top with delicate detailing, paired with high-waisted blue denim shorts. A simple black hair tie is worn around her wrist.
-She is sitting beside a large woven wicker basket, with its curved handles and natural straw texture clearly visible. The wooden platform beneath her has warm natural wood grain and rustic character.
-Surrounding her is a dense green garden filled with lush grass, leafy plants, and a mature citrus tree covered with numerous small ripe orange fruits. Thick branches and vibrant green leaves fill the upper background, creating a beautiful natural canopy.
-Composition: vertical 4:5 portrait, slightly high-angle overhead perspective, subject positioned in the lower-center of the frame, face clearly visible, basket partially visible beside her, citrus tree filling the background, natural candid framing.
-Lighting: soft warm natural daylight, gentle highlights on her hair and face, realistic shadows, fresh vibrant greenery, subtle warm color tones.
-Photography style: ultra-realistic smartphone photography, candid Korean/Asian lifestyle aesthetic, natural skin texture, realistic hair strands, detailed wicker and wood textures, authentic outdoor colors, slight wide-angle perspective, subtle depth of field, soft film grain, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped basket, artificial hair, oversaturated colors, harsh studio lighting, blurry face, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b3ecac4a-4dc9-4c31-8c3a-1f378c44917e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101861630657359924>)
-
----
-
-<a id="prompt-875ef8e9-d6c2-4f68-a22c-770d2f9e2e6c"></a>
-
-#### Cozy Pastel Bedroom Portrait of a Winking Young Woman
-
-<a href="https://musesignal.com/zh/prompt/875ef8e9-d6c2-4f68-a22c-770d2f9e2e6c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSpiGBsbQAAxtZQ.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Pastel Bedroom Portrait of a Winking Young Woman" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic cozy indoor portrait of a young woman sitting on a soft bed in a dreamy pastel bedroom. She has long, voluminous dark brown hair styled in loose natural waves, with soft wispy bangs framing her forehead and delicate strands around her face. She is looking directly at the camera with a sweet playful expression, gently winking with one eye and smiling softly.
-She wears a white lace-trim camisole with a tiny pink bow at the center, paired with a delicate white ruffled mini skirt. Over it she wears an oversized chunky white knitted cardigan decorated with multiple handmade pink strawberry motifs with small green leafy tops. The cardigan has a relaxed fit, chunky knit texture, and cute pink buttons.
-She has a small pink flower hair clip near one side of her hair and a delicate necklace with a tiny pink pendant. She wears cozy white leg warmers, creating a soft feminine cottagecore aesthetic.
-Her pose is relaxed and playful, sitting with her legs folded comfortably on the bed while one hand reaches up to touch her hair near the flower clip. Her other arm hangs naturally beside her.
-The bedroom has a soft neutral pink-and-white color palette, gentle natural sunlight entering through a window, and warm diffused illumination. A cute white teddy bear with a pink bow sits beside her on the bed. Small pastel decorations, framed cute artwork, and a pink handbag are subtly visible around the room.
-Composition: vertical 4:5 portrait, medium-to-full body framing, subject centered, slightly elevated camera angle, intimate bedroom photography, soft background depth.
-Lighting: warm diffused morning sunlight, gentle window shadows on the wall, soft highlights on her hair and face, dreamy high-key exposure, delicate pastel tones.
-Photography style: ultra-realistic lifestyle photography, soft Korean/Asian fashion aesthetic, natural skin texture, realistic individual hair strands, highly detailed knitted fabric, realistic lace and embroidery, subtle film grain, dreamy pastel color grading, cozy romantic atmosphere, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, unnatural pose, warped clothing, artificial hair, oversaturated colors, harsh lighting, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/875ef8e9-d6c2-4f68-a22c-770d2f9e2e6c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101600048341762330>)
-
----
-
-<a id="prompt-cd2bdc74-f1d0-44a6-a886-86ee09661616"></a>
-
-#### Pastel Pink Bedroom Mirror Selfie
-
-<a href="https://musesignal.com/zh/prompt/cd2bdc74-f1d0-44a6-a886-86ee09661616?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSoP7XDaUAAirJX.jpg?format=jpg&amp;name=small" width="480" alt="Pastel Pink Bedroom Mirror Selfie" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic indoor mirror selfie of a young woman standing in a cozy softly lit bedroom. She has long, thick dark brown hair styled half-up with cute small pink bows, with wispy curtain bangs framing her face and long loose waves cascading over her shoulders. She has delicate youthful facial features, natural fair skin, soft rosy blush, subtle eye makeup, and glossy pink-red lips. She looks slightly to the side toward her phone screen with a gentle, calm expression.
-She is wearing a fitted pastel blush-pink ribbed long-sleeve crop top with delicate white ribbon bows and lace-style detailing running down the front. The top has a feminine square neckline and slightly cropped waist. She pairs it with a high-waisted white pleated mini skirt featuring a white belt with a distinctive heart-shaped buckle and a small dangling pink heart accessory.
-She carries a small pastel-pink shoulder bag with a wide strap, decorative hardware, and a cute plush charm hanging from it. She holds a pastel-pink smartphone in one hand, taking the mirror selfie. The phone case has a cute teddy-bear decoration with a pink bow.
-The bedroom background has a soft pink-and-white aesthetic, with small framed photos and cute artwork arranged on the wall, a plush teddy bear on a bed or shelf, and warm ambient lighting from a bedside lamp. The overall atmosphere is cozy, feminine, youthful, and dreamy.
-Composition: vertical 4:5 mirror selfie, medium-to-three-quarter body framing, subject centered, phone held near face level, realistic mirror perspective, natural proportions, soft background details.
-Lighting: warm indoor ambient lighting combined with soft lamp illumination, gentle highlights on her hair and face, subtle shadows, dreamy pastel tones, slightly warm exposure.
-Photography style: ultra-realistic smartphone mirror photography, soft Korean/Asian fashion aesthetic, natural skin texture, realistic hair strands, detailed ribbed fabric, authentic phone and accessory details, subtle film grain, soft pink color grading, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, distorted phone, warped mirror reflection, artificial hair, oversaturated colors, harsh lighting, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cd2bdc74-f1d0-44a6-a886-86ee09661616?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101509696544788970>)
 
 ---
 
@@ -1234,7 +1177,7 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 <a id="selected-poster-graphic"></a>
 
-### 海报设计 · 8
+### 海报设计 · 9
 
 [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>)
 
@@ -1701,9 +1644,140 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 ---
 
+<a id="prompt-11606100-9b27-492b-8aeb-0d15fd749131"></a>
+
+#### IMMORTALS — FIFA World Cup 2026 Collector Poster
+
+<a href="https://musesignal.com/zh/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZKT3ebkAAhBwb.jpg?format=jpg&amp;name=small" width="480" alt="IMMORTALS — FIFA World Cup 2026 Collector Poster" /></a>
+
+**GPT Image 2** · 原作者: Hemayxn.ai
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+IMMORTALS — FIFA WORLD CUP 2026
+Create an ultra-premium collector's edition football art poster titled:
+IMMORTALS
+This is not a standard sports poster.
+This is not a match advertisement.
+This should feel like a luxury museum exhibition, a Sotheby's football collection, and a high-end designer toy showcase combined into a single legendary masterpiece.
+The composition centers around the FIFA World Cup Trophy displayed like the most valuable artifact in sports history, illuminated by dramatic golden spotlighting inside a monumental dark exhibition hall.
+Surrounding the trophy are eight elite football icons presented as premium collectible statues displayed inside individual luxury showcase cases.
+The players stand like immortal figures preserved for future generations.
+Featured legends:
+Cristiano Ronaldo
+Lionel Messi
+Kylian Mbappé
+Erling Haaland
+Vinícius Júnior
+Jude Bellingham
+Lamine Yamal
+Jamal Musiala
+CHARACTER DESIGN
+Each player appears as a hyper-detailed premium collectible figure.
+Designer-toy proportions.
+Slightly heroic anatomy.
+Museum-quality realism.
+Luxury action-figure presentation.
+Individual poses reflecting their identity and legacy.
+Confident posture.
+Iconic silhouettes.
+Pedestal-mounted displays.
+Every figure appears worthy of being displayed in a billionaire collector's vault.
+EXHIBITION DESIGN
+The environment resembles a futuristic football museum.
+Massive architectural walls.
+Dark charcoal stone.
+Brushed metal structures.
+Glass display cases.
+Golden reflections.
+Premium black marble flooring.
+Floating dust particles illuminated by spotlight beams.
+The central World Cup trophy becomes the visual heart of the composition.
+TYPOGRAPHY
+Massive hand-painted luxury typography dominates the upper composition:
+IMMORTALS
+Additional layered typography throughout:
+LEGENDS ARE REMEMBERED.
+ICONS ARE IMMORTAL.
+THE WORLD IS WATCHING.
+HISTORY IS WRITTEN HERE.
+GREATNESS NEVER RETIRES.
+Typography appears painted, scratched, engraved, layered, rewritten, and preserved like historical artifacts.
+PLAYER PLAQUES
+Each showcase pedestal includes engraved career achievements presented as luxury museum descriptions.
+Examples:
+Ballon d'Or wins
+World Cup titles
+Champions League titles
+Goals scored
+National team records
+Career milestones
+Presented with elegant gold engraving.
+MICRO DETAILS
+Thousands of hidden football references:
+Historic match moments
+National flags
+Tournament memories
+Stadium silhouettes
+Newspaper fragments
+Ticket stubs
+Vintage football photography
+Career timelines
+World Cup host cities
+Legendary celebrations
+Fan banners
+Championship years
+Every section rewards long observation.
+VISUAL ELEMENTS
+Luxury display lighting
+Museum glass reflections
+Golden dust particles
+Engraved metal plates
+Trophy reflections
+Football blueprints
+Historical sketches
+Collector markings
+Signature engravings
+Championship seals
+Limited edition numbering
+Gold foil details
+Embossed textures
+COLOR PALETTE
+Deep charcoal black
+Obsidian stone
+Luxury gold
+Warm bronze
+Rich silver
+Championship white
+Subtle sapphire highlights
+Minimal crimson accents
+STYLE
+Ultra-premium football collector artwork
+Luxury museum exhibition aesthetic
+Designer toy culture
+High-fashion editorial composition
+Gallery-quality sports illustration
+Photorealistic materials
+Cinematic spotlighting
+Extreme detail density
+Hyper-detailed textures
+8K masterpiece
+The final image should feel like the official cover artwork for football's greatest generation—an unforgettable visual monument where every player has transcended stardom and entered immortality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/hemayxn/status/2068923096950870218>)
+
+---
+
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 8
+### 食物饮品 · 9
 
 [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>)
 
@@ -1900,6 +1974,31 @@ Minimalist luxury wellness poster design, ultra-realistic healthy detox drink ad
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2071449663841218819>)
+
+---
+
+<a id="prompt-92ef0a56-5998-409a-b28d-633adac91df0"></a>
+
+#### Premium Cinematic Korean Menu Food Photography
+
+<a href="https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOPrdnRWsAARHMP.jpg?format=jpg&amp;name=small" width="480" alt="Premium Cinematic Korean Menu Food Photography" /></a>
+
+**GPT Image 2** · 原作者: Anissa
+
+创作场景: 食物饮品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT IMAGE 2 on CHATGPT 
+
+Create a realistic, premium cinematic food photography image of [Menu Name] in a vertical 3:4 aspect ratio. If a reference food photo is provided, match its ingredients, shape, plating, colours, textures, and composition exactly; otherwise, create a realistic version based on the menu name. Plate the dish elegantly on a rustic wooden table with suitable props. Use soft natural window light coming from the upper-right, warm highlights, cool soft shadows, shallow depth of field, subtle film grain, realistic textures, rising steam, and a 50mm lens perspective with a slightly top-down eye-level angle. Follow the rule of thirds. Display the menu name in Korean at the upper-left in a thin, elegant Gungsuh-style font, with a short emotional Korean tagline below it and a concise Korean description of the dish in the lower-left. Use subtle colours for all text. Add a thin double rectangular border around the image, perfectly aligned and unbroken. Do not include any other text, logos, prices, or watermarks. The overall style should feel luxurious, warm, natural, and editorial, like a high-end gourmet food advertisement.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/SimplyAnnisa/status/2081766364558340548>)
 
 ---
 
@@ -2349,18 +2448,19 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 348 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 350 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2.5 | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## 最近发布
 
+- [Y2K Japanese Magazine Beauty Portrait](<https://musesignal.com/zh/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
+- [Premium Cinematic Korean Menu Food Photography](<https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [IMMORTALS — FIFA World Cup 2026 Collector Poster](<https://musesignal.com/zh/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait of Woman on Storefront Steps](<https://musesignal.com/zh/prompt/e1492cf8-6800-4393-9430-30257d71bd97?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Photorealistic Bedroom Selfie Portrait](<https://musesignal.com/zh/prompt/2155234d-3c8e-4da2-9fb2-94c9b2752d2c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Street-Style Full-Body Portrait in Afternoon Sunlight](<https://musesignal.com/zh/prompt/c2f808ca-eef0-4fcb-accd-e47f64cc6fa0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Smartphone Portrait of Woman with Coffee](<https://musesignal.com/zh/prompt/f34a4afc-0ace-4d4f-a5c1-a0fa3dd4e933?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Forest Stream Portrait of a Young Woman](<https://musesignal.com/zh/prompt/77b3aab8-6820-470e-8128-91223e6d6e87?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Rainy Autumn Boutique Street-Fashion Portrait](<https://musesignal.com/zh/prompt/4674ca99-6880-4b9d-8df3-8c2f1c941a90?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Candid Korean Street-Fashion Portrait](<https://musesignal.com/zh/prompt/9b8ffac1-4562-451f-9a2a-0e1b29125e1b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Pastel Pink Airport Travel Portrait](<https://musesignal.com/zh/prompt/d12d230f-604a-4ded-89d5-f0f85984689b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 
@@ -2381,7 +2481,7 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 393](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 396](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

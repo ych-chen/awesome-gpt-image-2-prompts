@@ -419,3 +419,26 @@ Prompt:
 **[Try on MuseSignal →](<https://musesignal.com/prompt/e2ec30e1-fd91-4781-9696-77042de0d173?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2075100327188271254>)
 
 ---
+
+<a id="prompt-92ef0a56-5998-409a-b28d-633adac91df0"></a>
+
+## Premium Cinematic Korean Menu Food Photography
+
+<a href="https://musesignal.com/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOPrdnRWsAARHMP.jpg?format=jpg&amp;name=small" width="480" alt="Premium Cinematic Korean Menu Food Photography" /></a>
+
+**GPT Image 2** · Creator: Anissa
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT IMAGE 2 on CHATGPT 
+
+Create a realistic, premium cinematic food photography image of [Menu Name] in a vertical 3:4 aspect ratio. If a reference food photo is provided, match its ingredients, shape, plating, colours, textures, and composition exactly; otherwise, create a realistic version based on the menu name. Plate the dish elegantly on a rustic wooden table with suitable props. Use soft natural window light coming from the upper-right, warm highlights, cool soft shadows, shallow depth of field, subtle film grain, realistic textures, rising steam, and a 50mm lens perspective with a slightly top-down eye-level angle. Follow the rule of thirds. Display the menu name in Korean at the upper-left in a thin, elegant Gungsuh-style font, with a short emotional Korean tagline below it and a concise Korean description of the dish in the lower-left. Use subtle colours for all text. Add a thin double rectangular border around the image, perfectly aligned and unbroken. Do not include any other text, logos, prices, or watermarks. The overall style should feel luxurious, warm, natural, and editorial, like a high-end gourmet food advertisement.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SimplyAnnisa/status/2081766364558340548>)
+
+---

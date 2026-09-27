@@ -907,3 +907,132 @@ fully filled marker coloring, solid flat fills, smooth vector color, polished di
 **[Try on MuseSignal →](<https://musesignal.com/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2081329857888489966>)
 
 ---
+
+<a id="prompt-11606100-9b27-492b-8aeb-0d15fd749131"></a>
+
+## IMMORTALS — FIFA World Cup 2026 Collector Poster
+
+<a href="https://musesignal.com/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZKT3ebkAAhBwb.jpg?format=jpg&amp;name=small" width="480" alt="IMMORTALS — FIFA World Cup 2026 Collector Poster" /></a>
+
+**GPT Image 2** · Creator: Hemayxn.ai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+IMMORTALS — FIFA WORLD CUP 2026
+Create an ultra-premium collector's edition football art poster titled:
+IMMORTALS
+This is not a standard sports poster.
+This is not a match advertisement.
+This should feel like a luxury museum exhibition, a Sotheby's football collection, and a high-end designer toy showcase combined into a single legendary masterpiece.
+The composition centers around the FIFA World Cup Trophy displayed like the most valuable artifact in sports history, illuminated by dramatic golden spotlighting inside a monumental dark exhibition hall.
+Surrounding the trophy are eight elite football icons presented as premium collectible statues displayed inside individual luxury showcase cases.
+The players stand like immortal figures preserved for future generations.
+Featured legends:
+Cristiano Ronaldo
+Lionel Messi
+Kylian Mbappé
+Erling Haaland
+Vinícius Júnior
+Jude Bellingham
+Lamine Yamal
+Jamal Musiala
+CHARACTER DESIGN
+Each player appears as a hyper-detailed premium collectible figure.
+Designer-toy proportions.
+Slightly heroic anatomy.
+Museum-quality realism.
+Luxury action-figure presentation.
+Individual poses reflecting their identity and legacy.
+Confident posture.
+Iconic silhouettes.
+Pedestal-mounted displays.
+Every figure appears worthy of being displayed in a billionaire collector's vault.
+EXHIBITION DESIGN
+The environment resembles a futuristic football museum.
+Massive architectural walls.
+Dark charcoal stone.
+Brushed metal structures.
+Glass display cases.
+Golden reflections.
+Premium black marble flooring.
+Floating dust particles illuminated by spotlight beams.
+The central World Cup trophy becomes the visual heart of the composition.
+TYPOGRAPHY
+Massive hand-painted luxury typography dominates the upper composition:
+IMMORTALS
+Additional layered typography throughout:
+LEGENDS ARE REMEMBERED.
+ICONS ARE IMMORTAL.
+THE WORLD IS WATCHING.
+HISTORY IS WRITTEN HERE.
+GREATNESS NEVER RETIRES.
+Typography appears painted, scratched, engraved, layered, rewritten, and preserved like historical artifacts.
+PLAYER PLAQUES
+Each showcase pedestal includes engraved career achievements presented as luxury museum descriptions.
+Examples:
+Ballon d'Or wins
+World Cup titles
+Champions League titles
+Goals scored
+National team records
+Career milestones
+Presented with elegant gold engraving.
+MICRO DETAILS
+Thousands of hidden football references:
+Historic match moments
+National flags
+Tournament memories
+Stadium silhouettes
+Newspaper fragments
+Ticket stubs
+Vintage football photography
+Career timelines
+World Cup host cities
+Legendary celebrations
+Fan banners
+Championship years
+Every section rewards long observation.
+VISUAL ELEMENTS
+Luxury display lighting
+Museum glass reflections
+Golden dust particles
+Engraved metal plates
+Trophy reflections
+Football blueprints
+Historical sketches
+Collector markings
+Signature engravings
+Championship seals
+Limited edition numbering
+Gold foil details
+Embossed textures
+COLOR PALETTE
+Deep charcoal black
+Obsidian stone
+Luxury gold
+Warm bronze
+Rich silver
+Championship white
+Subtle sapphire highlights
+Minimal crimson accents
+STYLE
+Ultra-premium football collector artwork
+Luxury museum exhibition aesthetic
+Designer toy culture
+High-fashion editorial composition
+Gallery-quality sports illustration
+Photorealistic materials
+Cinematic spotlighting
+Extreme detail density
+Hyper-detailed textures
+8K masterpiece
+The final image should feel like the official cover artwork for football's greatest generation—an unforgettable visual monument where every player has transcended stardom and entered immortality.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/hemayxn/status/2068923096950870218>)
+
+---

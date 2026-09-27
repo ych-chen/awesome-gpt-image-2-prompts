@@ -1,27 +1,28 @@
 {
   "schema_version": 1,
   "template_version": 2,
-  "data_revision": "ce0299e8b830c4b8db5de7e84eea27f72739eda2a4271395b6a70b7124e5ff7a",
-  "count": 393,
+  "data_revision": "9341deae104a0357690bd40ea44840cbcdbbb2325ec450c32a7baef6037ca11c",
+  "count": 396,
   "readme_count": 60,
   "categories": {
     "character-art": 81,
     "commercial-product": 85,
-    "food-drink": 14,
-    "portrait": 99,
-    "poster-graphic": 83,
+    "food-drink": 15,
+    "portrait": 100,
+    "poster-graphic": 84,
     "scene-space": 31
   },
   "models": {
     "gpt-image": 45,
-    "gpt-image-2": 348
+    "gpt-image-2": 350,
+    "gpt-image-2.5": 1
   },
   "families": {
-    "gpt-image": 393
+    "gpt-image": 396
   },
-  "content_updated_at": "2026-09-26T06:19:46.853Z",
+  "content_updated_at": "2026-09-27T06:55:02.199Z",
   "selection": {
-    "limit": 642,
+    "limit": 650,
     "source_imports": [
       "twitter_scrape"
     ],
