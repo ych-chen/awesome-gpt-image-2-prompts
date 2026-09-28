@@ -281,3 +281,315 @@ Realistic fabric folds, individual hair strands, glossy skin highlights, delicat
 **[Try on MuseSignal →](<https://musesignal.com/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2102322774090133548>)
 
 ---
+
+<a id="prompt-f6f37010-9bb0-42bc-8beb-6a652895dc32"></a>
+
+## Sleeping Woman in Blue Floral Camisole
+
+<a href="https://musesignal.com/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5zo7HbQAAdmUa.jpg?format=jpg&amp;name=small" width="480" alt="Sleeping Woman in Blue Floral Camisole" /></a>
+
+**GPT Image 2** · Creator: Prompt アトリエ｜AI画像プロンプト
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+青花キャミの眠り
+
+主体：
+画面中央、白いベッドで青い花柄キャミソール姿のまま眠る女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を横へ向け、両目を完全に閉じ、唇を軽く閉じた安らかな寝顔。濃茶の長い髪を枕と肩へ広げ、細い前髪が額へかかる。
+
+服装・ポーズ：
+白地に小さな青い花柄と細い肩紐を持つキャミソールトップ。横向きに眠り、片腕を枕の下へ曲げ、もう片方を胸元近くへ添える。
+
+背景・光：
+白い枕とシーツが画面を満たす明るい寝室。画面左上から柔らかな朝光が閉じた瞼と肩へ淡く差す。
+
+構図・カメラ：
+3:4の縦構図、枕の高さからの近い斜め正面カメラで頭頂から胸元までのクローズアップを収めるポートレート。人物を中央へ大きく配置。髪と肩を画面端で自然に裁切し、閉じた瞼と青花柄にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、柔らかな肌色を保つ。
+
+ネガティブ：
+開眼やカメラ目線；青花柄の省略
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CyberTotal2026/status/2104331246558154978>)
+
+---
+
+<a id="prompt-453b1d7e-a3cc-4792-af3e-4a45257295d2"></a>
+
+## Luxury Studio Portrait Collage of a Stylish Boy
+
+<a href="https://musesignal.com/prompt/453b1d7e-a3cc-4792-af3e-4a45257295d2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMbisS8a4AA70xG.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Studio Portrait Collage of a Stylish Boy" /></a>
+
+**GPT Image 2** · Creator: Zarnab Ai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A hyper-realistic premium studio portrait collage of a stylish little boy with medium-length black hair and fair skin, wearing a deep maroon button-up shirt, white loose-fit pants, and clean white sneakers. The composition features three versions of the same child: one large side-profile wearing black round sunglasses with a confident expression, one large portrait looking downward thoughtfully, and one full-body front-facing pose standing casually with hands in pockets and wearing a silver wristwatch. The background is a smooth dark gray studio backdrop with dramatic white liquid splash effects artistically surrounding all three portraits, creating a luxury fashion editorial look. Soft cinematic studio lighting, ultra-detailed facial features, realistic skin texture, sharp focus, high contrast, premium color grading, shallow depth of field, photorealistic, 8K, masterpiece, fashion magazine cover style.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/453b1d7e-a3cc-4792-af3e-4a45257295d2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Zarnab_with_Ai/status/2073593945406230689>)
+
+---
+
+<a id="prompt-ce39445c-2552-4d44-a91e-e70de6ade887"></a>
+
+## Dappled Leaf-Shadow Natural Portrait
+
+<a href="https://musesignal.com/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5xyk1boAEj_ML.jpg?format=jpg&amp;name=small" width="480" alt="Dappled Leaf-Shadow Natural Portrait" /></a>
+
+**GPT Image 2** · Creator: Prompt アトリエ｜AI画像プロンプト
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+葉影の生成り肖像
+
+主体：
+画面中央、屋外の葉影の中で生成りのジャケットを着た女性の近接肖像が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面からやや左へ向け、視線をカメラへ合わせた柔らかな表情。濃茶の長いウェーブ髪を下ろし、薄い前髪と頬沿いの後れ毛を残す。
+
+服装・ポーズ：
+生成りのオーバーサイズテーラードジャケット、胸元に同系色のレーストップ、細い金の重ねネックレス。上体をわずかに傾け、肩を抜いて自然に立つ。
+
+背景・光：
+緑の葉と淡い壁が大きくぼける屋外の木陰。画面左上から柔らかな柔らかな柔らかな木漏れ日が頬、額、ジャケットへ斑に落ちる。
+
+構図・カメラ：
+3:4の縦構図、目線と同じ高さの正面カメラで頭頂から胸下までのバストアップを収めるポートレート。人物を中央へ大きく配置。髪と肩を左右端で自然に裁切し、両目と肌の葉影にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、生成り、緑、肌色の自然な低彩度を保つ。
+
+ネガティブ：
+葉影の省略；ジャケット色変更
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CyberTotal2026/status/2104197615982178366>)
+
+---
+
+<a id="prompt-9304e8f9-692b-409e-b78c-237f962e068f"></a>
+
+## Vogue Fashion Editorial Portrait
+
+<a href="https://musesignal.com/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJKgAnaoAA6GOU.jpg?format=jpg&amp;name=small" width="480" alt="Vogue Fashion Editorial Portrait" /></a>
+
+**GPT Image 2** · Creator: Aijaz
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A high-definition, professional fashion editorial photograph of a sophisticated woman with a sleek, center-parted bun. She is wearing elegant, thin-rimmed silver glasses and a minimalist white long-sleeved silk blouse. She is posed gracefully with her hands near her face and chest, showcasing a luxury silver watch. The background is a clean, bright white with bold, high-contrast black serif typography reading 'VOGUE' at the top. Studio lighting, soft skin texture, sharp focus on the eyes, 8k resolution, shot on a 85mm lens for a flattering portrait compression."
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2081307898412740619>)
+
+---
+
+<a id="prompt-de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e"></a>
+
+## Night City Sofa Portrait in Black
+
+<a href="https://musesignal.com/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS51gLLbMAA7ZsM.jpg?format=jpg&amp;name=small" width="480" alt="Night City Sofa Portrait in Black" /></a>
+
+**GPT Image 2** · Creator: Prompt アトリエ｜AI画像プロンプト
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+夜景ソファの黒装い
+
+主体：
+画面中央、夜景の見える現代的な部屋で黒い服を着てソファに座る女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面から少し左へ向け、視線をカメラへ合わせた落ち着いた真顔。黒い長いストレート髪を下ろし、薄い前髪と顔周りの毛束を残す。
+
+服装・ポーズ：
+黒いハイネックのノースリーブクロップドトップとウエストを絞ったウエストを絞った黒いロングスカート。低いソファへ座って上体を少し後ろへ預け、両膝を斜めに重ね、片手を座面へ置く。
+
+背景・光：
+大窓の外に都会の夜景、灰色ソファ、暗い壁と間接照明の現代的な室内。窓の柔らかな青い夜光と画面右の暖かな間接光が顔と輪郭を照らす。
+
+構図・カメラ：
+13:19の縦構図、床近くからの低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。ソファとスカート裾を下端で自然に裁切し、顔と黒い衣装にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、灰、青、琥珀色の夜色を保つ。
+
+ネガティブ：
+立ち姿への変更；夜景と黒衣装省略
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CyberTotal2026/status/2104379061321490730>)
+
+---
+
+<a id="prompt-367207d1-eb18-491f-91e8-1ff4d428bff7"></a>
+
+## Moonlit Ruined Greenhouse Gothic Portrait
+
+<a href="https://musesignal.com/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5vxzUbIAAKr4W.jpg?format=jpg&amp;name=small" width="480" alt="Moonlit Ruined Greenhouse Gothic Portrait" /></a>
+
+**GPT Image 2** · Creator: Prompt アトリエ｜AI画像プロンプト
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+月下廃園の黒桃
+
+主体：
+画面中央、月夜の崩れた温室で黒いトップと桃色スカート姿でしゃがむ女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面へ向け、視線をカメラへ合わせた冷静で少し挑む表情。黒い長髪は濡れたような束感で肩へ流れ、薄い前髪が額へかかる。
+
+服装・ポーズ：
+黒い長袖クロップドトップ、淡桃のプリーツミニスカート、白い厚底ロングブーツ。濡れた床へ低くしゃがみ、片手を膝へ、もう片手を床近くへ添える。
+
+背景・光：
+画面左から画面右の背景に壊れたガラス温室、蔦、石柱、奥の大きな満月、前景に反射する濡れた床。背後を光源とする柔らかな青白い月光と画面前方の弱い補助光が輪郭と顔を照らす。
+
+構図・カメラ：
+9:16の縦構図、床近くの低い正面カメラで頭頂から厚底ブーツまでの全身を収めるポートレート。人物を中央へ小さく配置し、画面高の半分ほどを占める。温室の高さと床の反射を十分残し、顔と黒桃の衣装にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、青黒、淡桃、白の幻想的な夜色を保つ。
+
+ネガティブ：
+昼景への変更；温室と満月省略
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CyberTotal2026/status/2104182012907008131>)
+
+---
+
+<a id="prompt-97dc4135-37b8-4051-984d-7ca6f79e95eb"></a>
+
+## Golden Lace Sunset Window Portrait
+
+<a href="https://musesignal.com/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS53UoiaEAAiOEq.jpg?format=jpg&amp;name=small" width="480" alt="Golden Lace Sunset Window Portrait" /></a>
+
+**GPT Image 2** · Creator: Prompt アトリエ｜AI画像プロンプト
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+夕海窓の金レース
+
+主体：
+画面中央から右、海を望む開いた窓枠に座る金色レースドレスの女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を正面へ向け、視線をカメラへ合わせて淡く微笑む表情。濃茶の長いウェーブ髪を片側へ流し、薄い前髪を残す。
+
+服装・ポーズ：
+ベージュ金の細い肩紐、深い胸元、総刺繍レースを持つ床丈ドレス。石の窓台へ腰掛け、右脚を曲げて左脚へ重ね、両手を左右の窓台へ置く。
+
+背景・光：
+画面左から画面右の背景に、白い開き窓、蔦と白花、バルコニー、海岸の街、山、沈む太陽。背景左の夕日から柔らかな金色の逆光が髪とドレスを照らす。
+
+構図・カメラ：
+3:4の縦構図、目線よりやや低い正面カメラで頭頂からドレス裾までの全身を収めるポートレート。人物を中央から右へ大きく配置し、画面高の大部分を占める。花と窓枠を左右端に残し、顔と金色レースにピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、金、白、緑、桃色の夕景を保つ。
+
+ネガティブ：
+窓台の座り姿勢変更；夕海とレース省略
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CyberTotal2026/status/2104413035267866982>)
+
+---
+
+<a id="prompt-4daea946-6d3e-4800-aab1-cac5847ca9b9"></a>
+
+## Morning Light Lace Portrait
+
+<a href="https://musesignal.com/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS55hUVbQAAkBi9.jpg?format=jpg&amp;name=small" width="480" alt="Morning Light Lace Portrait" /></a>
+
+**GPT Image 2** · Creator: Prompt アトリエ｜AI画像プロンプト
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+淡青レースの寝起き
+
+主体：
+画面中央、白い寝具へ横たわる淡青レースランジェリー姿の女性の近接肖像が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔をやや左へ傾け、視線をカメラへ合わせて唇を少し開いた穏やかな表情。明るい茶色の肩下ウェーブ髪を枕へ広げ、薄い前髪が目元へかかる。
+
+服装・ポーズ：
+淡青の細い肩紐、リブ生地、白レース縁と胸元の小リボンを持つブラトップ、白い編みカーディガン。横向きに寝て左手で頭を支え、右肩と上体をカメラへ寄せる。
+
+背景・光：
+画面左から画面右の背景に、白い花柄布団と枕、奥に木のチェストと白い花瓶。画面左上の窓から柔らかな朝の直射光が顔と肩を照らす。
+
+構図・カメラ：
+3:4の縦構図、寝具と同じ高さの近い斜め正面カメラで頭頂から胸下までのクローズアップを収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。髪、肩、腕を画面端で自然に裁切し、両目と唇にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、木色の明るい朝色を保つ。
+
+ネガティブ：
+顔向きと寝姿勢変更；淡青レース省略
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/CyberTotal2026/status/2104439207628517430>)
+
+---

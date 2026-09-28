@@ -442,3 +442,30 @@ Create a realistic, premium cinematic food photography image of [Menu Name] in a
 **[Try on MuseSignal →](<https://musesignal.com/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SimplyAnnisa/status/2081766364558340548>)
 
 ---
+
+<a id="prompt-11384b4c-53e6-4cc7-9fd5-18b6102715ba"></a>
+
+## Cinematic Steamed Momos Food Photography
+
+<a href="https://musesignal.com/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLaCM0_aAAIaZb6.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Steamed Momos Food Photography" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Cinematic food photography of freshly steamed momos (dumplings) stacked on a rustic weathered wooden board. The dumplings have glossy dough with intricate handmade pleats and a subtle oil sheen, with thick dramatic steam rising. Split scene showing a deconstructed view: floating dumpling wrappers, balls of spiced minced filling, and scattered fresh herbs suspended in air.
+
+Frozen-in-time effect with flour particles mid-air, motion-frozen spices, and a dramatic slow-motion splash. Wispy swirling steam and falling herb leaves add atmosphere.
+
+Dark moody rustic kitchen setting. Weathered wooden cutting board with visible wood grains and cracks.
+
+Cinematic studio lighting with warm inviting tones, high contrast and deep shadows for a professional editorial look. Macro photography, 8K resolution, hyper-detailed textures, shallow depth of field with blurred background and crisp sharp focus on the ingredients.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068984482603147590>)
+
+---

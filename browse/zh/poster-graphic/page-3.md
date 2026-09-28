@@ -1036,3 +1036,55 @@ The final image should feel like the official cover artwork for football's great
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hemayxn/status/2068923096950870218>)
 
 ---
+
+<a id="prompt-8c0796db-23e8-454e-a29b-43349bf09a10"></a>
+
+## Isometric Landmark Diorama Poster
+
+<a href="https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQp4jpMXUAAf8Zw.jpg?format=jpg&amp;name=small" width="480" alt="Isometric Landmark Diorama Poster" /></a>
+
+**GPT Image 2** · 原作者: TechieSA
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Simply replace [LANDMARK]:✨
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of [LANDMARK], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact shape of the landmark's immediate site and surroundings — the terrain, grounds, approach roads, natural geography — extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges.
+[LANDMARK] dominates the entire top surface as the undisputed focal point, rendered with complete architectural accuracy and at a dramatically larger scale than its surroundings — every facade detail, material, texture and structural element precisely recreated. The immediate surroundings fill the rest of the slab: the real terrain, paths, plazas, trees, water features, and any structures that genuinely surround the landmark in real life. Tiny tourists and visitors visible throughout at micro-scale.
+Dense micro-detail: individual stones, vegetation, tiny figures, vehicles, surrounding architecture all rendered with hyper-realistic precision.
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors.
+Layout: diorama floats centered in the lower two-thirds of the frame. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the city and country at the very top, then [LANDMARK] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant — with a small flat rectangular flag of the country sitting immediately to the right of the landmark name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the landmark name, floating naturally beside the name as one cohesive unit. Then small wide-tracked caps below with a one-line historical note or founding date.
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2092617537296929086>)
+
+---
+
+<a id="prompt-f4117c43-d7f4-4df9-ac5c-12dc360efee7"></a>
+
+## World Cup Career Staircase Poster
+
+<a href="https://musesignal.com/zh/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMXpK57XkAAW2Fd.jpg?format=jpg&amp;name=small" width="480" alt="World Cup Career Staircase Poster" /></a>
+
+**GPT Image 2** · 原作者: ai.gezgini
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt:
+👇
+The user enters one football player name: [PLAYER NAME].
+Create a vertical 9:16 cinematic football poster.
+Show the player’s complete FIFA World Cup history as a stacked vertical timeline on a realistic stadium-entry staircase, as if the same player is walking up toward the pitch again and again in different World Cup years. The scene must take place inside a dramatic football tunnel with a real stairway leading upward from the locker room to the stadium field. Each version of the player is shown from behind or three-quarter back view, ascending the stairs one after another, all of them the same player, each wearing a national-team-inspired jersey based on that exact World Cup year, with era-accurate hairstyle, age, body shape, number, and kit style. The oldest World Cup appearance must be at the bottom of the staircase, and the newest must be at the top. The very top must show the 2026 World Cup version as the final and most heroic step. Next to each player version, clearly write the tournament year and the host country, for example: “2018 — Russia”, “2022 — Qatar”, “2026 — USA / Canada / Mexico”. Also include that tournament’s final result or achievement for the player’s national team, such as “Champion”, “Runner-up”, “Third Place”, “Quarter-final”, “Round of 16”, or “Group Stage”. If the player won the World Cup in that year, visually add a trophy next to that version or beside the year label. If the team did not win, clearly write their finishing result for that tournament. You may also add a short achievement note for that specific World Cup, such as goals scored, captaincy, best player award, or a major milestone, but keep it short and visually clean. On the right side, write the vertical title “WORLD CUP HISTORY”. At the top, the player name can appear subtly as “[PLAYER NAME]”. Background should be a realistic stadium tunnel opening into a bright football pitch, with stadium lights, light smoke, crowd atmosphere, emotional pre-match tension, and a premium football documentary feel. Keep the composition clean, readable, and visually powerful. Do not use official logos, federation badges, sponsor logos, club logos, or copyrighted branding. Use fictional but accurate-looking national-team-inspired kits based on each era.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ai_gezgini/status/2073320616900300998>)
+
+---
