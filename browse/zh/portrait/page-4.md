@@ -593,3 +593,45 @@ A high-definition, professional fashion editorial photograph of a sophisticated 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104439207628517430>)
 
 ---
+
+<a id="prompt-7ec2004a-ae6b-4cc1-8640-ca6c97918ad2"></a>
+
+## Luxury Editorial Fashion Poster with Glowing JULY Typography
+
+<a href="https://musesignal.com/zh/prompt/7ec2004a-ae6b-4cc1-8640-ca6c97918ad2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMRRtFyasAAcJ5i.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Editorial Fashion Poster with Glowing JULY Typography" /></a>
+
+**GPT Image 2** · 原作者: ORHAN
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A stylish young man with a well-groomed beard and wavy hair sitting confidently on a modern matte-black designer lounge chair, wearing an oversized black sweatshirt, black joggers, black sunglasses, a luxury wristwatch, and clean white sneakers. Legs crossed, relaxed yet powerful pose, looking sideways. Minimalist luxury studio with a monochrome black and gray theme, glossy black floating spheres around the scene, soft cinematic lighting, subtle volumetric light, ultra-realistic textures. Huge glowing white 3D text "JULY" in the background with elegant handwritten neon script above reading "Welcome to". Premium editorial fashion poster, high contrast, luxury aesthetic, Instagram cover design, depth of field, sharp focus, 8K, photorealistic, symmetrical composition, modern typography, luxury branding style
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7ec2004a-ae6b-4cc1-8640-ca6c97918ad2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/OrhanGhazi65942/status/2072871574034948245>)
+
+---
+
+<a id="prompt-ea21651e-5be6-42c2-9e21-fb2504df458a"></a>
+
+## Corridor of Floating Memories Portrait
+
+<a href="https://musesignal.com/zh/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLaIlOraIAAOGfQ.jpg?format=jpg&amp;name=small" width="480" alt="Corridor of Floating Memories Portrait" /></a>
+
+**GPT Image 2** · 原作者: Snow
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Show me walking through a corridor made of floating memories. Each memory appears as a glowing cinematic frame suspended in the air. Warm nostalgic lighting, emotional atmosphere, realistic portrait, dreamlike storytelling, movie-quality visuals, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2068991260283838969>)
+
+---

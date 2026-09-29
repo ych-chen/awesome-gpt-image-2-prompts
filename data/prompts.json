@@ -2505,6 +2505,32 @@
     "content_hash": "a2ebb425b5f3ebec6baecf649ef4c5412f65671cb737d5d6882696494e44b22a"
   },
   {
+    "id": "3fc9738f-5d17-45c8-89a7-d638511cde96",
+    "title": "Luxury Brand Commercial Poster With Oversized 3D Typography",
+    "prompt": "An advertising poster for a world-class luxury brand, adaptable to any brand identity. The image features a single model exuding sophistication and confidence with a commanding camera presence; the shot captures a dynamic moment or a natural interaction with the product—such as wearing, holding, or engaging with it—within a high-end professional studio setting. Atmospheric lighting, utilizing brand-specific neon hues and gradient gels, casts distinct, artistic layers of light and shadow across the model’s face, physique, and the product's contours. The product appears both in the model's hands and as an enlarged, floating element in the background, seamlessly integrated into the scene. Dynamic visual effects—such as splashing liquids, light trails, hazy colored mist, and sparkling particles—burst naturally from the point of interaction, enhancing the image's aura. Bold, oversized, fashion-magazine-style typography occupies the corners of the frame; the text is partially obscured by the model's silhouette, creating a sophisticated sense of depth. Supplementary copy features the brand slogan in a minimalist, slender font, alongside bolded text highlighting 2–3 key selling points; these elements are artfully arranged in the negative space, ensuring a clean, high-end layout. A deep, minimalist gradient background ensures the subject remains the focal point without distraction. The image boasts a hyper-realistic commercial aesthetic and Hasselblad-grade professional quality, rivaling the visual style of top-tier international brands and fashion magazine covers; with ultra-high resolution and exquisite detail, it is suitable for a wide range of categories, including beauty, fashion, sportswear, electronics, luxury goods, and food.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "PixuryAI",
+      "handle": "PixuryAI"
+    },
+    "source_platform": "X",
+    "source_id": "2087362893021114611",
+    "source_url": "https://x.com/PixuryAI/status/2087362893021114611",
+    "images": [
+      "https://pbs.twimg.com/media/HPfMzknaIAA0qcz.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96",
+    "published_at": "2026-09-29T07:08:09.76405+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "11b903898ace7db4e3782e2b47242b007349e11e9e9326886f682b67da23a9db"
+  },
+  {
     "id": "3fcd6666-58de-4e15-8a50-3541b2edcb8b",
     "title": "Elegant Japanese Travel Postcard Illustration",
     "prompt": "Prompt ↓\nCreate a premium illustrated travel postcard for {{CITY_NAME}} in a refined Japanese tourism-magazine aesthetic.\nAutomatically research and determine the city’s country, local-language name, most iconic landmark, authentic surrounding environment, distinctive local architecture, geography, vegetation, transportation, and secondary visual details. The landmark must be geographically accurate and instantly recognizable.\nVisual style: elegant Japanese travel editorial illustration, handcrafted layered paper collage combined with delicate gouache and watercolor textures, sophisticated Japanese tourism brochure aesthetic, calm and poetic atmosphere, refined composition, tactile matte paper, subtle handmade edges, soft physical paper shadows, delicate atmospheric depth.\nComposition: premium postcard. Use a cinematic elevated viewpoint with the iconic landmark as the main focal point. Surround it with accurately styled local buildings, streets, waterfronts, hills, mountains, parks, or other authentic geographic elements appropriate to the city. Keep the upper portion spacious with generous negative space for typography.\nColor palette: soft powder blue, warm ivory, cream, muted sage, dusty green, pale beige, soft gray, restrained terracotta. Low-to-medium saturation, gentle tonal transitions, no harsh contrast.\nArchitecture: precise and believable local architecture with carefully simplified shapes, accurate proportions, characteristic materials and rooflines. Avoid generic buildings and random skyscrapers.\nPeople: include only a few tiny simplified paper-cut travelers and pedestrians naturally interacting with the environment—walking, sightseeing, sitting, or looking toward the landmark. They should provide scale without becoming the focus.\nNature: delicate layered foliage, subtle trees, grasses and regional vegetation appropriate to the city. Add water, mountains, coastline, rivers, or other geographic features only when genuinely associated with the location.\nTypography: place elegant minimalist Japanese editorial typography in the upper-left with generous spacing:\n- CITY NAME — large uppercase geometric sans-serif\n- LOCAL CITY NAME · COUNTRY/REGION — small refined sans-serif\n- PRIMARY LANDMARK — small uppercase text with wide letter spacing\nTypography should feel integrated into the artwork, not like an overlay.\nLighting: soft natural daytime light, slightly hazy atmosphere, gentle matte highlights, subtle layered shadows, peaceful and nostalgic mood.\nMaterial: high-quality matte art paper, fine tactile grain, layered paper construction, delicate watercolor pigment variation, slightly imperfect handcrafted cut edges, premium offset-print character.\nCamera feel: 40–50mm equivalent, natural perspective, minimal distortion, strong foreground/midground/background separation, carefully art-directed travel photography composition translated into an illustration.\nOverall mood: quiet, elegant, contemplative, authentic, sophisticated Japanese travel magazine, collectible destination postcard, premium tourism campaign quality.\nAvoid: photorealistic photography, CGI, plastic rendering, flat vector art, anime, cartoon caricature, generic skyline, inaccurate landmark, fictional architecture, geographically impossible scenery, duplicated buildings, excessive people, oversized people, neon colors, oversaturation, harsh black shadows, glossy surfaces, clutter, excessive outlines, random text, misspelled typography, watermark, logo, border, frame, UI elements.\nGenerate the entire scene dynamically from {{CITY_NAME}} while maintaining this exact refined Japanese tourism-magazine visual identity.",
@@ -3590,6 +3616,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "c3fe2f10ef4c87b5b457505da19998b8f5bbc9442ad48b44ee6dc83b1b657ce3"
+  },
+  {
+    "id": "54c40536-8a97-44a0-a98a-d35d32083275",
+    "title": "JBL 'Feel the Sound' Bold Typography Poster",
+    "prompt": "GPT Image 2.5 prompt\nShare\n\nTry it with prompt : JBL — “FEEL THE SOUND.”\nFORMAT:\n4:5 vertical hyper-commercial JBL headphone campaign poster, ultra-high-resolution 8K, global OOH + Instagram + Meta advertising, BOLD TYPOGRAPHY–FIRST DESIGN, aggressive editorial graphic design, premium product photography, contemporary JBL advertising language\n⸻\n🧠 CORE IDEA\nFEEL THE SOUND.\nMake typography the dominant visual element, with JBL’s signature orange brand color controlling the entire visual environment.\nThe poster should communicate powerful JBL audio through a physical graphic metaphor:\nSOUND → IMPACT → MOVEMENT\nThe typography appears to react to the sound, creating a visual sense of bass, rhythm and energy.\n⸻\n🎬 MASTER COMPOSITION\nCreate a highly graphic, typography-dominated composition.\nTOP 40% — TYPOGRAPHY DOMINATION\nMassive stacked headline:\nFEEL\nTHE\nSOUND.\nUse extremely bold condensed sans-serif typography.\nThe words should occupy almost the entire width of the poster.\nAggressive scale.\nSome letters cropped by the edges.\nTypography should feel physically pushed by sound pressure.\n⸻\n🟠 BRAND-COLOR BACKGROUND\nUse JBL’s signature orange as the dominant full-frame background.\nStrong, saturated JBL orange.\nBuild subtle tonal variations within the orange rather than introducing unrelated background colors.\nUse:\n* Deep orange shadows\n* Bright orange highlights\n* Slight darker orange graphic blocks\n* Black typography\n* White microcopy\nThe entire poster should immediately feel like JBL even before the logo is seen.\n⸻\n🎧 PRODUCT + SUBJECT\nPlace a realistic person wearing a JBL headphone prominently in the center/lower-middle section.\nThe headphone must remain highly recognizable and physically accurate.\nSubject positioned directly within the typography composition.\nThe person should feel energetic and immersed in the music.\nNatural expression.\nNo exaggerated fashion pose.\nThe headphone is the product hero.\n⸻\n💥 TYPOGRAPHIC VISUAL METAPHOR\nCreate oversized graphic words around the product:\nBASS\nBEAT\nPOWER\nRHYTHM\nENERGY\nThese words should appear as huge background typography.\nSome letters can stretch, overlap and partially disappear behind the subject.\nUse typography to create the sensation of sound physically moving through the poster.\nAdd subtle directional typographic distortion around the headphone.\nNo literal sound waves.\nNo futuristic holograms.\n⸻\n✍️ TYPOGRAPHY SYSTEM\nTypography is the hero graphic element.\nPRIMARY HEADLINE\nFEEL THE SOUND.\nExtremely heavy bold grotesk / condensed sans-serif.\nHuge scale.\nTight kerning.\nStrong black typography against JBL orange.\nSECONDARY COPY\nJBL\nPURE BASS. PURE ENERGY.\nMICROCOPY\nWIRELESS • IMMERSIVE • POWERFUL\nSmall uppercase commercial typography.\n⸻\n📦 FEATURE STRIP\nBottom section contains a highly structured commercial information bar:\nJBL PURE BASS SOUND\nWIRELESS FREEDOM\nIMMERSIVE AUDIO\nALL-DAY PLAYTIME\nUse compact uppercase typography separated by thin black rules.\nKeep the information visually organized and highly legible.\n⸻\n📣 CTA\nLarge bold CTA:\nTURN IT UP.\nBelow:\nDISCOVER JBL AUDIO\nJBL logo positioned prominently but cleanly.\n⸻\n🎨 COLOR SYSTEM\nPRIMARY: JBL signature orange.\nSECONDARY: Deep black.\nACCENT: White.\nOrange must dominate the entire background.\nBlack provides the major typography contrast.\nWhite is reserved for small supporting information and selected graphic details.\nNo unnecessary blue, purple, cyan or neon gradients.\n⸻\n💡 LIGHTING\nHigh-end commercial product photography.\nStrong directional studio lighting.\nControlled highlights on the headphones.\nNatural skin texture.\nSubtle orange environmental bounce light.\nDeep controlled shadows.\nHigh contrast.\nThe product must separate clearly from the orange background.\n⸻\n🔍 HYPER DETAILING\nUltra-realistic headphone materials:\n* precise matte and gloss surfaces\n* realistic ear cushions\n* detailed controls\n* subtle reflections\n* accurate JBL branding\n* realistic skin pores\n* natural clothing texture\nTypography must remain razor sharp and professionally typeset.\n⸻\n📐 COMPOSITION FLOW\n1. MASSIVE “FEEL THE SOUND.” HEADLINE\n↓\n2. JBL ORANGE GRAPHIC FIELD\n↓\n3. PRODUCT + HUMAN HERO\n↓\n4. GIANT BASS / BEAT / POWER TYPOGRAPHY\n↓\n5. PRODUCT NAME / BRANDING\n↓\n6. FEATURE STRIP\n↓\n7. CTA + JBL LOGO\nThe concept must be understood within one second.\n⸻\n🎥 CAMERA / RENDER\nProfessional commercial photography.\n50mm lens.\nSlightly low-angle perspective to give the product presence.\nUltra-realistic 8K product detail.\nSharp commercial focus.\nClean edges.\nPrint-quality typography.\nPremium global advertising execution.\n⸻\n🚫 NEGATIVE DIRECTION\nNo generic headphone advertisement.\nNo blue background.\nNo purple neon.\nNo cyberpunk aesthetic.\nNo holograms.\nNo floating headphones.\nNo random particles.\nNo excessive lens flares.\nNo fantasy environment.\nNo excessive cinematic VFX.\nNo tiny headline.\nNo minimalist typography.\nNo luxury-fashion-only aesthetic.\nNo cluttered unreadable layout.\nNo incorrect JBL logo.\nNo distorted headphones.\nNo fake product details.\n⸻\n🔥 FINAL FEEL\nJBL × BOLD TYPOGRAPHY × ORANGE BRAND WORLD × PRODUCT PHOTOGRAPHY × SOUND ENERGY\nBIG TYPE.\nJBL ORANGE.\nREAL PRODUCT.\nPHYSICAL SOUND.\nMAXIMUM COMMERCIAL IMPACT.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ᴍᴜʀᴘʜʏ",
+      "handle": "Diplomeme"
+    },
+    "source_platform": "X",
+    "source_id": "2103429083652821045",
+    "source_url": "https://x.com/Diplomeme/status/2103429083652821045",
+    "images": [
+      "https://pbs.twimg.com/media/HTDhBJTawAEyS7L.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTDhBJcbQAAFfJ4.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTDhCesa4AAytuQ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/54c40536-8a97-44a0-a98a-d35d32083275",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/54c40536-8a97-44a0-a98a-d35d32083275",
+    "published_at": "2026-09-29T07:08:18.233659+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "2de858eee456625f5bb68d0a4187e150f8748a5036a7ad81f4348d93eb7fec48"
   },
   {
     "id": "54d12f98-a00c-41f1-9472-81c1edb695cc",
@@ -5673,6 +5727,32 @@
     "content_hash": "5c085aaef2a522ca39b1416403f427b83a859fde657a1cb1af5317b7b9cc70b6"
   },
   {
+    "id": "7ec2004a-ae6b-4cc1-8640-ca6c97918ad2",
+    "title": "Luxury Editorial Fashion Poster with Glowing JULY Typography",
+    "prompt": "A stylish young man with a well-groomed beard and wavy hair sitting confidently on a modern matte-black designer lounge chair, wearing an oversized black sweatshirt, black joggers, black sunglasses, a luxury wristwatch, and clean white sneakers. Legs crossed, relaxed yet powerful pose, looking sideways. Minimalist luxury studio with a monochrome black and gray theme, glossy black floating spheres around the scene, soft cinematic lighting, subtle volumetric light, ultra-realistic textures. Huge glowing white 3D text \"JULY\" in the background with elegant handwritten neon script above reading \"Welcome to\". Premium editorial fashion poster, high contrast, luxury aesthetic, Instagram cover design, depth of field, sharp focus, 8K, photorealistic, symmetrical composition, modern typography, luxury branding style",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ORHAN",
+      "handle": "OrhanGhazi65942"
+    },
+    "source_platform": "X",
+    "source_id": "2072871574034948245",
+    "source_url": "https://x.com/OrhanGhazi65942/status/2072871574034948245",
+    "images": [
+      "https://pbs.twimg.com/media/HMRRtFyasAAcJ5i.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7ec2004a-ae6b-4cc1-8640-ca6c97918ad2",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7ec2004a-ae6b-4cc1-8640-ca6c97918ad2",
+    "published_at": "2026-09-29T07:08:01.069127+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "195512c54442c13aa8c8078e20b62ad17d34dc1cd4786c962453449d9dc30b99"
+  },
+  {
     "id": "80c08566-d591-46a0-87d9-bb81a966c4f4",
     "title": "Versace Men's Watch in Gold and Marble Luxury",
     "prompt": "Create an ultra-premium luxury advertisement for a Versace men's analog watch. Bold metallic gold Versace logo with Medusa emblem at the top. Elegant split-layout design featuring a handsome male model in a tailored black Italian suit standing inside a luxurious black marble and gold architectural interior on the left, and a large photorealistic hero shot of the watch on the right.\nDisplay premium watch specifications vertically with elegant gold icons: Swiss Quartz Movement, Stainless Steel Case, Black Sunray Dial, Sapphire Crystal, 50M Water Resistance, Premium Steel Bracelet.\nHeadline:\n\"TIME IS THE ULTIMATE STATUS SYMBOL\"\nLuxury black and gold color palette, champagne-gold highlights, dramatic studio lighting, rich shadows, controlled reflections, premium typography, sophisticated negative space, luxury editorial aesthetic, Vogue Homme style, high-end commercial photography, luxury branding masterpiece, ultra-realistic, sharp focus, 8K, award-winning graphic design.",
@@ -7320,6 +7400,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "ae6e5eb56bc50039c76d99f91d7cc87d5294fa325efabcdc10f678f2bfc7a576"
+  },
+  {
+    "id": "9f34a6b5-e089-43e2-ae65-b5f20c6d9e9b",
+    "title": "Exhausted Waifu Battlefield Aftermath Portrait",
+    "prompt": "Character Name] from [Franchise Name], clearly a mature adult woman, highly recognizable and faithful to her original identity. Preserve her signature hair, eyes, facial structure, canonical accessories, overall personality, silhouette, and iconic color palette so she immediately reads as the correct character rather than a generic model.\nPhotorealistic candid battlefield-aftermath photography in a devastated combat zone shortly after sunrise.\nThe battle is already over.\nShe is completely overwhelmed, physically exhausted, mentally drained, and temporarily unable to continue fighting.\nShe has collapsed on the battlefield and may recover, stand again, and return to fight later. The image represents the absolute lowest point of the battle, not the end of her life.\nHer pose should feel genuinely exhausted, awkward, heavy, and unglamorous rather than heroic or staged. She may be sprawled across broken pavement, slumped against rubble, lying partially on her side, or collapsed beside damaged structures or equipment. Her limbs should feel heavy and poorly controlled, as if she simply ran out of strength.\nHer clothing should remain faithful to her canonical visual language while showing believable battle damage: dust, dirt, wrinkles, scuff marks, loosened accessories, damaged fabric at non-intimate areas, scratched armor or equipment, displaced jewelry, and signs of prolonged combat.\nPreserve enough intact character-specific details that she remains immediately recognizable even in defeat.\nHer hair is messy, tangled, dusty, and partially displaced from its normal styling. Makeup, if normally worn, is faded or slightly smeared by sweat, dust, rain, or exhaustion.\nInclude a few battle-after traces appropriate to the character: a dropped weapon nearby, broken equipment, displaced hair accessory, cracked ornament, damaged phone or personal item, torn ribbon, scattered ammunition or technological fragments, dirt-covered jewelry, loosened boot strap, discarded glove, or another small character-specific object.\nThe surrounding environment should communicate overwhelming devastation and silence after violence: broken concrete, shattered pavement, damaged vehicles, twisted metal, ruined buildings, drifting smoke, floating dust, distant fire, abandoned equipment, fragments of architecture, and pale early-morning light cutting through the haze.\nAny injuries should remain non-graphic and survivable: bruises, superficial cuts, scratches, dirt, blood smears from minor injuries, torn clothing, exhausted posture, trembling muscles, and visible physical strain.\nPhotography style: merciless battlefield candid — a brutally well-timed photograph capturing a normally powerful, beautiful, or composed waifu at the exact moment when she has absolutely nothing left in the tank.\nThe photographer should feel incidental rather than cinematic. Imperfect spontaneous framing, documentary realism, realistic perspective, subtle sensor grain, believable skin, hair, dust, fabric, metal, concrete, sweat, and environmental textures.\nLighting: cool desaturated dawn light mixed with faint warm firelight or emergency illumination, subtle atmospheric haze, drifting smoke, and occasional direct documentary flash if appropriate.\nThe final composition should create a strong contrast between the character’s usual identity and her current state of catastrophic exhaustion.\nOverall mood: absolute defeat with a pulse still beating underneath it — desolation, vulnerability, exhaustion, silence, and the faint possibility of revenge.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Olivia Bernardo",
+      "handle": "livybabie"
+    },
+    "source_platform": "X",
+    "source_id": "2091911810140061707",
+    "source_url": "https://x.com/livybabie/status/2091911810140061707",
+    "images": [
+      "https://pbs.twimg.com/media/HQf2syuW4AA8u8q.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQf2sywWMAEOb_0.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQf2sysXIAAuVzJ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQf2sy2WMAA6HOo.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/9f34a6b5-e089-43e2-ae65-b5f20c6d9e9b",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/9f34a6b5-e089-43e2-ae65-b5f20c6d9e9b",
+    "published_at": "2026-09-29T07:08:15.13625+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "13486f3b001e9eb29aec31c3ed9ec9abfe33a2de5af38d333eda050c744ddeb4"
   },
   {
     "id": "a193b9cb-75e2-477d-b9ff-9e2a48c26957",
@@ -9077,6 +9186,35 @@
     "content_hash": "53fcef9f357d32b2fea0426378886c357ebb6766c5acd814bb06dde53b685732"
   },
   {
+    "id": "d1c505a0-1cd6-47f3-b06a-017f90e18500",
+    "title": "Miniature Brand Restaurant Built Inside Signature Food",
+    "prompt": "Create an ultra-realistic, hyper-detailed macro masterpiece of a luxurious miniature {BRAND} restaurant seamlessly built inside and around an enormous {SIGNATURE_ITEM}, where the signature food or drink itself becomes the architecture.\n\nThe {SIGNATURE_ITEM} naturally transforms into a breathtaking multi-level restaurant without looking artificial. Every curve, texture, crust, bread, cheese, sauce, cream, foam, icing, chocolate, toppings, herbs, crispy coating, seasoning, filling, or decorative food element becomes part of the building's architecture, forming roofs, balconies, terraces, bridges, staircases, pillars, towers, gardens, and sculptural details.\n\nThe restaurant features elegant floor-to-ceiling glass walls revealing a lively interior filled with tiny customers enjoying meals, {STAFF_ROLE} preparing fresh food and drinks, premium furniture, realistic menu boards, decorative indoor plants, warm cinematic lighting, delivery riders, outdoor seating, stylish pathways, street lamps, and luxury architectural details.\n\nEnhance the scene with dynamic food elements naturally interacting with the building. Include dramatic melting cheese, dripping sauces, flowing coffee, caramel, chocolate, icing, honey, cream, butter, seasoning, steam, crumbs, herbs, or crispy flakes whenever appropriate to the signature item, making the entire composition feel alive and mouthwatering.\n\nThe entire miniature world sits on a premium circular base seamlessly integrated into the signature food itself, surrounded by realistic food textures, decorative ingredients, tiny vehicles, lush landscaping, outdoor dining spaces, elegant lighting, and premium commercial styling.\n\nEverything fits perfectly inside a realistic human palm, creating an unbelievable scale contrast that instantly captures attention and enhances the miniature illusion.\n\nMaintain authentic {BRAND} branding using recognizable architecture, official {BRAND_COLORS} color palette, iconic signage, premium visual identity, and realistic restaurant details while preserving the brand's unique character.\n\nBackground: luxurious nighttime city with beautiful cinematic bokeh, shallow depth of field, warm volumetric lighting, subtle steam, realistic reflections, HDR lighting, rich contrast, premium advertising color grading, and a dreamy luxury atmosphere.\n\nPhotographed like an award-winning commercial macro food campaign using an 85mm macro lens, ultra-sharp focus, physically accurate lighting, photorealistic textures, realistic materials, natural imperfections, 8K quality, luxury product photography, impossible yet believable miniature world, breathtaking composition, extremely satisfying, highly shareable, scroll-stopping, Instagram-worthy, viral masterpiece.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Nexora",
+      "handle": "frametheory058"
+    },
+    "source_platform": "X",
+    "source_id": "2078674448803320294",
+    "source_url": "https://x.com/frametheory058/status/2078674448803320294",
+    "images": [
+      "https://pbs.twimg.com/media/HNjvXB4bsAEKH3g.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNjvXsdbkAAuWpe.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNjvYPTbYAAg-rv.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNjvY2Ta8AAde8B.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d1c505a0-1cd6-47f3-b06a-017f90e18500",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d1c505a0-1cd6-47f3-b06a-017f90e18500",
+    "published_at": "2026-09-29T07:08:07.67794+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1f76472fc7741e95f9521a298145100c01fc2d8133f4117e5e7b1abf223561c8"
+  },
+  {
     "id": "d38dc2c1-17b3-444e-89e0-73e438fa9b3c",
     "title": "Glowing Portal Over Dark Reflective Surface",
     "prompt": "Core Concept: A surreal sci-fi / divine energy scene where a glowing circular portal or halo opens above a dark reflective surface, sending a vertical stream of light, rain, or energy downward into a bright impact point.\nMain Visual Elements:\n1. Glowing Ring / Portal : A white circular ring floats in the upper center. It looks like a portal, halo, UFO beam, or futuristic light source. The glow is very clean and strong, creating the main focus.\n2. Vertical Light Rain / Energy Beam : Thin vertical lines fall from the ring to the ground. It feels like rain, digital light particles, or energy strands. This gives the image a mysterious sci fi atmosphere.\n3. Bright Impact Point: At the bottom center, the beam hits the wet ground or water surface. The impact glows with white, pink, purple, and faint orange light, almost like energy is burning or opening a gateway.\n4. Dark Wet Ground / Water Surface: The bottom area is reflective, like a wet road, shallow water, or alien landscape. The glowing light reflects on the surface, creating depth and cinematic mood.\n5. Smoke / Mist / Fog: Heavy fog surrounds the scene, especially around the middle and lower background. It hides the environment and makes the image feel dreamlike, eerie, and supernatural.\n6. Color Palette: Mostly black, dark blue, gray, and white, with subtle purple, pink and orange highlights near the impact area.\n7. Mood: Calm, mysterious, spiritual, cinematic and slightly eerie. It feels like something otherworldly is arriving or being summoned.\n8. Camera / Composition: Vertical portrait frame. Center focused composition. Low angle or ground level perspective. The viewer’s eye moves from the glowing ring down through the beam to the bright impact point.",
@@ -10149,6 +10287,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "7186c46aa7388981417110d4003c7d025c485c56508fb43b5ac5b0d044daee42"
+  },
+  {
+    "id": "ea21651e-5be6-42c2-9e21-fb2504df458a",
+    "title": "Corridor of Floating Memories Portrait",
+    "prompt": "Show me walking through a corridor made of floating memories. Each memory appears as a glowing cinematic frame suspended in the air. Warm nostalgic lighting, emotional atmosphere, realistic portrait, dreamlike storytelling, movie-quality visuals, 8K.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Snow",
+      "handle": "iamrealsnow"
+    },
+    "source_platform": "X",
+    "source_id": "2068991260283838969",
+    "source_url": "https://x.com/iamrealsnow/status/2068991260283838969",
+    "images": [
+      "https://pbs.twimg.com/media/HLaIlOraIAAOGfQ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaIlOraoAAIy4-.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a",
+    "published_at": "2026-09-29T07:07:54.000568+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "2b2cf33bca96bf5b1b73cb59abeddf28f7c9fb06cf855e765ea2d5ddb0b3f116"
   },
   {
     "id": "ea92b0be-2794-4d67-9b64-64c2dfaea815",

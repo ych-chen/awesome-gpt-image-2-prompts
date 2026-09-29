@@ -1605,3 +1605,219 @@ Create an ultra-realistic, cinematic marketing photograph from the perspective o
 **[Try on MuseSignal →](<https://musesignal.com/prompt/6bcebaf7-96c9-451f-9734-fc031f0395e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/OrhanGhazi65942/status/2075515422808686895>)
 
 ---
+
+<a id="prompt-54c40536-8a97-44a0-a98a-d35d32083275"></a>
+
+## JBL &#39;Feel the Sound&#39; Bold Typography Poster
+
+<a href="https://musesignal.com/prompt/54c40536-8a97-44a0-a98a-d35d32083275?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTDhBJTawAEyS7L.jpg?format=jpg&amp;name=small" width="480" alt="JBL &#39;Feel the Sound&#39; Bold Typography Poster" /></a>
+
+**GPT Image 2.5** · Creator: ᴍᴜʀᴘʜʏ
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT Image 2.5 prompt
+Share
+
+Try it with prompt : JBL — “FEEL THE SOUND.”
+FORMAT:
+4:5 vertical hyper-commercial JBL headphone campaign poster, ultra-high-resolution 8K, global OOH + Instagram + Meta advertising, BOLD TYPOGRAPHY–FIRST DESIGN, aggressive editorial graphic design, premium product photography, contemporary JBL advertising language
+⸻
+🧠 CORE IDEA
+FEEL THE SOUND.
+Make typography the dominant visual element, with JBL’s signature orange brand color controlling the entire visual environment.
+The poster should communicate powerful JBL audio through a physical graphic metaphor:
+SOUND → IMPACT → MOVEMENT
+The typography appears to react to the sound, creating a visual sense of bass, rhythm and energy.
+⸻
+🎬 MASTER COMPOSITION
+Create a highly graphic, typography-dominated composition.
+TOP 40% — TYPOGRAPHY DOMINATION
+Massive stacked headline:
+FEEL
+THE
+SOUND.
+Use extremely bold condensed sans-serif typography.
+The words should occupy almost the entire width of the poster.
+Aggressive scale.
+Some letters cropped by the edges.
+Typography should feel physically pushed by sound pressure.
+⸻
+🟠 BRAND-COLOR BACKGROUND
+Use JBL’s signature orange as the dominant full-frame background.
+Strong, saturated JBL orange.
+Build subtle tonal variations within the orange rather than introducing unrelated background colors.
+Use:
+* Deep orange shadows
+* Bright orange highlights
+* Slight darker orange graphic blocks
+* Black typography
+* White microcopy
+The entire poster should immediately feel like JBL even before the logo is seen.
+⸻
+🎧 PRODUCT + SUBJECT
+Place a realistic person wearing a JBL headphone prominently in the center/lower-middle section.
+The headphone must remain highly recognizable and physically accurate.
+Subject positioned directly within the typography composition.
+The person should feel energetic and immersed in the music.
+Natural expression.
+No exaggerated fashion pose.
+The headphone is the product hero.
+⸻
+💥 TYPOGRAPHIC VISUAL METAPHOR
+Create oversized graphic words around the product:
+BASS
+BEAT
+POWER
+RHYTHM
+ENERGY
+These words should appear as huge background typography.
+Some letters can stretch, overlap and partially disappear behind the subject.
+Use typography to create the sensation of sound physically moving through the poster.
+Add subtle directional typographic distortion around the headphone.
+No literal sound waves.
+No futuristic holograms.
+⸻
+✍️ TYPOGRAPHY SYSTEM
+Typography is the hero graphic element.
+PRIMARY HEADLINE
+FEEL THE SOUND.
+Extremely heavy bold grotesk / condensed sans-serif.
+Huge scale.
+Tight kerning.
+Strong black typography against JBL orange.
+SECONDARY COPY
+JBL
+PURE BASS. PURE ENERGY.
+MICROCOPY
+WIRELESS • IMMERSIVE • POWERFUL
+Small uppercase commercial typography.
+⸻
+📦 FEATURE STRIP
+Bottom section contains a highly structured commercial information bar:
+JBL PURE BASS SOUND
+WIRELESS FREEDOM
+IMMERSIVE AUDIO
+ALL-DAY PLAYTIME
+Use compact uppercase typography separated by thin black rules.
+Keep the information visually organized and highly legible.
+⸻
+📣 CTA
+Large bold CTA:
+TURN IT UP.
+Below:
+DISCOVER JBL AUDIO
+JBL logo positioned prominently but cleanly.
+⸻
+🎨 COLOR SYSTEM
+PRIMARY: JBL signature orange.
+SECONDARY: Deep black.
+ACCENT: White.
+Orange must dominate the entire background.
+Black provides the major typography contrast.
+White is reserved for small supporting information and selected graphic details.
+No unnecessary blue, purple, cyan or neon gradients.
+⸻
+💡 LIGHTING
+High-end commercial product photography.
+Strong directional studio lighting.
+Controlled highlights on the headphones.
+Natural skin texture.
+Subtle orange environmental bounce light.
+Deep controlled shadows.
+High contrast.
+The product must separate clearly from the orange background.
+⸻
+🔍 HYPER DETAILING
+Ultra-realistic headphone materials:
+* precise matte and gloss surfaces
+* realistic ear cushions
+* detailed controls
+* subtle reflections
+* accurate JBL branding
+* realistic skin pores
+* natural clothing texture
+Typography must remain razor sharp and professionally typeset.
+⸻
+📐 COMPOSITION FLOW
+1. MASSIVE “FEEL THE SOUND.” HEADLINE
+↓
+2. JBL ORANGE GRAPHIC FIELD
+↓
+3. PRODUCT + HUMAN HERO
+↓
+4. GIANT BASS / BEAT / POWER TYPOGRAPHY
+↓
+5. PRODUCT NAME / BRANDING
+↓
+6. FEATURE STRIP
+↓
+7. CTA + JBL LOGO
+The concept must be understood within one second.
+⸻
+🎥 CAMERA / RENDER
+Professional commercial photography.
+50mm lens.
+Slightly low-angle perspective to give the product presence.
+Ultra-realistic 8K product detail.
+Sharp commercial focus.
+Clean edges.
+Print-quality typography.
+Premium global advertising execution.
+⸻
+🚫 NEGATIVE DIRECTION
+No generic headphone advertisement.
+No blue background.
+No purple neon.
+No cyberpunk aesthetic.
+No holograms.
+No floating headphones.
+No random particles.
+No excessive lens flares.
+No fantasy environment.
+No excessive cinematic VFX.
+No tiny headline.
+No minimalist typography.
+No luxury-fashion-only aesthetic.
+No cluttered unreadable layout.
+No incorrect JBL logo.
+No distorted headphones.
+No fake product details.
+⸻
+🔥 FINAL FEEL
+JBL × BOLD TYPOGRAPHY × ORANGE BRAND WORLD × PRODUCT PHOTOGRAPHY × SOUND ENERGY
+BIG TYPE.
+JBL ORANGE.
+REAL PRODUCT.
+PHYSICAL SOUND.
+MAXIMUM COMMERCIAL IMPACT.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/54c40536-8a97-44a0-a98a-d35d32083275?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Diplomeme/status/2103429083652821045>)
+
+---
+
+<a id="prompt-3fc9738f-5d17-45c8-89a7-d638511cde96"></a>
+
+## Luxury Brand Commercial Poster With Oversized 3D Typography
+
+<a href="https://musesignal.com/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPfMzknaIAA0qcz.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Brand Commercial Poster With Oversized 3D Typography" /></a>
+
+**GPT Image 2** · Creator: PixuryAI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+An advertising poster for a world-class luxury brand, adaptable to any brand identity. The image features a single model exuding sophistication and confidence with a commanding camera presence; the shot captures a dynamic moment or a natural interaction with the product—such as wearing, holding, or engaging with it—within a high-end professional studio setting. Atmospheric lighting, utilizing brand-specific neon hues and gradient gels, casts distinct, artistic layers of light and shadow across the model’s face, physique, and the product's contours. The product appears both in the model's hands and as an enlarged, floating element in the background, seamlessly integrated into the scene. Dynamic visual effects—such as splashing liquids, light trails, hazy colored mist, and sparkling particles—burst naturally from the point of interaction, enhancing the image's aura. Bold, oversized, fashion-magazine-style typography occupies the corners of the frame; the text is partially obscured by the model's silhouette, creating a sophisticated sense of depth. Supplementary copy features the brand slogan in a minimalist, slender font, alongside bolded text highlighting 2–3 key selling points; these elements are artfully arranged in the negative space, ensuring a clean, high-end layout. A deep, minimalist gradient background ensures the subject remains the focal point without distraction. The image boasts a hyper-realistic commercial aesthetic and Hasselblad-grade professional quality, rivaling the visual style of top-tier international brands and fashion magazine covers; with ultra-high resolution and exquisite detail, it is suitable for a wide range of categories, including beauty, fashion, sportswear, electronics, luxury goods, and food.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/PixuryAI/status/2087362893021114611>)
+
+---

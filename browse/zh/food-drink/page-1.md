@@ -469,3 +469,40 @@ Cinematic studio lighting with warm inviting tones, high contrast and deep shado
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068984482603147590>)
 
 ---
+
+<a id="prompt-d1c505a0-1cd6-47f3-b06a-017f90e18500"></a>
+
+## Miniature Brand Restaurant Built Inside Signature Food
+
+<a href="https://musesignal.com/zh/prompt/d1c505a0-1cd6-47f3-b06a-017f90e18500?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNjvXB4bsAEKH3g.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Brand Restaurant Built Inside Signature Food" /></a>
+
+**GPT Image 2** · 原作者: Nexora
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-realistic, hyper-detailed macro masterpiece of a luxurious miniature {BRAND} restaurant seamlessly built inside and around an enormous {SIGNATURE_ITEM}, where the signature food or drink itself becomes the architecture.
+
+The {SIGNATURE_ITEM} naturally transforms into a breathtaking multi-level restaurant without looking artificial. Every curve, texture, crust, bread, cheese, sauce, cream, foam, icing, chocolate, toppings, herbs, crispy coating, seasoning, filling, or decorative food element becomes part of the building's architecture, forming roofs, balconies, terraces, bridges, staircases, pillars, towers, gardens, and sculptural details.
+
+The restaurant features elegant floor-to-ceiling glass walls revealing a lively interior filled with tiny customers enjoying meals, {STAFF_ROLE} preparing fresh food and drinks, premium furniture, realistic menu boards, decorative indoor plants, warm cinematic lighting, delivery riders, outdoor seating, stylish pathways, street lamps, and luxury architectural details.
+
+Enhance the scene with dynamic food elements naturally interacting with the building. Include dramatic melting cheese, dripping sauces, flowing coffee, caramel, chocolate, icing, honey, cream, butter, seasoning, steam, crumbs, herbs, or crispy flakes whenever appropriate to the signature item, making the entire composition feel alive and mouthwatering.
+
+The entire miniature world sits on a premium circular base seamlessly integrated into the signature food itself, surrounded by realistic food textures, decorative ingredients, tiny vehicles, lush landscaping, outdoor dining spaces, elegant lighting, and premium commercial styling.
+
+Everything fits perfectly inside a realistic human palm, creating an unbelievable scale contrast that instantly captures attention and enhances the miniature illusion.
+
+Maintain authentic {BRAND} branding using recognizable architecture, official {BRAND_COLORS} color palette, iconic signage, premium visual identity, and realistic restaurant details while preserving the brand's unique character.
+
+Background: luxurious nighttime city with beautiful cinematic bokeh, shallow depth of field, warm volumetric lighting, subtle steam, realistic reflections, HDR lighting, rich contrast, premium advertising color grading, and a dreamy luxury atmosphere.
+
+Photographed like an award-winning commercial macro food campaign using an 85mm macro lens, ultra-sharp focus, physically accurate lighting, photorealistic textures, realistic materials, natural imperfections, 8K quality, luxury product photography, impossible yet believable miniature world, breathtaking composition, extremely satisfying, highly shareable, scroll-stopping, Instagram-worthy, viral masterpiece.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d1c505a0-1cd6-47f3-b06a-017f90e18500?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/frametheory058/status/2078674448803320294>)
+
+---
