@@ -1821,3 +1821,63 @@ An advertising poster for a world-class luxury brand, adaptable to any brand ide
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PixuryAI/status/2087362893021114611>)
 
 ---
+
+<a id="prompt-e9fb6ebe-7904-485d-ba1d-fcb5431f343e"></a>
+
+## Luxury Streetwear Shopping Bag Editorial Poster
+
+<a href="https://musesignal.com/zh/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMwi6p2bUAAyaf6.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Streetwear Shopping Bag Editorial Poster" /></a>
+
+**GPT Image 2** · 原作者: Laraib Fatima‎
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium luxury streetwear editorial advertising poster in a vertical 9:16 format.
+A stylish young female model leans over an enormous shopping bag, looking directly down toward the viewer with a confident, irresistible expression. The scene is captured from an extreme point-of-view camera positioned inside the shopping bag, creating a dramatic upward perspective as if the viewer is the item about to be picked.
+
+The model naturally leans over the bag’s opening, with one hand reaching inside while maintaining intense direct eye contact. He wears an oversized vibrant red hoodie, black cargo pants, and clean white sneakers, embodying a bold contemporary luxury streetwear aesthetic.
+
+The opening of the shopping bag forms a powerful foreground frame, surrounding the model and enhancing the immersive perspective. The interior walls of the bag become part of the graphic design, featuring oversized premium typography wrapping around the paper surface with the statement:
+
+“TAKE WHAT’S YOURS”
+
+Integrate sophisticated editorial graphic elements throughout the composition, including authentic receipt graphics, barcode strips, shipping labels, premium stickers, paper folds, subtle print imperfections, registration marks, and luxury magazine-inspired layout details.
+
+Composition emphasizes an unforgettable forced-perspective viewpoint with strong foreground framing, dramatic depth, and a highly shareable luxury fashion campaign aesthetic suitable for premium social media advertising.
+
+Lighting is inspired by high-end fashion campaigns, with brilliant natural light pouring in from above the bag, creating luminous highlights, soft shadows, realistic paper reflections, and cinematic contrast.
+
+Color Palette: Rich crimson red, deep black, crisp white, and warm cream paper tones.
+
+Style: Ultra-premium luxury streetwear campaign, contemporary editorial design, cinematic fashion photography, magazine cover quality, bold graphic composition, hyper-realistic textures, impeccable typography integration, ultra-detailed, photorealistic, 8K masterpiece, award-winning commercial advertising, premium branding aesthetic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2075071927975293125>)
+
+---
+
+<a id="prompt-36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e"></a>
+
+## Ultra-Realistic Milk Carton Packaging Mockup
+
+<a href="https://musesignal.com/zh/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLqVSMuWEAAIPX9.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Milk Carton Packaging Mockup" /></a>
+
+**GPT Image** · 原作者: Abkr Sadiq
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic commercial milk carton packaging mockup, premium supermarket-ready product presentation, tall rectangular milk carton standing upright on a clean wooden surface, realistic paperboard carton texture with subtle folds and printing details, modern blue and white dairy branding, bold typography, premium label design, dynamic milk splash effects wrapping around the carton, fresh milk pouring visuals, crystal-clear glass of milk beside the package, floating milk droplets frozen in motion, fresh dairy farm imagery integrated into the packaging artwork, green pasture, healthy cows, blue sky and soft clouds in the background, high-end product photography, professional studio lighting mixed with natural daylight, shallow depth of field, ultra-sharp focus on carton, glossy highlights, realistic shadows and reflections, clean advertising composition, FMCG packaging design, photorealistic rendering, commercial branding showcase, premium retail shelf appeal, award-winning packaging visualization, ultra-detailed textures, 8K resolution, cinematic quality, advertising campaign aesthetic, vibrant colors, pristine white milk, luxury food packaging mockup, realistic product marketing shot.
+Negative Prompt: blurry, low quality, distorted carton shape, extra objects, messy background, text errors, watermark, logo duplication, overexposed highlights, unrealistic milk splashes, cartoon style, low resolution, noise, grain, cropped packaging, deformed proportions.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/abs_uiux/status/2070131134940185047>)
+
+---

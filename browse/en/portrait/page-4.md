@@ -635,3 +635,24 @@ Show me walking through a corridor made of floating memories. Each memory appear
 **[Try on MuseSignal →](<https://musesignal.com/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2068991260283838969>)
 
 ---
+
+<a id="prompt-f987eccc-5faf-4973-aa1c-503c7fe98cca"></a>
+
+## Fisheye Low-Angle Street Portrait of a Man
+
+<a href="https://musesignal.com/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQKA-XNbQAAR8wF.jpg?format=jpg&amp;name=small" width="480" alt="Fisheye Low-Angle Street Portrait of a Man" /></a>
+
+**GPT Image 2** · Creator: Taaruk
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a surreal, ultra-realistic low-angle fisheye photograph of a young man walking directly over the camera in the center of a grand European city square. The camera is placed almost flat against the cobblestone pavement, creating an extreme forced-perspective effect. One leg is lifted high toward the lens, with the sneaker sole dominating the foreground and appearing dramatically oversized, showing detailed rubber tread and realistic texture. His other foot remains planted on the ground. He reaches one hand directly toward the camera with an open palm and naturally spread fingers, creating strong depth and interaction with the viewer. He wears a blue denim jacket over a clean white T-shirt, relaxed blue jeans, and classic black-and-white canvas sneakers. He has short slightly tousled dark hair and subtle round glasses, with a calm, confident expression as he looks down toward the camera. Surround him with elegant historic European architecture curving dramatically around the frame because of the extreme 8mm fisheye lens. Bright blue summer sky with soft white clouds, strong sunlight and subtle lens flare, realistic shadows across the cobblestones, distant pedestrians and city details around the square. Extreme barrel distortion, circular architectural framing, dynamic perspective, crisp facial detail, realistic skin, denim and shoe textures, cinematic street photography, natural colors, high dynamic range, immersive depth, photorealistic, 8K detail. Vertical 4:5 composition, subject centered, no text, no logos, no watermark.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2090375007482655227>)
+
+---

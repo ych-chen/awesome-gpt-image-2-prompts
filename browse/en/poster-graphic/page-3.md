@@ -1088,3 +1088,45 @@ Show the player’s complete FIFA World Cup history as a stacked vertical timeli
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ai_gezgini/status/2073320616900300998>)
 
 ---
+
+<a id="prompt-dc86ef73-08fc-4f8a-9e30-1d2be0c7c219"></a>
+
+## Pixel Art World Cup 2026 Team Poster
+
+<a href="https://musesignal.com/prompt/dc86ef73-08fc-4f8a-9e30-1d2be0c7c219?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLf3L2daMAEJhYt.jpg?format=jpg&amp;name=small" width="480" alt="Pixel Art World Cup 2026 Team Poster" /></a>
+
+**GPT Image 2** · Creator: 两斤
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+[COUNTRY] national football team celebrating at FIFA World Cup 2026, iconic [COUNTRY] football stadium with roaring crowd, national flag colors saturating the pixel sky, player silhouettes raising the World Cup trophy, confetti rain, pixelated mosaic texture, CityPop retro pixel art illustration, stadium floodlight night, deep blue midnight sky with neon festive glow, in the style of tom whalen, james bullough, flat vector graphic illustration, travel poster composition, from behance dribbble, UI illustration, best quality --ar 3:4
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/dc86ef73-08fc-4f8a-9e30-1d2be0c7c219?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/0x00_Krypt/status/2069394361973108945>)
+
+---
+
+<a id="prompt-45e934a8-ea96-425b-9a56-08ec7ed18414"></a>
+
+## 3D Clay-Illustration Weekend Food Festival Poster
+
+<a href="https://musesignal.com/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZma90aUAASyo4.jpg?format=jpg&amp;name=small" width="480" alt="3D Clay-Illustration Weekend Food Festival Poster" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+3D clay-illustration style vertical poster with a clean minimalist background, abstract art aesthetic in the Behance/Dribbble visual design tradition. The mood is fresh, vibrant, youthful, and delicate. Theme: Weekend Food Festival. Aspect ratio: 16:9, 4K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068953812401054124>)
+
+---

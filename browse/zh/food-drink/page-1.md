@@ -506,3 +506,24 @@ Photographed like an award-winning commercial macro food campaign using an 85mm 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d1c505a0-1cd6-47f3-b06a-017f90e18500?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/frametheory058/status/2078674448803320294>)
 
 ---
+
+<a id="prompt-7f5d1702-ce51-485f-bf3d-bd339678c513"></a>
+
+## Underrated Middle East Lamb Dishes 2x2 Grid
+
+<a href="https://musesignal.com/zh/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTQjj6bXYAAbBWa.jpg?format=jpg&amp;name=small" width="480" alt="Underrated Middle East Lamb Dishes 2x2 Grid" /></a>
+
+**GPT Image 2.5** · 原作者: Gadgetify
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt: 2x2 grid, 16:9, do this for underrated middle east lamb dishes: input: $ dish  policy: infer all context from :dish. do not hardcode eras, cultures, styles, panel count, or composition.  create temp view flavorline as select     moment as era,     infer_dish_form(:dish, moment) as plate,     infer_origin_myth(plate) as origin,     infer_scarcity_or_excess(plate) as economy,     infer_authenticity_conflict(origin, economy) as tension,     infer_food_visual_language(plate, tension) as style,     infer_composition(plate, style) as layout from unnest(     infer_most_revealing_moments(:dish,         goal = "moments where the dish reveals migration, class, or cultural conflict",         count = infer_optimal_panel_count(:dish)     ) ) as moment;  select     render_panel(plate, origin, economy, tension, style, layout) as panel from flavorline order by infer_narrative_order(era, tension);  bind panels as infer_most_shareable_format(:dish, panels) with     thesis = infer_culinary_thesis(:dish, panels),     caption = infer_hook_caption(thesis);
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gdgtify/status/2104617885339468003>)
+
+---

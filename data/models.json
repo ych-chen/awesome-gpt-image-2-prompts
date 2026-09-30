@@ -2,16 +2,16 @@
   {
     "key": "gpt-image",
     "name": "GPT Image",
-    "count": 45
+    "count": 46
   },
   {
     "key": "gpt-image-2",
     "name": "GPT Image 2",
-    "count": 366
+    "count": 371
   },
   {
     "key": "gpt-image-2.5",
     "name": "GPT Image 2.5",
-    "count": 2
+    "count": 3
   }
 ]

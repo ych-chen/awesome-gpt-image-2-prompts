@@ -555,3 +555,36 @@ Overall mood: absolute defeat with a pulse still beating underneath it — desol
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9f34a6b5-e089-43e2-ae65-b5f20c6d9e9b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/livybabie/status/2091911810140061707>)
 
 ---
+
+<a id="prompt-046bc935-bbb6-4bed-ba87-d054b42155da"></a>
+
+## Cosmic Fantasy Portrait of a Man Holding a Black Hole
+
+<a href="https://musesignal.com/zh/prompt/046bc935-bbb6-4bed-ba87-d054b42155da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOxQEjibEAAyae8.jpg?format=jpg&amp;name=small" width="480" alt="Cosmic Fantasy Portrait of a Man Holding a Black Hole" /></a>
+
+**GPT Image 2** · 原作者: Harry Potter
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic cinematic cosmic fantasy portrait of a powerful middle-aged man smiling confidently while holding a miniature black hole suspended between his open hands. His body appears fused with an ancient planet, with cracked stone-like skin revealing glowing molten golden energy flowing through intricate fissures across his face, neck, shoulders, and arms. One half of his body is rugged volcanic rock while the other remains realistic human skin, creating a breathtaking duality between humanity and the universe.
+
+Behind him stretches an infinite deep-space backdrop filled with vibrant nebulae, glowing galaxies, planets, moons, floating asteroids, meteor fragments, and distant stars. Surrounding the black hole are intricate celestial geometry, sacred circular diagrams, zodiac symbols, alchemical glyphs, golden orbit lines, and mystical astronomical patterns radiating outward like an ancient cosmic blueprint.
+
+The black hole emits a brilliant golden accretion ring, casting warm volumetric light onto his hands and face. Countless tiny glowing particles drift through space, adding depth and scale. The composition is perfectly centered and symmetrical, with the subject making direct eye contact, creating an intense, god-like presence as if he is the architect of the universe.
+
+Lighting: dramatic cinematic rim lighting, warm golden highlights mixed with cool blue cosmic illumination, volumetric rays, HDR, global illumination, soft atmospheric haze, realistic reflections.
+
+Style: ultra-photorealistic fantasy, celestial mythology, epic sci-fi, surreal realism, premium digital art, hyper-detailed textures, cracked stone skin, cosmic energy, mystical realism.
+
+Camera: close-up portrait, 85mm lens, f/1.8, shallow depth of field, ultra-sharp facial details, dynamic contrast, cinematic color grading.
+
+Quality: masterpiece, 8K UHD, HDR, Unreal Engine 5, Octane Render, ray tracing, ultra-detailed, award-winning fantasy concept art, ArtStation quality, highly detailed, photorealistic, breathtaking composition, no text, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/046bc935-bbb6-4bed-ba87-d054b42155da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mon010_de/status/2084128782307483999>)
+
+---
