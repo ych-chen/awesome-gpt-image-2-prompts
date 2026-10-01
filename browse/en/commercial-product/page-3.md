@@ -1881,3 +1881,27 @@ Negative Prompt: blurry, low quality, distorted carton shape, extra objects, mes
 **[Try on MuseSignal →](<https://musesignal.com/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/abs_uiux/status/2070131134940185047>)
 
 ---
+
+<a id="prompt-4ba6dc0b-2918-477d-afd8-6b9391f5d726"></a>
+
+## Pizza Hut Luxury Campaign Ad
+
+<a href="https://musesignal.com/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpvYhVawAAk7XH.jpg?format=jpg&amp;name=small" width="480" alt="Pizza Hut Luxury Campaign Ad" /></a>
+
+**GPT Image 2** · Creator: Al-Shamus
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a minimalist commercial advertisement featuring an oversized cheese pizza as the hero product in an ultra-clean, luxury campaign style. A young WOMAN dressed in an elegant all-pink AND white outfit leans casually against the giant PIZZA in a relaxed yet confident pose, eyes gently closed, while holding a freshly made pizza hut CHEESE PIZZA in both hand. The composition is modern and editorial, emphasizing scale, freshness, and visual impact.
+Use a soft gradient green-to-yellow background with large bold white AND BLACK “PIZZA HUT” typography placed prominently behind the subject. Include a glossy reflective floor that subtly mirrors the sandwich and the model, enhanced with soft studio lighting and premium food photography aesthetics. Ensure the sandwich appears hyper-realistic, packed with fresh crisp lettuce, sliced tomatoes, cucumbers, onions, cheese, savory meat or veggie filling, signature sauces, and artisan bread with mouthwatering texture and detail.
+Maintain a clean, luxurious layout with balanced negative space and a sophisticated commercial look suitable for a high-end global advertising campaign.
+Add small text in the top-right corner reading “Designed by SHAMUS”. At the bottom center, place the tagline in small white font: “Freshly made. Delicious in every bite
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/im_shahid7/status/2070089461577416758>)
+
+---

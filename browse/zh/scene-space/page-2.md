@@ -22,3 +22,34 @@
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/65eef4c9-d02b-4a16-ad98-474847db9025?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2081091609320386663>)
 
 ---
+
+<a id="prompt-f0e83318-6e3c-46be-bf40-4c8de667b7bc"></a>
+
+## Pastel Observatory Window Overlooks Hidden Civilization
+
+<a href="https://musesignal.com/zh/prompt/f0e83318-6e3c-46be-bf40-4c8de667b7bc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK-ZmOSW8AAGbxn.jpg?format=jpg&amp;name=small" width="480" alt="Pastel Observatory Window Overlooks Hidden Civilization" /></a>
+
+**GPT Image 2** · 原作者: Glitter Gal
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Gpt Image 2 + Lightroom + Wonder 3 by @topazlabs .
+Create an original photorealistic surreal editorial image from inside a vast, shadowed observatory room, looking out through a monumental arched window toward an impossible civilization on the far horizon.
+Scene: a lone woman sits at an old wooden desk in the lower foreground, seen from behind, almost swallowed by the scale of the view. She should feel small, anonymous, quiet, and contemplative. Soft pastel curtains frame both sides of the window, in dusty blush, pale rose, muted mauve, or powder lavender. The room is dim and atmospheric, with worn rugs, scattered papers, antique wood, old scientific instruments, and warm low interior shadows, all softened with a pastel-toned color palette.
+View outside: beyond the window is a colossal green basin stretching to a distant horizon. A hidden civilization is embedded inside the landscape: monumental pale stone terraces, geometric megastructures, cliff-cut sanctuaries, horizontal bridges, and tower-like forms partially buried in dense forest canopy, vines, mist, and waterfalls. The city should feel ancient, advanced, quiet, and impossibly vast.
+Composition: vertical cinematic frame, interior in deep soft shadow, huge arched window dominating the image, tiny seated woman at the bottom center, extreme distance outside, strong depth from dim pastel interior to luminous sunlit horizon. The architecture outside should be far away, not close, with the horizon feeling endless.
+Sky and atmosphere: enormous volumetric clouds over the horizon, soft sunbeams breaking through, pale pastel blue-gray sky, warm peach haze, a small moon barely visible above the distant city, mist pooling between sage-green ridges and monumental buildings.
+Color palette: all pastel colors throughout the image. Use soft sage green, pale mint, powder blue, dusty lavender, blush pink, muted peach, warm cream, ivory stone, faded rose, and gentle blue-gray shadows. Avoid harsh saturation, heavy crimson, pure black, neon colors, or overly dark color blocking. Keep the image elegant, airy, cinematic, and softly luminous while preserving depth and mystery.
+Style: photorealistic surreal architectural editorial, refined cinematic realism, elegant atmospheric perspective, subtle film grain, rich but soft shadows, high-end art direction, pastel surrealism, delicate light, sophisticated composition.
+Mood: quiet, powerful, mysterious, contemplative, vast, almost sacred.
+Constraints: no text, no watermark, no logo, no fantasy castle, no medieval kingdom, no ornate palace, no busy skyline, no vehicles, no crowds, no modern city clutter. Keep the woman small and anonymous. Keep the exterior civilization monumental, minimal, partially hidden by greenery, and far in the distance.
+Aspect ratio: 3:4 vertical.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f0e83318-6e3c-46be-bf40-4c8de667b7bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlitterPixely/status/2067040223762997439>)
+
+---

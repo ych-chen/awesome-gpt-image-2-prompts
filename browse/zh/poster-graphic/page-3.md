@@ -1130,3 +1130,132 @@ Show the player’s complete FIFA World Cup history as a stacked vertical timeli
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068953812401054124>)
 
 ---
+
+<a id="prompt-929a104f-57ba-43a2-8529-52b91681fff4"></a>
+
+## Golden Thread Travel-Art Poster Prompt for GPT Image 2.5
+
+<a href="https://musesignal.com/zh/prompt/929a104f-57ba-43a2-8529-52b91681fff4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTdIWPyaAAABX_Z.jpg?format=jpg&amp;name=small" width="480" alt="Golden Thread Travel-Art Poster Prompt for GPT Image 2.5" /></a>
+
+**GPT Image 2.5** · 原作者: Saul Goodman
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT Image 2.5
+
+Prompt:
+Create a premium 4:5 vertical conceptual travel-art poster for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork from [COUNTRY / CITY / LOCATION / SUBJECT] alone.
+
+CORE CONCEPT
+Create a poetic travel memory in which a cinematic realistic destination scene gradually transforms into a delicate hand-drawn illustration through one continuous golden thread.
+
+UPPER SCENE
+Create a breathtaking, highly realistic cinematic view of the most iconic location associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose the most atmospheric lighting—sunrise, sunset, golden hour, or blue hour.
+
+Show authentic architecture, landscape, proportions, recognizable local details, realistic materials, atmospheric depth, natural light, subtle film grain, and sophisticated editorial travel-photography composition.
+
+GOLDEN THREAD
+Choose one meaningful visual element from the scene—such as the sun, tower, dome, window, streetlight, mountain peak, river, bridge, cable, or architectural detail—and transform it into one thin golden thread that naturally extends downward from the scene.
+
+The thread should remain continuous, delicate, slightly imperfect, and elegant as it travels into the open space below.
+
+LOWER STORY
+On warm ivory textured paper, let the golden thread evolve into a tiny minimalist ink illustration inspired by [COUNTRY / CITY / LOCATION / SUBJECT].
+
+Automatically choose one meaningful local symbol, traveler, traditional object, miniature landmark, street scene, boat, train, flower, map element, or cultural detail. Draw it with fine black ink lines, subtle hatching, tiny golden accents, and very little detail.
+
+Keep the illustration small and surrounded by generous negative space. It should feel like a quiet continuation of the upper scene rather than a separate picture.
+
+TYPOGRAPHY
+Add minimal refined editorial typography based on [COUNTRY / CITY / LOCATION / SUBJECT]. Use a small destination name, landmark name, or short poetic phrase. Keep the typography subtle and secondary.
+
+FINAL AESTHETIC
+Cinematic travel photography × delicate ink illustration × continuous golden thread × warm ivory paper × poetic visual storytelling × premium editorial art print.
+
+The upper scene should feel authentic and visually dominant, while the lower illustration feels like a beautiful hand-drawn memory emerging naturally from the destination.
+
+Avoid split-screen rigidity, collage clutter, disconnected illustration, random objects, cartoon styling, distorted architecture, excessive text, logos, watermarks, heavy vintage effects, or generic travel imagery.
+
+FORMAT: 4:5 vertical, sophisticated museum-quality travel artwork, generous negative space. Generate for new york
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/929a104f-57ba-43a2-8529-52b91681fff4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2105230944617775113>)
+
+---
+
+<a id="prompt-30ddb1da-740e-4724-b7c2-1119118cd7d9"></a>
+
+## Architectural Travel Postcard Illustration
+
+<a href="https://musesignal.com/zh/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTXM9HeagAEpWTv.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Travel Postcard Illustration" /></a>
+
+**GPT Image 2.5** · 原作者: Saul Goodman
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT Image 2.5
+
+Prompt:
+DESTINATION: [DESTINATION]
+
+Create a sophisticated vertical 2:3 architectural travel postcard featuring [DESTINATION].
+
+STYLE
+
+Premium contemporary editorial postcard with subtle vintage influence. Combine precise architectural pen-and-ink illustration, restrained travel graphics, archival details, and modern graphic design. The result should feel cultured, timeless, architectural, and collectible—not like a tourist souvenir.
+
+MAIN SUBJECT
+
+Feature ONE iconic building, monument, structure, street façade, or architectural landmark strongly associated with [DESTINATION]. Make it the clear visual hero, shown from a believable three-quarter or slightly dramatic architectural perspective. No landmark collage.
+
+ILLUSTRATION
+
+Use exceptionally fine black or dark graphite linework, detailed architectural hatching, accurate proportions, and subtle hand-drawn imperfections. Include recognizable structural details such as windows, façades, roofs, columns, or ornaments where appropriate.
+
+COLOR
+
+Keep much of the architecture as line art with selective flat color using only 2–4 destination-specific tones. Colors should be sophisticated and slightly muted. Avoid gradients, glossy rendering, photorealism, excessive beige, and muddy sepia.
+
+BACKGROUND
+
+Use a clean pure white background with subtle archival elements such as faint maps, street plans, coordinates, contour lines, architectural diagrams, or minimal local-language annotations. Keep these elements secondary and lightly faded.
+
+COMPOSITION
+
+Vertical 2:3 format, with the landmark occupying roughly 60–75% of the artwork. Use generous negative space and an asymmetric editorial layout. Allow tasteful cropping when it improves the composition.
+
+TYPOGRAPHY
+
+Add restrained typography:
+
+[LOCAL NAME]
+[DESTINATION]
+
+Use elegant architectural or museum-catalogue-inspired typography. Add a tiny bottom information strip with relevant details such as CITY / COUNTRY · ARCHITECTURE · EST. YEAR · COORDINATES.
+
+DETAILS & MOOD
+
+Add only a few tiny contextual elements—people, bicycles, trees, lamps, vehicles, or street details—when appropriate, mainly to establish scale.
+
+Mood: quiet urban sophistication, cultural authenticity, history, and refined design.
+
+AVOID
+
+Tourist clichés, cartoon styling, fake architecture, landmark collages, giant typography, excessive decoration, heavy vintage filters, fake stamps, clutter, 3D rendering, and unnecessary text.
+
+FINAL GOAL: A timeless, highly detailed, premium architectural postcard that feels like a museum-shop collectible or contemporary design print.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2104813775610384490>)
+
+---

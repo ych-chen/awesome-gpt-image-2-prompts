@@ -588,3 +588,82 @@ Quality: masterpiece, 8K UHD, HDR, Unreal Engine 5, Octane Render, ray tracing, 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/046bc935-bbb6-4bed-ba87-d054b42155da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mon010_de/status/2084128782307483999>)
 
 ---
+
+<a id="prompt-d0891edd-e701-4f17-9bdd-fa233c1e912c"></a>
+
+## Watercolor Fashion Illustration of Woman Under Tree
+
+<a href="https://musesignal.com/prompt/d0891edd-e701-4f17-9bdd-fa233c1e912c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZLq3GbAAAiqse.jpg?format=jpg&amp;name=small" width="480" alt="Watercolor Fashion Illustration of Woman Under Tree" /></a>
+
+**GPT Image 2** · Creator: Oogie
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt: A delicate watercolor fashion illustration on textured cold-press paper. A young woman with long light-brown hair sits peacefully with her eyes closed, leaning against the base of a large tree trunk. She wears a long beige trench coat over a cream knit sweater, a plaid midi skirt in muted green, gray, and burgundy tones, and light gray ankle boots. Her posture is relaxed and elegant, one leg crossed over the other, one hand resting on her lap and the other loosely beside her.
+Next to her on the grass is a small pastel pink shopping bag with minimal typography. The tree trunk rises vertically behind her, occupying the center background. Soft patches of grass surround her feet. The overall composition is minimalist with ample negative space.
+Style: hand-painted watercolor illustration, soft washes, translucent pigments, subtle ink sketch lines, fashion sketch aesthetic, gentle shadows, muted earth-tone palette, dreamy atmosphere, feminine elegance, Japanese stationery art style, high detail, watercolor paper texture visible, clean background, editorial illustration.
+Lighting: soft diffused daylight, calm and serene mood.
+Camera/composition: full-body portrait, centered composition, slightly zoomed out, vertical artwork.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d0891edd-e701-4f17-9bdd-fa233c1e912c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/oggii_0/status/2068924288397373515>)
+
+---
+
+<a id="prompt-11757b96-3822-4dba-bd98-51cee45d3986"></a>
+
+## High-Saturation Pop Anime Character with Hologram UI
+
+<a href="https://musesignal.com/prompt/11757b96-3822-4dba-bd98-51cee45d3986?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HORGRK_aoAAyD3j.jpg?format=jpg&amp;name=small" width="480" alt="High-Saturation Pop Anime Character with Hologram UI" /></a>
+
+**GPT Image 2** · Creator: AI創作室｜ルミナ･グレイ🖤🌟
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+⬇️プロンプト内容⬇️
+画像比率は4:5。
+キャラクター毎に個別の画像で生成する。
+【キャラクター】を主役に、AI創作室を象徴する「高彩度ポップアニメ×グラフィックデザイン×ホログラムUI」の画風を完全固定して描く。
+画風は以下で固定する。
+太さに強弱のある黒色の輪郭線。
+鮮明で滑らかな線。
+大きく多層的な瞳。
+強い瞳ハイライト。
+束感のある髪。
+セル塗りを基礎にした2〜4段階の影。
+鮮やかな反射光。
+ピンク、紫、青、水色、赤、金、黒を使った高彩度配色。
+ステッカー、グリッチ、ホログラム、通知UI、星、ハート、稲妻、幾何学図形を使った情報量の多い画面。
+顔、瞳、手が埋もれない整理されたレイアウト。
+キャラクターは、画面の手前へ堂々と身を乗り出す。
+カメラは低い位置に置く。
+顔は画面全体の55〜70％を占める。
+表情は、細めた瞳、片側だけ上げた口角、軽く上げた眉、少し傾けた頭で構成する。
+「自分の可愛さも強さも全部分かっている」ような、メスガキ的な生意気さと見下しを表現する。
+片手は腰へ置く。
+もう片方は、カメラを指差す、手招きする、画面の端をつまむ、指先で小さなハートを作りながら目だけで煽るなど、可愛さと挑発を両立した仕草にする。
+背景には、AI創作室の制作部屋、キャラクターシート、配信UI、SSR通知、感情ゲージ、構図ガイド、光る制作レイヤーを配置する。
+読みづらい長文は入れず、短い記号と図形で表現する。
+参照画像がある場合は、顔立ち、髪型、髪色、瞳、衣装、配色、シルエット、キャラクター性を維持する。
+参照画像の画風ではなく、この指定画風へ統一して再構成する。
+参照画像そのもの、背景、構図、ポーズ、アングルは使用しない。
+最高品質。
+高精細。
+高彩度。
+輪郭線は滑らかにする。
+黒色部分を潰さず、明るい部分を白飛びさせない。
+瞳、髪、肌、衣装、ホログラムの質感を描き分ける。
+文字化け、余分な指、歪んだ顔、ノイズ、ガビガビを防ぐ。
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/11757b96-3822-4dba-bd98-51cee45d3986?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AI_SousakuRoom/status/2081866194265760102>)
+
+---
