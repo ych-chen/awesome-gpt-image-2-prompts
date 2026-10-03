@@ -368,3 +368,203 @@ FORMAT: 4:5 vertical, single unified modernist composition.
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/88c511d6-9a66-4b65-8640-3793e67e240e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2105542735340118510>)
 
 ---
+
+<a id="prompt-96a3e151-a859-4f79-b0dd-f051f1d0760f"></a>
+
+## CR7 Immortal Luxury Collector Poster
+
+<a href="https://musesignal.com/zh/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMNPdoObUAAJNjC.jpg?format=jpg&amp;name=small" width="480" alt="CR7 Immortal Luxury Collector Poster" /></a>
+
+**GPT Image 2** · 原作者: Hemayxn.ai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-premium global collector campaign titled:
+CR7 // IMMORTAL
+This is not a football poster.
+It should feel like a limited-edition collector's print, a luxury Nike campaign, a museum exhibition piece, a premium editorial cover, and a contemporary street-art installation fused into one unforgettable artwork.
+Unlike dark sports posters, the overall mood is bright, uplifting, colorful, optimistic, and celebratory. The atmosphere feels like a perfect golden summer afternoon after victory—not aggressive or intimidating, but inspiring and timeless.
+At the center stands Cristiano Ronaldo, wearing a clean white kit, looking directly into the camera with a relaxed confident expression and a subtle smile. His presence radiates calm greatness rather than intensity. Hyper-realistic skin detail, natural lighting, luxury sports photography.
+Behind him rises a gigantic monumental stone number "7", carved from warm ivory limestone and white marble with subtle weathering. Fine cracks reveal glowing champagne-gold light from within. Small floating marble fragments drift through the air with soft dust illuminated by sunlight. The sculpture feels like a world-famous public monument.
+Around the composition, seamlessly integrated into the architecture—not as collage boxes—are elegant environmental moments:
+• Ronaldo training alone at sunrise on pristine grass
+• Practicing free kicks beneath bright stadium lights
+• Walking through a players' tunnel toward daylight
+• A distant silhouette standing in the middle of a sold-out stadium
+These moments appear naturally through reflections, layered architecture, carved reliefs, glass surfaces, and atmospheric transitions.
+The background merges Lisbon, Manchester, Madrid, Turin, and Riyadh into one vibrant football metropolis filled with colorful Mediterranean architecture, Portuguese mosaic streets, elegant modern skylines, lush greenery, championship banners, stadiums, flowers, fountains, blue skies, and glowing sunlight. Every city blends organically without obvious borders.
+TYPOGRAPHY
+Massive luxury editorial typography dominates the composition:
+IMMORTAL
+DISCIPLINE BUILT THIS.
+THE STANDARD.
+MORE THAN A NUMBER.
+LEGACY NEVER RETIRES.
+Typography is integrated into architecture, marble, concrete, stadium walls, brushed steel, banners, and illuminated signage. Some text is embossed, engraved, painted, etched, or carved with elegant depth.
+PREMIUM DATA DESIGN
+Sophisticated editorial overlays inspired by Nike design language, NASA engineering blueprints, and Sotheby's exhibition catalogues:
+• Career milestone timeline
+• Heat maps
+• Shot trajectory diagrams
+• Performance graphs
+• Tactical sketches
+• Radar charts
+• Collector serial number
+• Certificate of authenticity
+• Hall of Fame classification
+• Blueprint overlays
+• Stadium coordinates
+• Technical grid systems
+• Fine geometric alignment guides
+• Luxury certification seals
+Everything feels clean, premium, minimal, and beautifully organized.
+MICRO DETAILS
+Golden handwritten tactical notes
+Fine gold foil accents
+Portuguese tile textures
+Laurel wreath engravings
+Championship star motifs
+Soft marble dust
+Floating stone particles
+Luxury embossed paper textures
+Metallic reflections
+Invisible UV print details
+Microscopic premium print imperfections
+Elegant collector-edition finishing
+COLOR PALETTE
+Warm ivory
+White marble
+Mediterranean blue
+Sky blue
+Championship gold
+Soft sandstone
+Emerald green
+Portuguese green
+Rich crimson accents
+Clean white
+Brushed titanium
+Champagne highlights
+Warm sunlight
+Golden hour glow
+Bright floral accents
+LIGHTING
+Bright cinematic daylight, warm golden-hour sunlight, soft volumetric rays, crisp blue skies, premium luxury advertising lighting, high dynamic range, vibrant but refined colors, realistic global illumination, museum-quality presentation.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hemayxn/status/2072587636842394101>)
+
+---
+
+<a id="prompt-d62139f0-6b71-42ac-8241-7ee05c30a42c"></a>
+
+## Explore India Floating State Islands Travel Poster
+
+<a href="https://musesignal.com/zh/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLv0QG6a4AAjVH4.jpg?format=jpg&amp;name=small" width="480" alt="Explore India Floating State Islands Travel Poster" /></a>
+
+**GPT Image 2** · 原作者: Hemayxn.ai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+CREATE AN ULTRA-PREMIUM COLLECTOR'S EDITION TRAVEL POSTER TITLED:
+
+EXPLORE INDIA
+
+Design a sophisticated museum-quality editorial poster that celebrates India's diversity through geography rather than ordinary travel photography.
+
+The poster should feature a collection of floating geological islands suspended in mid-air. Every island must be carved in the EXACT geographic silhouette of a real Indian state, preserving its coastline and borders with high accuracy. The state outlines should be immediately recognizable, not approximated or stylized.
+
+Each floating state should contain ONLY ONE defining landscape or landmark that instantly represents that state. Do not combine multiple attractions. The emphasis is on a single iconic identity.
+
+Examples:
+
+• Jammu & Kashmir → Dal Lake with a lone shikara beneath snow-covered Himalayan peaks.
+• Himachal Pradesh → Key Monastery dramatically perched on a mountain ridge.
+• Uttarakhand → Valley of Flowers in full alpine bloom.
+• Rajasthan → Jaisalmer Fort emerging from golden desert dunes.
+• Gujarat → Endless white salt desert of the Rann of Kutch.
+• Kerala → One winding backwater canal lined with coconut palms and a traditional houseboat.
+• Meghalaya → A single dramatic Living Root Bridge spanning a rainforest stream.
+• Sikkim → Gurudongmar Lake beneath Kanchenjunga.
+• Maharashtra → Raigad Fort atop the Sahyadri cliffs.
+• Karnataka → The stone ruins of Hampi.
+• Tamil Nadu → Brihadeeswarar Temple rising above lush greenery.
+• Goa → One pristine tropical beach with dramatic laterite cliffs.
+
+Each state should feel like a tiny self-contained world rather than a miniature city.
+
+The islands should have cinematic geological cross-sections with exposed sedimentary rock layers, hanging roots, waterfalls where appropriate, scattered floating debris, realistic erosion, moss, vegetation, and atmospheric mist.
+
+Avoid filling every island with unnecessary details. One iconic feature should dominate each composition while the surrounding terrain simply supports it.
+
+Arrange the islands asymmetrically around the title instead of using a perfectly symmetrical grid. Allow generous negative space for a premium editorial feel.
+
+Typography should resemble a luxury travel magazine:
+Large elegant serif title,
+minimal small-cap labels beneath each island,
+fine decorative divider lines,
+subtle engraved ornamentation.
+
+Background:
+Deep charcoal textured paper with warm directional lighting and soft vignette, creating a refined museum exhibition aesthetic rather than a tourism brochure.
+
+Color palette:
+Natural earth tones, sandstone, emerald forests, glacier whites, Himalayan blues, volcanic greys, tropical greens, and warm golden sunlight.
+
+Lighting:
+Golden-hour cinematic lighting with soft volumetric atmosphere, realistic shadows, ambient occlusion, physically based rendering, ray-traced reflections where water is present.
+
+Style:
+Hyperreal miniature world, architectural visualization, premium editorial design, National Geographic collector's edition, luxury atlas illustration, floating terrain sculptures, photorealistic environmental storytelling, 8K, ultra-detailed, breathtaking realism.
+
+CRITICAL REQUIREMENTS:
+
+• Every state outline must closely match its real geographic shape.
+• One landmark per state only.
+• No collage of attractions.
+• No people.
+• No vehicles except where iconic (such as a single shikara or Kerala houseboat).
+• Avoid visual clutter.
+• Maintain generous spacing.
+• Each floating landmass should feel like an individually sculpted masterpiece.
+• Original composition with its own visual identity—do not imitate existing posters or layouts.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hemayxn/status/2070517020920316070>)
+
+---
+
+<a id="prompt-9eae8bf9-ed54-4a7e-9577-147ec6a3f599"></a>
+
+## Landmark Cutaway Infographic Poster
+
+<a href="https://musesignal.com/zh/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOLGph3W4AAvXIj.jpg?format=jpg&amp;name=small" width="480" alt="Landmark Cutaway Infographic Poster" /></a>
+
+**GPT Image 2** · 原作者: TechieSA
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+“A jaw-dropping vertical infographic poster of [LANDMARK], 4:5 aspect ratio. A dramatic 3D cutaway diorama — one quarter of the structure cleanly sliced away to reveal its hidden interior: staircases, chambers, foundations, mechanisms, structural skeleton, all rendered in exquisite miniature detail.
+The landmark sits on a floating slab of terrain with surrounding ground-level context (trees, tiny people, roads, water — whatever fits [LANDMARK]), with a cross-section of underground foundations visible below street level.
+BACKGROUND: A solid deep [BACKGROUND COLOR] — rich, saturated, and flat. No gradients, no sky, no texture. The color should feel like a premium museum exhibition wall. The landmark and terrain float against it with soft shadow underneath.
+CUTAWAY: The interior slice reveals every hidden layer — structural skeleton, floors, rooms, mechanical systems, secret spaces — rendered with obsessive detail like a luxury collectible model. Warm interior lighting glows from within the revealed sections, contrasting with the exterior materials.
+CALLOUTS: 8–10 thin white hairline pointer lines extending from specific interior and exterior details to short ALL-CAPS labels with a one-line description beneath each. Labels placed asymmetrically, never crowding each other, balanced left and right of the landmark.
+TITLE: The landmark's name in massive condensed bold serif uppercase across the top, in a warm off-white or cream tone. Below it, the city, country, and year in small elegant letter-spaced type.
+BOTTOM: One single jaw-dropping stat about [LANDMARK] in enormous display numerals spanning the full width, with a short descriptor phrase beneath it in smaller caps.
+STYLE: Wes Anderson symmetry, product-shoot studio lighting, tactile and warm. The cutaway feels like a $500 collectible figurine photographed for a luxury catalogue. No dark moody skies, no glass panels, no floating data boxes, no clutter.”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2081444405781594232>)
+
+---

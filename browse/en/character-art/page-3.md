@@ -667,3 +667,112 @@ Camera/composition: full-body portrait, centered composition, slightly zoomed ou
 **[Try on MuseSignal →](<https://musesignal.com/prompt/11757b96-3822-4dba-bd98-51cee45d3986?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AI_SousakuRoom/status/2081866194265760102>)
 
 ---
+
+<a id="prompt-8e34e15d-2d22-4695-9184-ee53e1fce2e9"></a>
+
+## 90s Anime Gamer Girl and Grumpy Cat
+
+<a href="https://musesignal.com/prompt/8e34e15d-2d22-4695-9184-ee53e1fce2e9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK3FUkeW8AAOZ_N.jpg?format=jpg&amp;name=small" width="480" alt="90s Anime Gamer Girl and Grumpy Cat" /></a>
+
+**GPT Image 2** · Creator: Glitter Gal
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+21:9 ultrawide 1990s anime fan-art scene, bright, funny, chaotic, instantly shareable, like a still frame from a mid-90s OVA comedy or anime magazine poster.
+Scene:
+A cozy, messy 1990s Japanese apartment living room at night. A college-age gamer girl is sprawled upside down across a worn couch in a ridiculous goblin-gamer posture while playing video games on a CRT television. Her head hangs off the front edge of the couch, messy hair spilling onto the floor, legs thrown over the backrest, one sock half-slipping off, one arm stretched awkwardly downward gripping a wired controller. Her pose is exaggerated, weird, and funny — energetic but believable, not seductive. She is completely locked into the game, eyes wide, mouth open, intensely focused like she is moments away from beating a boss.
+Next to her on the couch sits a round, grumpy cat with a deeply unimpressed expression. The cat is perfectly still, judging her silently, looking like it has watched this nonsense every night. The contrast between her chaotic upside-down gaming obsession and the cat’s deadpan boredom is the main joke.
+The CRT TV is visible on the left side of the frame, glowing brightly. On the screen is a recognizable 90s-style video game moment: colorful pixel-art action, a boss fight, side-scrolling platforms, explosions, health bars, and chunky sprites. It can feel inspired by iconic 90s console games like Sonic, Street Fighter II, Mega Man, Super Mario World, or early Pokémon-era gaming culture. Fan-art style is okay. The TV image should be colorful and readable as a video game, but avoid relying on perfect readable text.
+The room is packed with selective 90s otaku details: Super Famicom-style console on the floor, Sega Saturn or PlayStation-era game cases, loose cartridges, wired controllers, a stack of manga, a Sailor Moon-style wall poster, an Evangelion-style mecha model kit on a shelf, a Sonic-like plush, fighting game strategy guides, snack bags, soda cans, instant ramen cup, cassette boombox, anime VHS tapes, rumpled blanket, socks on the floor, cheap city apartment window with night buildings outside. The clutter should feel real, funny, and lived-in, not randomly generated or overly decorative.
+Composition:
+Ultra-wide 21:9 frame. The couch dominates the center and right side. The upside-down girl is the clear focal point, with her silhouette instantly readable even at thumbnail size. The unimpressed cat sits close beside her, facing forward with deadpan comedy timing. The CRT TV sits on the left, angled toward the couch, its colorful glow connecting the action. Use a strong triangular composition between TV, girl’s face, and cat’s expression. Make it feel like the funniest paused frame from a 90s anime episode.
+Style:
+Authentic 1990s Japanese anime cel-animation look. Clean inked outlines, bold expressive character drawing, flat cel shading, simple shadow shapes, limited highlights, matte colors, strong silhouette clarity, chunky 90s anime proportions, expressive eyes and mouth, charming imperfections, slightly off-register cel feel, faint VHS softness, subtle analog grain, slight color bleed, old TV-era contrast. The image should feel like a photographed anime cel or a scanned 90s anime magazine spread, not modern digital illustration.
+Character design:
+The girl should feel like a funny 90s anime gamer heroine: oversized white graphic T-shirt, red gym shorts, striped socks, messy dark hair, expressive face, casual and unglamorous. Make her charming through personality and comedy, not polished beauty. Her body language should scream “I have been gaming for six hours and I regret nothing.”
+Cat design:
+Round loaf-shaped cat, thick body, tiny paws tucked under, half-lidded eyes, flat unimpressed mouth, total emotional detachment. The cat should be meme-worthy.
+Color palette:
+Warm amber room lamp, saturated CRT blues and greens, dusty pinks, teal couch, red shorts, cream walls, colorful game clutter. Bright and playful, but with 90s analog softness. No modern neon cyberpunk palette. No glossy digital gradients.
+Lighting:
+Simple 90s anime lighting. Main light sources are the CRT TV and one warm lamp. Use clean cel-shaded light blocks, not hyper-realistic cinematic lighting. The TV glow should hit the girl’s upside-down face and the cat’s side, but keep the lighting graphic and readable.
+Mood:
+Funny, cozy, nostalgic, chaotic, extremely relatable, memeable, playful, late-night gamer energy. It should feel like a viral anime still: “the girl is losing her mind over the game, the cat has completely given up on her.”
+Important:
+- 21:9 ultrawide frame
+- girl upside down on the couch in a weird funny posture
+- wired controller in her hands
+- CRT TV clearly visible and clearly showing a game
+- unimpressed cat sitting next to her
+- strong 1990s anime cel look
+- fan-art / otaku-room references are allowed
+- prioritize comedy, silhouette, expression, and staging over excessive detail
+- make it feel like a real 90s anime frame, not polished AI wallpaper
+Avoid:
+modern glossy anime, AI fantasy polish, photorealism, CGI, 3D render, plastic skin, painterly concept art, over-rendered lighting, excessive tiny props everywhere, generic perfect bedroom, generic cute pose, seductive pin-up pose, stiff anatomy, overdesigned clutter, perfect readable logos, clean influencer room, modern LED gaming setup, neon RGB lighting, cyberpunk colors, bokeh, bloom-heavy lighting, watermark, fake nonsense text covering everything.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8e34e15d-2d22-4695-9184-ee53e1fce2e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/GlitterPixely/status/2066525022198415469>)
+
+---
+
+<a id="prompt-8fea3a3e-a72e-45a4-b751-7461ae58f678"></a>
+
+## Pixar-Style Woman on Cloud Hand Wallpaper
+
+<a href="https://musesignal.com/prompt/8fea3a3e-a72e-45a4-b751-7461ae58f678?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJ8Yxq_aAAAQnOM.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style Woman on Cloud Hand Wallpaper" /></a>
+
+**GPT Image 2** · Creator: Zyrella
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Estilo caricaturesco/3D tipo Pixar
+una mujer y una mirada directa y cautivadora. Su expresión es relajada, con los labios ligeramente fruncidos.
+Viste un atuendo tipo "streetwear" compuesto por un top negro, una chaqueta bomber de satén rojo vibrante y pantalones oscuros, completado con botas negras de suela gruesa.
+Detalles: La modelo lleva las uñas pintadas de un color negro brillante que combina con su delineado y su vestimenta. También se puede observar un anillo discreto con textura en su dedo y un pequeño pendiente, lo que añade un toque de elegancia a su estilismo.
+Iluminación y Textura: La iluminación es lateral y suave, resaltando la forma del rostro, la estructura de la nariz y los labios. La piel tiene un aspecto impecable, con un acabado mate muy natural.
+Pose: Está sentada con las piernas cruzadas. que le da una expresión coqueta y juguetona.
+Composición Surrealista: La figura femenina se encuentra sentada sobre lo que parece ser una mano gigantesca formada completamente por nubes densas y texturizadas. La mano parece elevarse hacia el cielo, creando una sensación de
+El dije está incrustado con múltiples piedras pequeñas y brillantes que reflejan la luz, dándole un aspecto lujoso.
+Color e Iluminación: La paleta de colores está dominada por tonos profundos de púrpura, violeta y destellos de un naranja rojizo. Los puntos de luz al final de algunas líneas crean un efecto de brillo o destello, sugiriendo un ambiente mágico o digital.
+Sujeto y Composición: La imagen muestra ondas fluidas y suaves en tonos violeta y azul profundo que atraviesan la composición, creando una sensación de movimiento y dinamismo.
+Elementos Decorativos: Sobre estas ondas, hay una multitud de pequeñas partículas brillantes, similares a confeti dorado o motas de polvo estelar, que parecen estar suspendidas en el aire.
+Sujeto Principal: En el centro superior destaca una luna llena de gran tamaño, representada con una intensa tonalidad azul. La superficie lunar presenta detalles claros de sus cráteres y texturas, lo que le otorga un aspecto realista y majestuoso.
+Entorno: La luna se encuentra inmersa en un cielo nocturno estrellado. Se pueden observar numerosas estrellas pequeñas y brillantes dispersas por todo el fondo, lo que profundiza la sensación de inmensidad del espacio.
+Composición y Nubes: En la parte inferior, una serie de nubes densas y voluminosas se extienden hacia arriba, enmarcando la luna. La iluminación de estas nubes, también en tonos azulados, sugiere que están siendo iluminadas directamente por la luz lunar, creando un efecto de profundidad y dramatismo.
+parada que salga así le pones házmela estilo wallpaper 9:16
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8fea3a3e-a72e-45a4-b751-7461ae58f678?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Zyrellix/status/2062394400052023781>)
+
+---
+
+<a id="prompt-279512a3-6b7c-455f-b7ae-7b28359ac0cb"></a>
+
+## Ethereal Fantasy Fox Portrait
+
+<a href="https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMkHlw2awAAMgjz.jpg?format=jpg&amp;name=small" width="480" alt="Ethereal Fantasy Fox Portrait" /></a>
+
+**GPT Image 2** · Creator: Rossy
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on a clean pure white background. The fox has silky flowing white fur blended with shimmering champagne-gold glitter, giving it a luxurious celestial appearance. Its elegant body dissolves into long, fluid ribbon-like fur trails mixed with sparkling golden dust, creating a graceful sense of motion. The ears are covered in fine golden glitter, while the face remains soft, refined, and peaceful with gently closed eyes and a subtle mystical smile. Add delicate glowing particles, magical bokeh, soft light rays, and tiny floating sparkles surrounding the fox. The composition is minimalistic yet luxurious, with no scenery, no text, no watermark, and no extra objects. Soft ivory, pearl white, champagne gold, and warm golden tones dominate the palette. Premium fantasy illustration, luxury editorial aesthetic, dreamy atmosphere, ultra-clean composition, photorealistic fur texture, cinematic lighting, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, masterpiece, 8K, hyper-detailed.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/xRahultripathi/status/2074197471866347891>)
+
+---

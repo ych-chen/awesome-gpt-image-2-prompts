@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **434** | **60** | 2026-10-01 |
+| **448** | **60** | 2026-10-03 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,12 +28,12 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 111 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| Commercial &amp; Product | 90 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| Poster &amp; Graphic | 97 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| Portrait | 117 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| Commercial &amp; Product | 91 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| Poster &amp; Graphic | 100 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 19 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
-| Character &amp; Art | 85 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
-| Scene &amp; Space | 32 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
+| Character &amp; Art | 88 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
+| Scene &amp; Space | 33 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 8
+### Portrait · 14
 
 [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -365,6 +365,347 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/john_my07/status/2067642906035585315>)
+
+---
+
+<a id="prompt-67ae1eb6-5458-4b03-8cfd-3ce1a891b20f"></a>
+
+#### 9:16 3×3 Collage of Flawed Amateur Flash Portraits
+
+<a href="https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTd7ZzCb0AAAVC7.jpg?format=jpg&amp;name=small" width="480" alt="9:16 3×3 Collage of Flawed Amateur Flash Portraits" /></a>
+
+**GPT Image 2** · Creator: Iqra Saifi
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Hochformat im Seitenverhältnis 9:16, Collage aus neun Bildern in einem 3×3-Raster. Ausschließlich natürliche, ungestellte Porträtfotografie.
+
+Thema: Eine Sammlung misslungener Amateuraufnahmen, die beinahe kleine Meisterwerke geworden wären.
+
+Die Collage besteht aus neun unterschiedlichen Aufnahmen, angeordnet wie auf einem fotografischen Kontaktbogen. Die Stimmung: spontane Schnappschüsse in einer gemütlichen Wohnung, aufgenommen von einer Freundin oder einem Freund, kurz vor einem Abend unterwegs.
+
+Jedes Bild wirkt, als hätte nur ein winziger Fehler im entscheidenden Moment eine mühelos großartige Aufnahme verhindert. Im Mittelpunkt steht der natürliche Kontrast zwischen einer ausgesprochen fotogenen Frau in einem schmeichelhaften Outfit und den typischen Pannen beim Fotografieren.
+
+Motiv:
+Eine erwachsene ostasiatische Frau Mitte zwanzig mit langen, dunkel glänzenden Haaren, die locker über ihre Schultern fallen. Elegante Gesichtszüge, ein warmer bis neutraler Hautton und dezentes, natürliches Make-up.
+Realistische Körperproportionen und eine natürlich kurvige, sportliche Figur: sichtbare Schlüsselbeine, eine elegante Schulterlinie, eine definierte Taille, ein sanfter Übergang von der Taille zur Hüfte und lange Beine. Sie wirkt ganz selbstverständlich fotogen, ohne übertriebenes Styling.
+
+Outfit:
+Ein figurbetontes, anthrazitgraues Tanktop aus Rippstrick mit tiefem, rundem Ausschnitt, das die Halslinie und Taille betont. Dazu ein schwarzer Jeansminirock mit hohem Bund und klarer Passform, der die natürlichen Proportionen von Taille, Hüfte und Beinen unterstreicht. Dezente Halsketten in unterschiedlichen Längen und lässige Canvas-Sneaker. Unkompliziert, schmeichelhaft und alltagstauglich.
+
+Umgebung und Atmosphäre:
+Das gemütliche Wohnzimmer einer Stadtwohnung mit einem Sofa aus neutralem Stoff, einem Bücherregal, einer warm leuchtenden Lampe im Hintergrund und einem bodenlangen Spiegel.
+Direkter Kamerablitz, der leicht körnige Look einer kompakten Digitalkamera mit CCD-Sensor, dezentes Bildrauschen und gelegentliche Bewegungsunschärfe. Authentische Atmosphäre einer kleinen Wohnungsparty.
+
+In allen neun Bildern sind dieselbe Frau, dasselbe Outfit und dieselbe Wohnung zu sehen. Jede Aufnahme zeigt eine andere Pose und einen anderen fotografischen Fehler.
+Die neun Aufnahmen:
+
+1. Bewegungsunschärfe beim Umdrehen
+
+Sie dreht sich mitten in einem Schritt leicht zur Seite. Ihr Profil und ihre natürliche Haltung kommen schön zur Geltung. Genau beim Auslösen bewegt sie sich jedoch, sodass Gesicht und Schultern eine leichte, gerichtete Bewegungsunschärfe zeigen.
+
+2. Vom Blitz überstrahlt
+
+Eine halbnahe Aufnahme: Sie lehnt lässig an der Wand und hat eine Hand auf die Hüfte gelegt. Die Pose betont ihre Taille und den Ausschnitt und wirkt ganz ungezwungen. Der Blitz wird jedoch aus zu kurzer Entfernung ausgelöst, sodass helle Bereiche in ihrem Gesicht und auf dem Oberteil überstrahlen und Details verlieren.
+3. Schöne Sitzpose, im falschen Moment geblinzelt
+Eine nähere Dreiviertelansicht: Sie sitzt auf der Armlehne des Sofas und schlägt ein Bein über das andere. Ihre Haltung bildet eine natürliche S-Kurve und bringt Taille und Hüfte zur Geltung. Sie lacht gerade und blinzelt genau in dem Moment, in dem das Foto aufgenommen wird.
+4. Hintergrund scharf, Person unscharf
+
+Sie steht der Kamera zugewandt in einer entspannten, schmeichelhaften Pose. Der Autofokus stellt jedoch auf die Bilderrahmen an der Wand hinter ihr scharf. Dadurch bleibt sie selbst weich und deutlich unscharf.
+5. Stark gekippte Kamera
+Eine Ganzkörperaufnahme im Stehen, auf der Minirock und Beinlinie schön zur Geltung kommen. Die fotografierende Person hält die Kamera jedoch um etwa 20 Grad schräg, sodass der Türrahmen und die gesamte Raumgeometrie auffällig kippen.
+6. Blick über die Schulter, Finger vor dem Objektiv
+
+Eine nahe bis halbnahe Dreiviertelansicht von hinten: Sie dreht den Kopf und blickt über ihre Schulter zur Kamera. Die Pose betont ihre Haltung, den Rücken und den natürlichen Übergang von Taille zu Hüfte. Ein unscharfer Daumen der fotografierenden Person verdeckt jedoch das untere rechte Drittel des Bildes.
+7. Unterbelichtet, weil der Blitz nicht ausgelöst hat
+Der Blitz bleibt aus. Die Aufnahme ist dunkel, stimmungsvoll und stark verrauscht. Nur das schwache Licht im Raum lässt ihre sitzende Haltung und Silhouette erkennen.
+8. Zu tief gezielt, Kopf angeschnitten
+
+Die Kamera ist zu weit nach unten gerichtet. Taille, Hüfte und Minirock sind schmeichelhaft im Bild, doch der obere Teil ihres Kopfes ab Augenhöhe wird vom oberen Bildrand abgeschnitten.
+9. Ungewollter Lampenschirmhut
+Sie steht aufrecht, hat eine schöne Haltung und lächelt natürlich. Der große Lampenschirm direkt hinter ihr ist jedoch so ungünstig ausgerichtet, dass er auf dem Foto wie ein riesiger Hut auf ihrem Kopf aussieht.
+Visuelle Anforderungen:
+– Authentischer Look spontaner Amateuraufnahmen mit direktem Kamerablitz.
+– Dezentes Bildrauschen und natürliche Blitzreflexionen im Innenraum.
+– Realistische Darstellung: eine mühelos fotogene Frau, deren Aufnahmen durch klassische Fotopannen misslingen.
+– Sauberes 3×3-Raster mit schmalen schwarzen oder dunklen Trennlinien.
+– Keine Wasserzeichen, Zeitstempel oder Bedienelemente.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/IqrasaifiAI/status/2105287088874877312>)
+
+---
+
+<a id="prompt-81681811-2547-40bd-8467-fc07f65fc9ad"></a>
+
+#### Rainy Parisian Blue Hour Fashion Editorial Portrait
+
+<a href="https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMUQpNDbAAAEagf.jpg?format=jpg&amp;name=small" width="480" alt="Rainy Parisian Blue Hour Fashion Editorial Portrait" /></a>
+
+**GPT Image 2** · Creator: Orion
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a luxury travel fashion editorial portrait of a young man standing on a rainy Parisian street during blue hour. The atmosphere feels cinematic, romantic, and effortlessly sophisticated, inspired by Saint Laurent campaigns and European street photography.
+The subject stands confidently at the center of a pedestrian crossing with both hands tucked into his jacket pockets. His body faces the camera while his head turns to the left, looking away with a relaxed, contemplative expression.
+He has curly, tousled dark brown hair and wears black rectangular sunglasses. His outfit consists of a dark brown oversized field jacket layered over a cream knit sweater with black tailored trousers, creating a timeless European autumn style.
+The background features elegant Haussmann architecture lining both sides of the street. A classic Parisian café glows warmly with amber lights, while wet pavement reflects the surrounding lamps. Vintage streetlights illuminate the sidewalks, pedestrians walk softly blurred in the distance, and a compact car with headlights on approaches from behind, adding realism without distracting from the subject.
+Lighting combines cool overcast evening light with warm café lighting, producing rich cinematic color contrast. Captured with an 85mm lens at eye level, shallow depth of field, realistic rain reflections, soft bokeh, Kodak Vision3 film look, ultra detailed textures, luxury editorial photography, natural color grading, premium travel magazine aesthetic, 8K.
+Negative Prompt: Bright sunshine, crowded scene, exaggerated reflections, cartoon style, watermark, text, low quality, AI artifacts, distorted body, extra people in focus.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Prime_54/status/2073081512904556675>)
+
+---
+
+<a id="prompt-38b83a3d-e0fe-418c-a3ec-7d8289438298"></a>
+
+#### Neon Bedroom Overhead Selfie Portrait
+
+<a href="https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLREB5ua4AALcIp.jpg?format=jpg&amp;name=small" width="480" alt="Neon Bedroom Overhead Selfie Portrait" /></a>
+
+**GPT Image 2** · Creator: こやす69＠AIプロンプト屋
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Hyper-realistic vertical portrait photo of an original adult Japanese woman in her 20s, photographed in a real bedroom with a softly lit purple-magenta ambient atmosphere.
+She has delicate and refined Japanese facial features: a small face, smooth fair skin, large light gray-blue eyes, subtle under-eye definition, sharp but elegant black winged eyeliner, soft glossy pink lips, and a calm, slightly mysterious expression while looking directly into the camera. Her hair is short brown bob hair, smooth and straight, with a soft side part and natural volume framing the face.
+She has a feminine curvy silhouette with balanced natural proportions. She is wearing a stylish black fitted fashion top with thin shoulder straps and subtle decorative crossing lines, paired with fitted black high-waisted shorts. The outfit feels edgy, alternative, and fashion-editorial, while remaining tasteful and non-explicit.
+Composition and camera angle: vertical smartphone selfie shot from a very close, high-angle perspective. The camera is held above the subject’s face, around forehead height or slightly higher, angled downward at about 35–45 degrees. The lens is very close to the subject, creating a subtle wide-angle selfie distortion. Her face fills the upper center of the frame, with the top of the head close to the upper edge. One arm extends toward the camera and appears large in the foreground along the lower-left side of the frame. The subject is leaning forward on a bed, upper body angled diagonally from the lower-left toward the upper-right, while looking directly up into the lens. The perspective should feel like an intimate overhead selfie, not a straight-on portrait.
+Background: a real bedroom interior at night, with soft white bedding clearly visible beneath her. A desk setup with a PC monitor or gaming PC is visible in the softly blurred background. Shelves and small personal items are present, creating a cozy lived-in bedroom atmosphere.
+Lighting: purple and magenta LED ambient lighting throughout the bedroom, with a soft frontal fill light illuminating the face. Cool violet shadows, gentle highlights on the brown hair, eyes, lips, and skin. High contrast between fair skin, dark clothing, and neon room lighting.
+Style: ultra-realistic fashion photography, realistic skin texture, natural hair strands, sharp focus on the face, soft bokeh background, cinematic neon color grading, subtle smartphone camera look, vertical 9:16, high resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AI_money_club/status/2068548212080947519>)
+
+---
+
+<a id="prompt-14f4474e-08c3-430a-a7a1-114601e5fa41"></a>
+
+#### Neon Nike Swoosh Cyberpunk Portrait
+
+<a href="https://musesignal.com/prompt/14f4474e-08c3-430a-a7a1-114601e5fa41?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOECgOGaUAACpUe.jpg?format=jpg&amp;name=small" width="480" alt="Neon Nike Swoosh Cyberpunk Portrait" /></a>
+
+**GPT Image 2** · Creator: Aijaz
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A photorealistic, high-detail portrait of a young man with a trimmed beard and a determined expression, looking up and slightly to the left. He is wearing a black and orange puffer jacket/down jacket with the zipper pulled up.
+Background/Aesthetic: Dark, moody, and futuristic studio setting. The main visual feature is a massive, glowing neon-orange outline of the Nike swoosh logo centered behind the subject. The lighting is dramatic, with a strong orange key light hitting the man's face, neck, and the top of his shoulders, creating high contrast.
+Visual Elements: Floating, futuristic HUD (Heads-Up Display) elements in neon orange are overlaid on the dark background around the subject. These include:
+Data readouts, graphs, and target crosshairs in the top-left corner.
+A minimal progress bar/loading graphic around the small swoosh in the top-right corner.
+A bar graph/data visualization in the bottom-right corner.
+Style/Technique: Cinematic, high-contrast lighting, volumetric lighting, hyper-detailed, photorealistic, shot on an 8K camera (like a Sony a7R V or Arri), deep depth of field, inspired by cyberpunk or sports advertising.
+Negative Prompts (To ensure quality and focus): low resolution, blurry, text, watermark, cartoon, bad anatomy, deformed hands, extra fingers, noisy, oversaturated with 3:4 size.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/14f4474e-08c3-430a-a7a1-114601e5fa41?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2080947263250272657>)
+
+---
+
+<a id="prompt-b19f42a2-8ad0-443f-a329-ecea0ae8d0da"></a>
+
+#### Corporate Fashion Editorial Triptych Portrait
+
+<a href="https://musesignal.com/prompt/b19f42a2-8ad0-443f-a329-ecea0ae8d0da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM23zE4bwAAPQrW.jpg?format=jpg&amp;name=small" width="480" alt="Corporate Fashion Editorial Triptych Portrait" /></a>
+
+**GPT Image** · Creator: NUSRAT
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+version": "4.0",
+  "style": {
+    "genre": "Ultra-realistic corporate fashion editorial",
+    "aesthetic": "Minimal luxury, modern executive elegance, premium lifestyle photography",
+    "quality": "16K Ultra-HD, 4K output, HDR, DSLR realism, hyper-detailed, magazine cover quality, photorealistic, cinematic color grading",
+    "camera_style": "Fashion editorial, Vogue, Harper's Bazaar, luxury campaign"
+  },
+  "composition": {
+    "layout": "Vertical triptych (3-panel collage)",
+    "panel_1": "Close-up portrait",
+    "panel_2": "Full-body standing portrait",
+    "panel_3": "Extreme close-up portrait",
+    "panel_spacing": "Thin white vertical dividers",
+    "aspect_ratio": "1:1"
+  },
+  "subject": {
+    "gender": "Young woman",
+    "age": "Early 20s",
+    "ethnicity": "European-inspired appearance",
+    "body_type": "Slim, elegant",
+    "pose": {
+      "left_panel": "Head slightly turned toward camera",
+      "center_panel": "Standing confidently with one hand inside trouser pocket, other hand resting beside desk",
+      "right_panel": "Partial face close-up"
+    },
+    "expression": "Neutral, calm, intelligent, confident, subtle elegance",
+    "eye_contact": "Directly looking at camera"
+  },
+  "face": {
+    "shape": "Soft oval",
+    "skin": "Fair porcelain skin with smooth texture",
+    "finish": "Natural matte with soft glow",
+    "eyes": {
+      "color": "Hazel green",
+      "shape": "Large almond",
+      "lashes": "Long defined eyelashes"
+    },
+    "eyebrows": "Thick natural dark brows",
+    "nose": "Small straight nose",
+    "lips": {
+      "shape": "Full",
+      "color": "Muted nude pink"
+    },
+    "makeup": {
+      "foundation": "Natural skin finish",
+      "blush": "Soft peach",
+      "eyeshadow": "Warm brown",
+      "eyeliner": "Thin wing",
+      "lipstick": "Matte nude"
+    }
+  },
+  "hair": {
+    "color": "Dark chocolate brown",
+    "style": "Messy high bun",
+    "texture": "Soft wavy",
+    "details": [
+      "Loose face-framing strands",
+      "Natural volume",
+      "Slightly tousled finish"
+    ]
+  },
+  "eyewear": {
+    "type": "Round oversized eyeglasses",
+    "frame": "Brown tortoise shell",
+    "lens": "Clear anti-reflective"
+  },
+  "jewelry": {
+    "earrings": "Medium gold hoop earrings",
+    "necklace": "None",
+    "rings": "Minimal or not visible"
+  },
+  "outfit": {
+    "top": {
+      "type": "Cream ribbed turtleneck sweater",
+      "fit": "Slim fit"
+    },
+    "blazer": {
+      "color": "Dark espresso brown",
+      "style": "Tailored business blazer",
+      "fit": "Relaxed structured fit"
+    },
+    "pants": {
+      "type": "High-waisted tailored trousers",
+      "color": "Dark brown",
+      "fit": "Wide straight leg"
+    },
+    "belt": {
+      "material": "Brown leather",
+      "buckle": "Classic gold buckle"
+    },
+    "shoes": {
+      "type": "Brown pointed-toe heels",
+      "finish": "Leather"
+    }
+  },
+  "environment": {
+    "location": "Luxury executive office",
+    "design": "Modern contemporary workspace",
+    "background": [
+      "Dark wooden shelving",
+      "Warm ambient shelf lighting",
+      "Decorative books",
+      "Minimal ceramic vases",
+      "Office desk",
+      "Laptop",
+      "Small indoor plant",
+      "Large window with soft daylight"
+    ]
+  },
+  "lighting": {
+    "type": "Soft cinematic natural light",
+    "key_light": "Window daylight",
+    "fill_light": "Warm indoor ambient lighting",
+    "temperature": "Warm neutral",
+    "shadows": "Soft realistic shadows"
+  },
+  "camera": {
+    "camera": "Hasselblad X2D",
+    "lens": "85mm portrait lens",
+    "aperture": "f/1.8",
+    "ISO": 100,
+    "shutter_speed": "1/250s",
+    "focus": "Sharp focus on eyes",
+    "depth_of_field": "Shallow DOF with creamy background bokeh"
+  },
+  "color_palette": {
+    "primary": [
+      "Dark brown",
+      "Cream",
+      "Warm wood",
+      "Gold",
+      "Soft beige"
+    ],
+    "mood": "Elegant, luxurious, professional"
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b19f42a2-8ad0-443f-a329-ecea0ae8d0da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2075517102245728429>)
+
+---
+
+<a id="prompt-3bd032ac-bf95-4e67-8520-73ff619b81cb"></a>
+
+#### Cinematic Groom Portrait in Golden Chapel
+
+<a href="https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL9Kl3FagAAgLf9.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Groom Portrait in Golden Chapel" /></a>
+
+**GPT Image 2** · Creator: Akash
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+Waist-up cinematic portrait of a handsome groom standing in an ornate church aisle, wearing a pristine white double-breasted suit jacket with subtle wool texture, matching waistcoat, crisp white dress shirt, pale sky-blue silk tie and neatly folded pocket square; medium-dark hair swept back, full groomed beard and mustache, striking blue-green eyes, warm tan skin, slight confident serene smile, hands gently clasped at waist showing a simple wedding band and classic silver wristwatch. Background softly blurred with golden crucifix, lit candles and lush white floral arrangements on an altar, creating a romantic, sacred atmosphere. Soft, warm directional lighting from front-left with delicate rim light to separate him from background, shallow depth of field, creamy bokeh, high-resolution photographic realism, natural skin texture, subtle filmic color grading with warm highlights and muted shadows, elegant, timeless, formal wedding portrait composition, vertical framing, 85mm portrait feel, f/1.8 shallow focus, gentle grain, authentic mood and refined styling.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/heyakash_ai/status/2071456371535651286>)
 
 ---
 
@@ -869,13 +1210,13 @@ Use case: Commercial &amp; Product
 
 ---
 
-<a id="prompt-4ba6dc0b-2918-477d-afd8-6b9391f5d726"></a>
+<a id="prompt-1766b37f-c961-476a-a005-4fddb207d713"></a>
 
-#### Pizza Hut Luxury Campaign Ad
+#### Premium Sneaker Box Product Mockup
 
-<a href="https://musesignal.com/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpvYhVawAAk7XH.jpg?format=jpg&amp;name=small" width="480" alt="Pizza Hut Luxury Campaign Ad" /></a>
+<a href="https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOQJjI6XQAAZFAm.jpg?format=jpg&amp;name=small" width="480" alt="Premium Sneaker Box Product Mockup" /></a>
 
-**GPT Image 2** · Creator: Al-Shamus
+**GPT Image 2** · Creator: Abkr Sadiq
 
 Use case: Commercial &amp; Product
 
@@ -883,21 +1224,30 @@ Use case: Commercial &amp; Product
 <summary>Full prompt</summary>
 
 ```text
-Create a minimalist commercial advertisement featuring an oversized cheese pizza as the hero product in an ultra-clean, luxury campaign style. A young WOMAN dressed in an elegant all-pink AND white outfit leans casually against the giant PIZZA in a relaxed yet confident pose, eyes gently closed, while holding a freshly made pizza hut CHEESE PIZZA in both hand. The composition is modern and editorial, emphasizing scale, freshness, and visual impact.
-Use a soft gradient green-to-yellow background with large bold white AND BLACK “PIZZA HUT” typography placed prominently behind the subject. Include a glossy reflective floor that subtly mirrors the sandwich and the model, enhanced with soft studio lighting and premium food photography aesthetics. Ensure the sandwich appears hyper-realistic, packed with fresh crisp lettuce, sliced tomatoes, cucumbers, onions, cheese, savory meat or veggie filling, signature sauces, and artisan bread with mouthwatering texture and detail.
-Maintain a clean, luxurious layout with balanced negative space and a sophisticated commercial look suitable for a high-end global advertising campaign.
-Add small text in the top-right corner reading “Designed by SHAMUS”. At the bottom center, place the tagline in small white font: “Freshly made. Delicious in every bite
+Create an ultra-realistic premium sneaker packaging mockup featuring a pair of stylish low-top streetwear sneakers displayed alongside a luxury branded shoe box. The sneakers have a clean, modern silhouette with premium leather panels, subtle suede accents, textured rubber soles, and neatly tied laces. Use a sophisticated neutral color palette of black, cream, beige, and white.
+
+The shoe box should feature a bold minimalist logo prominently on the top and front, with premium typography, product information, barcode, size label, and subtle graphic accents for an authentic luxury footwear brand appearance. The packaging should look high-end with crisp edges, matte finish, and realistic print quality.
+
+Place one sneaker on top of the box and the second shoe in front of it at a slight angle to create a balanced premium product presentation.
+
+Set the scene in a modern urban environment with blurred city skyscrapers, concrete pavement, and a graffiti-covered wall in the background. Use a shallow depth of field so the sneakers remain perfectly sharp while the background stays softly out of focus.
+
+Illuminate the scene with warm golden-hour lighting, soft cinematic shadows, realistic reflections, and subtle ambient light wrapping around the shoes. The materials should display highly detailed leather textures, visible stitching, perforations, rubber outsole patterns, and realistic fabric laces.
+
+Composition should resemble a luxury streetwear campaign advertisement with professional product photography, dramatic perspective, premium branding, and editorial-quality styling.
+
+Style: Luxury product photography, photorealistic, ultra-detailed, commercial advertising, premium streetwear aesthetic, cinematic lighting, HDR, global illumination, ray tracing, shallow depth of field, 8K resolution, hyper-realistic textures, high-end branding, clean composition, magazine-quality product showcase.
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/im_shahid7/status/2070089461577416758>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/abs_uiux/status/2081799439887249755>)
 
 ---
 
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 17
+### Poster &amp; Graphic · 11
 
 [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>)
 
@@ -1364,13 +1714,13 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 ---
 
-<a id="prompt-88c511d6-9a66-4b65-8640-3793e67e240e"></a>
+<a id="prompt-9eae8bf9-ed54-4a7e-9577-147ec6a3f599"></a>
 
-#### Modernist Editorial Travel Collage
+#### Landmark Cutaway Infographic Poster
 
-<a href="https://musesignal.com/prompt/88c511d6-9a66-4b65-8640-3793e67e240e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HThj6nJa0AAcH82.jpg?format=jpg&amp;name=small" width="480" alt="Modernist Editorial Travel Collage" /></a>
+<a href="https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOLGph3W4AAvXIj.jpg?format=jpg&amp;name=small" width="480" alt="Landmark Cutaway Infographic Poster" /></a>
 
-**GPT Image 2.5** · Creator: Saul Goodman
+**GPT Image 2** · Creator: TechieSA
 
 Use case: Poster &amp; Graphic
 
@@ -1378,53 +1728,29 @@ Use case: Poster &amp; Graphic
 <summary>Full prompt</summary>
 
 ```text
-GPT Image 2.5
-
-Prompt:
-Create a premium 4:5 vertical modernist editorial travel collage for [COUNTRY / CITY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
-
-CORE CONCEPT
-Create a sophisticated modernist collage that translates the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT] into bold graphic fragments rather than a realistic scene. Automatically determine the most fitting human figure, animal, environment, clothing, cultural details, and atmosphere.
-
-COMPOSITION
-Place the main human figure slightly off-center, occupying roughly one-third of the composition, with a smaller animal nearby. Reduce the surrounding environment into a few symbolic flat shapes rather than realistic depth.
-
-Build the composition from bold matte-black rectangles, one dominant destination-inspired geometric shape, horizontal bars, thin rules, cropped blocks, small circles, and restrained typographic micro-marks. Allow selected geometric elements to overlap, crop, or partially mask the figure, animal, and scenery.
-
-SCENERY & FORM
-Simplify [COUNTRY / CITY / LOCATION / SUBJECT] into 2–5 instantly recognizable visual motifs—architecture, landscape, transportation, vegetation, objects, or cultural details—using clean cutout-like silhouettes and flat graphic fragments.
-
-STYLE
-Use warm cream paper as an active background with generous open areas. Combine crisp cut edges, dry ink texture, subtle print grain, slight paper wear, controlled asymmetry, and carefully balanced visual density.
-
-PALETTE
-Matte black, warm cream, one dominant color derived from [COUNTRY / CITY / LOCATION / SUBJECT], one contrasting accent, and one muted supporting tone. Keep colors flat, sophisticated, and restrained.
-
-FINAL AESTHETIC
-Modernist editorial collage × contemporary travel graphic × cut-paper abstraction × restrained surrealism × strong geometric hierarchy × sophisticated negative space.
-
-The result should feel intelligent, artistic, tactile, and collectible, with a strong graphic rhythm rather than a conventional illustration.
-
-Avoid photorealism, realistic atmospheric depth, gradients, 3D rendering, glossy surfaces, excessive detail, clutter, generic icons, excessive typography, logos, watermarks, or symmetrical layouts.
-
-FORMAT: 4:5 vertical, single unified modernist composition.
+“A jaw-dropping vertical infographic poster of [LANDMARK], 4:5 aspect ratio. A dramatic 3D cutaway diorama — one quarter of the structure cleanly sliced away to reveal its hidden interior: staircases, chambers, foundations, mechanisms, structural skeleton, all rendered in exquisite miniature detail.
+The landmark sits on a floating slab of terrain with surrounding ground-level context (trees, tiny people, roads, water — whatever fits [LANDMARK]), with a cross-section of underground foundations visible below street level.
+BACKGROUND: A solid deep [BACKGROUND COLOR] — rich, saturated, and flat. No gradients, no sky, no texture. The color should feel like a premium museum exhibition wall. The landmark and terrain float against it with soft shadow underneath.
+CUTAWAY: The interior slice reveals every hidden layer — structural skeleton, floors, rooms, mechanical systems, secret spaces — rendered with obsessive detail like a luxury collectible model. Warm interior lighting glows from within the revealed sections, contrasting with the exterior materials.
+CALLOUTS: 8–10 thin white hairline pointer lines extending from specific interior and exterior details to short ALL-CAPS labels with a one-line description beneath each. Labels placed asymmetrically, never crowding each other, balanced left and right of the landmark.
+TITLE: The landmark's name in massive condensed bold serif uppercase across the top, in a warm off-white or cream tone. Below it, the city, country, and year in small elegant letter-spaced type.
+BOTTOM: One single jaw-dropping stat about [LANDMARK] in enormous display numerals spanning the full width, with a short descriptor phrase beneath it in smaller caps.
+STYLE: Wes Anderson symmetry, product-shoot studio lighting, tactile and warm. The cutaway feels like a $500 collectible figurine photographed for a luxury catalogue. No dark moody skies, no glass panels, no floating data boxes, no clutter.”
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/88c511d6-9a66-4b65-8640-3793e67e240e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2105542735340118510>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2081444405781594232>)
 
 ---
 
-<a id="prompt-929a104f-57ba-43a2-8529-52b91681fff4"></a>
+<a id="prompt-96a3e151-a859-4f79-b0dd-f051f1d0760f"></a>
 
-#### Golden Thread Travel-Art Poster Prompt for GPT Image 2.5
+#### CR7 Immortal Luxury Collector Poster
 
-<a href="https://musesignal.com/prompt/929a104f-57ba-43a2-8529-52b91681fff4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTdIWPyaAAABX_Z.jpg?format=jpg&amp;name=small" width="480" alt="Golden Thread Travel-Art Poster Prompt for GPT Image 2.5" /></a>
+<a href="https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMNPdoObUAAJNjC.jpg?format=jpg&amp;name=small" width="480" alt="CR7 Immortal Luxury Collector Poster" /></a>
 
-**GPT Image 2.5** · Creator: Saul Goodman
+**GPT Image 2** · Creator: Hemayxn.ai
 
 Use case: Poster &amp; Graphic
 
@@ -1432,59 +1758,91 @@ Use case: Poster &amp; Graphic
 <summary>Full prompt</summary>
 
 ```text
-GPT Image 2.5
-
-Prompt:
-Create a premium 4:5 vertical conceptual travel-art poster for [COUNTRY / CITY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire artwork from [COUNTRY / CITY / LOCATION / SUBJECT] alone.
-
-CORE CONCEPT
-Create a poetic travel memory in which a cinematic realistic destination scene gradually transforms into a delicate hand-drawn illustration through one continuous golden thread.
-
-UPPER SCENE
-Create a breathtaking, highly realistic cinematic view of the most iconic location associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose the most atmospheric lighting—sunrise, sunset, golden hour, or blue hour.
-
-Show authentic architecture, landscape, proportions, recognizable local details, realistic materials, atmospheric depth, natural light, subtle film grain, and sophisticated editorial travel-photography composition.
-
-GOLDEN THREAD
-Choose one meaningful visual element from the scene—such as the sun, tower, dome, window, streetlight, mountain peak, river, bridge, cable, or architectural detail—and transform it into one thin golden thread that naturally extends downward from the scene.
-
-The thread should remain continuous, delicate, slightly imperfect, and elegant as it travels into the open space below.
-
-LOWER STORY
-On warm ivory textured paper, let the golden thread evolve into a tiny minimalist ink illustration inspired by [COUNTRY / CITY / LOCATION / SUBJECT].
-
-Automatically choose one meaningful local symbol, traveler, traditional object, miniature landmark, street scene, boat, train, flower, map element, or cultural detail. Draw it with fine black ink lines, subtle hatching, tiny golden accents, and very little detail.
-
-Keep the illustration small and surrounded by generous negative space. It should feel like a quiet continuation of the upper scene rather than a separate picture.
-
+Create an ultra-premium global collector campaign titled:
+CR7 // IMMORTAL
+This is not a football poster.
+It should feel like a limited-edition collector's print, a luxury Nike campaign, a museum exhibition piece, a premium editorial cover, and a contemporary street-art installation fused into one unforgettable artwork.
+Unlike dark sports posters, the overall mood is bright, uplifting, colorful, optimistic, and celebratory. The atmosphere feels like a perfect golden summer afternoon after victory—not aggressive or intimidating, but inspiring and timeless.
+At the center stands Cristiano Ronaldo, wearing a clean white kit, looking directly into the camera with a relaxed confident expression and a subtle smile. His presence radiates calm greatness rather than intensity. Hyper-realistic skin detail, natural lighting, luxury sports photography.
+Behind him rises a gigantic monumental stone number "7", carved from warm ivory limestone and white marble with subtle weathering. Fine cracks reveal glowing champagne-gold light from within. Small floating marble fragments drift through the air with soft dust illuminated by sunlight. The sculpture feels like a world-famous public monument.
+Around the composition, seamlessly integrated into the architecture—not as collage boxes—are elegant environmental moments:
+• Ronaldo training alone at sunrise on pristine grass
+• Practicing free kicks beneath bright stadium lights
+• Walking through a players' tunnel toward daylight
+• A distant silhouette standing in the middle of a sold-out stadium
+These moments appear naturally through reflections, layered architecture, carved reliefs, glass surfaces, and atmospheric transitions.
+The background merges Lisbon, Manchester, Madrid, Turin, and Riyadh into one vibrant football metropolis filled with colorful Mediterranean architecture, Portuguese mosaic streets, elegant modern skylines, lush greenery, championship banners, stadiums, flowers, fountains, blue skies, and glowing sunlight. Every city blends organically without obvious borders.
 TYPOGRAPHY
-Add minimal refined editorial typography based on [COUNTRY / CITY / LOCATION / SUBJECT]. Use a small destination name, landmark name, or short poetic phrase. Keep the typography subtle and secondary.
-
-FINAL AESTHETIC
-Cinematic travel photography × delicate ink illustration × continuous golden thread × warm ivory paper × poetic visual storytelling × premium editorial art print.
-
-The upper scene should feel authentic and visually dominant, while the lower illustration feels like a beautiful hand-drawn memory emerging naturally from the destination.
-
-Avoid split-screen rigidity, collage clutter, disconnected illustration, random objects, cartoon styling, distorted architecture, excessive text, logos, watermarks, heavy vintage effects, or generic travel imagery.
-
-FORMAT: 4:5 vertical, sophisticated museum-quality travel artwork, generous negative space. Generate for new york
+Massive luxury editorial typography dominates the composition:
+IMMORTAL
+DISCIPLINE BUILT THIS.
+THE STANDARD.
+MORE THAN A NUMBER.
+LEGACY NEVER RETIRES.
+Typography is integrated into architecture, marble, concrete, stadium walls, brushed steel, banners, and illuminated signage. Some text is embossed, engraved, painted, etched, or carved with elegant depth.
+PREMIUM DATA DESIGN
+Sophisticated editorial overlays inspired by Nike design language, NASA engineering blueprints, and Sotheby's exhibition catalogues:
+• Career milestone timeline
+• Heat maps
+• Shot trajectory diagrams
+• Performance graphs
+• Tactical sketches
+• Radar charts
+• Collector serial number
+• Certificate of authenticity
+• Hall of Fame classification
+• Blueprint overlays
+• Stadium coordinates
+• Technical grid systems
+• Fine geometric alignment guides
+• Luxury certification seals
+Everything feels clean, premium, minimal, and beautifully organized.
+MICRO DETAILS
+Golden handwritten tactical notes
+Fine gold foil accents
+Portuguese tile textures
+Laurel wreath engravings
+Championship star motifs
+Soft marble dust
+Floating stone particles
+Luxury embossed paper textures
+Metallic reflections
+Invisible UV print details
+Microscopic premium print imperfections
+Elegant collector-edition finishing
+COLOR PALETTE
+Warm ivory
+White marble
+Mediterranean blue
+Sky blue
+Championship gold
+Soft sandstone
+Emerald green
+Portuguese green
+Rich crimson accents
+Clean white
+Brushed titanium
+Champagne highlights
+Warm sunlight
+Golden hour glow
+Bright floral accents
+LIGHTING
+Bright cinematic daylight, warm golden-hour sunlight, soft volumetric rays, crisp blue skies, premium luxury advertising lighting, high dynamic range, vibrant but refined colors, realistic global illumination, museum-quality presentation.
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/929a104f-57ba-43a2-8529-52b91681fff4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2105230944617775113>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/hemayxn/status/2072587636842394101>)
 
 ---
 
-<a id="prompt-915a9670-7df4-4c46-a7ca-8944c549e205"></a>
+<a id="prompt-d62139f0-6b71-42ac-8241-7ee05c30a42c"></a>
 
-#### Playful Flat Editorial Storybook Illustration
+#### Explore India Floating State Islands Travel Poster
 
-<a href="https://musesignal.com/prompt/915a9670-7df4-4c46-a7ca-8944c549e205?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTYGjXgakAAjNrN.jpg?format=jpg&amp;name=small" width="480" alt="Playful Flat Editorial Storybook Illustration" /></a>
+<a href="https://musesignal.com/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLv0QG6a4AAjVH4.jpg?format=jpg&amp;name=small" width="480" alt="Explore India Floating State Islands Travel Poster" /></a>
 
-**GPT Image 2.5** · Creator: Saul Goodman
+**GPT Image 2** · Creator: Hemayxn.ai
 
 Use case: Poster &amp; Graphic
 
@@ -1492,395 +1850,79 @@ Use case: Poster &amp; Graphic
 <summary>Full prompt</summary>
 
 ```text
-GPT Image 2.5
+CREATE AN ULTRA-PREMIUM COLLECTOR'S EDITION TRAVEL POSTER TITLED:
 
-Prompt:
-Create a premium 4:5 vertical playful editorial illustration for [COUNTRY / LOCATION / SUBJECT].
+EXPLORE INDIA
 
-TEXT-TO-IMAGE ONLY — generate the entire scene creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.
+Design a sophisticated museum-quality editorial poster that celebrates India's diversity through geography rather than ordinary travel photography.
 
-CORE CONCEPT
-Automatically determine the most fitting human figure, animal, environment, clothing, cultural details, and atmosphere associated with [COUNTRY / LOCATION / SUBJECT]. Create one charming, instantly readable scene with a calm narrative relationship between the character and animal.
+The poster should feature a collection of floating geological islands suspended in mid-air. Every island must be carved in the EXACT geographic silhouette of a real Indian state, preserving its coastline and borders with high accuracy. The state outlines should be immediately recognizable, not approximated or stylized.
 
-CHARACTER & ANIMAL
-Use thick, slightly irregular black outlines, tiny dot eyes, minimal mouths, simplified facial features, flat silhouettes, and very limited detail. Give the human a relaxed frontal or three-quarter pose with simple clothing inspired by the location.
+Each floating state should contain ONLY ONE defining landscape or landmark that instantly represents that state. Do not combine multiple attractions. The emphasis is on a single iconic identity.
 
-Place the animal clearly beside the character and reduce it to a distinctive, charming graphic shape while keeping its species immediately recognizable.
+Examples:
 
-SCENERY
-Build the environment using only a few iconic elements associated with [COUNTRY / LOCATION / SUBJECT]. Keep large areas of open negative space and arrange the elements with deliberate asymmetrical balance rather than filling the entire frame.
+• Jammu & Kashmir → Dal Lake with a lone shikara beneath snow-covered Himalayan peaks.
+• Himachal Pradesh → Key Monastery dramatically perched on a mountain ridge.
+• Uttarakhand → Valley of Flowers in full alpine bloom.
+• Rajasthan → Jaisalmer Fort emerging from golden desert dunes.
+• Gujarat → Endless white salt desert of the Rann of Kutch.
+• Kerala → One winding backwater canal lined with coconut palms and a traditional houseboat.
+• Meghalaya → A single dramatic Living Root Bridge spanning a rainforest stream.
+• Sikkim → Gurudongmar Lake beneath Kanchenjunga.
+• Maharashtra → Raigad Fort atop the Sahyadri cliffs.
+• Karnataka → The stone ruins of Hampi.
+• Tamil Nadu → Brihadeeswarar Temple rising above lush greenery.
+• Goa → One pristine tropical beach with dramatic laterite cliffs.
 
-STYLE & COLOR
-Use crisp flat color fills with a cheerful palette naturally inspired by [COUNTRY / LOCATION / SUBJECT]. Keep colors clean and solid with no gradients, photorealism, or heavy shading. Allow tiny handmade imperfections in the outlines and shapes.
+Each state should feel like a tiny self-contained world rather than a miniature city.
 
-FINAL AESTHETIC
-Naïve storybook illustration × contemporary editorial design × playful flat graphics × gentle visual humor × handmade simplicity.
+The islands should have cinematic geological cross-sections with exposed sedimentary rock layers, hanging roots, waterfalls where appropriate, scattered floating debris, realistic erosion, moss, vegetation, and atmospheric mist.
 
-The artwork should feel warm, intelligent, minimal, and collectible, with strong silhouettes and a quiet narrative charm.
+Avoid filling every island with unnecessary details. One iconic feature should dominate each composition while the surrounding terrain simply supports it.
 
-Avoid photorealism, 3D rendering, gradients, realistic shading, complex textures, excessive detail, clutter, glossy digital effects, distorted anatomy, typography, logos, or watermarks.
+Arrange the islands asymmetrically around the title instead of using a perfectly symmetrical grid. Allow generous negative space for a premium editorial feel.
 
-FORMAT: 4:5 vertical, single unified composition, generous negative space.
+Typography should resemble a luxury travel magazine:
+Large elegant serif title,
+minimal small-cap labels beneath each island,
+fine decorative divider lines,
+subtle engraved ornamentation.
+
+Background:
+Deep charcoal textured paper with warm directional lighting and soft vignette, creating a refined museum exhibition aesthetic rather than a tourism brochure.
+
+Color palette:
+Natural earth tones, sandstone, emerald forests, glacier whites, Himalayan blues, volcanic greys, tropical greens, and warm golden sunlight.
+
+Lighting:
+Golden-hour cinematic lighting with soft volumetric atmosphere, realistic shadows, ambient occlusion, physically based rendering, ray-traced reflections where water is present.
+
+Style:
+Hyperreal miniature world, architectural visualization, premium editorial design, National Geographic collector's edition, luxury atlas illustration, floating terrain sculptures, photorealistic environmental storytelling, 8K, ultra-detailed, breathtaking realism.
+
+CRITICAL REQUIREMENTS:
+
+• Every state outline must closely match its real geographic shape.
+• One landmark per state only.
+• No collage of attractions.
+• No people.
+• No vehicles except where iconic (such as a single shikara or Kerala houseboat).
+• Avoid visual clutter.
+• Maintain generous spacing.
+• Each floating landmass should feel like an individually sculpted masterpiece.
+• Original composition with its own visual identity—do not imitate existing posters or layouts.
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/915a9670-7df4-4c46-a7ca-8944c549e205?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104877127858635215>)
-
----
-
-<a id="prompt-30ddb1da-740e-4724-b7c2-1119118cd7d9"></a>
-
-#### Architectural Travel Postcard Illustration
-
-<a href="https://musesignal.com/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTXM9HeagAEpWTv.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Travel Postcard Illustration" /></a>
-
-**GPT Image 2.5** · Creator: Saul Goodman
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT Image 2.5
-
-Prompt:
-DESTINATION: [DESTINATION]
-
-Create a sophisticated vertical 2:3 architectural travel postcard featuring [DESTINATION].
-
-STYLE
-
-Premium contemporary editorial postcard with subtle vintage influence. Combine precise architectural pen-and-ink illustration, restrained travel graphics, archival details, and modern graphic design. The result should feel cultured, timeless, architectural, and collectible—not like a tourist souvenir.
-
-MAIN SUBJECT
-
-Feature ONE iconic building, monument, structure, street façade, or architectural landmark strongly associated with [DESTINATION]. Make it the clear visual hero, shown from a believable three-quarter or slightly dramatic architectural perspective. No landmark collage.
-
-ILLUSTRATION
-
-Use exceptionally fine black or dark graphite linework, detailed architectural hatching, accurate proportions, and subtle hand-drawn imperfections. Include recognizable structural details such as windows, façades, roofs, columns, or ornaments where appropriate.
-
-COLOR
-
-Keep much of the architecture as line art with selective flat color using only 2–4 destination-specific tones. Colors should be sophisticated and slightly muted. Avoid gradients, glossy rendering, photorealism, excessive beige, and muddy sepia.
-
-BACKGROUND
-
-Use a clean pure white background with subtle archival elements such as faint maps, street plans, coordinates, contour lines, architectural diagrams, or minimal local-language annotations. Keep these elements secondary and lightly faded.
-
-COMPOSITION
-
-Vertical 2:3 format, with the landmark occupying roughly 60–75% of the artwork. Use generous negative space and an asymmetric editorial layout. Allow tasteful cropping when it improves the composition.
-
-TYPOGRAPHY
-
-Add restrained typography:
-
-[LOCAL NAME]
-[DESTINATION]
-
-Use elegant architectural or museum-catalogue-inspired typography. Add a tiny bottom information strip with relevant details such as CITY / COUNTRY · ARCHITECTURE · EST. YEAR · COORDINATES.
-
-DETAILS & MOOD
-
-Add only a few tiny contextual elements—people, bicycles, trees, lamps, vehicles, or street details—when appropriate, mainly to establish scale.
-
-Mood: quiet urban sophistication, cultural authenticity, history, and refined design.
-
-AVOID
-
-Tourist clichés, cartoon styling, fake architecture, landmark collages, giant typography, excessive decoration, heavy vintage filters, fake stamps, clutter, 3D rendering, and unnecessary text.
-
-FINAL GOAL: A timeless, highly detailed, premium architectural postcard that feels like a museum-shop collectible or contemporary design print.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104813775610384490>)
-
----
-
-<a id="prompt-0577db4c-b655-45fb-bca6-3653aa3c7969"></a>
-
-#### Minimal Geometric Editorial Travel Artwork
-
-<a href="https://musesignal.com/prompt/0577db4c-b655-45fb-bca6-3653aa3c7969?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTTAsAmbUAAc-_H.jpg?format=jpg&amp;name=small" width="480" alt="Minimal Geometric Editorial Travel Artwork" /></a>
-
-**GPT Image 2.5** · Creator: Saul Goodman
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create a premium 4:5 vertical editorial travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
-
-CORE CONCEPT
-Create a realistic upper scene representing [COUNTRY / CITY / LOCATION / SUBJECT], paired with a small Minimal Geometric Graphic Vignette in the lower section. The lower artwork should visually echo the main scene without literally reproducing it.
-
-GRAPHIC VIGNETTE
-Automatically identify the 2–5 strongest visual memory points of [COUNTRY / CITY / LOCATION / SUBJECT]—its most recognizable silhouette, movement, posture, structure, object, or narrative relationship. Remove everything unnecessary and reconstruct these elements using simple geometric forms, clean silhouettes, solid color blocks, and a few carefully layered shapes.
-
-The vignette should remain small and refined, never attempting to recreate the entire scene. It may be slightly off-center, edge-aligned, floating, partially cropped, or asymmetrically positioned according to the visual weight of the subject.
-
-NEGATIVE SPACE
-Give the geometric artwork generous surrounding whitespace. Treat negative space as an essential design element, using scale contrast, positive/negative shapes, spacing, clustering, and asymmetrical balance to create a sophisticated editorial rhythm.
-
-COLOR
-Derive a restrained 2–4 color palette from the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Extract meaningful colors associated with the subject, environment, materials, season, atmosphere, clothing, architecture, vegetation, water, or food, then simplify and slightly brighten them into clean graphic colors.
-
-Use a very pale, soft background close to white. Avoid muddy neutrals, unnecessary muted palettes, fluorescent colors, or decorative colors unrelated to the subject.
-
-STYLE
-Keep the vignette small, simple, precise, and highly recognizable. Use professional graphic-design language rather than realistic volume, complex textures, or cartoon styling.
-
-Whether the subject is a person, building, animal, plant, object, vehicle, or landscape, transform it into an elegant spot illustration with strong visual identity and minimal geometry.
-
-TYPOGRAPHY
-Add only a very small amount of restrained editorial text if appropriate. Derive a short word or phrase from the destination, subject, action, mood, or visual metaphor. Keep it subtle and integrated into the surrounding negative space.
-
-FINAL AESTHETIC
-Minimal geometric graphic design × editorial spot illustration × contemporary travel art × intelligent negative space × semantic color palette.
-
-The result should feel refined, modern, playful, highly intentional, and collectible—not like a photo tracing or ordinary cartoon.
-
-Avoid photorealistic lower artwork, literal photo recreation, excessive detail, complex shading, gradients, 3D rendering, oversized graphics, clutter, decorative colors, generic icons, excessive typography, logos, watermarks, or filled-in backgrounds.
-
-FORMAT: 4:5 vertical, premium editorial composition, small geometric vignette with generous negative space.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/0577db4c-b655-45fb-bca6-3653aa3c7969?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104518835076551144>)
-
----
-
-<a id="prompt-2bdcaa37-7072-4e6e-9008-6010c6a0e2ee"></a>
-
-#### Architectural Travel Postcard Ink Illustration
-
-<a href="https://musesignal.com/prompt/2bdcaa37-7072-4e6e-9008-6010c6a0e2ee?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTR-zlua4AAKHGC.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Travel Postcard Ink Illustration" /></a>
-
-**GPT Image 2.5** · Creator: Saul Goodman
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT Image 2.5
-
-Prompt:
-Create a premium 2:3 vertical architectural travel postcard for [COUNTRY / CITY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
-
-CORE CONCEPT
-Create a sophisticated collectible postcard centered around ONE unmistakable architectural landmark from [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically select the most iconic building, monument, street façade, or structure and make it the sole visual hero.
-
-ARCHITECTURAL ART
-Render the landmark as an exceptionally detailed hand-drawn architectural ink illustration using fine black or graphite lines, precise proportions, delicate hatching, tiny windows, façade details, columns, roofs, cornices, and subtle handmade imperfections.
-
-Show the architecture from a slightly dramatic but believable low or three-quarter perspective. Allow tasteful cropping when it strengthens the composition.
-
-COLOR
-Keep most of the landmark as exposed linework and introduce only 2–4 sophisticated colors naturally associated with the destination. Use restrained flat color with muted but clean tones. No gradients or glossy digital rendering.
-
-BACKGROUND
-Use a refined light ivory paper background. Subtly integrate faded archival elements related to the destination: fragments of maps, street plans, contour lines, architectural diagrams, coordinates, handwritten annotations, measurement marks, and restrained local-language details.
-
-Keep these elements secondary, delicate, and partially faded so the architecture remains dominant.
-
-COMPOSITION
-Use an asymmetric editorial layout with generous breathing room and the landmark occupying roughly 60–75% of the artwork. Add only a few tiny contextual details such as pedestrians, bicycles, street lamps, trees, tram wires, or local street elements when appropriate.
-
-TYPOGRAPHY
-Add the destination name and, if appropriate, its local-language name in small refined editorial typography. Include a minimal archival-style information strip near the bottom with subtle location or architectural details.
-
-FINAL AESTHETIC
-Architectural sketchbook × museum-shop postcard × archival city document × contemporary editorial design. Intelligent, cultured, collectible, precise, and quietly sophisticated rather than a conventional tourist souvenir.
-
-Avoid landmark collages, generic watercolor, cartoon architecture, photorealism, giant typography, souvenir clichés, excessive decoration, heavy sepia filters, muddy colors, random landmarks, excessive distressing, or overly symmetrical layouts.
-
-FORMAT: 2:3 vertical, single architectural subject, premium collectible travel postcard.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/2bdcaa37-7072-4e6e-9008-6010c6a0e2ee?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104446409424753088>)
-
----
-
-<a id="prompt-150d4607-1c76-4b22-8f44-31ef4583785b"></a>
-
-#### Vintage Hand-Drawn Travel Storybook Illustration
-
-<a href="https://musesignal.com/prompt/150d4607-1c76-4b22-8f44-31ef4583785b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTO0nPybQAA3RNr.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Hand-Drawn Travel Storybook Illustration" /></a>
-
-**GPT Image 2.5** · Creator: Saul Goodman
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT Image 2.5
-
-Prompt:
-Create a premium 4:5 vertical vintage hand-drawn travel storybook illustration for [COUNTRY / CITY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
-
-CORE CONCEPT
-Imagine [COUNTRY / CITY / LOCATION / SUBJECT] as a softly misremembered travel memory inspired by 1950s–1960s European city storybooks. Create one whimsical imagined street where the destination's real identity remains recognizable, but everything feels gently imperfect, intimate, and nostalgic rather than geographically precise.
-
-SCENE
-Automatically choose one iconic primary landmark as the main focal point, one secondary landmark, and one smaller distant landmark partially hidden in the background. Add one authentic local vehicle, several tiny everyday environmental details, and 5–6 ordinary local residents casually performing simple daily activities.
-
-Compress everything naturally into the same imagined street scene with layered depth and a charming sense of discovery.
-
-DRAWING STYLE
-Use loose charcoal and deep navy ink with trembling hand-drawn contours, slightly crooked architecture, sparse windows, simplified silhouettes, minimal expressive lines, and imperfect handmade proportions. Characters should have oversized heads, thin legs, narrow bodies, tiny faces, slightly crooked accessories, and simple readable gestures.
-
-COLOR
-Use a restrained palette of only 6–7 colors inspired by the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Apply muted matte gouache in flat areas with uneven brush edges, tiny unpainted gaps, subtle registration shifts, and visible handmade imperfections. Leave large portions of the sky as untouched warm paper.
-
-FINAL AESTHETIC
-Naïve European travel storybook × loose charcoal sketch × navy ink × muted gouache × nostalgic city memory × handmade editorial illustration.
-
-The artwork should feel warm, awkward, poetic, quietly humorous, and authentically handmade—not polished or digitally perfect.
-
-Add only a small handwritten caption at the bottom containing the name of [COUNTRY / CITY / LOCATION / SUBJECT].
-
-Avoid photorealism, precise mapping, aerial views, gradients, 3D rendering, polished vector art, hyper-detailed watercolor, realistic faces, excessive linework, heavy distressed effects, clutter, logos, watermarks, or modern graphic design.
-
-FORMAT: 4:5 vertical, single unified illustration, generous paper/sky negative space.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/150d4607-1c76-4b22-8f44-31ef4583785b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104224095923831220>)
-
----
-
-<a id="prompt-ab823396-c48a-42d6-a180-6b7ae5b3fc60"></a>
-
-#### Cinematic Travel Poster Collage with Oversized Typography
-
-<a href="https://musesignal.com/prompt/ab823396-c48a-42d6-a180-6b7ae5b3fc60?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTN-m-UbsAAKfE6.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Travel Poster Collage with Oversized Typography" /></a>
-
-**GPT Image 2.5** · Creator: Saul Goodman
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create a premium 4:5 vertical cinematic travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
-
-CORE CONCEPT
-Create a dramatic editorial collage that merges multiple iconic views of [COUNTRY / CITY / LOCATION / SUBJECT] into one cohesive architectural composition. Use a warm ivory background with enormous condensed typography of the location name stretching vertically behind the architecture. The typography should act as a major graphic element, partially hidden and naturally overlapped by the landmarks.
-
-ARCHITECTURE
-Automatically select the most recognizable landmark as the dominant central subject, then surround it with 3–5 additional authentic landmarks from the same destination. Arrange them from different low-angle perspectives so buildings rise inward from the edges and create a powerful visual frame around the central landmark.
-
-Keep the architecture highly recognizable and structurally accurate. Allow controlled cropping at the edges for a dramatic editorial composition.
-
-COLOR SYSTEM
-Use a mostly monochromatic photographic treatment for the architecture—warm charcoal, stone gray, cream, and subtle sepia—combined with ONE strong destination-specific accent color.
-
-Apply that accent selectively to the oversized location typography and a few culturally recognizable foreground elements such as transportation, flowers, flags, lights, or architectural details.
-
-TYPOGRAPHY
-Place the exact location name in huge, ultra-condensed uppercase lettering behind the landmarks. Make it tall, bold, tightly spaced, and partially concealed by the architecture. The letters should feel physically integrated into the composition rather than sitting on top as a normal title.
-
-Add no unnecessary text.
-
-FOREGROUND
-Include one or two small contextual foreground elements associated with the destination—such as a taxi, bus, tram, bicycle, street lamp, flowers, pedestrians, or street detail—slightly out of focus to create cinematic depth.
-
-LIGHTING & TEXTURE
-Use dramatic natural daylight with subtle atmospheric haze, realistic architectural shadows, selective depth of field, and a slightly nostalgic photographic finish. Add restrained vintage print grain, fine paper texture, and subtle imperfections without making the artwork look artificially aged.
-
-FINAL AESTHETIC
-Luxury travel editorial × cinematic city photography × oversized typography × architectural collage × vintage European poster design. Sophisticated, dramatic, recognizable, highly detailed, and visually balanced.
-
-Avoid random landmarks, incorrect architecture, excessive text, cartoon styling, 3D rendering, flat vector graphics, excessive saturation, distorted buildings, duplicated landmarks, clutter, logos, watermarks, or generic city imagery.
-
-FORMAT: 4:5 vertical, premium editorial travel poster, cinematic low-angle perspective, high detail.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/ab823396-c48a-42d6-a180-6b7ae5b3fc60?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104164709255770576>)
-
----
-
-<a id="prompt-d40ccad2-813a-4127-aff2-a8056665da6e"></a>
-
-#### Perler Bead Travel Editorial Poster
-
-<a href="https://musesignal.com/prompt/d40ccad2-813a-4127-aff2-a8056665da6e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTM5rFbaYAAWe7k.jpg?format=jpg&amp;name=small" width="480" alt="Perler Bead Travel Editorial Poster" /></a>
-
-**GPT Image 2.5** · Creator: Saul Goodman
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT Image 2.5
-
-Prompt:
-Create a premium 3:4 vertical Perler Bead travel editorial artwork for [COUNTRY / LOCATION / SUBJECT].
-
-TEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.
-
-COMPOSITION
-Create an exact 50/50 vertical split. The upper half is a beautiful full-bleed realistic travel scene representing [COUNTRY / LOCATION / SUBJECT], automatically featuring its most recognizable landmark, architecture, landscape, or cultural element.
-
-The lower half uses a warm off-white textured paper background with subtle natural grain.
-
-BEAD ARTWORK
-On the lower-left, create one large square Perler Bead artwork depicting the most iconic visual element from the upper scene. Use precise pixel-art construction with clearly visible individual melted beads, authentic plastic texture, a clean cream bead border, and a soft natural shadow.
-
-PATCH COLLECTION
-On the lower-right, arrange six small individual Perler Bead patches in a clean 2×3 grid. Each patch represents a different recognizable element associated with [COUNTRY / LOCATION / SUBJECT]. Give every patch a cream bead outline and subtle physical shadow.
-
-STYLE
-Use authentic handcrafted Perler Bead construction, visible bead holes, slightly imperfect handmade edges, matte plastic texture, precise pixel patterns, soft studio lighting, and refined tactile detail.
-
-TYPOGRAPHY
-Below the bead artwork, add exactly three short uppercase English keywords related to [COUNTRY / LOCATION / SUBJECT], separated by “ · ”. Use thin, widely letter-spaced sans-serif typography in dark gray.
-
-FINAL AESTHETIC
-Minimal travel editorial × handcrafted Perler Bead art × collectible souvenir design × tactile lifestyle magazine aesthetic. Keep the composition clean, balanced, sophisticated, and spacious.
-
-Avoid uploaded-image references, photo recreation, duplicated elements, random landmarks, excessive text, logos, watermarks, clutter, 3D CGI, glossy plastic, distorted bead patterns, or uneven composition.
-
-FORMAT: 3:4 vertical, exact 50/50 layout, premium handcrafted editorial design.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/d40ccad2-813a-4127-aff2-a8056665da6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2104088919684084124>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/hemayxn/status/2070517020920316070>)
 
 ---
 
 <a id="selected-food-drink"></a>
 
-### Food &amp; Drink · 9
+### Food &amp; Drink · 8
 
 [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>)
 
@@ -2077,31 +2119,6 @@ Minimalist luxury wellness poster design, ultra-realistic healthy detox drink ad
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/sha_zdiii/status/2071449663841218819>)
-
----
-
-<a id="prompt-f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a"></a>
-
-#### Korean Scrapbook Food Poster
-
-<a href="https://musesignal.com/prompt/f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HONCNOpWIAA3vzS.jpg?format=jpg&amp;name=small" width="480" alt="Korean Scrapbook Food Poster" /></a>
-
-**GPT Image 2** · Creator: Simply Ray
-
-Use case: Food &amp; Drink
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT IMAGE 2 on CHATGPT 
-
-Create a cute, trendy scrapbook-style Korean food advertisement poster featuring [Menu Name] as the main focus, with the price [Price] displayed prominently beside it as a sticker or torn paper label. If a reference photo is provided, accurately preserve the food's shape, ingredients, colours, plating, and overall identity while enhancing lighting, texture, and realism to make it look more delicious. If no photo is provided, create a realistic version based on the menu name without adding uncertain ingredients. Place the food large in the centre with rich, appetising details such as crispy textures, juicy meat, glossy sauces, and fresh ingredients. Use a warm café aesthetic with a vintage scrapbook collage style, including torn paper, masking tape, sticky notes, handwritten doodles, arrows, stars, hearts, sparkles, checkerboard patterns, and cute food stickers. Add 4–6 Korean exclamation phrases that match the dish. All visible text, including the menu name, price, and decorative phrases, must be written only in Korean. Use warm brown, cream, orange, and green tones with subtle colourful marker accents, and produce the final poster in a vertical 3:4 aspect ratio with safe margins so nothing is cropped.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2081580288971337797>)
 
 ---
 
@@ -2320,13 +2337,13 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 ---
 
-<a id="prompt-11757b96-3822-4dba-bd98-51cee45d3986"></a>
+<a id="prompt-279512a3-6b7c-455f-b7ae-7b28359ac0cb"></a>
 
-#### High-Saturation Pop Anime Character with Hologram UI
+#### Ethereal Fantasy Fox Portrait
 
-<a href="https://musesignal.com/prompt/11757b96-3822-4dba-bd98-51cee45d3986?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HORGRK_aoAAyD3j.jpg?format=jpg&amp;name=small" width="480" alt="High-Saturation Pop Anime Character with Hologram UI" /></a>
+<a href="https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMkHlw2awAAMgjz.jpg?format=jpg&amp;name=small" width="480" alt="Ethereal Fantasy Fox Portrait" /></a>
 
-**GPT Image 2** · Creator: AI創作室｜ルミナ･グレイ🖤🌟
+**GPT Image 2** · Creator: Rossy
 
 Use case: Character &amp; Art
 
@@ -2334,51 +2351,18 @@ Use case: Character &amp; Art
 <summary>Full prompt</summary>
 
 ```text
-⬇️プロンプト内容⬇️
-画像比率は4:5。
-キャラクター毎に個別の画像で生成する。
-【キャラクター】を主役に、AI創作室を象徴する「高彩度ポップアニメ×グラフィックデザイン×ホログラムUI」の画風を完全固定して描く。
-画風は以下で固定する。
-太さに強弱のある黒色の輪郭線。
-鮮明で滑らかな線。
-大きく多層的な瞳。
-強い瞳ハイライト。
-束感のある髪。
-セル塗りを基礎にした2〜4段階の影。
-鮮やかな反射光。
-ピンク、紫、青、水色、赤、金、黒を使った高彩度配色。
-ステッカー、グリッチ、ホログラム、通知UI、星、ハート、稲妻、幾何学図形を使った情報量の多い画面。
-顔、瞳、手が埋もれない整理されたレイアウト。
-キャラクターは、画面の手前へ堂々と身を乗り出す。
-カメラは低い位置に置く。
-顔は画面全体の55〜70％を占める。
-表情は、細めた瞳、片側だけ上げた口角、軽く上げた眉、少し傾けた頭で構成する。
-「自分の可愛さも強さも全部分かっている」ような、メスガキ的な生意気さと見下しを表現する。
-片手は腰へ置く。
-もう片方は、カメラを指差す、手招きする、画面の端をつまむ、指先で小さなハートを作りながら目だけで煽るなど、可愛さと挑発を両立した仕草にする。
-背景には、AI創作室の制作部屋、キャラクターシート、配信UI、SSR通知、感情ゲージ、構図ガイド、光る制作レイヤーを配置する。
-読みづらい長文は入れず、短い記号と図形で表現する。
-参照画像がある場合は、顔立ち、髪型、髪色、瞳、衣装、配色、シルエット、キャラクター性を維持する。
-参照画像の画風ではなく、この指定画風へ統一して再構成する。
-参照画像そのもの、背景、構図、ポーズ、アングルは使用しない。
-最高品質。
-高精細。
-高彩度。
-輪郭線は滑らかにする。
-黒色部分を潰さず、明るい部分を白飛びさせない。
-瞳、髪、肌、衣装、ホログラムの質感を描き分ける。
-文字化け、余分な指、歪んだ顔、ノイズ、ガビガビを防ぐ。
+Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on a clean pure white background. The fox has silky flowing white fur blended with shimmering champagne-gold glitter, giving it a luxurious celestial appearance. Its elegant body dissolves into long, fluid ribbon-like fur trails mixed with sparkling golden dust, creating a graceful sense of motion. The ears are covered in fine golden glitter, while the face remains soft, refined, and peaceful with gently closed eyes and a subtle mystical smile. Add delicate glowing particles, magical bokeh, soft light rays, and tiny floating sparkles surrounding the fox. The composition is minimalistic yet luxurious, with no scenery, no text, no watermark, and no extra objects. Soft ivory, pearl white, champagne gold, and warm golden tones dominate the palette. Premium fantasy illustration, luxury editorial aesthetic, dreamy atmosphere, ultra-clean composition, photorealistic fur texture, cinematic lighting, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, masterpiece, 8K, hyper-detailed.
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/11757b96-3822-4dba-bd98-51cee45d3986?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AI_SousakuRoom/status/2081866194265760102>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/xRahultripathi/status/2074197471866347891>)
 
 ---
 
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 8
+### Scene &amp; Space · 9
 
 [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2596,6 +2580,33 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ---
 
+<a id="prompt-af895d9d-e54f-4793-8e0c-f1292a177acb"></a>
+
+#### Ultra-Realistic Cinematic House Exterior
+
+<a href="https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIhsI-PbIAAMqAy.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Cinematic House Exterior" /></a>
+
+**GPT Image 2** · Creator: Ayesha.
+
+Use case: Scene &amp; Space
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-realistic cinematic house exterior with stunning architectural design and premium visual aesthetics. The house can be modern, luxury, rustic, cottage, gothic, fantasy, royal, or minimalist in style. Include highly detailed architecture, large windows, elegant textures, beautiful landscaping, realistic pathways, glowing interior lighting, and immersive outdoor surroundings.
+
+The environment should feel like a high-budget movie scene mixed with professional architectural photography and luxury real-estate advertising. Add dramatic cinematic lighting, volumetric sunlight, atmospheric fog, realistic reflections, shadows, rain or sunset mood, garden lights, trees, flowers, water elements, and detailed environmental effects for a visually powerful composition.
+
+Use wide-angle cinematic camera perspective, depth of field, HDR lighting, ray tracing, photorealistic rendering, Unreal Engine quality, cinematic color grading, hyper-detailed textures, luxury aesthetic, masterpiece composition, ultra-realistic environment design, highly immersive atmosphere, 8K ultra detail.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iayeshayousuf/status/2056012137001349171>)
+
+---
+
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2606,20 +2617,20 @@ Explore more examples, search and filters on MuseSignal.
 
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
-| GPT Image | 46 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 376 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image | 47 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
+| GPT Image 2 | 389 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 12 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## Recently published
 
-- [Modernist Editorial Travel Collage](<https://musesignal.com/prompt/88c511d6-9a66-4b65-8640-3793e67e240e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Golden Thread Travel-Art Poster Prompt for GPT Image 2.5](<https://musesignal.com/prompt/929a104f-57ba-43a2-8529-52b91681fff4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Playful Flat Editorial Storybook Illustration](<https://musesignal.com/prompt/915a9670-7df4-4c46-a7ca-8944c549e205?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Architectural Travel Postcard Illustration](<https://musesignal.com/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Minimal Geometric Editorial Travel Artwork](<https://musesignal.com/prompt/0577db4c-b655-45fb-bca6-3653aa3c7969?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Architectural Travel Postcard Ink Illustration](<https://musesignal.com/prompt/2bdcaa37-7072-4e6e-9008-6010c6a0e2ee?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Vintage Hand-Drawn Travel Storybook Illustration](<https://musesignal.com/prompt/150d4607-1c76-4b22-8f44-31ef4583785b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Cinematic Travel Poster Collage with Oversized Typography](<https://musesignal.com/prompt/ab823396-c48a-42d6-a180-6b7ae5b3fc60?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
+- [9:16 3×3 Collage of Flawed Amateur Flash Portraits](<https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Premium Sneaker Box Product Mockup](<https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Landmark Cutaway Infographic Poster](<https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Ethereal Fantasy Fox Portrait](<https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Rainy Parisian Blue Hour Fashion Editorial Portrait](<https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [CR7 Immortal Luxury Collector Poster](<https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Neon Bedroom Overhead Selfie Portrait](<https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Ultra-Realistic Cinematic House Exterior](<https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2640,7 +2651,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 434](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 448](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

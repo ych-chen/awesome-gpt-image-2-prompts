@@ -53,3 +53,28 @@ Aspect ratio: 3:4 vertical.
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f0e83318-6e3c-46be-bf40-4c8de667b7bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlitterPixely/status/2067040223762997439>)
 
 ---
+
+<a id="prompt-af895d9d-e54f-4793-8e0c-f1292a177acb"></a>
+
+## Ultra-Realistic Cinematic House Exterior
+
+<a href="https://musesignal.com/zh/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIhsI-PbIAAMqAy.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Cinematic House Exterior" /></a>
+
+**GPT Image 2** · 原作者: Ayesha.
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-realistic cinematic house exterior with stunning architectural design and premium visual aesthetics. The house can be modern, luxury, rustic, cottage, gothic, fantasy, royal, or minimalist in style. Include highly detailed architecture, large windows, elegant textures, beautiful landscaping, realistic pathways, glowing interior lighting, and immersive outdoor surroundings.
+
+The environment should feel like a high-budget movie scene mixed with professional architectural photography and luxury real-estate advertising. Add dramatic cinematic lighting, volumetric sunlight, atmospheric fog, realistic reflections, shadows, rain or sunset mood, garden lights, trees, flowers, water elements, and detailed environmental effects for a visually powerful composition.
+
+Use wide-angle cinematic camera perspective, depth of field, HDR lighting, ray tracing, photorealistic rendering, Unreal Engine quality, cinematic color grading, hyper-detailed textures, luxury aesthetic, masterpiece composition, ultra-realistic environment design, highly immersive atmosphere, 8K ultra detail.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iayeshayousuf/status/2056012137001349171>)
+
+---
