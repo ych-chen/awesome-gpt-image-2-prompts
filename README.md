@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **448** | **60** | 2026-10-03 |
+| **453** | **60** | 2026-10-04 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,11 +28,11 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 117 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| Portrait | 119 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
 | Commercial &amp; Product | 91 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| Poster &amp; Graphic | 100 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| Poster &amp; Graphic | 101 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 19 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
-| Character &amp; Art | 88 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
+| Character &amp; Art | 90 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | Scene &amp; Space | 33 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 14
+### Portrait · 13
 
 [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -368,6 +368,70 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-ded0e741-ed24-47aa-a719-38968685cd54"></a>
+
+#### Man in Newspaper Origami Boat on Open Sea
+
+<a href="https://musesignal.com/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNjrD-4agAA5kYR.jpg?format=jpg&amp;name=small" width="480" alt="Man in Newspaper Origami Boat on Open Sea" /></a>
+
+**GPT Image 2** · Creator: Duet \| AI
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt: Ultra-realistic cinematic portrait of a stylish young man sitting inside a life-sized origami paper boat made entirely from folded newspaper sheets, floating peacefully on crystal-clear deep blue ocean water. The boat is handcrafted from real newspapers with visible printed text, folded creases, and natural paper texture. The man faces the camera with a calm, confident expression, wearing a charcoal gray hoodie, olive-green shorts, clean white sneakers, and amber-tinted round sunglasses. He has short dark curly hair, a neatly trimmed goatee, and a relaxed posture with one hand resting on the edge of the newspaper boat.
+The setting is an expansive open sea with gentle ripples, distant islands and mountains softly blurred along the horizon beneath a bright blue sky with thin wispy clouds. Warm golden-hour sunlight illuminates the subject from the front-left, creating soft highlights on the face and realistic reflections across the water. The newspaper boat floats naturally with subtle water displacement and realistic buoyancy.
+Photographed with a full-frame mirrorless camera using an 85mm lens at f/2.8, shallow depth of field, ultra-sharp facial details, crisp newspaper texture, natural skin tones, cinematic color grading, realistic lighting, HDR, editorial lifestyle photography, premium fashion campaign aesthetic, photorealistic, 8K, highly detailed, clean composition, no watermark, no text overlay.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Sheldon056/status/2078669692777157049>)
+
+---
+
+<a id="prompt-40a08629-7bec-47d4-a778-e9784fc054e0"></a>
+
+#### Ancient Chinese POV Night Portrait with Fireflies
+
+<a href="https://musesignal.com/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL4GF7xaMAAX1cc.jpg?format=jpg&amp;name=small" width="480" alt="Ancient Chinese POV Night Portrait with Fireflies" /></a>
+
+**GPT Image 2** · Creator: Rossy
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a highly realistic vertical 9:16 ancient-Chinese POV night portrait with authentic smartphone photography aesthetics. High-angle first-person perspective with a gentle diagonal downward view, creating an intimate, immersive interaction.
+
+Interaction: The viewer gently ties a small red wishing ribbon around her wrist while she softly extends her hand toward the camera.
+
+Scene: A peaceful bamboo forest pathway at night, illuminated by hundreds of glowing fireflies. Ancient stone steps, traditional wooden lanterns, soft drifting mist, lush green bamboo swaying gently in the wind, creating a magical and romantic atmosphere.
+
+Outfit: Elegant jade-green Hanfu with delicate gold bamboo embroidery, flowing translucent sleeves, realistic silk fabric, natural folds, graceful layered skirt with authentic movement.
+
+Subject: A beautiful young adult East Asian woman with naturally connected long black hair styled in a traditional half-up hairstyle with jade hairpins and small pearl ornaments. Realistic skin texture, expressive almond-shaped eyes, soft rosy lips, gentle smile, slightly lowered chin while looking warmly toward the viewer with a shy yet trusting expression.
+
+Body: Naturally elegant adult feminine proportions, slim waist, graceful shoulders, realistic posture, healthy body proportions, refined classical beauty.
+
+Lighting: Warm lantern glow mixed with cool moonlight filtering through bamboo leaves. Hundreds of tiny fireflies create subtle golden highlights around her hair, sleeves, and face. Soft cinematic contrast with realistic night photography.
+
+Style: Ultra-realistic ancient Chinese cinematic photography, authentic smartphone capture feel, premium editorial quality, realistic skin texture, detailed silk fabric, natural depth of field, subtle film grain, emotional storytelling, timeless historical atmosphere.
+
+Negative Prompt: modern buildings, cars, electric lights, logos, watermark, text, anime, CGI, cartoon style, plastic skin, AI face, distorted anatomy, extra fingers, disconnected hair, unrealistic fabric, overexposed lighting, low quality
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/xRahultripathi/status/2071099636925002131>)
+
+---
+
 <a id="prompt-67ae1eb6-5458-4b03-8cfd-3ce1a891b20f"></a>
 
 #### 9:16 3×3 Collage of Flawed Amateur Flash Portraits
@@ -496,216 +560,6 @@ Style: ultra-realistic fashion photography, realistic skin texture, natural hair
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AI_money_club/status/2068548212080947519>)
-
----
-
-<a id="prompt-14f4474e-08c3-430a-a7a1-114601e5fa41"></a>
-
-#### Neon Nike Swoosh Cyberpunk Portrait
-
-<a href="https://musesignal.com/prompt/14f4474e-08c3-430a-a7a1-114601e5fa41?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOECgOGaUAACpUe.jpg?format=jpg&amp;name=small" width="480" alt="Neon Nike Swoosh Cyberpunk Portrait" /></a>
-
-**GPT Image 2** · Creator: Aijaz
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A photorealistic, high-detail portrait of a young man with a trimmed beard and a determined expression, looking up and slightly to the left. He is wearing a black and orange puffer jacket/down jacket with the zipper pulled up.
-Background/Aesthetic: Dark, moody, and futuristic studio setting. The main visual feature is a massive, glowing neon-orange outline of the Nike swoosh logo centered behind the subject. The lighting is dramatic, with a strong orange key light hitting the man's face, neck, and the top of his shoulders, creating high contrast.
-Visual Elements: Floating, futuristic HUD (Heads-Up Display) elements in neon orange are overlaid on the dark background around the subject. These include:
-Data readouts, graphs, and target crosshairs in the top-left corner.
-A minimal progress bar/loading graphic around the small swoosh in the top-right corner.
-A bar graph/data visualization in the bottom-right corner.
-Style/Technique: Cinematic, high-contrast lighting, volumetric lighting, hyper-detailed, photorealistic, shot on an 8K camera (like a Sony a7R V or Arri), deep depth of field, inspired by cyberpunk or sports advertising.
-Negative Prompts (To ensure quality and focus): low resolution, blurry, text, watermark, cartoon, bad anatomy, deformed hands, extra fingers, noisy, oversaturated with 3:4 size.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/14f4474e-08c3-430a-a7a1-114601e5fa41?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2080947263250272657>)
-
----
-
-<a id="prompt-b19f42a2-8ad0-443f-a329-ecea0ae8d0da"></a>
-
-#### Corporate Fashion Editorial Triptych Portrait
-
-<a href="https://musesignal.com/prompt/b19f42a2-8ad0-443f-a329-ecea0ae8d0da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM23zE4bwAAPQrW.jpg?format=jpg&amp;name=small" width="480" alt="Corporate Fashion Editorial Triptych Portrait" /></a>
-
-**GPT Image** · Creator: NUSRAT
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-version": "4.0",
-  "style": {
-    "genre": "Ultra-realistic corporate fashion editorial",
-    "aesthetic": "Minimal luxury, modern executive elegance, premium lifestyle photography",
-    "quality": "16K Ultra-HD, 4K output, HDR, DSLR realism, hyper-detailed, magazine cover quality, photorealistic, cinematic color grading",
-    "camera_style": "Fashion editorial, Vogue, Harper's Bazaar, luxury campaign"
-  },
-  "composition": {
-    "layout": "Vertical triptych (3-panel collage)",
-    "panel_1": "Close-up portrait",
-    "panel_2": "Full-body standing portrait",
-    "panel_3": "Extreme close-up portrait",
-    "panel_spacing": "Thin white vertical dividers",
-    "aspect_ratio": "1:1"
-  },
-  "subject": {
-    "gender": "Young woman",
-    "age": "Early 20s",
-    "ethnicity": "European-inspired appearance",
-    "body_type": "Slim, elegant",
-    "pose": {
-      "left_panel": "Head slightly turned toward camera",
-      "center_panel": "Standing confidently with one hand inside trouser pocket, other hand resting beside desk",
-      "right_panel": "Partial face close-up"
-    },
-    "expression": "Neutral, calm, intelligent, confident, subtle elegance",
-    "eye_contact": "Directly looking at camera"
-  },
-  "face": {
-    "shape": "Soft oval",
-    "skin": "Fair porcelain skin with smooth texture",
-    "finish": "Natural matte with soft glow",
-    "eyes": {
-      "color": "Hazel green",
-      "shape": "Large almond",
-      "lashes": "Long defined eyelashes"
-    },
-    "eyebrows": "Thick natural dark brows",
-    "nose": "Small straight nose",
-    "lips": {
-      "shape": "Full",
-      "color": "Muted nude pink"
-    },
-    "makeup": {
-      "foundation": "Natural skin finish",
-      "blush": "Soft peach",
-      "eyeshadow": "Warm brown",
-      "eyeliner": "Thin wing",
-      "lipstick": "Matte nude"
-    }
-  },
-  "hair": {
-    "color": "Dark chocolate brown",
-    "style": "Messy high bun",
-    "texture": "Soft wavy",
-    "details": [
-      "Loose face-framing strands",
-      "Natural volume",
-      "Slightly tousled finish"
-    ]
-  },
-  "eyewear": {
-    "type": "Round oversized eyeglasses",
-    "frame": "Brown tortoise shell",
-    "lens": "Clear anti-reflective"
-  },
-  "jewelry": {
-    "earrings": "Medium gold hoop earrings",
-    "necklace": "None",
-    "rings": "Minimal or not visible"
-  },
-  "outfit": {
-    "top": {
-      "type": "Cream ribbed turtleneck sweater",
-      "fit": "Slim fit"
-    },
-    "blazer": {
-      "color": "Dark espresso brown",
-      "style": "Tailored business blazer",
-      "fit": "Relaxed structured fit"
-    },
-    "pants": {
-      "type": "High-waisted tailored trousers",
-      "color": "Dark brown",
-      "fit": "Wide straight leg"
-    },
-    "belt": {
-      "material": "Brown leather",
-      "buckle": "Classic gold buckle"
-    },
-    "shoes": {
-      "type": "Brown pointed-toe heels",
-      "finish": "Leather"
-    }
-  },
-  "environment": {
-    "location": "Luxury executive office",
-    "design": "Modern contemporary workspace",
-    "background": [
-      "Dark wooden shelving",
-      "Warm ambient shelf lighting",
-      "Decorative books",
-      "Minimal ceramic vases",
-      "Office desk",
-      "Laptop",
-      "Small indoor plant",
-      "Large window with soft daylight"
-    ]
-  },
-  "lighting": {
-    "type": "Soft cinematic natural light",
-    "key_light": "Window daylight",
-    "fill_light": "Warm indoor ambient lighting",
-    "temperature": "Warm neutral",
-    "shadows": "Soft realistic shadows"
-  },
-  "camera": {
-    "camera": "Hasselblad X2D",
-    "lens": "85mm portrait lens",
-    "aperture": "f/1.8",
-    "ISO": 100,
-    "shutter_speed": "1/250s",
-    "focus": "Sharp focus on eyes",
-    "depth_of_field": "Shallow DOF with creamy background bokeh"
-  },
-  "color_palette": {
-    "primary": [
-      "Dark brown",
-      "Cream",
-      "Warm wood",
-      "Gold",
-      "Soft beige"
-    ],
-    "mood": "Elegant, luxurious, professional"
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/b19f42a2-8ad0-443f-a329-ecea0ae8d0da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2075517102245728429>)
-
----
-
-<a id="prompt-3bd032ac-bf95-4e67-8520-73ff619b81cb"></a>
-
-#### Cinematic Groom Portrait in Golden Chapel
-
-<a href="https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL9Kl3FagAAgLf9.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Groom Portrait in Golden Chapel" /></a>
-
-**GPT Image 2** · Creator: Akash
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Prompt:
-Waist-up cinematic portrait of a handsome groom standing in an ornate church aisle, wearing a pristine white double-breasted suit jacket with subtle wool texture, matching waistcoat, crisp white dress shirt, pale sky-blue silk tie and neatly folded pocket square; medium-dark hair swept back, full groomed beard and mustache, striking blue-green eyes, warm tan skin, slight confident serene smile, hands gently clasped at waist showing a simple wedding band and classic silver wristwatch. Background softly blurred with golden crucifix, lit candles and lush white floral arrangements on an altar, creating a romantic, sacred atmosphere. Soft, warm directional lighting from front-left with delicate rim light to separate him from background, shallow depth of field, creamy bokeh, high-resolution photographic realism, natural skin texture, subtle filmic color grading with warm highlights and muted shadows, elegant, timeless, formal wedding portrait composition, vertical framing, 85mm portrait feel, f/1.8 shallow focus, gentle grain, authentic mood and refined styling.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/heyakash_ai/status/2071456371535651286>)
 
 ---
 
@@ -1714,6 +1568,52 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 ---
 
+<a id="prompt-b8a191c3-5892-43ed-a949-6a021815ee3f"></a>
+
+#### 短剧/网剧组讯长图视觉模板提示词
+
+<a href="https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLVIidpWIAA8gFM.jpg?format=jpg&amp;name=small" width="480" alt="短剧/网剧组讯长图视觉模板提示词" /></a>
+
+**GPT Image 2** · Creator: Larus Canus
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+【短剧 / 网剧组讯长图】通用提示词 完整版：
+请根据我上传 / 粘贴的【剧情梗概】【人物小传】【项目资料】，生成一张短剧 / 网剧组讯长图视觉模板。
+【剧名】：填写剧名
+【题材类型】：古装甜宠 / 仙侠虐恋 / 志怪悬疑 / 宫廷权谋 / 民国情感 / 都市短剧 / 悬疑刑侦
+【整体风格】：填写风格，例如：古风水墨、黑金权谋、朱砂志怪、米白甜宠、清冷仙侠、民国复古、都市电影感
+【主色调】：填写主色调，例如：墨绿朱砂、黑金暗红、米白橘红、青灰银白、复古棕金、都市冷灰
+【顶部主视觉】：填写主视觉方向，例如：男女主对望、女主独立宫阙前、古镇灯会、雪山仙门、民国街巷、都市夜景
+【画幅比例】：超长竖版 1:3
+【信息完整度】：如果我没有提供完整项目信息，请自动补全一套真实感案例信息，不要出现“XXX”“待定”“某某”等空泛占位。
+【开机时间】：默认设置为 2026 年下半年的某个具体日期，例如 2026年8月、9月、10月或11月。
+【清晰度要求】：整张图必须高清、清晰、锐利，文字区域和图形边缘不能糊，不能低清晰度。
+请生成一张专业的短剧 / 网剧组讯长图，整体像真实影视项目选角组讯、短剧项目介绍长图、剧集视觉提案，而不是普通海报。
+画面结构要求：
+顶部是剧集主视觉封面区，要有强烈的影视剧氛围、剧名大标题、人物或场景主视觉。封面区必须吸引人，有剧集海报级视觉冲击力。剧名标题要有明显设计感，可以使用书法字、牌匾字、金色描边、印章、竖排副标题、类型标签等方式增强辨识度。
+中间是项目信息区，设计成规整、精致、有层级的资料卡模块。可以包含：项目信息、作品简介、题材类型、集数、单集时长、开机时间、拍摄地点、出品公司、联合出品、制作公司、承制团队等内容。信息要像真实组讯案例，具体、完整、有项目感，不要出现空泛占位。
+中段加入主创团队区，可以包含：出品人、总制片人、制片人、导演、编剧、摄影指导、美术指导、视觉总监等信息。如果没有提供具体名字，请自动生成一套真实感中文姓名，让画面更像完整案例。
+下方是人物小传区，根据上传的人物小传设计 4-6 个角色卡片模块。每个角色卡包含角色名、性别年龄、人设关键词、简短人物介绍，并搭配小型人物剪影、头像感插图、卷轴卡片、边框、标签或装饰图形。角色信息要具体，不要使用“角色A”“角色B”“XXX”。
+底部加入选角团队、联系方式、资料投递邮箱、联系电话、Staff 等模块，让整张图形成完整闭环，像可以发到演员群、行业群、朋友圈的真实短剧组讯长图。
+视觉质感要求：
+整体要高级、丰富、精致、图文并茂、有氛围感、有视觉冲击力。根据题材匹配合适的视觉元素，例如：宣纸纹理、水墨晕染、金色线框、朱砂印章、卷轴卡片、宫殿、山水、灯笼、云雾、花枝、雪山、月光、民国街巷、都市灯光等。配色要统一，标题要漂亮，信息板块要清晰，图形装饰要精细。
+文字要求：
+允许生成清晰中文标题、短句和重点信息，让画面看起来像完整案例。但不要生成满屏密密麻麻的小字，不要乱码中文，不要错误重复文字，不要让文字压住主视觉。如果信息较多，可以把内容拆成两张 1:3 长图拼接，类似电商详情页的处理方法。
+最终效果：
+一张 1:3 超长竖版短剧 / 网剧组讯长图，顶部有强封面，中间有项目信息和主创团队，下方有人物小传和联系方式。整体清晰、高级、专业、丰富、精致，像真实可用的影视项目组讯案例。
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MrLarus/status/2068639960471605471>)
+
+---
+
 <a id="prompt-9eae8bf9-ed54-4a7e-9577-147ec6a3f599"></a>
 
 #### Landmark Cutaway Infographic Poster
@@ -1833,90 +1733,6 @@ Bright cinematic daylight, warm golden-hour sunlight, soft volumetric rays, cris
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/hemayxn/status/2072587636842394101>)
-
----
-
-<a id="prompt-d62139f0-6b71-42ac-8241-7ee05c30a42c"></a>
-
-#### Explore India Floating State Islands Travel Poster
-
-<a href="https://musesignal.com/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLv0QG6a4AAjVH4.jpg?format=jpg&amp;name=small" width="480" alt="Explore India Floating State Islands Travel Poster" /></a>
-
-**GPT Image 2** · Creator: Hemayxn.ai
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-CREATE AN ULTRA-PREMIUM COLLECTOR'S EDITION TRAVEL POSTER TITLED:
-
-EXPLORE INDIA
-
-Design a sophisticated museum-quality editorial poster that celebrates India's diversity through geography rather than ordinary travel photography.
-
-The poster should feature a collection of floating geological islands suspended in mid-air. Every island must be carved in the EXACT geographic silhouette of a real Indian state, preserving its coastline and borders with high accuracy. The state outlines should be immediately recognizable, not approximated or stylized.
-
-Each floating state should contain ONLY ONE defining landscape or landmark that instantly represents that state. Do not combine multiple attractions. The emphasis is on a single iconic identity.
-
-Examples:
-
-• Jammu & Kashmir → Dal Lake with a lone shikara beneath snow-covered Himalayan peaks.
-• Himachal Pradesh → Key Monastery dramatically perched on a mountain ridge.
-• Uttarakhand → Valley of Flowers in full alpine bloom.
-• Rajasthan → Jaisalmer Fort emerging from golden desert dunes.
-• Gujarat → Endless white salt desert of the Rann of Kutch.
-• Kerala → One winding backwater canal lined with coconut palms and a traditional houseboat.
-• Meghalaya → A single dramatic Living Root Bridge spanning a rainforest stream.
-• Sikkim → Gurudongmar Lake beneath Kanchenjunga.
-• Maharashtra → Raigad Fort atop the Sahyadri cliffs.
-• Karnataka → The stone ruins of Hampi.
-• Tamil Nadu → Brihadeeswarar Temple rising above lush greenery.
-• Goa → One pristine tropical beach with dramatic laterite cliffs.
-
-Each state should feel like a tiny self-contained world rather than a miniature city.
-
-The islands should have cinematic geological cross-sections with exposed sedimentary rock layers, hanging roots, waterfalls where appropriate, scattered floating debris, realistic erosion, moss, vegetation, and atmospheric mist.
-
-Avoid filling every island with unnecessary details. One iconic feature should dominate each composition while the surrounding terrain simply supports it.
-
-Arrange the islands asymmetrically around the title instead of using a perfectly symmetrical grid. Allow generous negative space for a premium editorial feel.
-
-Typography should resemble a luxury travel magazine:
-Large elegant serif title,
-minimal small-cap labels beneath each island,
-fine decorative divider lines,
-subtle engraved ornamentation.
-
-Background:
-Deep charcoal textured paper with warm directional lighting and soft vignette, creating a refined museum exhibition aesthetic rather than a tourism brochure.
-
-Color palette:
-Natural earth tones, sandstone, emerald forests, glacier whites, Himalayan blues, volcanic greys, tropical greens, and warm golden sunlight.
-
-Lighting:
-Golden-hour cinematic lighting with soft volumetric atmosphere, realistic shadows, ambient occlusion, physically based rendering, ray-traced reflections where water is present.
-
-Style:
-Hyperreal miniature world, architectural visualization, premium editorial design, National Geographic collector's edition, luxury atlas illustration, floating terrain sculptures, photorealistic environmental storytelling, 8K, ultra-detailed, breathtaking realism.
-
-CRITICAL REQUIREMENTS:
-
-• Every state outline must closely match its real geographic shape.
-• One landmark per state only.
-• No collage of attractions.
-• No people.
-• No vehicles except where iconic (such as a single shikara or Kerala houseboat).
-• Avoid visual clutter.
-• Maintain generous spacing.
-• Each floating landmass should feel like an individually sculpted masterpiece.
-• Original composition with its own visual identity—do not imitate existing posters or layouts.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/hemayxn/status/2070517020920316070>)
 
 ---
 
@@ -2124,7 +1940,7 @@ Minimalist luxury wellness poster design, ultra-realistic healthy detox drink ad
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 9
+### Character &amp; Art · 11
 
 [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>)
 
@@ -2337,6 +2153,93 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 ---
 
+<a id="prompt-6af5655e-38f5-4009-853b-9a2e33294623"></a>
+
+#### VALORANT-Style Agent Character Reference Sheet
+
+<a href="https://musesignal.com/prompt/6af5655e-38f5-4009-853b-9a2e33294623?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRhGIK-bMAAY2u6.jpg?format=jpg&amp;name=small" width="480" alt="VALORANT-Style Agent Character Reference Sheet" /></a>
+
+**GPT Image 2** · Creator: Emma
+
+Use case: Character &amp; Art
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a premium VALORANT-inspired female agent character reference sheet in a completely new design, different from previous versions. Create an original female agent with a strong, confident, mysterious personality and a distinctive silhouette.
+
+Character design: young adult woman, sharp expressive eyes, elegant facial features, long dark hair with deep crimson/red highlights, slightly messy layered hairstyle, subtle ear piercings, confident expression. Do not reuse the previous purple-haired character design.
+
+Outfit: futuristic black tactical streetwear mixed with high-fashion elements — cropped armored top, oversized asymmetrical jacket, tactical cargo pants, utility belts, straps, gloves, knee protection and futuristic high-top combat sneakers. Add crimson red glowing accents throughout the outfit and a unique angular agent insignia.
+
+Color palette: matte black, charcoal gray, off-white, dark silver and vivid crimson red. Avoid purple and blue.
+
+Reference sheet layout:
+
+Large cinematic full-body hero pose on the left
+
+Front, side, back and 3/4 turnaround views
+
+Large close-up face portrait
+
+Six expressions: neutral, serious, smirk, angry, sad, confident
+
+Eye, hair, ear-piercing, glove, jacket, belt and insignia close-ups
+
+Futuristic rifle and tactical knife design
+
+Color palette swatches
+
+Multiple character silhouettes
+
+Small action/in-game pose panel
+
+Clean professional character-design annotations
+
+Visual style: high-end anime game concept art, premium FPS character design, cinematic cel shading, realistic anatomy, sharp clean linework, detailed fabric, realistic tactical equipment, dramatic red rim lighting, subtle atmospheric smoke, dynamic composition, extremely detailed, polished AAA game character presentation.
+
+Graphic design: professional VALORANT-style character dossier, black cinematic sections combined with clean white reference-board panels, angular graphic shapes, futuristic UI elements, bold typography and minimal technical labels.
+
+Typography: prominently display “VALORANT” and a completely new agent codename, “VANTA”. Add short tactical phrases such as “MOVE WITHOUT WARNING.”, “CONTROL THE ANGLE.”, and “PLAY DIFFERENT.”
+
+Important: Keep the same female character consistent across every panel and angle. Full body must be visible in turnaround views. Correct anatomy, hands and fingers, consistent face and hairstyle, no duplicate characters, no distorted limbs, no random people, no purple/blue color scheme. 16:9 wide professional reference-sheet composition, ultra-detailed, cinematic, AAA game concept art.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6af5655e-38f5-4009-853b-9a2e33294623?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Emmma___0/status/2096502752579059933>)
+
+---
+
+<a id="prompt-5ae41da6-acdc-4b6b-b5da-adb85f9664da"></a>
+
+#### Minimalist Fantasy Fairy Silhouette Art
+
+<a href="https://musesignal.com/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMmuATDbYAAZPvd.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Fantasy Fairy Silhouette Art" /></a>
+
+**GPT Image 2** · Creator: Rossy
+
+Use case: Character &amp; Art
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt
+Create a premium minimalist fantasy fairy silhouette illustration, centered vertically on a clean pure white background. The artwork features the elegant side profile of an adult fairy woman with long flowing wavy hair and graceful feminine proportions. Her entire body is rendered as a solid deep black silhouette with no facial details except a clean, refined profile.
+She wears a luxurious flowing fantasy gown that seamlessly transforms into long, fluid feather-like ribbons and elegant ornamental swirls. The lower part of the dress extends dramatically downward with organic curves, delicate flourishes, and graceful ink-inspired shapes.
+Behind her is a single pair of large stylized fairy wings, beautifully designed with intricate feather patterns, swirling decorative cutouts, elegant filigree motifs, and smooth flowing curves. The wings should feel light, magical, and perfectly balanced with the silhouette.
+The overall composition is highly symmetrical, clean, and sophisticated, inspired by luxury tattoo flash art, paper-cut illustration, vector elegance, and fantasy emblem design. Strong contrast between the black silhouette and the pure white background.
+Ultra-clean crisp edges, smooth flowing linework, elegant negative space, premium ornamental design, isolated composition, no scenery, no background objects, no text, no watermark, no gradients, no shadows, no extra elements, masterpiece, 8K, sharp focus, luxury fantasy silhouette artwork.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/xRahultripathi/status/2074380451096174839>)
+
+---
+
 <a id="prompt-279512a3-6b7c-455f-b7ae-7b28359ac0cb"></a>
 
 #### Ethereal Fantasy Fox Portrait
@@ -2362,7 +2265,7 @@ Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on 
 
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 9
+### Scene &amp; Space · 8
 
 [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2580,33 +2483,6 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ---
 
-<a id="prompt-af895d9d-e54f-4793-8e0c-f1292a177acb"></a>
-
-#### Ultra-Realistic Cinematic House Exterior
-
-<a href="https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIhsI-PbIAAMqAy.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Cinematic House Exterior" /></a>
-
-**GPT Image 2** · Creator: Ayesha.
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-realistic cinematic house exterior with stunning architectural design and premium visual aesthetics. The house can be modern, luxury, rustic, cottage, gothic, fantasy, royal, or minimalist in style. Include highly detailed architecture, large windows, elegant textures, beautiful landscaping, realistic pathways, glowing interior lighting, and immersive outdoor surroundings.
-
-The environment should feel like a high-budget movie scene mixed with professional architectural photography and luxury real-estate advertising. Add dramatic cinematic lighting, volumetric sunlight, atmospheric fog, realistic reflections, shadows, rain or sunset mood, garden lights, trees, flowers, water elements, and detailed environmental effects for a visually powerful composition.
-
-Use wide-angle cinematic camera perspective, depth of field, HDR lighting, ray tracing, photorealistic rendering, Unreal Engine quality, cinematic color grading, hyper-detailed textures, luxury aesthetic, masterpiece composition, ultra-realistic environment design, highly immersive atmosphere, 8K ultra detail.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iayeshayousuf/status/2056012137001349171>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2618,19 +2494,19 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 47 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 389 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 394 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 12 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## Recently published
 
+- [VALORANT-Style Agent Character Reference Sheet](<https://musesignal.com/prompt/6af5655e-38f5-4009-853b-9a2e33294623?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Man in Newspaper Origami Boat on Open Sea](<https://musesignal.com/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Minimalist Fantasy Fairy Silhouette Art](<https://musesignal.com/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Ancient Chinese POV Night Portrait with Fireflies](<https://musesignal.com/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [短剧/网剧组讯长图视觉模板提示词](<https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [9:16 3×3 Collage of Flawed Amateur Flash Portraits](<https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Premium Sneaker Box Product Mockup](<https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Landmark Cutaway Infographic Poster](<https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Ethereal Fantasy Fox Portrait](<https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Rainy Parisian Blue Hour Fashion Editorial Portrait](<https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [CR7 Immortal Luxury Collector Poster](<https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Neon Bedroom Overhead Selfie Portrait](<https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Ultra-Realistic Cinematic House Exterior](<https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2651,7 +2527,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 448](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 453](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

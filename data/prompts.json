@@ -2940,6 +2940,35 @@
     "content_hash": "1589e67d21fc66f871563c1bff2ffbf76fe9c22309e72d1bfb0efc670bbfc1a3"
   },
   {
+    "id": "40a08629-7bec-47d4-a778-e9784fc054e0",
+    "title": "Ancient Chinese POV Night Portrait with Fireflies",
+    "prompt": "Create a highly realistic vertical 9:16 ancient-Chinese POV night portrait with authentic smartphone photography aesthetics. High-angle first-person perspective with a gentle diagonal downward view, creating an intimate, immersive interaction.\n\nInteraction: The viewer gently ties a small red wishing ribbon around her wrist while she softly extends her hand toward the camera.\n\nScene: A peaceful bamboo forest pathway at night, illuminated by hundreds of glowing fireflies. Ancient stone steps, traditional wooden lanterns, soft drifting mist, lush green bamboo swaying gently in the wind, creating a magical and romantic atmosphere.\n\nOutfit: Elegant jade-green Hanfu with delicate gold bamboo embroidery, flowing translucent sleeves, realistic silk fabric, natural folds, graceful layered skirt with authentic movement.\n\nSubject: A beautiful young adult East Asian woman with naturally connected long black hair styled in a traditional half-up hairstyle with jade hairpins and small pearl ornaments. Realistic skin texture, expressive almond-shaped eyes, soft rosy lips, gentle smile, slightly lowered chin while looking warmly toward the viewer with a shy yet trusting expression.\n\nBody: Naturally elegant adult feminine proportions, slim waist, graceful shoulders, realistic posture, healthy body proportions, refined classical beauty.\n\nLighting: Warm lantern glow mixed with cool moonlight filtering through bamboo leaves. Hundreds of tiny fireflies create subtle golden highlights around her hair, sleeves, and face. Soft cinematic contrast with realistic night photography.\n\nStyle: Ultra-realistic ancient Chinese cinematic photography, authentic smartphone capture feel, premium editorial quality, realistic skin texture, detailed silk fabric, natural depth of field, subtle film grain, emotional storytelling, timeless historical atmosphere.\n\nNegative Prompt: modern buildings, cars, electric lights, logos, watermark, text, anime, CGI, cartoon style, plastic skin, AI face, distorted anatomy, extra fingers, disconnected hair, unrealistic fabric, overexposed lighting, low quality",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Rossy",
+      "handle": "xRahultripathi"
+    },
+    "source_platform": "X",
+    "source_id": "2071099636925002131",
+    "source_url": "https://x.com/xRahultripathi/status/2071099636925002131",
+    "images": [
+      "https://pbs.twimg.com/media/HL4GF7xaMAAX1cc.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HL4GGm2bwAA9Emk.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HL4GHD2bUAA1z6w.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HL4GH4Xa4AEnvMu.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/40a08629-7bec-47d4-a778-e9784fc054e0",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/40a08629-7bec-47d4-a778-e9784fc054e0",
+    "published_at": "2026-10-04T07:00:23.544402+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "17685193d7638d645e842f97e5662abde2d349360c8ee717e26dd9565e853312"
+  },
+  {
     "id": "417c8996-1ac7-45fb-a5d9-9b07ebe25b7a",
     "title": "Dark Queen in Black Dress and Lace",
     "prompt": "用黑裙 、长剑 、红唇 、蕾丝\n几个元素放一起\n直接从写真变成暗黑女王海报\n再用 gpt-image2 跑了一组\n感觉已经不是生图了\n更像在给角色拍高级商业大片",
@@ -4218,6 +4247,34 @@
     "content_hash": "5d4b55a11a53eb8ab2f3cfa359adb344689ca7a78ca94f12cde840ccb1ce1505"
   },
   {
+    "id": "5ae41da6-acdc-4b6b-b5da-adb85f9664da",
+    "title": "Minimalist Fantasy Fairy Silhouette Art",
+    "prompt": "Prompt\nCreate a premium minimalist fantasy fairy silhouette illustration, centered vertically on a clean pure white background. The artwork features the elegant side profile of an adult fairy woman with long flowing wavy hair and graceful feminine proportions. Her entire body is rendered as a solid deep black silhouette with no facial details except a clean, refined profile.\nShe wears a luxurious flowing fantasy gown that seamlessly transforms into long, fluid feather-like ribbons and elegant ornamental swirls. The lower part of the dress extends dramatically downward with organic curves, delicate flourishes, and graceful ink-inspired shapes.\nBehind her is a single pair of large stylized fairy wings, beautifully designed with intricate feather patterns, swirling decorative cutouts, elegant filigree motifs, and smooth flowing curves. The wings should feel light, magical, and perfectly balanced with the silhouette.\nThe overall composition is highly symmetrical, clean, and sophisticated, inspired by luxury tattoo flash art, paper-cut illustration, vector elegance, and fantasy emblem design. Strong contrast between the black silhouette and the pure white background.\nUltra-clean crisp edges, smooth flowing linework, elegant negative space, premium ornamental design, isolated composition, no scenery, no background objects, no text, no watermark, no gradients, no shadows, no extra elements, masterpiece, 8K, sharp focus, luxury fantasy silhouette artwork.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Rossy",
+      "handle": "xRahultripathi"
+    },
+    "source_platform": "X",
+    "source_id": "2074380451096174839",
+    "source_url": "https://x.com/xRahultripathi/status/2074380451096174839",
+    "images": [
+      "https://pbs.twimg.com/media/HMmuATDbYAAZPvd.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMmuA6qakAEIL9Q.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMmuBayagAAmru4.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da",
+    "published_at": "2026-10-04T07:00:25.995528+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "2bb88e0fa40f48f2c0fdcae877795a58e078f998ae29b7b6b9dc8f44a8d5069c"
+  },
+  {
     "id": "5b593aeb-4756-43d7-b953-3a53c9aeadb3",
     "title": "Pop-Up Travel Journal with Golden Pagoda Landscape",
     "prompt": "A globe captured in a single page generated with GPT image 2 on @itsPolloAI\nAn ultra-realistic travel journal pop-up book, viewed from a top-down 45-degree angle. A human hand holds open a premium passport-style notebook. The left page features a beautifully designed visa page with realistic immigration stamps, passport details, vintage paper texture, and official seals. The right page transforms into a breathtaking 3D miniature landscape rising out of the book, creating a magical pop-up world. A magnificent golden pagoda dominates the center, surrounded by lush tropical forests, rivers, wooden stilt houses, traditional villages, monks in crimson robes, local people in traditional attire, boats floating on calm water, misty limestone mountains, hot air balloons, and warm golden sunlight. The background above the book contains elegant hand-drawn vintage travel sketches of famous landmarks with handwritten labels, giving the appearance of an explorer's notebook. Hyper-realistic miniature craftsmanship, cinematic lighting, soft shadows, premium travel photography, tilt-shift effect, intricate details, vibrant natural colors, depth of field, ultra-sharp focus, 8K, masterpiece, National Geographic editorial style, luxury travel advertisement, magical realism, highly detailed textures, photorealistic,\nviral aesthetics",
@@ -4969,6 +5026,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "d86f0bb6eaf64a951fbcc99946de21b589dae5a07c4a2f99cf01b60ec3efbe3e"
+  },
+  {
+    "id": "6af5655e-38f5-4009-853b-9a2e33294623",
+    "title": "VALORANT-Style Agent Character Reference Sheet",
+    "prompt": "Create a premium VALORANT-inspired female agent character reference sheet in a completely new design, different from previous versions. Create an original female agent with a strong, confident, mysterious personality and a distinctive silhouette.\n\nCharacter design: young adult woman, sharp expressive eyes, elegant facial features, long dark hair with deep crimson/red highlights, slightly messy layered hairstyle, subtle ear piercings, confident expression. Do not reuse the previous purple-haired character design.\n\nOutfit: futuristic black tactical streetwear mixed with high-fashion elements — cropped armored top, oversized asymmetrical jacket, tactical cargo pants, utility belts, straps, gloves, knee protection and futuristic high-top combat sneakers. Add crimson red glowing accents throughout the outfit and a unique angular agent insignia.\n\nColor palette: matte black, charcoal gray, off-white, dark silver and vivid crimson red. Avoid purple and blue.\n\nReference sheet layout:\n\nLarge cinematic full-body hero pose on the left\n\nFront, side, back and 3/4 turnaround views\n\nLarge close-up face portrait\n\nSix expressions: neutral, serious, smirk, angry, sad, confident\n\nEye, hair, ear-piercing, glove, jacket, belt and insignia close-ups\n\nFuturistic rifle and tactical knife design\n\nColor palette swatches\n\nMultiple character silhouettes\n\nSmall action/in-game pose panel\n\nClean professional character-design annotations\n\nVisual style: high-end anime game concept art, premium FPS character design, cinematic cel shading, realistic anatomy, sharp clean linework, detailed fabric, realistic tactical equipment, dramatic red rim lighting, subtle atmospheric smoke, dynamic composition, extremely detailed, polished AAA game character presentation.\n\nGraphic design: professional VALORANT-style character dossier, black cinematic sections combined with clean white reference-board panels, angular graphic shapes, futuristic UI elements, bold typography and minimal technical labels.\n\nTypography: prominently display “VALORANT” and a completely new agent codename, “VANTA”. Add short tactical phrases such as “MOVE WITHOUT WARNING.”, “CONTROL THE ANGLE.”, and “PLAY DIFFERENT.”\n\nImportant: Keep the same female character consistent across every panel and angle. Full body must be visible in turnaround views. Correct anatomy, hands and fingers, consistent face and hairstyle, no duplicate characters, no distorted limbs, no random people, no purple/blue color scheme. 16:9 wide professional reference-sheet composition, ultra-detailed, cinematic, AAA game concept art.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Emma",
+      "handle": "Emmma___0"
+    },
+    "source_platform": "X",
+    "source_id": "2096502752579059933",
+    "source_url": "https://x.com/Emmma___0/status/2096502752579059933",
+    "images": [
+      "https://pbs.twimg.com/media/HRhGIK-bMAAY2u6.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRhGI0cbcAImsCQ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/6af5655e-38f5-4009-853b-9a2e33294623",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/6af5655e-38f5-4009-853b-9a2e33294623",
+    "published_at": "2026-10-04T07:00:58.282544+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "52febb0ed4cc4959917c3579abcc449dd1e1c503508dd325b2118973e1d34e2f"
   },
   {
     "id": "6bcebaf7-96c9-451f-9734-fc031f0395e0",
@@ -9169,6 +9253,35 @@
     "content_hash": "f64b5a9c43ea31a6e5a2b80c15100881795b824a15483b54e2f5e70b93c2ab30"
   },
   {
+    "id": "b8a191c3-5892-43ed-a949-6a021815ee3f",
+    "title": "短剧/网剧组讯长图视觉模板提示词",
+    "prompt": "【短剧 / 网剧组讯长图】通用提示词 完整版：\n请根据我上传 / 粘贴的【剧情梗概】【人物小传】【项目资料】，生成一张短剧 / 网剧组讯长图视觉模板。\n【剧名】：填写剧名\n【题材类型】：古装甜宠 / 仙侠虐恋 / 志怪悬疑 / 宫廷权谋 / 民国情感 / 都市短剧 / 悬疑刑侦\n【整体风格】：填写风格，例如：古风水墨、黑金权谋、朱砂志怪、米白甜宠、清冷仙侠、民国复古、都市电影感\n【主色调】：填写主色调，例如：墨绿朱砂、黑金暗红、米白橘红、青灰银白、复古棕金、都市冷灰\n【顶部主视觉】：填写主视觉方向，例如：男女主对望、女主独立宫阙前、古镇灯会、雪山仙门、民国街巷、都市夜景\n【画幅比例】：超长竖版 1:3\n【信息完整度】：如果我没有提供完整项目信息，请自动补全一套真实感案例信息，不要出现“XXX”“待定”“某某”等空泛占位。\n【开机时间】：默认设置为 2026 年下半年的某个具体日期，例如 2026年8月、9月、10月或11月。\n【清晰度要求】：整张图必须高清、清晰、锐利，文字区域和图形边缘不能糊，不能低清晰度。\n请生成一张专业的短剧 / 网剧组讯长图，整体像真实影视项目选角组讯、短剧项目介绍长图、剧集视觉提案，而不是普通海报。\n画面结构要求：\n顶部是剧集主视觉封面区，要有强烈的影视剧氛围、剧名大标题、人物或场景主视觉。封面区必须吸引人，有剧集海报级视觉冲击力。剧名标题要有明显设计感，可以使用书法字、牌匾字、金色描边、印章、竖排副标题、类型标签等方式增强辨识度。\n中间是项目信息区，设计成规整、精致、有层级的资料卡模块。可以包含：项目信息、作品简介、题材类型、集数、单集时长、开机时间、拍摄地点、出品公司、联合出品、制作公司、承制团队等内容。信息要像真实组讯案例，具体、完整、有项目感，不要出现空泛占位。\n中段加入主创团队区，可以包含：出品人、总制片人、制片人、导演、编剧、摄影指导、美术指导、视觉总监等信息。如果没有提供具体名字，请自动生成一套真实感中文姓名，让画面更像完整案例。\n下方是人物小传区，根据上传的人物小传设计 4-6 个角色卡片模块。每个角色卡包含角色名、性别年龄、人设关键词、简短人物介绍，并搭配小型人物剪影、头像感插图、卷轴卡片、边框、标签或装饰图形。角色信息要具体，不要使用“角色A”“角色B”“XXX”。\n底部加入选角团队、联系方式、资料投递邮箱、联系电话、Staff 等模块，让整张图形成完整闭环，像可以发到演员群、行业群、朋友圈的真实短剧组讯长图。\n视觉质感要求：\n整体要高级、丰富、精致、图文并茂、有氛围感、有视觉冲击力。根据题材匹配合适的视觉元素，例如：宣纸纹理、水墨晕染、金色线框、朱砂印章、卷轴卡片、宫殿、山水、灯笼、云雾、花枝、雪山、月光、民国街巷、都市灯光等。配色要统一，标题要漂亮，信息板块要清晰，图形装饰要精细。\n文字要求：\n允许生成清晰中文标题、短句和重点信息，让画面看起来像完整案例。但不要生成满屏密密麻麻的小字，不要乱码中文，不要错误重复文字，不要让文字压住主视觉。如果信息较多，可以把内容拆成两张 1:3 长图拼接，类似电商详情页的处理方法。\n最终效果：\n一张 1:3 超长竖版短剧 / 网剧组讯长图，顶部有强封面，中间有项目信息和主创团队，下方有人物小传和联系方式。整体清晰、高级、专业、丰富、精致，像真实可用的影视项目组讯案例。",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Larus Canus",
+      "handle": "MrLarus"
+    },
+    "source_platform": "X",
+    "source_id": "2068639960471605471",
+    "source_url": "https://x.com/MrLarus/status/2068639960471605471",
+    "images": [
+      "https://pbs.twimg.com/media/HLVIidpWIAA8gFM.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVIidnW8AEGE7O.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVIidpWYAAOalP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVIidmXgAAz3W8.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f",
+    "published_at": "2026-10-04T07:00:14.25036+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "d9488993b4a9c9cac62ca9f1af5cf4b1a9eb6b532264b8371c21b59ef904d03f"
+  },
+  {
     "id": "b99bd7cf-b7a2-47e4-ae10-bd250960cb71",
     "title": "Steaming Latte and Iced Coffee in Golden Café Light",
     "prompt": "Ultra-realistic commercial coffee photography featuring a steaming latte in a ceramic mug beside an iced coffee in a transparent cup filled with crystal-clear ice cubes. Both drinks placed on a rustic wooden table inside a modern coffee shop. Warm golden sunlight streams through large windows, creating beautiful highlights and long shadows. Condensation droplets on the iced coffee, detailed latte art, rich coffee textures, cozy café atmosphere, cinematic depth of field, luxury coffee brand advertising, premium product photography, macro detail, realistic steam, warm brown and amber tones, photorealistic, professional studio quality, 50mm lens, shallow focus, vertical composition --ar 9:16",
@@ -10622,6 +10735,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "185b5cf738690ee166adbaf1679b4c6817c3e14427d33134ea48ebc3d36b9eab"
+  },
+  {
+    "id": "ded0e741-ed24-47aa-a719-38968685cd54",
+    "title": "Man in Newspaper Origami Boat on Open Sea",
+    "prompt": "Prompt: Ultra-realistic cinematic portrait of a stylish young man sitting inside a life-sized origami paper boat made entirely from folded newspaper sheets, floating peacefully on crystal-clear deep blue ocean water. The boat is handcrafted from real newspapers with visible printed text, folded creases, and natural paper texture. The man faces the camera with a calm, confident expression, wearing a charcoal gray hoodie, olive-green shorts, clean white sneakers, and amber-tinted round sunglasses. He has short dark curly hair, a neatly trimmed goatee, and a relaxed posture with one hand resting on the edge of the newspaper boat.\nThe setting is an expansive open sea with gentle ripples, distant islands and mountains softly blurred along the horizon beneath a bright blue sky with thin wispy clouds. Warm golden-hour sunlight illuminates the subject from the front-left, creating soft highlights on the face and realistic reflections across the water. The newspaper boat floats naturally with subtle water displacement and realistic buoyancy.\nPhotographed with a full-frame mirrorless camera using an 85mm lens at f/2.8, shallow depth of field, ultra-sharp facial details, crisp newspaper texture, natural skin tones, cinematic color grading, realistic lighting, HDR, editorial lifestyle photography, premium fashion campaign aesthetic, photorealistic, 8K, highly detailed, clean composition, no watermark, no text overlay.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Duet | AI",
+      "handle": "Sheldon056"
+    },
+    "source_platform": "X",
+    "source_id": "2078669692777157049",
+    "source_url": "https://x.com/Sheldon056/status/2078669692777157049",
+    "images": [
+      "https://pbs.twimg.com/media/HNjrD-4agAA5kYR.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/ded0e741-ed24-47aa-a719-38968685cd54",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/ded0e741-ed24-47aa-a719-38968685cd54",
+    "published_at": "2026-10-04T07:00:36.717069+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c6f3140e83fa0f7ebc51d47c78469688f1d56c120c755f500e063727d99677ff"
   },
   {
     "id": "e038621b-4c52-49ed-bdf8-d37f52720971",

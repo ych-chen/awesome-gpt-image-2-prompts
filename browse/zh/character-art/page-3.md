@@ -776,3 +776,86 @@ Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xRahultripathi/status/2074197471866347891>)
 
 ---
+
+<a id="prompt-6af5655e-38f5-4009-853b-9a2e33294623"></a>
+
+## VALORANT-Style Agent Character Reference Sheet
+
+<a href="https://musesignal.com/zh/prompt/6af5655e-38f5-4009-853b-9a2e33294623?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRhGIK-bMAAY2u6.jpg?format=jpg&amp;name=small" width="480" alt="VALORANT-Style Agent Character Reference Sheet" /></a>
+
+**GPT Image 2** · 原作者: Emma
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium VALORANT-inspired female agent character reference sheet in a completely new design, different from previous versions. Create an original female agent with a strong, confident, mysterious personality and a distinctive silhouette.
+
+Character design: young adult woman, sharp expressive eyes, elegant facial features, long dark hair with deep crimson/red highlights, slightly messy layered hairstyle, subtle ear piercings, confident expression. Do not reuse the previous purple-haired character design.
+
+Outfit: futuristic black tactical streetwear mixed with high-fashion elements — cropped armored top, oversized asymmetrical jacket, tactical cargo pants, utility belts, straps, gloves, knee protection and futuristic high-top combat sneakers. Add crimson red glowing accents throughout the outfit and a unique angular agent insignia.
+
+Color palette: matte black, charcoal gray, off-white, dark silver and vivid crimson red. Avoid purple and blue.
+
+Reference sheet layout:
+
+Large cinematic full-body hero pose on the left
+
+Front, side, back and 3/4 turnaround views
+
+Large close-up face portrait
+
+Six expressions: neutral, serious, smirk, angry, sad, confident
+
+Eye, hair, ear-piercing, glove, jacket, belt and insignia close-ups
+
+Futuristic rifle and tactical knife design
+
+Color palette swatches
+
+Multiple character silhouettes
+
+Small action/in-game pose panel
+
+Clean professional character-design annotations
+
+Visual style: high-end anime game concept art, premium FPS character design, cinematic cel shading, realistic anatomy, sharp clean linework, detailed fabric, realistic tactical equipment, dramatic red rim lighting, subtle atmospheric smoke, dynamic composition, extremely detailed, polished AAA game character presentation.
+
+Graphic design: professional VALORANT-style character dossier, black cinematic sections combined with clean white reference-board panels, angular graphic shapes, futuristic UI elements, bold typography and minimal technical labels.
+
+Typography: prominently display “VALORANT” and a completely new agent codename, “VANTA”. Add short tactical phrases such as “MOVE WITHOUT WARNING.”, “CONTROL THE ANGLE.”, and “PLAY DIFFERENT.”
+
+Important: Keep the same female character consistent across every panel and angle. Full body must be visible in turnaround views. Correct anatomy, hands and fingers, consistent face and hairstyle, no duplicate characters, no distorted limbs, no random people, no purple/blue color scheme. 16:9 wide professional reference-sheet composition, ultra-detailed, cinematic, AAA game concept art.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6af5655e-38f5-4009-853b-9a2e33294623?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Emmma___0/status/2096502752579059933>)
+
+---
+
+<a id="prompt-5ae41da6-acdc-4b6b-b5da-adb85f9664da"></a>
+
+## Minimalist Fantasy Fairy Silhouette Art
+
+<a href="https://musesignal.com/zh/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMmuATDbYAAZPvd.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Fantasy Fairy Silhouette Art" /></a>
+
+**GPT Image 2** · 原作者: Rossy
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt
+Create a premium minimalist fantasy fairy silhouette illustration, centered vertically on a clean pure white background. The artwork features the elegant side profile of an adult fairy woman with long flowing wavy hair and graceful feminine proportions. Her entire body is rendered as a solid deep black silhouette with no facial details except a clean, refined profile.
+She wears a luxurious flowing fantasy gown that seamlessly transforms into long, fluid feather-like ribbons and elegant ornamental swirls. The lower part of the dress extends dramatically downward with organic curves, delicate flourishes, and graceful ink-inspired shapes.
+Behind her is a single pair of large stylized fairy wings, beautifully designed with intricate feather patterns, swirling decorative cutouts, elegant filigree motifs, and smooth flowing curves. The wings should feel light, magical, and perfectly balanced with the silhouette.
+The overall composition is highly symmetrical, clean, and sophisticated, inspired by luxury tattoo flash art, paper-cut illustration, vector elegance, and fantasy emblem design. Strong contrast between the black silhouette and the pure white background.
+Ultra-clean crisp edges, smooth flowing linework, elegant negative space, premium ornamental design, isolated composition, no scenery, no background objects, no text, no watermark, no gradients, no shadows, no extra elements, masterpiece, 8K, sharp focus, luxury fantasy silhouette artwork.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xRahultripathi/status/2074380451096174839>)
+
+---

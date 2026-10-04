@@ -985,3 +985,63 @@ Style: ultra-realistic fashion photography, realistic skin texture, natural hair
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2068548212080947519>)
 
 ---
+
+<a id="prompt-40a08629-7bec-47d4-a778-e9784fc054e0"></a>
+
+## Ancient Chinese POV Night Portrait with Fireflies
+
+<a href="https://musesignal.com/zh/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL4GF7xaMAAX1cc.jpg?format=jpg&amp;name=small" width="480" alt="Ancient Chinese POV Night Portrait with Fireflies" /></a>
+
+**GPT Image 2** · 原作者: Rossy
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a highly realistic vertical 9:16 ancient-Chinese POV night portrait with authentic smartphone photography aesthetics. High-angle first-person perspective with a gentle diagonal downward view, creating an intimate, immersive interaction.
+
+Interaction: The viewer gently ties a small red wishing ribbon around her wrist while she softly extends her hand toward the camera.
+
+Scene: A peaceful bamboo forest pathway at night, illuminated by hundreds of glowing fireflies. Ancient stone steps, traditional wooden lanterns, soft drifting mist, lush green bamboo swaying gently in the wind, creating a magical and romantic atmosphere.
+
+Outfit: Elegant jade-green Hanfu with delicate gold bamboo embroidery, flowing translucent sleeves, realistic silk fabric, natural folds, graceful layered skirt with authentic movement.
+
+Subject: A beautiful young adult East Asian woman with naturally connected long black hair styled in a traditional half-up hairstyle with jade hairpins and small pearl ornaments. Realistic skin texture, expressive almond-shaped eyes, soft rosy lips, gentle smile, slightly lowered chin while looking warmly toward the viewer with a shy yet trusting expression.
+
+Body: Naturally elegant adult feminine proportions, slim waist, graceful shoulders, realistic posture, healthy body proportions, refined classical beauty.
+
+Lighting: Warm lantern glow mixed with cool moonlight filtering through bamboo leaves. Hundreds of tiny fireflies create subtle golden highlights around her hair, sleeves, and face. Soft cinematic contrast with realistic night photography.
+
+Style: Ultra-realistic ancient Chinese cinematic photography, authentic smartphone capture feel, premium editorial quality, realistic skin texture, detailed silk fabric, natural depth of field, subtle film grain, emotional storytelling, timeless historical atmosphere.
+
+Negative Prompt: modern buildings, cars, electric lights, logos, watermark, text, anime, CGI, cartoon style, plastic skin, AI face, distorted anatomy, extra fingers, disconnected hair, unrealistic fabric, overexposed lighting, low quality
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xRahultripathi/status/2071099636925002131>)
+
+---
+
+<a id="prompt-ded0e741-ed24-47aa-a719-38968685cd54"></a>
+
+## Man in Newspaper Origami Boat on Open Sea
+
+<a href="https://musesignal.com/zh/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNjrD-4agAA5kYR.jpg?format=jpg&amp;name=small" width="480" alt="Man in Newspaper Origami Boat on Open Sea" /></a>
+
+**GPT Image 2** · 原作者: Duet \| AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt: Ultra-realistic cinematic portrait of a stylish young man sitting inside a life-sized origami paper boat made entirely from folded newspaper sheets, floating peacefully on crystal-clear deep blue ocean water. The boat is handcrafted from real newspapers with visible printed text, folded creases, and natural paper texture. The man faces the camera with a calm, confident expression, wearing a charcoal gray hoodie, olive-green shorts, clean white sneakers, and amber-tinted round sunglasses. He has short dark curly hair, a neatly trimmed goatee, and a relaxed posture with one hand resting on the edge of the newspaper boat.
+The setting is an expansive open sea with gentle ripples, distant islands and mountains softly blurred along the horizon beneath a bright blue sky with thin wispy clouds. Warm golden-hour sunlight illuminates the subject from the front-left, creating soft highlights on the face and realistic reflections across the water. The newspaper boat floats naturally with subtle water displacement and realistic buoyancy.
+Photographed with a full-frame mirrorless camera using an 85mm lens at f/2.8, shallow depth of field, ultra-sharp facial details, crisp newspaper texture, natural skin tones, cinematic color grading, realistic lighting, HDR, editorial lifestyle photography, premium fashion campaign aesthetic, photorealistic, 8K, highly detailed, clean composition, no watermark, no text overlay.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2078669692777157049>)
+
+---
