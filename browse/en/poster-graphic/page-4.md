@@ -612,3 +612,24 @@ STYLE: Wes Anderson symmetry, product-shoot studio lighting, tactile and warm. T
 **[Try on MuseSignal →](<https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrLarus/status/2068639960471605471>)
 
 ---
+
+<a id="prompt-6a8938f0-d9bc-41b4-8180-f327732fd312"></a>
+
+## Pixar-Style 3D Caricature TV Show Movie Posters
+
+<a href="https://musesignal.com/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLqc402XEAAKGD5.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style 3D Caricature TV Show Movie Posters" /></a>
+
+**GPT Image 2** · Creator: TechieSA
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“Pixar-style movie poster reimagining of the TV show [TV SHOW]. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches [TV SHOW]'s tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2070139484830675157>)
+
+---

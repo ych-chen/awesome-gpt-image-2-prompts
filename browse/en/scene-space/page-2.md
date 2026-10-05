@@ -78,3 +78,30 @@ Use wide-angle cinematic camera perspective, depth of field, HDR lighting, ray t
 **[Try on MuseSignal →](<https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iayeshayousuf/status/2056012137001349171>)
 
 ---
+
+<a id="prompt-eb016aba-6a79-4b30-8f48-5e53ef44d63a"></a>
+
+## Giant Businessman in Miniature Railway Station
+
+<a href="https://musesignal.com/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOIFp8VaAAAClgl.jpg?format=jpg&amp;name=small" width="480" alt="Giant Businessman in Miniature Railway Station" /></a>
+
+**GPT Image 2** · Creator: Harry Potter
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic cinematic forced-perspective miniature photography featuring a massive giant businessman carefully interacting with an incredibly detailed miniature modern railway station at night. The enormous man wears a tailored navy-blue business suit over a light-blue dress shirt, with neatly styled dark hair, light stubble, and a focused, thoughtful expression. He gently reaches down with two fingers as if precisely adjusting a tiny object on the railway platform, creating a believable illusion of a giant controlling a miniature world.
+
+Below him, an intricate miniature high-speed train station is alive with activity: sleek white high-speed trains glide along polished tracks while hundreds of tiny commuters walk across platforms. Engineers monitor glowing control rooms filled with realistic computer screens, signaling equipment, and railway operators. Modern glass office buildings surround the station, illuminated by warm interior lights that contrast beautifully against the cool evening atmosphere.
+
+The giant businessman stands among the miniature city holding a digital tablet, appearing like an architect or city planner overseeing the entire transportation network. The scene is captured from a cinematic low angle to exaggerate scale, with dramatic forced perspective making the giant appear seamlessly integrated into the tiny environment.
+
+Warm golden industrial lighting, realistic reflections, soft volumetric haze, atmospheric depth, shallow depth of field, miniature tilt-shift effect, highly detailed textures, ultra-sharp focus on both the giant and the railway station, photorealistic skin, premium fabric textures, realistic train details, tiny pedestrians with natural poses, cinematic color grading, HDR, global illumination, ray-traced lighting, Unreal Engine 5, Octane Render, 8K ultra-HD, magazine-quality commercial photography, masterpiece, hyper-realistic, perfectly balanced composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mon010_de/status/2081232207289729262>)
+
+---

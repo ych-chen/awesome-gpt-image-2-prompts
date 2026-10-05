@@ -1045,3 +1045,26 @@ Photographed with a full-frame mirrorless camera using an 85mm lens at f/2.8, sh
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2078669692777157049>)
 
 ---
+
+<a id="prompt-a2430bbf-1115-449c-9bd2-34161c6b908e"></a>
+
+## Surreal Mini-Me Studio Portrait with Coffee
+
+<a href="https://musesignal.com/zh/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMTYbfkaUAA9fC0.jpg?format=jpg&amp;name=small" width="480" alt="Surreal Mini-Me Studio Portrait with Coffee" /></a>
+
+**GPT Image 2** · 原作者: ORHAN
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+"A surreal, humorous studio portrait of a man wearing a black oversized sweatshirt, olive green cargo pants, black-and-white checkerboard sneakers, and a black cap, holding a takeaway coffee cup with coffee splashing out. A tiny chibi version of the same man stands behind him, angrily pulling the back of his oversized sweatshirt, stretching the fabric dramatically as if trying to stop him. The giant man smiles while walking forward, dynamic action pose, exaggerated proportions, highly detailed facial features, clean gray seamless studio background, soft professional lighting, ultra-realistic, sharp focus, cinematic composition, 8K, whimsical, creative advertising photography."
+Negative Prompt:
+blurry, low quality, extra limbs, extra fingers, deformed face, duplicate person, bad anatomy, cropped, watermark, text, logo, noise, oversaturated, distorted clothing, unrealistic hands.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/OrhanGhazi65942/status/2073019714469761387>)
+
+---

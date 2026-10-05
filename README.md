@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **453** | **60** | 2026-10-04 |
+| **459** | **60** | 2026-10-05 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,12 +28,12 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 119 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| Commercial &amp; Product | 91 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| Poster &amp; Graphic | 101 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| Portrait | 120 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| Commercial &amp; Product | 93 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| Poster &amp; Graphic | 102 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 19 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
-| Character &amp; Art | 90 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
-| Scene &amp; Space | 33 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
+| Character &amp; Art | 91 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
+| Scene &amp; Space | 34 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 13
+### Portrait · 12
 
 [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -368,6 +368,31 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-a2430bbf-1115-449c-9bd2-34161c6b908e"></a>
+
+#### Surreal Mini-Me Studio Portrait with Coffee
+
+<a href="https://musesignal.com/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMTYbfkaUAA9fC0.jpg?format=jpg&amp;name=small" width="480" alt="Surreal Mini-Me Studio Portrait with Coffee" /></a>
+
+**GPT Image 2** · Creator: ORHAN
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"A surreal, humorous studio portrait of a man wearing a black oversized sweatshirt, olive green cargo pants, black-and-white checkerboard sneakers, and a black cap, holding a takeaway coffee cup with coffee splashing out. A tiny chibi version of the same man stands behind him, angrily pulling the back of his oversized sweatshirt, stretching the fabric dramatically as if trying to stop him. The giant man smiles while walking forward, dynamic action pose, exaggerated proportions, highly detailed facial features, clean gray seamless studio background, soft professional lighting, ultra-realistic, sharp focus, cinematic composition, 8K, whimsical, creative advertising photography."
+Negative Prompt:
+blurry, low quality, extra limbs, extra fingers, deformed face, duplicate person, bad anatomy, cropped, watermark, text, logo, noise, oversaturated, distorted clothing, unrealistic hands.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/OrhanGhazi65942/status/2073019714469761387>)
+
+---
+
 <a id="prompt-ded0e741-ed24-47aa-a719-38968685cd54"></a>
 
 #### Man in Newspaper Origami Boat on Open Sea
@@ -506,66 +531,9 @@ Visuelle Anforderungen:
 
 ---
 
-<a id="prompt-81681811-2547-40bd-8467-fc07f65fc9ad"></a>
-
-#### Rainy Parisian Blue Hour Fashion Editorial Portrait
-
-<a href="https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMUQpNDbAAAEagf.jpg?format=jpg&amp;name=small" width="480" alt="Rainy Parisian Blue Hour Fashion Editorial Portrait" /></a>
-
-**GPT Image 2** · Creator: Orion
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create a luxury travel fashion editorial portrait of a young man standing on a rainy Parisian street during blue hour. The atmosphere feels cinematic, romantic, and effortlessly sophisticated, inspired by Saint Laurent campaigns and European street photography.
-The subject stands confidently at the center of a pedestrian crossing with both hands tucked into his jacket pockets. His body faces the camera while his head turns to the left, looking away with a relaxed, contemplative expression.
-He has curly, tousled dark brown hair and wears black rectangular sunglasses. His outfit consists of a dark brown oversized field jacket layered over a cream knit sweater with black tailored trousers, creating a timeless European autumn style.
-The background features elegant Haussmann architecture lining both sides of the street. A classic Parisian café glows warmly with amber lights, while wet pavement reflects the surrounding lamps. Vintage streetlights illuminate the sidewalks, pedestrians walk softly blurred in the distance, and a compact car with headlights on approaches from behind, adding realism without distracting from the subject.
-Lighting combines cool overcast evening light with warm café lighting, producing rich cinematic color contrast. Captured with an 85mm lens at eye level, shallow depth of field, realistic rain reflections, soft bokeh, Kodak Vision3 film look, ultra detailed textures, luxury editorial photography, natural color grading, premium travel magazine aesthetic, 8K.
-Negative Prompt: Bright sunshine, crowded scene, exaggerated reflections, cartoon style, watermark, text, low quality, AI artifacts, distorted body, extra people in focus.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Prime_54/status/2073081512904556675>)
-
----
-
-<a id="prompt-38b83a3d-e0fe-418c-a3ec-7d8289438298"></a>
-
-#### Neon Bedroom Overhead Selfie Portrait
-
-<a href="https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLREB5ua4AALcIp.jpg?format=jpg&amp;name=small" width="480" alt="Neon Bedroom Overhead Selfie Portrait" /></a>
-
-**GPT Image 2** · Creator: こやす69＠AIプロンプト屋
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Hyper-realistic vertical portrait photo of an original adult Japanese woman in her 20s, photographed in a real bedroom with a softly lit purple-magenta ambient atmosphere.
-She has delicate and refined Japanese facial features: a small face, smooth fair skin, large light gray-blue eyes, subtle under-eye definition, sharp but elegant black winged eyeliner, soft glossy pink lips, and a calm, slightly mysterious expression while looking directly into the camera. Her hair is short brown bob hair, smooth and straight, with a soft side part and natural volume framing the face.
-She has a feminine curvy silhouette with balanced natural proportions. She is wearing a stylish black fitted fashion top with thin shoulder straps and subtle decorative crossing lines, paired with fitted black high-waisted shorts. The outfit feels edgy, alternative, and fashion-editorial, while remaining tasteful and non-explicit.
-Composition and camera angle: vertical smartphone selfie shot from a very close, high-angle perspective. The camera is held above the subject’s face, around forehead height or slightly higher, angled downward at about 35–45 degrees. The lens is very close to the subject, creating a subtle wide-angle selfie distortion. Her face fills the upper center of the frame, with the top of the head close to the upper edge. One arm extends toward the camera and appears large in the foreground along the lower-left side of the frame. The subject is leaning forward on a bed, upper body angled diagonally from the lower-left toward the upper-right, while looking directly up into the lens. The perspective should feel like an intimate overhead selfie, not a straight-on portrait.
-Background: a real bedroom interior at night, with soft white bedding clearly visible beneath her. A desk setup with a PC monitor or gaming PC is visible in the softly blurred background. Shelves and small personal items are present, creating a cozy lived-in bedroom atmosphere.
-Lighting: purple and magenta LED ambient lighting throughout the bedroom, with a soft frontal fill light illuminating the face. Cool violet shadows, gentle highlights on the brown hair, eyes, lips, and skin. High contrast between fair skin, dark clothing, and neon room lighting.
-Style: ultra-realistic fashion photography, realistic skin texture, natural hair strands, sharp focus on the face, soft bokeh background, cinematic neon color grading, subtle smartphone camera look, vertical 9:16, high resolution.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AI_money_club/status/2068548212080947519>)
-
----
-
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 9
+### Commercial &amp; Product · 10
 
 [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>)
 
@@ -1064,13 +1032,13 @@ Use case: Commercial &amp; Product
 
 ---
 
-<a id="prompt-1766b37f-c961-476a-a005-4fddb207d713"></a>
+<a id="prompt-9a736949-45ac-4cb8-a49a-f0f23b69e769"></a>
 
-#### Premium Sneaker Box Product Mockup
+#### Luxury Fashion Editorial Advertisement Prompt
 
-<a href="https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOQJjI6XQAAZFAm.jpg?format=jpg&amp;name=small" width="480" alt="Premium Sneaker Box Product Mockup" /></a>
+<a href="https://musesignal.com/prompt/9a736949-45ac-4cb8-a49a-f0f23b69e769?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQqgsrAaAAA3G7h.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Fashion Editorial Advertisement Prompt" /></a>
 
-**GPT Image 2** · Creator: Abkr Sadiq
+**GPT Image 2** · Creator: Maercih
 
 Use case: Commercial &amp; Product
 
@@ -1078,30 +1046,254 @@ Use case: Commercial &amp; Product
 <summary>Full prompt</summary>
 
 ```text
-Create an ultra-realistic premium sneaker packaging mockup featuring a pair of stylish low-top streetwear sneakers displayed alongside a luxury branded shoe box. The sneakers have a clean, modern silhouette with premium leather panels, subtle suede accents, textured rubber soles, and neatly tied laces. Use a sophisticated neutral color palette of black, cream, beige, and white.
+GPT image 2.0 on ChatGPT.
 
-The shoe box should feature a bold minimalist logo prominently on the top and front, with premium typography, product information, barcode, size label, and subtle graphic accents for an authentic luxury footwear brand appearance. The packaging should look high-end with crisp edges, matte finish, and realistic print quality.
+Prompt:
 
-Place one sneaker on top of the box and the second shoe in front of it at a slight angle to create a balanced premium product presentation.
+{
+  "input": {
+    "subject": "{{USER_DEFINED_SUBJECT}}",
+    "pose": "{{USER_DEFINED_POSE}}",
+    "product_reference": "{{UPLOAD_PRODUCT_REFERENCE_OPTIONAL}}",
+    "brand_name": "{{USER_DEFINED_BRAND_NAME}}",
+    "headline": "{{Auto Generated}}",
+    "subheadline": "{{Auto Generated}}",
+    "tagline": "{{Auto Generated}}"
+  },
 
-Set the scene in a modern urban environment with blurred city skyscrapers, concrete pavement, and a graffiti-covered wall in the background. Use a shallow depth of field so the sneakers remain perfectly sharp while the background stays softly out of focus.
+  "creative_direction": {
+    "type": "high_end_luxury_fashion_editorial_advertisement",
+    "goal": "Create a premium fashion campaign image inspired by the supplied reference composition while allowing the user to define the subject and pose.",
+    "visual_language": "quiet luxury, sophisticated, cinematic, architectural, editorial, restrained, photorealistic",
+    "aspect_ratio": "3:4"
+  },
 
-Illuminate the scene with warm golden-hour lighting, soft cinematic shadows, realistic reflections, and subtle ambient light wrapping around the shoes. The materials should display highly detailed leather textures, visible stitching, perforations, rubber outsole patterns, and realistic fabric laces.
+  "subject": {
+    "source": "USER_DEFINED_SUBJECT",
+    "rule": "The supplied subject is the single source of truth for the person, character, model, or featured subject.",
+    "appearance": "Preserve the user's defined identity, appearance, clothing, styling, proportions and distinctive characteristics.",
+    "pose": {
+      "source": "USER_DEFINED_POSE",
+      "rule": "Follow the user-defined pose precisely. Do not automatically reproduce the reference pose.",
+      "composition_rule": "The pose must interact naturally with the oversized product and remain visually elegant."
+    },
+    "gaze": "Follow the user's pose and direction instructions. If no gaze direction is specified, use a confident editorial gaze toward the camera."
+  },
 
-Composition should resemble a luxury streetwear campaign advertisement with professional product photography, dramatic perspective, premium branding, and editorial-quality styling.
+  "product": {
+    "source": "PRODUCT_REFERENCE_IF_PROVIDED",
+    "scale": "oversized hero product, intentionally much larger than the subject",
+    "placement": "prominent foreground placement beside or immediately adjacent to the subject",
+    "importance": "The product must remain one of the dominant visual elements.",
+    "fidelity": "If a product reference is supplied, preserve its exact silhouette, proportions, construction, material, color, hardware, handles, stitching, texture and distinctive details.",
+    "rule": "Do not shrink the product to a conventional realistic handbag scale. It should have the dramatic oversized presence of a luxury editorial prop."
+  },
 
-Style: Luxury product photography, photorealistic, ultra-detailed, commercial advertising, premium streetwear aesthetic, cinematic lighting, HDR, global illumination, ray tracing, shallow depth of field, 8K resolution, hyper-realistic textures, high-end branding, clean composition, magazine-quality product showcase.
+  "environment": {
+    "setting": "minimalist architectural luxury studio",
+    "background": "large sculptural arched wall or alcove",
+    "wall_color": "muted olive-taupe / earthy sage",
+    "secondary_colors": [
+      "warm ivory",
+      "stone beige",
+      "soft taupe",
+      "deep brown"
+    ],
+    "materials": [
+      "textured plaster",
+      "natural stone",
+      "matte ceramic"
+    ],
+    "props": [
+      "minimal sculptural ceramic vase",
+      "subtle olive branches or dried botanical arrangement",
+      "simple stone pedestal"
+    ],
+    "rule": "Props must remain secondary and must never compete with the subject or hero product."
+  },
+
+  "composition": {
+    "format": "vertical luxury fashion campaign poster",
+    "layout": "asymmetrical editorial composition",
+    "foreground": "hero product occupies a large portion of the lower foreground",
+    "subject_position": "placed beside, behind, leaning against, sitting beside, or otherwise interacting with the hero product according to the user-defined pose",
+    "negative_space": "reserve controlled negative space for editorial typography",
+    "depth": "clear foreground, subject midground and architectural background",
+    "product_subject_relationship": "The product and subject should feel intentionally composed as one campaign scene rather than separately pasted elements."
+  },
+
+  "typography": {
+    "headline": "{{USER_DEFINED_HEADLINE}}",
+    "subheadline": "{{USER_DEFINED_SUBHEADLINE}}",
+    "tagline": "{{USER_DEFINED_TAGLINE}}",
+    "style": "oversized refined editorial typography",
+    "font_character": "bold condensed high-fashion sans serif for the headline, elegant restrained serif or refined sans serif for supporting copy",
+    "color": "deep espresso brown",
+    "placement": "integrated into the architectural background without covering important facial or product details",
+    "rule": "Render all supplied text exactly as written. Do not invent additional brand names, labels, signatures, credits or text."
+  },
+
+  "lighting": {
+    "style": "soft directional natural daylight",
+    "quality": "cinematic, diffused, luxurious",
+    "shadows": "long architectural shadows with subtle botanical patterns",
+    "highlights": "controlled highlights on skin, fabric, leather and metal hardware",
+    "contrast": "moderate cinematic contrast",
+    "reflection": "subtle floor reflection where appropriate"
+  },
+
+  "fashion_styling": {
+    "direction": "quiet luxury editorial",
+    "wardrobe": "sophisticated tailored fashion coordinated with the product and environment",
+    "palette": "neutral earthy luxury tones",
+    "accessories": "minimal refined jewelry and accessories",
+    "rule": "Avoid excessive styling, logos or distracting patterns."
+  },
+
+  "camera": {
+    "style": "professional luxury fashion photography",
+    "lens": "approximately 50mm",
+    "perspective": "slightly low editorial perspective to emphasize the oversized hero product",
+    "framing": "full-body or three-quarter framing depending on the user-defined pose",
+    "focus": "sharp subject and product with controlled background separation",
+    "depth_of_field": "moderate cinematic depth of field"
+  },
+
+  "realism": {
+    "quality": "high-end commercial photography",
+    "skin": "natural realistic skin texture",
+    "fabric": "physically believable fabric behavior",
+    "leather": "visible realistic grain and subtle material variation",
+    "hardware": "accurate metallic reflections",
+    "hands": "anatomically correct hands and fingers",
+    "feet": "anatomically correct feet and footwear",
+    "proportions": "realistic human and product proportions except for the intentionally oversized hero-product scale"
+  },
+
+  "negative_constraints": [
+    "generic stock photography",
+    "cheap commercial aesthetic",
+    "plastic-looking skin",
+    "overly smooth CGI appearance",
+    "distorted anatomy",
+    "extra fingers",
+    "missing fingers",
+    "warped hands",
+    "deformed face",
+    "duplicated products",
+    "floating products",
+    "incorrect product construction",
+    "random logos",
+    "invented brand names",
+    "unrequested text",
+    "watermarks",
+    "signature",
+    "designer credit in the upper-right corner",
+    "cluttered background",
+    "oversaturated colors",
+    "excessive props",
+    "product hidden behind the subject"
+  ],
+
+  "final_instruction": "Create a photorealistic, premium luxury fashion advertisement. Use the user-defined subject and user-defined pose as the primary creative variables. Keep the hero product dramatically oversized and visually dominant, while maintaining an elegant relationship between the subject and product. Derive the environment, lighting, styling, composition and typography from the luxury editorial art direction above. The final image should feel like an intentional campaign created by a high-end fashion advertising studio, not a generic AI-generated product photograph."
+}
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/abs_uiux/status/2081799439887249755>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9a736949-45ac-4cb8-a49a-f0f23b69e769?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Maercihh/status/2092661708125098379>)
+
+---
+
+<a id="prompt-15ef144a-adcc-467c-bf46-d91983c36b80"></a>
+
+#### Fortune Sunflower Oil FMCG Retail Poster Prompt
+
+<a href="https://musesignal.com/prompt/15ef144a-adcc-467c-bf46-d91983c36b80?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLmNOcFbQAAWNik.jpg?format=jpg&amp;name=small" width="480" alt="Fortune Sunflower Oil FMCG Retail Poster Prompt" /></a>
+
+**GPT Image 2** · Creator: ᴍᴜʀᴘʜʏ
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Copy this prompt structure and create your own custom template ⬇️
+Prompt : You are a senior FMCG advertising art director specializing in high-conversion promotional social media campaigns.
+Think like:
+Fortune Foods Marketing Team
+Ogilvy FMCG
+AKQA
+Premium supermarket advertising studios
+Core behavior:
+- preserve Fortune brand identity
+- prioritize health + taste communication
+- create premium retail promotional poster
+- avoid generic AI-generated visuals
+BRAND IDENTITY
+Brand: FORTUNE Sunflower Oil
+Brand colors:
+Primary Yellow #F5B400
+Warm Orange #F28C00
+Fresh Green #74B843
+Brand personality:
+Healthy
+Modern
+Trusted
+Family-friendly
+CAMPAIGN GOAL
+Drive retail purchase through strong promotional offer while reinforcing healthy cooking benefits.
+MASTER STYLE
+Ultra-realistic commercial FMCG advertisement, premium supermarket flyer design, photorealistic food textures, sharp packaging, high-conversion retail poster, 8K.
+PRODUCT
+Large Fortune sunflower oil bottle positioned prominently on right side.
+Packaging perfectly accurate.
+Label sharp and readable.
+Golden oil visible through bottle.
+FOOD VISUAL
+Foreground features freshly fried golden puris and crispy pakoras served on elegant plate.
+Visible crunchy texture, light steam, appetizing golden color.
+Balanced healthy yet delicious presentation.
+PROMOTIONAL BLOCK
+Large clean circular yellow-orange offer badge.
+Text:
+SPECIAL OFFER
+Secondary:
+20% EXTRA
+Price strip below:
+BEST VALUE FAMILY PACK
+COMPOSITION
+4:5 Instagram retail flyer.
+Product occupies 35%.
+Food occupies 30%.
+Offer block occupies 20%.
+Typography occupies 15%.
+Clean premium supermarket layout.
+Strong visual hierarchy.
+LIGHTING
+Bright warm kitchen lighting.
+Soft sunlight.
+Commercial food photography highlights.
+Natural reflections on bottle.
+TYPOGRAPHY
+Headline:
+HEALTH THAT TASTES GOOD
+Subheadline:
+Cook smarter with Fortune.
+CTA:
+Buy Now
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/15ef144a-adcc-467c-bf46-d91983c36b80?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Diplomeme/status/2069840799475630248>)
 
 ---
 
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 11
+### Poster &amp; Graphic · 10
 
 [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>)
 
@@ -1568,6 +1760,29 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 ---
 
+<a id="prompt-6a8938f0-d9bc-41b4-8180-f327732fd312"></a>
+
+#### Pixar-Style 3D Caricature TV Show Movie Posters
+
+<a href="https://musesignal.com/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLqc402XEAAKGD5.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style 3D Caricature TV Show Movie Posters" /></a>
+
+**GPT Image 2** · Creator: TechieSA
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“Pixar-style movie poster reimagining of the TV show [TV SHOW]. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches [TV SHOW]'s tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2070139484830675157>)
+
+---
+
 <a id="prompt-b8a191c3-5892-43ed-a949-6a021815ee3f"></a>
 
 #### 短剧/网剧组讯长图视觉模板提示词
@@ -1611,128 +1826,6 @@ Use case: Poster &amp; Graphic
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MrLarus/status/2068639960471605471>)
-
----
-
-<a id="prompt-9eae8bf9-ed54-4a7e-9577-147ec6a3f599"></a>
-
-#### Landmark Cutaway Infographic Poster
-
-<a href="https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOLGph3W4AAvXIj.jpg?format=jpg&amp;name=small" width="480" alt="Landmark Cutaway Infographic Poster" /></a>
-
-**GPT Image 2** · Creator: TechieSA
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-“A jaw-dropping vertical infographic poster of [LANDMARK], 4:5 aspect ratio. A dramatic 3D cutaway diorama — one quarter of the structure cleanly sliced away to reveal its hidden interior: staircases, chambers, foundations, mechanisms, structural skeleton, all rendered in exquisite miniature detail.
-The landmark sits on a floating slab of terrain with surrounding ground-level context (trees, tiny people, roads, water — whatever fits [LANDMARK]), with a cross-section of underground foundations visible below street level.
-BACKGROUND: A solid deep [BACKGROUND COLOR] — rich, saturated, and flat. No gradients, no sky, no texture. The color should feel like a premium museum exhibition wall. The landmark and terrain float against it with soft shadow underneath.
-CUTAWAY: The interior slice reveals every hidden layer — structural skeleton, floors, rooms, mechanical systems, secret spaces — rendered with obsessive detail like a luxury collectible model. Warm interior lighting glows from within the revealed sections, contrasting with the exterior materials.
-CALLOUTS: 8–10 thin white hairline pointer lines extending from specific interior and exterior details to short ALL-CAPS labels with a one-line description beneath each. Labels placed asymmetrically, never crowding each other, balanced left and right of the landmark.
-TITLE: The landmark's name in massive condensed bold serif uppercase across the top, in a warm off-white or cream tone. Below it, the city, country, and year in small elegant letter-spaced type.
-BOTTOM: One single jaw-dropping stat about [LANDMARK] in enormous display numerals spanning the full width, with a short descriptor phrase beneath it in smaller caps.
-STYLE: Wes Anderson symmetry, product-shoot studio lighting, tactile and warm. The cutaway feels like a $500 collectible figurine photographed for a luxury catalogue. No dark moody skies, no glass panels, no floating data boxes, no clutter.”
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2081444405781594232>)
-
----
-
-<a id="prompt-96a3e151-a859-4f79-b0dd-f051f1d0760f"></a>
-
-#### CR7 Immortal Luxury Collector Poster
-
-<a href="https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMNPdoObUAAJNjC.jpg?format=jpg&amp;name=small" width="480" alt="CR7 Immortal Luxury Collector Poster" /></a>
-
-**GPT Image 2** · Creator: Hemayxn.ai
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-premium global collector campaign titled:
-CR7 // IMMORTAL
-This is not a football poster.
-It should feel like a limited-edition collector's print, a luxury Nike campaign, a museum exhibition piece, a premium editorial cover, and a contemporary street-art installation fused into one unforgettable artwork.
-Unlike dark sports posters, the overall mood is bright, uplifting, colorful, optimistic, and celebratory. The atmosphere feels like a perfect golden summer afternoon after victory—not aggressive or intimidating, but inspiring and timeless.
-At the center stands Cristiano Ronaldo, wearing a clean white kit, looking directly into the camera with a relaxed confident expression and a subtle smile. His presence radiates calm greatness rather than intensity. Hyper-realistic skin detail, natural lighting, luxury sports photography.
-Behind him rises a gigantic monumental stone number "7", carved from warm ivory limestone and white marble with subtle weathering. Fine cracks reveal glowing champagne-gold light from within. Small floating marble fragments drift through the air with soft dust illuminated by sunlight. The sculpture feels like a world-famous public monument.
-Around the composition, seamlessly integrated into the architecture—not as collage boxes—are elegant environmental moments:
-• Ronaldo training alone at sunrise on pristine grass
-• Practicing free kicks beneath bright stadium lights
-• Walking through a players' tunnel toward daylight
-• A distant silhouette standing in the middle of a sold-out stadium
-These moments appear naturally through reflections, layered architecture, carved reliefs, glass surfaces, and atmospheric transitions.
-The background merges Lisbon, Manchester, Madrid, Turin, and Riyadh into one vibrant football metropolis filled with colorful Mediterranean architecture, Portuguese mosaic streets, elegant modern skylines, lush greenery, championship banners, stadiums, flowers, fountains, blue skies, and glowing sunlight. Every city blends organically without obvious borders.
-TYPOGRAPHY
-Massive luxury editorial typography dominates the composition:
-IMMORTAL
-DISCIPLINE BUILT THIS.
-THE STANDARD.
-MORE THAN A NUMBER.
-LEGACY NEVER RETIRES.
-Typography is integrated into architecture, marble, concrete, stadium walls, brushed steel, banners, and illuminated signage. Some text is embossed, engraved, painted, etched, or carved with elegant depth.
-PREMIUM DATA DESIGN
-Sophisticated editorial overlays inspired by Nike design language, NASA engineering blueprints, and Sotheby's exhibition catalogues:
-• Career milestone timeline
-• Heat maps
-• Shot trajectory diagrams
-• Performance graphs
-• Tactical sketches
-• Radar charts
-• Collector serial number
-• Certificate of authenticity
-• Hall of Fame classification
-• Blueprint overlays
-• Stadium coordinates
-• Technical grid systems
-• Fine geometric alignment guides
-• Luxury certification seals
-Everything feels clean, premium, minimal, and beautifully organized.
-MICRO DETAILS
-Golden handwritten tactical notes
-Fine gold foil accents
-Portuguese tile textures
-Laurel wreath engravings
-Championship star motifs
-Soft marble dust
-Floating stone particles
-Luxury embossed paper textures
-Metallic reflections
-Invisible UV print details
-Microscopic premium print imperfections
-Elegant collector-edition finishing
-COLOR PALETTE
-Warm ivory
-White marble
-Mediterranean blue
-Sky blue
-Championship gold
-Soft sandstone
-Emerald green
-Portuguese green
-Rich crimson accents
-Clean white
-Brushed titanium
-Champagne highlights
-Warm sunlight
-Golden hour glow
-Bright floral accents
-LIGHTING
-Bright cinematic daylight, warm golden-hour sunlight, soft volumetric rays, crisp blue skies, premium luxury advertising lighting, high dynamic range, vibrant but refined colors, realistic global illumination, museum-quality presentation.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/hemayxn/status/2072587636842394101>)
 
 ---
 
@@ -2153,6 +2246,57 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 ---
 
+<a id="prompt-52e511c1-4156-4874-8553-b5e493b75d90"></a>
+
+#### Rainy Bridge Duel Anime Storyboard Board
+
+<a href="https://musesignal.com/prompt/52e511c1-4156-4874-8553-b5e493b75d90?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOKNyrjbQAAUCQT.jpg?format=jpg&amp;name=small" width="480" alt="Rainy Bridge Duel Anime Storyboard Board" /></a>
+
+**GPT Image 2** · Creator: 𝐌
+
+Use case: Character &amp; Art
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT IMAGE 2: Create a single vertical anime animation development board for an original high-energy action short film titled "Rainy Bridge Duel."
+The final output must be ONE combined image only, clearly divided into 2 sections:
+TOP SECTION: Character design sheet
+BOTTOM SECTION: 12-frame storyboard page
+Create fully original anime characters. Do not imitate any existing anime, manga, game, or copyrighted character designs. Keep everything original, cinematic, dynamic, and easy to understand.
+STYLE: Premium anime pre-production board, loose pencil sketches mixed with semi-rendered anime keyframes, dramatic lighting, strong contrast, speed lines, impact frames, red panel borders, blue motion arrows, handwritten notes, timing notes, and lens notes.
+TOP SECTION — CHARACTER DESIGN SHEET
+Use a light neutral paper-like background.
+Fighter A: Young anime rain fighter, around 19, medium wet dark hair plastered to his face, fierce dark eyes, lean athletic build, determined expression. Outfit: soaked sleeveless hoodie, fingerless gloves, slim combat trousers, light boots. Personality: aggressive, relentless, fights harder in bad conditions. Show front view, side view, back view, 3/4 view, rain-soaked battle stance, rushing punch pose, slide-kick pose, and a few expressions.
+Fighter B: Cool rival duelist, around 22, slicked-back ash-grey hair, calm green eyes, tall lean build, unreadable expression. Outfit: long open trench coat (wet), fitted shirt, slim trousers, leather gloves, boots. Personality: calm, composed, uses the environment strategically. Show front view, side view, back view, 3/4 view, relaxed guard stance, sidestep pose, counter-throw pose, and a few expressions.
+Add small handwritten design notes and compact anime color swatches.
+BOTTOM SECTION — STORYBOARD PAGE
+Use a dark black background for the entire storyboard section. Do not use beige, yellow, or paper-colored background here.
+Create 12 cinematic anime storyboard panels in a clean grid. Use red panel borders, blue motion arrows, handwritten camera notes, timing notes, and action notes. Keep both fighters visually consistent.
+12 STORYBOARD FRAMES:
+➤ Split-screen with thick black divider: Fighter A standing at one end of a rain-soaked suspension bridge, rain hammering down (upper frame); Fighter B standing at the other end, trench coat drifting in the wind (lower frame).
+➤ Split-screen close-ups: Fighter A's fist tightens as rain streams down his arm; Fighter B's calm eyes watch through the rain.
+➤ Wide shot of both fighters on the bridge, rain falling hard, bridge lights flickering, dark river below.
+➤ Fighter A charges across the wet bridge at full speed, rain spraying off his body.
+➤ Tracking shot of Fighter A throwing a rushing straight punch.
+➤ Slow-motion: Fighter B leans aside, the punch passes his face, rain droplets scattering in slow motion.
+➤ Fighter B grabs Fighter A's arm and uses his own momentum to swing him into the bridge railing.
+➤ Fighter A crashes into the railing, metal bending, sparks flying.
+➤ Wide shot of Fighter A recovering near the damaged railing, dark river visible far below.
+➤ Fighter B advances calmly through the rain toward Fighter A.
+➤ Fighter B delivers a precise two-handed shove-strike sending Fighter A sliding hard across the wet bridge surface.
+➤ Aftermath: Rain continues. Fighter B stands at the center of the bridge, trench coat dripping. Fighter A is down near the far railing, bridge lights flickering above, dark river below.
+ENVIRONMENT: Long rain-soaked suspension bridge, flickering bridge lights, heavy rain, strong wind, dark river far below, stormy night sky, wet metal surfaces, sparks from bent railing.
+FINAL GOAL: Make the board clean, readable, cinematic, and production-ready. The top section should clearly show the character designs. The bottom section should clearly show the 12-frame action choreography on a black storyboard background.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/52e511c1-4156-4874-8553-b5e493b75d90?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2081381943665696888>)
+
+---
+
 <a id="prompt-6af5655e-38f5-4009-853b-9a2e33294623"></a>
 
 #### VALORANT-Style Agent Character Reference Sheet
@@ -2240,32 +2384,9 @@ Ultra-clean crisp edges, smooth flowing linework, elegant negative space, premiu
 
 ---
 
-<a id="prompt-279512a3-6b7c-455f-b7ae-7b28359ac0cb"></a>
-
-#### Ethereal Fantasy Fox Portrait
-
-<a href="https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMkHlw2awAAMgjz.jpg?format=jpg&amp;name=small" width="480" alt="Ethereal Fantasy Fox Portrait" /></a>
-
-**GPT Image 2** · Creator: Rossy
-
-Use case: Character &amp; Art
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on a clean pure white background. The fox has silky flowing white fur blended with shimmering champagne-gold glitter, giving it a luxurious celestial appearance. Its elegant body dissolves into long, fluid ribbon-like fur trails mixed with sparkling golden dust, creating a graceful sense of motion. The ears are covered in fine golden glitter, while the face remains soft, refined, and peaceful with gently closed eyes and a subtle mystical smile. Add delicate glowing particles, magical bokeh, soft light rays, and tiny floating sparkles surrounding the fox. The composition is minimalistic yet luxurious, with no scenery, no text, no watermark, and no extra objects. Soft ivory, pearl white, champagne gold, and warm golden tones dominate the palette. Premium fantasy illustration, luxury editorial aesthetic, dreamy atmosphere, ultra-clean composition, photorealistic fur texture, cinematic lighting, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, masterpiece, 8K, hyper-detailed.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/xRahultripathi/status/2074197471866347891>)
-
----
-
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 8
+### Scene &amp; Space · 9
 
 [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2483,6 +2604,35 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ---
 
+<a id="prompt-eb016aba-6a79-4b30-8f48-5e53ef44d63a"></a>
+
+#### Giant Businessman in Miniature Railway Station
+
+<a href="https://musesignal.com/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOIFp8VaAAAClgl.jpg?format=jpg&amp;name=small" width="480" alt="Giant Businessman in Miniature Railway Station" /></a>
+
+**GPT Image 2** · Creator: Harry Potter
+
+Use case: Scene &amp; Space
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic cinematic forced-perspective miniature photography featuring a massive giant businessman carefully interacting with an incredibly detailed miniature modern railway station at night. The enormous man wears a tailored navy-blue business suit over a light-blue dress shirt, with neatly styled dark hair, light stubble, and a focused, thoughtful expression. He gently reaches down with two fingers as if precisely adjusting a tiny object on the railway platform, creating a believable illusion of a giant controlling a miniature world.
+
+Below him, an intricate miniature high-speed train station is alive with activity: sleek white high-speed trains glide along polished tracks while hundreds of tiny commuters walk across platforms. Engineers monitor glowing control rooms filled with realistic computer screens, signaling equipment, and railway operators. Modern glass office buildings surround the station, illuminated by warm interior lights that contrast beautifully against the cool evening atmosphere.
+
+The giant businessman stands among the miniature city holding a digital tablet, appearing like an architect or city planner overseeing the entire transportation network. The scene is captured from a cinematic low angle to exaggerate scale, with dramatic forced perspective making the giant appear seamlessly integrated into the tiny environment.
+
+Warm golden industrial lighting, realistic reflections, soft volumetric haze, atmospheric depth, shallow depth of field, miniature tilt-shift effect, highly detailed textures, ultra-sharp focus on both the giant and the railway station, photorealistic skin, premium fabric textures, realistic train details, tiny pedestrians with natural poses, cinematic color grading, HDR, global illumination, ray-traced lighting, Unreal Engine 5, Octane Render, 8K ultra-HD, magazine-quality commercial photography, masterpiece, hyper-realistic, perfectly balanced composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/mon010_de/status/2081232207289729262>)
+
+---
+
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2494,19 +2644,19 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 47 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 394 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 400 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 12 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## Recently published
 
+- [Luxury Fashion Editorial Advertisement Prompt](<https://musesignal.com/prompt/9a736949-45ac-4cb8-a49a-f0f23b69e769?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Rainy Bridge Duel Anime Storyboard Board](<https://musesignal.com/prompt/52e511c1-4156-4874-8553-b5e493b75d90?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Giant Businessman in Miniature Railway Station](<https://musesignal.com/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Surreal Mini-Me Studio Portrait with Coffee](<https://musesignal.com/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Pixar-Style 3D Caricature TV Show Movie Posters](<https://musesignal.com/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Fortune Sunflower Oil FMCG Retail Poster Prompt](<https://musesignal.com/prompt/15ef144a-adcc-467c-bf46-d91983c36b80?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [VALORANT-Style Agent Character Reference Sheet](<https://musesignal.com/prompt/6af5655e-38f5-4009-853b-9a2e33294623?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Man in Newspaper Origami Boat on Open Sea](<https://musesignal.com/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Minimalist Fantasy Fairy Silhouette Art](<https://musesignal.com/prompt/5ae41da6-acdc-4b6b-b5da-adb85f9664da?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Ancient Chinese POV Night Portrait with Fireflies](<https://musesignal.com/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [短剧/网剧组讯长图视觉模板提示词](<https://musesignal.com/prompt/b8a191c3-5892-43ed-a949-6a021815ee3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [9:16 3×3 Collage of Flawed Amateur Flash Portraits](<https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Premium Sneaker Box Product Mockup](<https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Landmark Cutaway Infographic Poster](<https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2527,7 +2677,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 453](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 459](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

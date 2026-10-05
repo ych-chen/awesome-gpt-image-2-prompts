@@ -1165,6 +1165,35 @@
     "content_hash": "2f0549f86ec11b257a21d68b70100eedf5809e578fd3c5942fd4b06cdeb700cf"
   },
   {
+    "id": "15ef144a-adcc-467c-bf46-d91983c36b80",
+    "title": "Fortune Sunflower Oil FMCG Retail Poster Prompt",
+    "prompt": "Copy this prompt structure and create your own custom template ⬇️\nPrompt : You are a senior FMCG advertising art director specializing in high-conversion promotional social media campaigns.\nThink like:\nFortune Foods Marketing Team\nOgilvy FMCG\nAKQA\nPremium supermarket advertising studios\nCore behavior:\n- preserve Fortune brand identity\n- prioritize health + taste communication\n- create premium retail promotional poster\n- avoid generic AI-generated visuals\nBRAND IDENTITY\nBrand: FORTUNE Sunflower Oil\nBrand colors:\nPrimary Yellow #F5B400\nWarm Orange #F28C00\nFresh Green #74B843\nBrand personality:\nHealthy\nModern\nTrusted\nFamily-friendly\nCAMPAIGN GOAL\nDrive retail purchase through strong promotional offer while reinforcing healthy cooking benefits.\nMASTER STYLE\nUltra-realistic commercial FMCG advertisement, premium supermarket flyer design, photorealistic food textures, sharp packaging, high-conversion retail poster, 8K.\nPRODUCT\nLarge Fortune sunflower oil bottle positioned prominently on right side.\nPackaging perfectly accurate.\nLabel sharp and readable.\nGolden oil visible through bottle.\nFOOD VISUAL\nForeground features freshly fried golden puris and crispy pakoras served on elegant plate.\nVisible crunchy texture, light steam, appetizing golden color.\nBalanced healthy yet delicious presentation.\nPROMOTIONAL BLOCK\nLarge clean circular yellow-orange offer badge.\nText:\nSPECIAL OFFER\nSecondary:\n20% EXTRA\nPrice strip below:\nBEST VALUE FAMILY PACK\nCOMPOSITION\n4:5 Instagram retail flyer.\nProduct occupies 35%.\nFood occupies 30%.\nOffer block occupies 20%.\nTypography occupies 15%.\nClean premium supermarket layout.\nStrong visual hierarchy.\nLIGHTING\nBright warm kitchen lighting.\nSoft sunlight.\nCommercial food photography highlights.\nNatural reflections on bottle.\nTYPOGRAPHY\nHeadline:\nHEALTH THAT TASTES GOOD\nSubheadline:\nCook smarter with Fortune.\nCTA:\nBuy Now",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ᴍᴜʀᴘʜʏ",
+      "handle": "Diplomeme"
+    },
+    "source_platform": "X",
+    "source_id": "2069840799475630248",
+    "source_url": "https://x.com/Diplomeme/status/2069840799475630248",
+    "images": [
+      "https://pbs.twimg.com/media/HLmNOcFbQAAWNik.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLmNOb3a4AA9vGA.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLmNOcUaQAAvNAV.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLmNOb2aQAAbJ-I.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/15ef144a-adcc-467c-bf46-d91983c36b80",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/15ef144a-adcc-467c-bf46-d91983c36b80",
+    "published_at": "2026-10-05T07:13:27.169489+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b9e0e0d129c237c7ba6b5a7280ef6a2fed30c2a8f91f4bf2e26887f688b2eb17"
+  },
+  {
     "id": "16e850aa-77a2-4afb-82fd-207fcff2478e",
     "title": "Gourmet Burger and Crispy Fries on a Wooden Tray",
     "prompt": "An ultra-realistic, cinematic portrait of a beautiful young East Asian woman with a messy high bun and soft, loose tendrils framing her face. She is looking directly into the camera with a neutral, serene expression. She is wearing a thick, textured grey knit scarf wrapped around her neck and a matching chunky knit cardigan over a tan button-up shirt. She is holding a wooden serving tray presenting a massive, gourmet bacon cheeseburger with melted cheddar, crisp lettuce, and a sesame seed bun, alongside a brown paper container overflowing with golden, crispy french fries. In the background, a rustic, softly blurred cozy cafe interior with warm, ambient bokeh lighting. Shot on a 50mm lens, DSLR quality, shallow depth of field, rich textures, natural soft lighting, 8k resolution.",
@@ -3944,6 +3973,32 @@
     "content_hash": "fd04b9d3848cc2ae20f63ed98208f538d1b26d87faa2488f67e10d64ee202980"
   },
   {
+    "id": "52e511c1-4156-4874-8553-b5e493b75d90",
+    "title": "Rainy Bridge Duel Anime Storyboard Board",
+    "prompt": "GPT IMAGE 2: Create a single vertical anime animation development board for an original high-energy action short film titled \"Rainy Bridge Duel.\"\nThe final output must be ONE combined image only, clearly divided into 2 sections:\nTOP SECTION: Character design sheet\nBOTTOM SECTION: 12-frame storyboard page\nCreate fully original anime characters. Do not imitate any existing anime, manga, game, or copyrighted character designs. Keep everything original, cinematic, dynamic, and easy to understand.\nSTYLE: Premium anime pre-production board, loose pencil sketches mixed with semi-rendered anime keyframes, dramatic lighting, strong contrast, speed lines, impact frames, red panel borders, blue motion arrows, handwritten notes, timing notes, and lens notes.\nTOP SECTION — CHARACTER DESIGN SHEET\nUse a light neutral paper-like background.\nFighter A: Young anime rain fighter, around 19, medium wet dark hair plastered to his face, fierce dark eyes, lean athletic build, determined expression. Outfit: soaked sleeveless hoodie, fingerless gloves, slim combat trousers, light boots. Personality: aggressive, relentless, fights harder in bad conditions. Show front view, side view, back view, 3/4 view, rain-soaked battle stance, rushing punch pose, slide-kick pose, and a few expressions.\nFighter B: Cool rival duelist, around 22, slicked-back ash-grey hair, calm green eyes, tall lean build, unreadable expression. Outfit: long open trench coat (wet), fitted shirt, slim trousers, leather gloves, boots. Personality: calm, composed, uses the environment strategically. Show front view, side view, back view, 3/4 view, relaxed guard stance, sidestep pose, counter-throw pose, and a few expressions.\nAdd small handwritten design notes and compact anime color swatches.\nBOTTOM SECTION — STORYBOARD PAGE\nUse a dark black background for the entire storyboard section. Do not use beige, yellow, or paper-colored background here.\nCreate 12 cinematic anime storyboard panels in a clean grid. Use red panel borders, blue motion arrows, handwritten camera notes, timing notes, and action notes. Keep both fighters visually consistent.\n12 STORYBOARD FRAMES:\n➤ Split-screen with thick black divider: Fighter A standing at one end of a rain-soaked suspension bridge, rain hammering down (upper frame); Fighter B standing at the other end, trench coat drifting in the wind (lower frame).\n➤ Split-screen close-ups: Fighter A's fist tightens as rain streams down his arm; Fighter B's calm eyes watch through the rain.\n➤ Wide shot of both fighters on the bridge, rain falling hard, bridge lights flickering, dark river below.\n➤ Fighter A charges across the wet bridge at full speed, rain spraying off his body.\n➤ Tracking shot of Fighter A throwing a rushing straight punch.\n➤ Slow-motion: Fighter B leans aside, the punch passes his face, rain droplets scattering in slow motion.\n➤ Fighter B grabs Fighter A's arm and uses his own momentum to swing him into the bridge railing.\n➤ Fighter A crashes into the railing, metal bending, sparks flying.\n➤ Wide shot of Fighter A recovering near the damaged railing, dark river visible far below.\n➤ Fighter B advances calmly through the rain toward Fighter A.\n➤ Fighter B delivers a precise two-handed shove-strike sending Fighter A sliding hard across the wet bridge surface.\n➤ Aftermath: Rain continues. Fighter B stands at the center of the bridge, trench coat dripping. Fighter A is down near the far railing, bridge lights flickering above, dark river below.\nENVIRONMENT: Long rain-soaked suspension bridge, flickering bridge lights, heavy rain, strong wind, dark river far below, stormy night sky, wet metal surfaces, sparks from bent railing.\nFINAL GOAL: Make the board clean, readable, cinematic, and production-ready. The top section should clearly show the character designs. The bottom section should clearly show the 12-frame action choreography on a black storyboard background.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2081381943665696888",
+    "source_url": "https://x.com/Strength04_X/status/2081381943665696888",
+    "images": [
+      "https://pbs.twimg.com/media/HOKNyrjbQAAUCQT.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/52e511c1-4156-4874-8553-b5e493b75d90",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/52e511c1-4156-4874-8553-b5e493b75d90",
+    "published_at": "2026-10-05T07:13:40.517634+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "38fdadc3a0d0eb8d341e593ea6a182b2f536a961829ef0ce328e92f91a33c850"
+  },
+  {
     "id": "5340dd00-fe60-47eb-ae7d-004a6a809103",
     "title": "Elegant Minimal Travel Poster for a City",
     "prompt": "Premium minimal flat-vector travel poster for [CITY_NAME], 3:4 vertical.\nCreate an airy, elegant city scene with large typography-safe negative space in the upper-left.\nAdd “[CITY_NAME]” and one short refined English caption that matches the city mood.\nAutomatically adapt the illustration to [CITY_NAME]:\ninclude one iconic primary landmark, local architecture, café culture, a transport sign, street lamps, flowers, trees, small city details, and calm daily-life moments.\nUse only 3–6 people, naturally interacting with the city:\ntalking at a café, walking, jogging, sketching, or taking photos.\nAvoid crowds, avoid a single hero character, and keep the composition open and uncluttered.\nStyle:\nJapanese stationery aesthetic, luxury sticker illustration, premium commercial flat-vector poster, clean thin outlines, consistent line weight, flat colors only.\nPalette:\npale powder blue, soft sky blue, mist blue as the dominant background tones;\nwarm cream, soft beige, sage green, muted gray-green for architecture and nature;\ndusty rose or blush pink only as tiny accents on flowers, signs, awnings, or small decorative details.\nMood:\nfresh, minimal, elegant, calm, refined, high-end travel postcard and lifestyle branding.\nNo realism, no watercolor, no painterly effects, no photorealism, no shading, no gradients, no texture, no dense background.",
@@ -5026,6 +5081,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "d86f0bb6eaf64a951fbcc99946de21b589dae5a07c4a2f99cf01b60ec3efbe3e"
+  },
+  {
+    "id": "6a8938f0-d9bc-41b4-8180-f327732fd312",
+    "title": "Pixar-Style 3D Caricature TV Show Movie Posters",
+    "prompt": "“Pixar-style movie poster reimagining of the TV show [TV SHOW]. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches [TV SHOW]'s tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.”",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "TechieSA",
+      "handle": "TechieBySA"
+    },
+    "source_platform": "X",
+    "source_id": "2070139484830675157",
+    "source_url": "https://x.com/TechieBySA/status/2070139484830675157",
+    "images": [
+      "https://pbs.twimg.com/media/HLqc402XEAAKGD5.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312",
+    "published_at": "2026-10-05T07:13:28.483318+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f319fe0febe8d8d1fa3ac430329d134047ab216b19a35823b0903b198a25934a"
   },
   {
     "id": "6af5655e-38f5-4009-853b-9a2e33294623",
@@ -7919,6 +8000,34 @@
     "content_hash": "8bdf9661616d2682336d520ef59e330eb965280f1711edfc15934714a408ee7f"
   },
   {
+    "id": "9a736949-45ac-4cb8-a49a-f0f23b69e769",
+    "title": "Luxury Fashion Editorial Advertisement Prompt",
+    "prompt": "GPT image 2.0 on ChatGPT.\n\nPrompt:\n\n{\n  \"input\": {\n    \"subject\": \"{{USER_DEFINED_SUBJECT}}\",\n    \"pose\": \"{{USER_DEFINED_POSE}}\",\n    \"product_reference\": \"{{UPLOAD_PRODUCT_REFERENCE_OPTIONAL}}\",\n    \"brand_name\": \"{{USER_DEFINED_BRAND_NAME}}\",\n    \"headline\": \"{{Auto Generated}}\",\n    \"subheadline\": \"{{Auto Generated}}\",\n    \"tagline\": \"{{Auto Generated}}\"\n  },\n\n  \"creative_direction\": {\n    \"type\": \"high_end_luxury_fashion_editorial_advertisement\",\n    \"goal\": \"Create a premium fashion campaign image inspired by the supplied reference composition while allowing the user to define the subject and pose.\",\n    \"visual_language\": \"quiet luxury, sophisticated, cinematic, architectural, editorial, restrained, photorealistic\",\n    \"aspect_ratio\": \"3:4\"\n  },\n\n  \"subject\": {\n    \"source\": \"USER_DEFINED_SUBJECT\",\n    \"rule\": \"The supplied subject is the single source of truth for the person, character, model, or featured subject.\",\n    \"appearance\": \"Preserve the user's defined identity, appearance, clothing, styling, proportions and distinctive characteristics.\",\n    \"pose\": {\n      \"source\": \"USER_DEFINED_POSE\",\n      \"rule\": \"Follow the user-defined pose precisely. Do not automatically reproduce the reference pose.\",\n      \"composition_rule\": \"The pose must interact naturally with the oversized product and remain visually elegant.\"\n    },\n    \"gaze\": \"Follow the user's pose and direction instructions. If no gaze direction is specified, use a confident editorial gaze toward the camera.\"\n  },\n\n  \"product\": {\n    \"source\": \"PRODUCT_REFERENCE_IF_PROVIDED\",\n    \"scale\": \"oversized hero product, intentionally much larger than the subject\",\n    \"placement\": \"prominent foreground placement beside or immediately adjacent to the subject\",\n    \"importance\": \"The product must remain one of the dominant visual elements.\",\n    \"fidelity\": \"If a product reference is supplied, preserve its exact silhouette, proportions, construction, material, color, hardware, handles, stitching, texture and distinctive details.\",\n    \"rule\": \"Do not shrink the product to a conventional realistic handbag scale. It should have the dramatic oversized presence of a luxury editorial prop.\"\n  },\n\n  \"environment\": {\n    \"setting\": \"minimalist architectural luxury studio\",\n    \"background\": \"large sculptural arched wall or alcove\",\n    \"wall_color\": \"muted olive-taupe / earthy sage\",\n    \"secondary_colors\": [\n      \"warm ivory\",\n      \"stone beige\",\n      \"soft taupe\",\n      \"deep brown\"\n    ],\n    \"materials\": [\n      \"textured plaster\",\n      \"natural stone\",\n      \"matte ceramic\"\n    ],\n    \"props\": [\n      \"minimal sculptural ceramic vase\",\n      \"subtle olive branches or dried botanical arrangement\",\n      \"simple stone pedestal\"\n    ],\n    \"rule\": \"Props must remain secondary and must never compete with the subject or hero product.\"\n  },\n\n  \"composition\": {\n    \"format\": \"vertical luxury fashion campaign poster\",\n    \"layout\": \"asymmetrical editorial composition\",\n    \"foreground\": \"hero product occupies a large portion of the lower foreground\",\n    \"subject_position\": \"placed beside, behind, leaning against, sitting beside, or otherwise interacting with the hero product according to the user-defined pose\",\n    \"negative_space\": \"reserve controlled negative space for editorial typography\",\n    \"depth\": \"clear foreground, subject midground and architectural background\",\n    \"product_subject_relationship\": \"The product and subject should feel intentionally composed as one campaign scene rather than separately pasted elements.\"\n  },\n\n  \"typography\": {\n    \"headline\": \"{{USER_DEFINED_HEADLINE}}\",\n    \"subheadline\": \"{{USER_DEFINED_SUBHEADLINE}}\",\n    \"tagline\": \"{{USER_DEFINED_TAGLINE}}\",\n    \"style\": \"oversized refined editorial typography\",\n    \"font_character\": \"bold condensed high-fashion sans serif for the headline, elegant restrained serif or refined sans serif for supporting copy\",\n    \"color\": \"deep espresso brown\",\n    \"placement\": \"integrated into the architectural background without covering important facial or product details\",\n    \"rule\": \"Render all supplied text exactly as written. Do not invent additional brand names, labels, signatures, credits or text.\"\n  },\n\n  \"lighting\": {\n    \"style\": \"soft directional natural daylight\",\n    \"quality\": \"cinematic, diffused, luxurious\",\n    \"shadows\": \"long architectural shadows with subtle botanical patterns\",\n    \"highlights\": \"controlled highlights on skin, fabric, leather and metal hardware\",\n    \"contrast\": \"moderate cinematic contrast\",\n    \"reflection\": \"subtle floor reflection where appropriate\"\n  },\n\n  \"fashion_styling\": {\n    \"direction\": \"quiet luxury editorial\",\n    \"wardrobe\": \"sophisticated tailored fashion coordinated with the product and environment\",\n    \"palette\": \"neutral earthy luxury tones\",\n    \"accessories\": \"minimal refined jewelry and accessories\",\n    \"rule\": \"Avoid excessive styling, logos or distracting patterns.\"\n  },\n\n  \"camera\": {\n    \"style\": \"professional luxury fashion photography\",\n    \"lens\": \"approximately 50mm\",\n    \"perspective\": \"slightly low editorial perspective to emphasize the oversized hero product\",\n    \"framing\": \"full-body or three-quarter framing depending on the user-defined pose\",\n    \"focus\": \"sharp subject and product with controlled background separation\",\n    \"depth_of_field\": \"moderate cinematic depth of field\"\n  },\n\n  \"realism\": {\n    \"quality\": \"high-end commercial photography\",\n    \"skin\": \"natural realistic skin texture\",\n    \"fabric\": \"physically believable fabric behavior\",\n    \"leather\": \"visible realistic grain and subtle material variation\",\n    \"hardware\": \"accurate metallic reflections\",\n    \"hands\": \"anatomically correct hands and fingers\",\n    \"feet\": \"anatomically correct feet and footwear\",\n    \"proportions\": \"realistic human and product proportions except for the intentionally oversized hero-product scale\"\n  },\n\n  \"negative_constraints\": [\n    \"generic stock photography\",\n    \"cheap commercial aesthetic\",\n    \"plastic-looking skin\",\n    \"overly smooth CGI appearance\",\n    \"distorted anatomy\",\n    \"extra fingers\",\n    \"missing fingers\",\n    \"warped hands\",\n    \"deformed face\",\n    \"duplicated products\",\n    \"floating products\",\n    \"incorrect product construction\",\n    \"random logos\",\n    \"invented brand names\",\n    \"unrequested text\",\n    \"watermarks\",\n    \"signature\",\n    \"designer credit in the upper-right corner\",\n    \"cluttered background\",\n    \"oversaturated colors\",\n    \"excessive props\",\n    \"product hidden behind the subject\"\n  ],\n\n  \"final_instruction\": \"Create a photorealistic, premium luxury fashion advertisement. Use the user-defined subject and user-defined pose as the primary creative variables. Keep the hero product dramatically oversized and visually dominant, while maintaining an elegant relationship between the subject and product. Derive the environment, lighting, styling, composition and typography from the luxury editorial art direction above. The final image should feel like an intentional campaign created by a high-end fashion advertising studio, not a generic AI-generated product photograph.\"\n}",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Maercih",
+      "handle": "Maercihh"
+    },
+    "source_platform": "X",
+    "source_id": "2092661708125098379",
+    "source_url": "https://x.com/Maercihh/status/2092661708125098379",
+    "images": [
+      "https://pbs.twimg.com/media/HQqgsrAaAAA3G7h.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQqgsrOaYAAoxDv.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQqgsq-bUAARDMK.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/9a736949-45ac-4cb8-a49a-f0f23b69e769",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/9a736949-45ac-4cb8-a49a-f0f23b69e769",
+    "published_at": "2026-10-05T07:13:44.301495+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "919ea548b0bbb6bd1d8b2a7df2de134ea82a59091e10f08ab24a5d7d4112dfb1"
+  },
+  {
     "id": "9ac69c6d-56ef-4a22-9003-e113b29ffa70",
     "title": "Watercolor Portrait with Monarch Butterflies",
     "prompt": "Watercolor portrait blended with photorealistic facial details, teal and sage-green paint splashes, textured paper background, floating monarch butterflies, botanical elements, dreamy feminine atmosphere, soft diffused lighting, delicate brushstrokes, shallow depth of field, ultra-detailed fine art illustration, cinematic quality, sharp focus, masterpiece, 8K.",
@@ -8248,6 +8357,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "5f3d13540143dd42bcb923221a0ae6fa9f0f90b2c5504f6e54d16db2a1b483a6"
+  },
+  {
+    "id": "a2430bbf-1115-449c-9bd2-34161c6b908e",
+    "title": "Surreal Mini-Me Studio Portrait with Coffee",
+    "prompt": "\"A surreal, humorous studio portrait of a man wearing a black oversized sweatshirt, olive green cargo pants, black-and-white checkerboard sneakers, and a black cap, holding a takeaway coffee cup with coffee splashing out. A tiny chibi version of the same man stands behind him, angrily pulling the back of his oversized sweatshirt, stretching the fabric dramatically as if trying to stop him. The giant man smiles while walking forward, dynamic action pose, exaggerated proportions, highly detailed facial features, clean gray seamless studio background, soft professional lighting, ultra-realistic, sharp focus, cinematic composition, 8K, whimsical, creative advertising photography.\"\nNegative Prompt:\nblurry, low quality, extra limbs, extra fingers, deformed face, duplicate person, bad anatomy, cropped, watermark, text, logo, noise, oversaturated, distorted clothing, unrealistic hands.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ORHAN",
+      "handle": "OrhanGhazi65942"
+    },
+    "source_platform": "X",
+    "source_id": "2073019714469761387",
+    "source_url": "https://x.com/OrhanGhazi65942/status/2073019714469761387",
+    "images": [
+      "https://pbs.twimg.com/media/HMTYbfkaUAA9fC0.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a2430bbf-1115-449c-9bd2-34161c6b908e",
+    "published_at": "2026-10-05T07:13:33.059122+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "69a17ae59b3b376c3c396c2ab80b250ad8b68d40ef714651cc6bcc973a4a59e7"
   },
   {
     "id": "a266ab6c-6c73-4fe4-93f1-9ed52c9aa9d0",
@@ -11358,6 +11493,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "b05c2e2d43c14ff716ab487d22b293b2694350501458c709bd6275dd40806e8c"
+  },
+  {
+    "id": "eb016aba-6a79-4b30-8f48-5e53ef44d63a",
+    "title": "Giant Businessman in Miniature Railway Station",
+    "prompt": "Ultra-realistic cinematic forced-perspective miniature photography featuring a massive giant businessman carefully interacting with an incredibly detailed miniature modern railway station at night. The enormous man wears a tailored navy-blue business suit over a light-blue dress shirt, with neatly styled dark hair, light stubble, and a focused, thoughtful expression. He gently reaches down with two fingers as if precisely adjusting a tiny object on the railway platform, creating a believable illusion of a giant controlling a miniature world.\n\nBelow him, an intricate miniature high-speed train station is alive with activity: sleek white high-speed trains glide along polished tracks while hundreds of tiny commuters walk across platforms. Engineers monitor glowing control rooms filled with realistic computer screens, signaling equipment, and railway operators. Modern glass office buildings surround the station, illuminated by warm interior lights that contrast beautifully against the cool evening atmosphere.\n\nThe giant businessman stands among the miniature city holding a digital tablet, appearing like an architect or city planner overseeing the entire transportation network. The scene is captured from a cinematic low angle to exaggerate scale, with dramatic forced perspective making the giant appear seamlessly integrated into the tiny environment.\n\nWarm golden industrial lighting, realistic reflections, soft volumetric haze, atmospheric depth, shallow depth of field, miniature tilt-shift effect, highly detailed textures, ultra-sharp focus on both the giant and the railway station, photorealistic skin, premium fabric textures, realistic train details, tiny pedestrians with natural poses, cinematic color grading, HDR, global illumination, ray-traced lighting, Unreal Engine 5, Octane Render, 8K ultra-HD, magazine-quality commercial photography, masterpiece, hyper-realistic, perfectly balanced composition.",
+    "category": "scene-space",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Harry Potter",
+      "handle": "mon010_de"
+    },
+    "source_platform": "X",
+    "source_id": "2081232207289729262",
+    "source_url": "https://x.com/mon010_de/status/2081232207289729262",
+    "images": [
+      "https://pbs.twimg.com/media/HOIFp8VaAAAClgl.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a",
+    "published_at": "2026-10-05T07:13:38.799409+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "46ecc4921269d9412a716d89689fc84b165766258c8391af5742136fd19908c6"
   },
   {
     "id": "ed03a2d3-6836-4e22-afb7-422de53cc9e5",
