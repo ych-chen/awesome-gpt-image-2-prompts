@@ -633,3 +633,218 @@ STYLE: Wes Anderson symmetry, product-shoot studio lighting, tactile and warm. T
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6a8938f0-d9bc-41b4-8180-f327732fd312?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2070139484830675157>)
 
 ---
+
+<a id="prompt-05701f72-a0de-4920-8e70-b336ccfd1848"></a>
+
+## Vintage FIFA World Cup Postcard Illustration
+
+<a href="https://musesignal.com/zh/prompt/05701f72-a0de-4920-8e70-b336ccfd1848?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLUUYXSbQAAczym.jpg?format=jpg&amp;name=small" width="480" alt="Vintage FIFA World Cup Postcard Illustration" /></a>
+
+**GPT Image 2** · 原作者: Saul Goodman
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Aspect Ratio: 2:3 vertical (poster/postcard)
+
+Create a collectible FIFA World Cup postcard illustration in the style of a luxurious vintage European travel poster mixed with hand-painted editorial art from the 1950s and Japanese animation backgrounds.
+
+SUBJECT:
+[TEAM / PLAYER / STADIUM / WORLD CUP MOMENT]
+
+COMPOSITION:
+Design the image as an elegant postcard rather than a photograph. Use dynamic compositions with large decorative foreground elements and cinematic depth. Include iconic football scenes, legendary stadiums, vintage footballs, players in classic poses, or aerial city views surrounding the stadium.
+
+STYLE:
+Dreamlike painterly illustration, visible brush strokes, gouache and oil paint textures, flat color blocks, slightly exaggerated shapes, mid-century European poster art, vintage FIFA memorabilia aesthetic, collectible postcard quality.
+
+COLOR PALETTE:
+Dominant cotton-candy pink background with coral, magenta, pastel rose, turquoise, royal blue, emerald green, cream white, and touches of gold. High color contrast with saturated pigments.
+
+ORNAMENTS:
+Surround the scene with elaborate floral motifs, peonies, baroque scrollwork, porcelain-inspired patterns, Delft ceramic decorations, botanical frames, and ornamental Victorian details. Decorative elements should blend naturally into the composition instead of appearing separate.
+
+LIGHTING:
+Warm spring daylight, soft atmospheric glow, dreamy haze, gentle shadows, rich color separation, nostalgic mood.
+
+TEXTURE:
+Fine canvas texture, hand-painted imperfections, vintage print grain, subtle ink bleed, lithograph poster finish, museum-quality illustration.
+
+CAMERA OPTIONS:
+
+Bird's-eye aerial view for stadiums.
+
+Low-angle heroic perspective for players.
+
+Dynamic action shots with exaggerated movement.
+
+Storybook compositions with foreground flowers and layered depth.
+
+MOOD:
+Romantic, nostalgic, whimsical, joyful, elegant, timeless, premium collectible artwork.
+
+QUALITY:
+Ultra-detailed, masterpiece, highly stylized, painterly, award-winning illustration, luxury FIFA World Cup postcard, impossible to distinguish from a hand-painted vintage poster.
+
+NEGATIVE PROMPT:
+photorealistic, 3D render, CGI, modern sports photography, anime characters, realistic skin pores, excessive sharpness, text, watermark, logos, low quality, blurry, generic AI art.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/05701f72-a0de-4920-8e70-b336ccfd1848?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2068582061800382877>)
+
+---
+
+<a id="prompt-26051eaa-a543-4dce-aaf5-2b8be27ce81c"></a>
+
+## Vintage Architectural Travel Poster Illustration
+
+<a href="https://musesignal.com/zh/prompt/26051eaa-a543-4dce-aaf5-2b8be27ce81c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HT1xfdHbAAEDXmd.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Architectural Travel Poster Illustration" /></a>
+
+**GPT Image 2.5** · 原作者: simeon-sanai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a stunning premium architectural travel poster inspired by vintage architectural illustration, featuring [LANDMARK / CITY] as the hero subject.
+
+Show the landmark in an elegant three-quarter perspective, with extremely detailed hand-drawn architectural linework, intricate windows, balconies, columns, textures and ornamental details. Keep the sophisticated editorial composition of a collectible architecture magazine, but transform the artwork into a rich, bright, highly colorful illustration.
+
+Use a beautiful palette of coral red, vibrant turquoise, cobalt blue, sunny yellow, emerald green, warm orange, pink, lavender and golden accents, with natural color variation rather than flat digital blocks. Add colorful trees, flowers, pedestrians, bicycles, vintage cars, street signs and subtle city-life details around the architecture.
+
+Behind the landmark, include a delicate illustrated city map in pale pastel lines, architectural measurement marks, tiny street names and faint blueprint details. Add a small architectural detail sketch on one side, as if taken from an old design archive.
+
+At the top, use refined typography:
+[CITY NAME]
+[LANDMARK NAME]
+small location coordinates beneath.
+
+At the bottom, include elegant archival-style information such as EST. [YEAR] · ARCHITECTURAL STYLE · CITY · COUNTRY.
+
+The overall image should feel like a luxury collectible travel poster, combining colored-pencil texture, watercolor washes, fine ink drawing, subtle wax-crayon grain and vintage print imperfections. Bright sunlight, glowing colors, crisp details, warm paper texture, sophisticated composition, beautiful depth, highly detailed yet artistic.
+
+Avoid: dull muted colors, photorealistic photography, generic cartoon style, excessive text, neon cyberpunk aesthetics, flat vector graphics.
+
+Mood: joyful, colorful, cultured, nostalgic, sophisticated, artistic, instantly eye-catching, Pinterest-worthy and Instagram-viral.
+
+For an even more striking result: make the architecture mostly detailed and realistic, while letting the trees, sky, flowers, cars and small street elements explode with bright color. That contrast will make the landmark pop without losing the elegant architectural-poster feel.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/26051eaa-a543-4dce-aaf5-2b8be27ce81c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2106964998501327124>)
+
+---
+
+<a id="prompt-9210de63-b1e7-4f23-9e56-58cce4b4b616"></a>
+
+## FIFA World Cup 2026 Editorial Poster Prompt
+
+<a href="https://musesignal.com/zh/prompt/9210de63-b1e7-4f23-9e56-58cce4b4b616?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJ4PB0oawAAp5aH.jpg?format=jpg&amp;name=small" width="480" alt="FIFA World Cup 2026 Editorial Poster Prompt" /></a>
+
+**GPT Image 2** · 原作者: Ari.prtma
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+[Jamal musiala]
+Ultra-premium FIFA World Cup 2026 editorial lifestyle campaign poster.
+Automatically identify everything associated with [PLAYER NAME]:
+nationality, national team, football era, iconic jersey, player number, football achievements, federation identity, football culture, national colors, symbols, language, typography style, memorabilia, football heritage, legendary moments, visual branding, and historical references.
+Main subject:
+[PLAYER NAME] relaxing casually on a luxurious vintage Persian rug while holding a classic red rotary telephone receiver to one ear.
+Confident relaxed posture.
+Looking slightly away from camera as if receiving an important call moments before the FIFA World Cup 2026 Final.
+Outfit:
+Automatically wear the most iconic and recognizable vintage national team jersey associated with [PLAYER NAME].
+Authentic retro football fashion.
+Classic collar.
+Era-accurate details.
+Player number automatically determined.
+Loose vintage blue denim jeans.
+Premium lifestyle styling.
+Environment:
+A nostalgic retro football living room completely dedicated to the legacy of [PLAYER NAME].
+Room filled with:
+stacked CRT televisions,
+vintage audio equipment,
+cassette players,
+analog receivers,
+retro electronics,
+framed jerseys,
+historic football photographs,
+signed memorabilia,
+newspaper clippings,
+national team banners,
+legendary match references,
+career-defining moments,
+trophies,
+awards,
+football collectibles,
+rare archives,
+magazine covers,
+football posters,
+autographed items.
+Centerpiece:
+Official FIFA World Cup 2026 visual branding aesthetic.
+The FIFA World Cup trophy positioned prominently above the CRT television stack as the central hero object.
+Warm golden spotlight.
+Luxury reflections.
+Championship atmosphere.
+CRT televisions display:
+World Cup 2026 graphics,
+historic highlights,
+national team imagery,
+vintage football broadcasts,
+career moments,
+football federation visuals,
+retro television static.
+LAYOUT DESIGN
+Massive oversized typography occupying the entire left side of the poster.
+Player surname displayed as gigantic magazine-cover typography.
+Handwritten signature-style first name layered above.
+Large handwritten player number integrated naturally into the composition.
+Additional editorial typography automatically generated based on:
+national team slogans,
+country football culture,
+World Cup ambitions,
+player legacy,
+historic achievements.
+Luxury football magazine layout.
+Premium sports-advertising composition.
+Vintage editorial design language.
+VISUAL STYLE
+FIFA World Cup promotional campaign quality.
+Nike × Adidas × Vogue × GQ editorial aesthetic.
+Luxury football nostalgia.
+Warm tungsten lighting.
+Deep cinematic shadows.
+Rich texture detail.
+Photorealistic skin.
+Ultra-detailed jersey fabric.
+Authentic vintage atmosphere.
+Premium color grading.
+Warm amber tones.
+Golden highlights.
+Deep blacks.
+High contrast.
+Professional sports photography.
+85mm lens.
+Shallow depth of field.
+Masterpiece composition.
+Extremely detailed.
+Ultra realistic.
+Award-winning sports editorial photography.
+Luxury print magazine cover.
+Aspect ratio 4:5.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9210de63-b1e7-4f23-9e56-58cce4b4b616?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aripratama293/status/2062102785181864021>)
+
+---

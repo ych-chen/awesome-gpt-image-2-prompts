@@ -215,6 +215,35 @@
     "content_hash": "fd38a5ddba55dccd54227abdebcea9347beeb782e289f6c2ace37d1300222104"
   },
   {
+    "id": "05701f72-a0de-4920-8e70-b336ccfd1848",
+    "title": "Vintage FIFA World Cup Postcard Illustration",
+    "prompt": "Aspect Ratio: 2:3 vertical (poster/postcard)\n\nCreate a collectible FIFA World Cup postcard illustration in the style of a luxurious vintage European travel poster mixed with hand-painted editorial art from the 1950s and Japanese animation backgrounds.\n\nSUBJECT:\n[TEAM / PLAYER / STADIUM / WORLD CUP MOMENT]\n\nCOMPOSITION:\nDesign the image as an elegant postcard rather than a photograph. Use dynamic compositions with large decorative foreground elements and cinematic depth. Include iconic football scenes, legendary stadiums, vintage footballs, players in classic poses, or aerial city views surrounding the stadium.\n\nSTYLE:\nDreamlike painterly illustration, visible brush strokes, gouache and oil paint textures, flat color blocks, slightly exaggerated shapes, mid-century European poster art, vintage FIFA memorabilia aesthetic, collectible postcard quality.\n\nCOLOR PALETTE:\nDominant cotton-candy pink background with coral, magenta, pastel rose, turquoise, royal blue, emerald green, cream white, and touches of gold. High color contrast with saturated pigments.\n\nORNAMENTS:\nSurround the scene with elaborate floral motifs, peonies, baroque scrollwork, porcelain-inspired patterns, Delft ceramic decorations, botanical frames, and ornamental Victorian details. Decorative elements should blend naturally into the composition instead of appearing separate.\n\nLIGHTING:\nWarm spring daylight, soft atmospheric glow, dreamy haze, gentle shadows, rich color separation, nostalgic mood.\n\nTEXTURE:\nFine canvas texture, hand-painted imperfections, vintage print grain, subtle ink bleed, lithograph poster finish, museum-quality illustration.\n\nCAMERA OPTIONS:\n\nBird's-eye aerial view for stadiums.\n\nLow-angle heroic perspective for players.\n\nDynamic action shots with exaggerated movement.\n\nStorybook compositions with foreground flowers and layered depth.\n\nMOOD:\nRomantic, nostalgic, whimsical, joyful, elegant, timeless, premium collectible artwork.\n\nQUALITY:\nUltra-detailed, masterpiece, highly stylized, painterly, award-winning illustration, luxury FIFA World Cup postcard, impossible to distinguish from a hand-painted vintage poster.\n\nNEGATIVE PROMPT:\nphotorealistic, 3D render, CGI, modern sports photography, anime characters, realistic skin pores, excessive sharpness, text, watermark, logos, low quality, blurry, generic AI art.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2068582061800382877",
+    "source_url": "https://x.com/Goodmanprotocol/status/2068582061800382877",
+    "images": [
+      "https://pbs.twimg.com/media/HLUUYXSbQAAczym.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLUUZHYbQAAzRJB.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLUUZ2GbIAA5JSI.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLUUam_asAA0O0B.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/05701f72-a0de-4920-8e70-b336ccfd1848",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/05701f72-a0de-4920-8e70-b336ccfd1848",
+    "published_at": "2026-10-06T07:46:59.016309+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "050ba2d3b77a20491cc6b4d78e4849e8f4708d7f12827b880a800758fa0f7205"
+  },
+  {
     "id": "0577db4c-b655-45fb-bca6-3653aa3c7969",
     "title": "Minimal Geometric Editorial Travel Artwork",
     "prompt": "Create a premium 4:5 vertical editorial travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a realistic upper scene representing [COUNTRY / CITY / LOCATION / SUBJECT], paired with a small Minimal Geometric Graphic Vignette in the lower section. The lower artwork should visually echo the main scene without literally reproducing it.\n\nGRAPHIC VIGNETTE\nAutomatically identify the 2–5 strongest visual memory points of [COUNTRY / CITY / LOCATION / SUBJECT]—its most recognizable silhouette, movement, posture, structure, object, or narrative relationship. Remove everything unnecessary and reconstruct these elements using simple geometric forms, clean silhouettes, solid color blocks, and a few carefully layered shapes.\n\nThe vignette should remain small and refined, never attempting to recreate the entire scene. It may be slightly off-center, edge-aligned, floating, partially cropped, or asymmetrically positioned according to the visual weight of the subject.\n\nNEGATIVE SPACE\nGive the geometric artwork generous surrounding whitespace. Treat negative space as an essential design element, using scale contrast, positive/negative shapes, spacing, clustering, and asymmetrical balance to create a sophisticated editorial rhythm.\n\nCOLOR\nDerive a restrained 2–4 color palette from the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Extract meaningful colors associated with the subject, environment, materials, season, atmosphere, clothing, architecture, vegetation, water, or food, then simplify and slightly brighten them into clean graphic colors.\n\nUse a very pale, soft background close to white. Avoid muddy neutrals, unnecessary muted palettes, fluorescent colors, or decorative colors unrelated to the subject.\n\nSTYLE\nKeep the vignette small, simple, precise, and highly recognizable. Use professional graphic-design language rather than realistic volume, complex textures, or cartoon styling.\n\nWhether the subject is a person, building, animal, plant, object, vehicle, or landscape, transform it into an elegant spot illustration with strong visual identity and minimal geometry.\n\nTYPOGRAPHY\nAdd only a very small amount of restrained editorial text if appropriate. Derive a short word or phrase from the destination, subject, action, mood, or visual metaphor. Keep it subtle and integrated into the surrounding negative space.\n\nFINAL AESTHETIC\nMinimal geometric graphic design × editorial spot illustration × contemporary travel art × intelligent negative space × semantic color palette.\n\nThe result should feel refined, modern, playful, highly intentional, and collectible—not like a photo tracing or ordinary cartoon.\n\nAvoid photorealistic lower artwork, literal photo recreation, excessive detail, complex shading, gradients, 3D rendering, oversized graphics, clutter, decorative colors, generic icons, excessive typography, logos, watermarks, or filled-in backgrounds.\n\nFORMAT: 4:5 vertical, premium editorial composition, small geometric vignette with generous negative space.",
@@ -1302,6 +1331,33 @@
     "content_hash": "265ec930da3bfd7a17763a9c72bfd55cd5a66deb1f96f42d66dba1284c7892cb"
   },
   {
+    "id": "17cd8e4c-fd01-4f61-8916-7be5e545b7af",
+    "title": "Golden Hour Portrait of a Woman in White Linen",
+    "prompt": "Ultra-realistic golden hour close-up portrait of a young woman outdoors, eyes gently closed with a soft peaceful smile, face tilted slightly upward toward the warm setting sun, loose windblown dark brown hair flowing naturally across her face, glowing sun-kissed skin with natural texture and subtle freckles, minimal makeup, soft glossy lips, wearing a loose white linen blouse with a delicate collar, cinematic warm amber sunlight creating beautiful highlights and gentle shadows, shallow depth of field, clean blue sky background, dreamy summer atmosphere, authentic candid expression, ultra-detailed skin texture, high dynamic range, 85mm portrait lens, f/1.8, professional fashion photography, natural color grading, soft contrast, editorial lifestyle aesthetic, photorealistic, 8K, RAW quality.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Sairah",
+      "handle": "Sairah_0"
+    },
+    "source_platform": "X",
+    "source_id": "2087873952513438160",
+    "source_url": "https://x.com/Sairah_0/status/2087873952513438160",
+    "images": [
+      "https://pbs.twimg.com/media/HPmeSdpagAAbR6Q.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPmeSeBbQAAEm8M.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/17cd8e4c-fd01-4f61-8916-7be5e545b7af",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/17cd8e4c-fd01-4f61-8916-7be5e545b7af",
+    "published_at": "2026-10-06T07:47:13.193953+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0de9eb712ba714fa09136910c62b4361e8741beafdcaa0104c2a9e18baca335e"
+  },
+  {
     "id": "17f8599a-d9ac-4980-abb1-4f6df6545fce",
     "title": "KitKat Luxury Commercial Storyboard: The Art of the Snap",
     "prompt": "Create one professional commercial storyboard presentation showing 10 cinematic frames arranged in a clean 2×5 grid on a white presentation board. Thin black borders separate each frame. Each panel contains a bold scene number (01–10), timestamp, and a short production caption underneath. The storyboard should look like a real advertising agency pre-production board for a luxury chocolate commercial. TITLE KITKAT \"The Art of the Snap\" Luxury Commercial Storyboard • 15 Seconds STYLE\nInspired by the cinematic luxury aesthetic of premium chocolate commercials. Rich dark background, dramatic lighting, elegant slow motion, sensual textures, premium food photography, macro cinematography, high-end advertising, ultra photorealistic. SCENE 01 (0.0–1.5s) Complete darkness. A single KitKat bar slowly emerges from shadow onto a polished dark stone pedestal. Tiny cocoa dust floats through warm golden light. Caption: The Reveal SCENE 02 (1.5–3.0s) Extreme macro.\nCamera glides across the embossed KitKat logo. Chocolate surface reflects soft warm highlights. Every texture is perfectly visible. Caption: Luxury Detail SCENE 03 (3.0–4.5s) Roasted cocoa beans. Madagascar vanilla pods. Fresh milk splash. Wafer layers. Chocolate curls. Everything slowly floats around the chocolate bar. Caption: Ingredients Rise SCENE 04 (4.5–6.0s) The KitKat bar snaps perfectly in half. Time almost freezes. Chocolate shards. Wafer crumbs. Cocoa powder. Chocolate flakes.\nExplode outward in beautiful slow motion. Caption: The Perfect Snap SCENE 05 (6.0–7.5s) Camera performs a slow cinematic orbit around the broken KitKat pieces. The creamy wafer layers are exposed. Chocolate dust dances through the light. Caption: Floating Luxury SCENE 06 (7.5–9.0s) Extreme macro. Molten chocolate slowly pours over the broken wafer. The chocolate moves like silk. Tiny reflections shimmer. Caption: Chocolate Flow SCENE 07 (9.0–10.5s)\nA cascade of liquid chocolate envelops the KitKat. Chocolate ribbons twist elegantly. Cocoa particles sparkle. Caption: Pure Indulgence SCENE 08 (10.5–12.0s) Everything freezes. Chocolate droplets. Wafer crumbs. Chocolate curls. Cocoa powder. All suspended perfectly around the product. Caption: Frozen Perfection SCENE 09 (12.0–13.5s) Ultimate hero shot. Complete KitKat package standing beside the broken chocolate bar. Warm cinematic spotlight. Premium luxury composition. Caption: Hero Product\nSCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Elegant typography fades in. Tagline: \"Have a Break. Enjoy Every Snap.\" Caption: Brand Signature Presentation style: • Professional Hollywood commercial storyboard • Advertising agency pitch board • 10 cinematic storyboard frames • White presentation sheet • Thin black borders • Scene numbers • Timestamps • Production captions • Combination of hand-drawn storyboard notes and ultra-realistic colored frames\n• Premium chocolate commercial • Luxury food advertising • Macro cinematography • ARRI Alexa 35 • Cooke Anamorphic 50mm • HDR • Soft volumetric lighting • Ultra photorealistic • Masterpiece • 8K",
@@ -1714,6 +1770,34 @@
     "content_hash": "c036b25c569e3bd77e974d8e3c695ee598413b94de0a71c459f96e4b73bb173e"
   },
   {
+    "id": "22131019-926b-4e69-a004-b9e6a4fd500a",
+    "title": "Golden-Hour Editorial Portrait by Vintage Window",
+    "prompt": "Create a highly photorealistic aesthetic portrait of an elegant adult woman standing beside a large vintage window in a beautiful sunlit room. She has long, naturally flowing dark hair, soft expressive eyes, realistic skin texture, natural facial features, and a subtle gentle smile.\n\nShe is wearing a sophisticated cream-colored oversized shirt tucked into a high-waisted dark skirt, minimal delicate jewelry, and a small elegant handbag. Relaxed natural pose, one hand lightly holding the handbag and the other resting naturally by her side.\n\nWarm golden-hour sunlight entering through the window, soft shadows, muted beige and cream interior, vintage furniture, subtle film grain, dreamy atmosphere, Kodak-inspired color grading, soft highlights, natural skin tones, editorial fashion photography, cinematic composition, shallow depth of field, 85mm lens, ultra-detailed, realistic proportions, premium aesthetic, 8K.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Eesha",
+      "handle": "MissDelulu9"
+    },
+    "source_platform": "X",
+    "source_id": "2102722643237781791",
+    "source_url": "https://x.com/MissDelulu9/status/2102722643237781791",
+    "images": [
+      "https://pbs.twimg.com/media/HS5fDqhawAAcnFm.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HS5fEp_aUAACM-g.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HS5fF45bAAAO3X4.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/22131019-926b-4e69-a004-b9e6a4fd500a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/22131019-926b-4e69-a004-b9e6a4fd500a",
+    "published_at": "2026-10-06T07:47:19.848794+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f49389c406645669575e749123d0a8ac3ed3b7e36c9c30c72b22974e3274f840"
+  },
+  {
     "id": "22371b51-2d82-4ec4-9a79-99ff189cd924",
     "title": "Photo Booth Romance: A Couple's Tender Moments",
     "prompt": "Create a vertical 2×4 photo booth strip (8 panels total), with white borders and a plain light grey textured backdrop in every panel. A young East Asian couple in their late 20s, consistent appearance and clothing throughout.\nRow 1:\nLeft: Man (short black hair, black jacket, dark grey T-shirt) holding a small bouquet of white flowers, smiling and looking right.\nRight: Woman (long wavy brown hair, navy blue lace dress with white collar) smiling and looking left.\nRow 2:\nLeft: Man offering the bouquet toward the right, looking at the woman.\nRight: Woman covering her mouth, surprised and delighted, looking left.\nRow 3:\nLeft: Couple facing each other in profile, holding the bouquet together and smiling.\nRow 4:\nLeft: Empty panel with only the grey backdrop.\nRight: Man kissing the woman's cheek; woman holding the bouquet and smiling at the camera.\nStyle: Photorealistic, high-resolution, soft studio lighting, clean minimal aesthetic, romantic, sweet, playful photo booth vibe.",
@@ -1847,6 +1931,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "b10662917b3d2de1be233cf9f7b8610909b754a0f124f93511e94a40f33b72af"
+  },
+  {
+    "id": "26051eaa-a543-4dce-aaf5-2b8be27ce81c",
+    "title": "Vintage Architectural Travel Poster Illustration",
+    "prompt": "Create a stunning premium architectural travel poster inspired by vintage architectural illustration, featuring [LANDMARK / CITY] as the hero subject.\n\nShow the landmark in an elegant three-quarter perspective, with extremely detailed hand-drawn architectural linework, intricate windows, balconies, columns, textures and ornamental details. Keep the sophisticated editorial composition of a collectible architecture magazine, but transform the artwork into a rich, bright, highly colorful illustration.\n\nUse a beautiful palette of coral red, vibrant turquoise, cobalt blue, sunny yellow, emerald green, warm orange, pink, lavender and golden accents, with natural color variation rather than flat digital blocks. Add colorful trees, flowers, pedestrians, bicycles, vintage cars, street signs and subtle city-life details around the architecture.\n\nBehind the landmark, include a delicate illustrated city map in pale pastel lines, architectural measurement marks, tiny street names and faint blueprint details. Add a small architectural detail sketch on one side, as if taken from an old design archive.\n\nAt the top, use refined typography:\n[CITY NAME]\n[LANDMARK NAME]\nsmall location coordinates beneath.\n\nAt the bottom, include elegant archival-style information such as EST. [YEAR] · ARCHITECTURAL STYLE · CITY · COUNTRY.\n\nThe overall image should feel like a luxury collectible travel poster, combining colored-pencil texture, watercolor washes, fine ink drawing, subtle wax-crayon grain and vintage print imperfections. Bright sunlight, glowing colors, crisp details, warm paper texture, sophisticated composition, beautiful depth, highly detailed yet artistic.\n\nAvoid: dull muted colors, photorealistic photography, generic cartoon style, excessive text, neon cyberpunk aesthetics, flat vector graphics.\n\nMood: joyful, colorful, cultured, nostalgic, sophisticated, artistic, instantly eye-catching, Pinterest-worthy and Instagram-viral.\n\nFor an even more striking result: make the architecture mostly detailed and realistic, while letting the trees, sky, flowers, cars and small street elements explode with bright color. That contrast will make the landmark pop without losing the elegant architectural-poster feel.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "simeon-sanai",
+      "handle": "Naiknelofar788"
+    },
+    "source_platform": "X",
+    "source_id": "2106964998501327124",
+    "source_url": "https://x.com/Naiknelofar788/status/2106964998501327124",
+    "images": [
+      "https://pbs.twimg.com/media/HT1xfdHbAAEDXmd.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HT1xfdAaEAApTG_.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/26051eaa-a543-4dce-aaf5-2b8be27ce81c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/26051eaa-a543-4dce-aaf5-2b8be27ce81c",
+    "published_at": "2026-10-06T07:47:25.238233+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "2c0926e138da90bfccf618f055c678afb0ba9798e1b8786fde602017d5f30473"
   },
   {
     "id": "266dd1da-9e49-4733-9ba9-b263d53a49fa",
@@ -4081,6 +4192,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "c3fe2f10ef4c87b5b457505da19998b8f5bbc9442ad48b44ee6dc83b1b657ce3"
+  },
+  {
+    "id": "541e6a30-b774-41fc-a30a-834858bc27b6",
+    "title": "Silky Tonkotsu Ramen Anime Storyboard Sheet",
+    "prompt": "Create an ultra-high-quality, detailed storyboard sheet for a 15-second anime cooking video.\nThe theme is \"Silky Tonkotsu Ramen.\"\nThe format should be a single horizontal 16:9 storyboard sheet containing multiple panels arranged in chronological order.\nThe overall visual style should be high-quality anime film style, god-tier cooking anime animation, cinematic, highly detailed, and extremely appetizing food-porn / sizzle-style presentation.\nEach panel should clearly show the final video's camera angles, cooking motion, hand actions, flames, steam, boiling broth, and the texture of the ingredients.\nDo not make it live-action. It must be clearly illustrated as high-quality anime art.\nThe storyboard should contain around 12 panels total and visually express the following flow:\nPanel 1:\nA beautiful overhead shot of the ingredients arranged on a wooden prep board.\nFresh ramen noodles, chashu pork belly, soft-boiled marinated egg (ajitsuke tamago), bamboo shoots, nori, green onion, and a bowl of rich tonkotsu broth.\nA clean Japanese kitchen setting, warm light, feels like the opening of a culinary story.\nPanel 2:\nClose-up of pork belly being tightly rolled and tied with kitchen twine.\nHands working with precision, fat layers visible, soft motion trails showing the rolling motion.\nPanel 3:\nThe pork belly searing in a cast iron pan.\nExtreme close-up — fat side down, golden crust forming, sizzling oil spattering, smoke rising.\nVivid Maillard browning effect.\nPanel 4:\nA large pot of pork bones boiling at high heat.\nMilky white broth bubbling aggressively, steam erupting upward, bones visible beneath the surface.\nLow angle shot — dramatic, powerful, primal heat.\nPanel 5:\nClose-up of a ladle skimming the broth.\nImpurities removed, golden fat rings visible on the surface, the broth shimmering like silk.\nPanel 6:\nFresh ramen noodles dropped into boiling water.\nThe noodles fan out in the water, steam exploding upward, water churning white.\nOverhead angle, energetic motion.\nPanel 7:\nThe broth being poured into a deep ceramic bowl.\nA steady golden-white stream, steam rising in the bowl, the bowl warming in the hands.\nSlow, cinematic, satisfying.\nPanel 8:\nNoodles lifted with chopsticks and laid into the broth.\nThey coil and settle into the bowl like a crown.\nExtreme close-up — glistening, wavy strands catching warm light.\nPanel 9:\nChashu pork slices placed carefully on top.\nCross-section visible — perfect pink center, caramelized edges, fat glistening.\nA macro shot that makes it look like a jewel.\nPanel 10:\nThe soft-boiled egg cut in half and placed in the bowl.\nThe yolk — jammy, amber, trembling — catches the light perfectly.\nExtreme close-up, almost like a dramatic reveal.\nPanel 11:\nFinal toppings added — nori, bamboo shoots, green onion, a drizzle of black garlic oil.\nEach element placed with intention. Steam rises between each topping.\nPanel 12:\nHero shot of the completed tonkotsu ramen bowl.\nOverhead and slightly angled — noodles, egg, pork, broth all perfectly composed.\nSteam curling upward, extreme macro on the glossy broth surface.\nChopsticks resting on the side. An overwhelming, soul-warming sizzle effect.\nVary camera angles across all panels. Mix overhead, close-up hands, extreme macro, low angles, diagonal compositions.\nEmphasize steam, boiling motion, sizzle, glossy broth, and the silky texture of noodles and fat.\nUse minimal or no text. No subtitles, logos, or watermarks.\nKeep the same bowl, same kitchen world, same high-quality anime film style consistent throughout.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2068754237455220819",
+    "source_url": "https://x.com/Strength04_X/status/2068754237455220819",
+    "images": [
+      "https://pbs.twimg.com/media/HLWw_nbbUAEFsGi.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/541e6a30-b774-41fc-a30a-834858bc27b6",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/541e6a30-b774-41fc-a30a-834858bc27b6",
+    "published_at": "2026-10-06T07:47:00.47016+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3d1f83c8be6f1f4cbf34dbb292f4d59b15104ad3e1018264749cd66e248e259c"
   },
   {
     "id": "54c40536-8a97-44a0-a98a-d35d32083275",
@@ -7465,6 +7602,33 @@
     "content_hash": "6dde835a09afe3ccf13c807aec0428c4917fdc23fa16010063b45c2624f7c341"
   },
   {
+    "id": "9210de63-b1e7-4f23-9e56-58cce4b4b616",
+    "title": "FIFA World Cup 2026 Editorial Poster Prompt",
+    "prompt": "[Jamal musiala]\nUltra-premium FIFA World Cup 2026 editorial lifestyle campaign poster.\nAutomatically identify everything associated with [PLAYER NAME]:\nnationality, national team, football era, iconic jersey, player number, football achievements, federation identity, football culture, national colors, symbols, language, typography style, memorabilia, football heritage, legendary moments, visual branding, and historical references.\nMain subject:\n[PLAYER NAME] relaxing casually on a luxurious vintage Persian rug while holding a classic red rotary telephone receiver to one ear.\nConfident relaxed posture.\nLooking slightly away from camera as if receiving an important call moments before the FIFA World Cup 2026 Final.\nOutfit:\nAutomatically wear the most iconic and recognizable vintage national team jersey associated with [PLAYER NAME].\nAuthentic retro football fashion.\nClassic collar.\nEra-accurate details.\nPlayer number automatically determined.\nLoose vintage blue denim jeans.\nPremium lifestyle styling.\nEnvironment:\nA nostalgic retro football living room completely dedicated to the legacy of [PLAYER NAME].\nRoom filled with:\nstacked CRT televisions,\nvintage audio equipment,\ncassette players,\nanalog receivers,\nretro electronics,\nframed jerseys,\nhistoric football photographs,\nsigned memorabilia,\nnewspaper clippings,\nnational team banners,\nlegendary match references,\ncareer-defining moments,\ntrophies,\nawards,\nfootball collectibles,\nrare archives,\nmagazine covers,\nfootball posters,\nautographed items.\nCenterpiece:\nOfficial FIFA World Cup 2026 visual branding aesthetic.\nThe FIFA World Cup trophy positioned prominently above the CRT television stack as the central hero object.\nWarm golden spotlight.\nLuxury reflections.\nChampionship atmosphere.\nCRT televisions display:\nWorld Cup 2026 graphics,\nhistoric highlights,\nnational team imagery,\nvintage football broadcasts,\ncareer moments,\nfootball federation visuals,\nretro television static.\nLAYOUT DESIGN\nMassive oversized typography occupying the entire left side of the poster.\nPlayer surname displayed as gigantic magazine-cover typography.\nHandwritten signature-style first name layered above.\nLarge handwritten player number integrated naturally into the composition.\nAdditional editorial typography automatically generated based on:\nnational team slogans,\ncountry football culture,\nWorld Cup ambitions,\nplayer legacy,\nhistoric achievements.\nLuxury football magazine layout.\nPremium sports-advertising composition.\nVintage editorial design language.\nVISUAL STYLE\nFIFA World Cup promotional campaign quality.\nNike × Adidas × Vogue × GQ editorial aesthetic.\nLuxury football nostalgia.\nWarm tungsten lighting.\nDeep cinematic shadows.\nRich texture detail.\nPhotorealistic skin.\nUltra-detailed jersey fabric.\nAuthentic vintage atmosphere.\nPremium color grading.\nWarm amber tones.\nGolden highlights.\nDeep blacks.\nHigh contrast.\nProfessional sports photography.\n85mm lens.\nShallow depth of field.\nMasterpiece composition.\nExtremely detailed.\nUltra realistic.\nAward-winning sports editorial photography.\nLuxury print magazine cover.\nAspect ratio 4:5.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Ari.prtma",
+      "handle": "aripratama293"
+    },
+    "source_platform": "X",
+    "source_id": "2062102785181864021",
+    "source_url": "https://x.com/aripratama293/status/2062102785181864021",
+    "images": [
+      "https://pbs.twimg.com/media/HJ4PB0oawAAp5aH.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HJ4PB0oagAAIKnp.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/9210de63-b1e7-4f23-9e56-58cce4b4b616",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/9210de63-b1e7-4f23-9e56-58cce4b4b616",
+    "published_at": "2026-10-06T07:46:53.89729+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a3f9953b118a79cf838086b5c842acde909d8cba22d17e87b4abbbadf7259de0"
+  },
+  {
     "id": "921bd691-513e-4273-af55-4a32602a8ef8",
     "title": "Luxury Birthday Poster with 3D Number and Festive Decor",
     "prompt": "Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled with high-quality snow-white paper with a texture for the walls. A large number “04\", precisely carved on the wall, with visible depth, realistic inner shadows and elegant volumetric details. Inside the room: dark blue, pastel blue and white balloons, delicate white flowers, exquisite bouquet arrangements and first-class festive style. The happy man from the attached photo is sitting casually on the lower bend of the number “,04”, bending one leg and casually hanging the other, smiling radiantly and looking slightly up. The face, shoulder, one arm, and one leg extend beyond the cut-out number, creating a realistic 3D pop-up window effect. Warm cinematic sunlight penetrating from one side, soft lighting at the edges, photorealistic skin texture, first-class studio shooting, ultra-realistic details, clear focus, luxurious editorial quality. The inscriptions on the wall: “Maverick AI\", “CHAPTER 28\", “365 MORE DAYS OF MIRACLES\". Pure minimalistic composition, luxurious aesthetics of the magazine cover, high-class art direction, realistic shadows, natural colors, absence of shadows from trees, artificial lighting, artificial intelligence artifacts, first-class photography for the birthday campaign, masterpiece quality.\"",
@@ -9583,6 +9747,33 @@
     "content_hash": "182a3b26695dc749497aa7f984ad00fbd558d7481b2bc1890a6b09f96fee93cd"
   },
   {
+    "id": "bda45eb0-8780-4605-aa1e-4438c724ade7",
+    "title": "Top-Down Packaged Snack Country Illustration",
+    "prompt": "GPT image 2.5\n\nPrompt:\nA striking top-down art photograph of a famous packaged food/snack from [COUNTRY], placed on a clean white sheet of paper. At the very top of the paper, write “[COUNTRY NAME]” in large, bold, beautiful typography. Directly underneath, place a realistic, colorful packet of “[FAMOUS FOOD/SNACK]” from that country. The packet is creatively split/opened down the center, and the inside artwork transforms into a vibrant miniature illustration of the country — featuring its most iconic landmark, architecture, landscape, cultural elements and recognizable local details. Keep the original food packet highly realistic with authentic-looking folds, crinkles, printed graphics and vivid colors, while the emerging country illustration uses expressive colored-pencil and wax-crayon strokes. White paper background, overhead composition, playful handmade imperfections, rich saturated colors, premium editorial art photography, extremely detailed, visually satisfying, viral social-media aesthetic.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "simeon-sanai",
+      "handle": "Naiknelofar788"
+    },
+    "source_platform": "X",
+    "source_id": "2107334172633379213",
+    "source_url": "https://x.com/Naiknelofar788/status/2107334172633379213",
+    "images": [
+      "https://pbs.twimg.com/media/HT7BQTIbcAA7KQi.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HT7BQTJasAAU2Fq.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/bda45eb0-8780-4605-aa1e-4438c724ade7",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/bda45eb0-8780-4605-aa1e-4438c724ade7",
+    "published_at": "2026-10-06T07:47:29.411061+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "4254ac47afb9d6f16d749bf0a0a1b60ca6d839c003212f2e276ac7b3e53985b3"
+  },
+  {
     "id": "be358707-ffae-4b48-b895-5e2fd64a7a8d",
     "title": "ELEMENT Flowing from Polaroid into Reality",
     "prompt": "“A hyper-realistic 3D photo concept showing a hand holding a square polaroid photo labeled “ELEMENT”. Inside the photo, there’s a close-up of [ELEMENT], and it flows seamlessly out of the photo frame into the real world, naturally interacting with the surface below. The text “ELEMENT” appears printed cleanly on the white border of the photo in a very readable size. Realistic cinematic lighting, ultra-detailed textures, artistic composition, 1080x1080 square format.”",
@@ -9633,6 +9824,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "948e68f99a109f30cc703dd00b93ce5c4a7fceb67e11430e3a8c42683576bfa0"
+  },
+  {
+    "id": "c0d913cd-ca5f-426b-82e0-0bba91bce558",
+    "title": "Autumn Editorial Portrait of a Woman in Wine Red Dress",
+    "prompt": "Ultra-realistic cinematic autumn editorial portrait of a stylish woman standing gracefully in a beautiful autumn park, surrounded by golden and burnt-orange maple trees, fallen leaves covering the ground, soft warm sunlight filtering through the trees, gentle breeze moving her long soft wavy dark hair and a few autumn leaves around her, elegant natural expression with a subtle confident smile, refined facial features, minimal Korean-style makeup, wearing a sophisticated elegant wine red sleeveless midi one-piece dress with a refined neckline and fitted silhouette, classy and timeless styling, natural graceful pose, warm golden-hour lighting, rich autumn atmosphere, realistic skin texture, cinematic depth of field, soft background bokeh, 85mm lens, photorealistic, luxury fashion magazine aesthetic, highly detailed, 4K, vertical 9:16 composition, no text, no logo, no watermark.",
+    "category": "portrait",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Eesha",
+      "handle": "MissDelulu9"
+    },
+    "source_platform": "X",
+    "source_id": "2103437453529162220",
+    "source_url": "https://x.com/MissDelulu9/status/2103437453529162220",
+    "images": [
+      "https://pbs.twimg.com/media/HTDpLXkbQAA5xau.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTDpMvCbgAAimE5.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c0d913cd-ca5f-426b-82e0-0bba91bce558",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c0d913cd-ca5f-426b-82e0-0bba91bce558",
+    "published_at": "2026-10-06T07:47:21.331056+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "5484942eda0df5d2b2a80ff3dd04094081893dc2488520824057d5a8992cf1af"
   },
   {
     "id": "c1a9bdba-742e-461d-828a-e581352b94d7",
@@ -11357,6 +11575,33 @@
     "content_hash": "2c8d4a80cf45baa2585cf73e46217611e43dac1aadea3024659fa30708aaeaaf"
   },
   {
+    "id": "e9708f01-8815-4674-af57-26aa049b0d6e",
+    "title": "Luxury Hand Cream Bottle with Cherries Product Shot",
+    "prompt": "Dramatic low-angle product photography of the dark red Sokolov Beauty hand cream bottle standing on the sharp edge of a transparent glass podium. The bottle is shot from a low perspective looking up. Clear water is elegantly dripping and flowing down the sides of the bottle and across the glass surface. Several juicy, glossy dark red cherries are placed next to the bottle on the podium. Deep burgundy background with a soft light gradient fading toward the top. Dramatic cinematic lighting with strong highlights and deep shadows, creating a luxurious and sensual mood. Highly detailed water droplets and reflections, premium commercial beauty photography, sharp focus, 8K resolution, photorealistic.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Snow",
+      "handle": "iamrealsnow"
+    },
+    "source_platform": "X",
+    "source_id": "2074539886028456425",
+    "source_url": "https://x.com/iamrealsnow/status/2074539886028456425",
+    "images": [
+      "https://pbs.twimg.com/media/HMo_AcTboAA_WhL.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMo_AgnbwAAqR6Y.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/e9708f01-8815-4674-af57-26aa049b0d6e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/e9708f01-8815-4674-af57-26aa049b0d6e",
+    "published_at": "2026-10-06T07:47:03.23975+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "fb2b9080e2114d8f8c55b41a65bba9950dfd0e51155564c0861c652290ea8daa"
+  },
+  {
     "id": "e983699a-9817-4704-a95f-a4da9558013f",
     "title": "Playful Hand-Painted Character in Minimalist Composition",
     "prompt": "Illustration of \"Me and [○○]\" in a playful and charming pose. Hand-painted look with rich gouache-like texture on paper, featuring natural brushstrokes, simple linework, and a restrained color palette. Bright, uplifting mood; character looking forward or upward, never downward. Minimalist composition with abundant negative space. Loose, analog-style coloring and imperfect handmade texture. The character's face is partially or fully obscured by the object/subject. Soft shading, strong atmosphere, and expressive mood. Clean white background, wide margins, no text, 1:1 aspect ratio.",
@@ -12222,6 +12467,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "66ff5604ec15fcf5e4f9bfa6056a4dfec48f46e11c5c281fd228a81c15cb853a"
+  },
+  {
+    "id": "fbfeb657-1d40-419a-90bc-dc1109e716ce",
+    "title": "If a Country Had a Bedroom — Cinematic Interior",
+    "prompt": "GPT image 2.5\n\nprompt: Create an exceptionally beautiful, highly detailed cinematic interior artwork titled “If [COUNTRY] Had a Bedroom.”\n\nImagine that the entire personality, culture, architecture, landscapes, colors, traditions, and atmosphere of [COUNTRY] have been transformed into one dreamlike bedroom.\n\nThe bedroom should feel luxurious yet authentic, not like a generic themed room. Every object should subtly tell the story of the country.\n\nInclude culturally recognizable details through elegant interior design: traditional materials, local patterns, iconic objects, regional flowers, books, artwork, architecture-inspired furniture, textiles, lighting, food or drink details, and a large window revealing a breathtaking view inspired by [COUNTRY].\n\nThe bed should be the visual centerpiece — beautifully styled with layered fabrics, textured cushions, and subtle patterns inspired by the country's heritage.\n\nAdd small unexpected details that reward viewers for zooming in.\n\nThe room should feel lived-in, peaceful, aspirational and cinematic, rather than like a museum or tourist attraction.\n\nUse natural golden-hour light entering through the window, realistic shadows, soft atmospheric depth, sophisticated interior photography, rich textures, subtle imperfections, ultra-realistic materials, editorial luxury travel magazine aesthetic.\n\nNo people. No excessive flags. No obvious stereotypical decorations. Keep the design sophisticated and believable.\n\nA small elegant handwritten inscription somewhere in the room:\n“If [COUNTRY] had a bedroom…”\n\nVertical 4:5 composition, photorealistic, highly detailed, visually addictive, Pinterest-worthy, premium aesthetic.",
+    "category": "scene-space",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "simeon-sanai",
+      "handle": "Naiknelofar788"
+    },
+    "source_platform": "X",
+    "source_id": "2107084839954661388",
+    "source_url": "https://x.com/Naiknelofar788/status/2107084839954661388",
+    "images": [
+      "https://pbs.twimg.com/media/HT3eeQbaYAAmEGL.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HT3efQAasAEXVaU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce",
+    "published_at": "2026-10-06T07:47:27.830745+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "8aba6ec13e794f4b079d59728bcff1a031a080c39756a20da19f04fd123fca59"
   },
   {
     "id": "fc826cb7-2081-49b6-93c3-145cf565c6af",

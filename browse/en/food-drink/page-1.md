@@ -550,3 +550,104 @@ Create a cute, trendy scrapbook-style Korean food advertisement poster featuring
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2081580288971337797>)
 
 ---
+
+<a id="prompt-bda45eb0-8780-4605-aa1e-4438c724ade7"></a>
+
+## Top-Down Packaged Snack Country Illustration
+
+<a href="https://musesignal.com/prompt/bda45eb0-8780-4605-aa1e-4438c724ade7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HT7BQTIbcAA7KQi.jpg?format=jpg&amp;name=small" width="480" alt="Top-Down Packaged Snack Country Illustration" /></a>
+
+**GPT Image 2.5** · Creator: simeon-sanai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT image 2.5
+
+Prompt:
+A striking top-down art photograph of a famous packaged food/snack from [COUNTRY], placed on a clean white sheet of paper. At the very top of the paper, write “[COUNTRY NAME]” in large, bold, beautiful typography. Directly underneath, place a realistic, colorful packet of “[FAMOUS FOOD/SNACK]” from that country. The packet is creatively split/opened down the center, and the inside artwork transforms into a vibrant miniature illustration of the country — featuring its most iconic landmark, architecture, landscape, cultural elements and recognizable local details. Keep the original food packet highly realistic with authentic-looking folds, crinkles, printed graphics and vivid colors, while the emerging country illustration uses expressive colored-pencil and wax-crayon strokes. White paper background, overhead composition, playful handmade imperfections, rich saturated colors, premium editorial art photography, extremely detailed, visually satisfying, viral social-media aesthetic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bda45eb0-8780-4605-aa1e-4438c724ade7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2107334172633379213>)
+
+---
+
+<a id="prompt-541e6a30-b774-41fc-a30a-834858bc27b6"></a>
+
+## Silky Tonkotsu Ramen Anime Storyboard Sheet
+
+<a href="https://musesignal.com/prompt/541e6a30-b774-41fc-a30a-834858bc27b6?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWw_nbbUAEFsGi.jpg?format=jpg&amp;name=small" width="480" alt="Silky Tonkotsu Ramen Anime Storyboard Sheet" /></a>
+
+**GPT Image 2** · Creator: 𝐌
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-high-quality, detailed storyboard sheet for a 15-second anime cooking video.
+The theme is "Silky Tonkotsu Ramen."
+The format should be a single horizontal 16:9 storyboard sheet containing multiple panels arranged in chronological order.
+The overall visual style should be high-quality anime film style, god-tier cooking anime animation, cinematic, highly detailed, and extremely appetizing food-porn / sizzle-style presentation.
+Each panel should clearly show the final video's camera angles, cooking motion, hand actions, flames, steam, boiling broth, and the texture of the ingredients.
+Do not make it live-action. It must be clearly illustrated as high-quality anime art.
+The storyboard should contain around 12 panels total and visually express the following flow:
+Panel 1:
+A beautiful overhead shot of the ingredients arranged on a wooden prep board.
+Fresh ramen noodles, chashu pork belly, soft-boiled marinated egg (ajitsuke tamago), bamboo shoots, nori, green onion, and a bowl of rich tonkotsu broth.
+A clean Japanese kitchen setting, warm light, feels like the opening of a culinary story.
+Panel 2:
+Close-up of pork belly being tightly rolled and tied with kitchen twine.
+Hands working with precision, fat layers visible, soft motion trails showing the rolling motion.
+Panel 3:
+The pork belly searing in a cast iron pan.
+Extreme close-up — fat side down, golden crust forming, sizzling oil spattering, smoke rising.
+Vivid Maillard browning effect.
+Panel 4:
+A large pot of pork bones boiling at high heat.
+Milky white broth bubbling aggressively, steam erupting upward, bones visible beneath the surface.
+Low angle shot — dramatic, powerful, primal heat.
+Panel 5:
+Close-up of a ladle skimming the broth.
+Impurities removed, golden fat rings visible on the surface, the broth shimmering like silk.
+Panel 6:
+Fresh ramen noodles dropped into boiling water.
+The noodles fan out in the water, steam exploding upward, water churning white.
+Overhead angle, energetic motion.
+Panel 7:
+The broth being poured into a deep ceramic bowl.
+A steady golden-white stream, steam rising in the bowl, the bowl warming in the hands.
+Slow, cinematic, satisfying.
+Panel 8:
+Noodles lifted with chopsticks and laid into the broth.
+They coil and settle into the bowl like a crown.
+Extreme close-up — glistening, wavy strands catching warm light.
+Panel 9:
+Chashu pork slices placed carefully on top.
+Cross-section visible — perfect pink center, caramelized edges, fat glistening.
+A macro shot that makes it look like a jewel.
+Panel 10:
+The soft-boiled egg cut in half and placed in the bowl.
+The yolk — jammy, amber, trembling — catches the light perfectly.
+Extreme close-up, almost like a dramatic reveal.
+Panel 11:
+Final toppings added — nori, bamboo shoots, green onion, a drizzle of black garlic oil.
+Each element placed with intention. Steam rises between each topping.
+Panel 12:
+Hero shot of the completed tonkotsu ramen bowl.
+Overhead and slightly angled — noodles, egg, pork, broth all perfectly composed.
+Steam curling upward, extreme macro on the glossy broth surface.
+Chopsticks resting on the side. An overwhelming, soul-warming sizzle effect.
+Vary camera angles across all panels. Mix overhead, close-up hands, extreme macro, low angles, diagonal compositions.
+Emphasize steam, boiling motion, sizzle, glossy broth, and the silky texture of noodles and fat.
+Use minimal or no text. No subtitles, logos, or watermarks.
+Keep the same bowl, same kitchen world, same high-quality anime film style consistent throughout.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/541e6a30-b774-41fc-a30a-834858bc27b6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068754237455220819>)
+
+---

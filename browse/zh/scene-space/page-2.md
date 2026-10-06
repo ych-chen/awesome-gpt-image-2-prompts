@@ -105,3 +105,47 @@ Warm golden industrial lighting, realistic reflections, soft volumetric haze, at
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/eb016aba-6a79-4b30-8f48-5e53ef44d63a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mon010_de/status/2081232207289729262>)
 
 ---
+
+<a id="prompt-fbfeb657-1d40-419a-90bc-dc1109e716ce"></a>
+
+## If a Country Had a Bedroom — Cinematic Interior
+
+<a href="https://musesignal.com/zh/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HT3eeQbaYAAmEGL.jpg?format=jpg&amp;name=small" width="480" alt="If a Country Had a Bedroom — Cinematic Interior" /></a>
+
+**GPT Image 2.5** · 原作者: simeon-sanai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT image 2.5
+
+prompt: Create an exceptionally beautiful, highly detailed cinematic interior artwork titled “If [COUNTRY] Had a Bedroom.”
+
+Imagine that the entire personality, culture, architecture, landscapes, colors, traditions, and atmosphere of [COUNTRY] have been transformed into one dreamlike bedroom.
+
+The bedroom should feel luxurious yet authentic, not like a generic themed room. Every object should subtly tell the story of the country.
+
+Include culturally recognizable details through elegant interior design: traditional materials, local patterns, iconic objects, regional flowers, books, artwork, architecture-inspired furniture, textiles, lighting, food or drink details, and a large window revealing a breathtaking view inspired by [COUNTRY].
+
+The bed should be the visual centerpiece — beautifully styled with layered fabrics, textured cushions, and subtle patterns inspired by the country's heritage.
+
+Add small unexpected details that reward viewers for zooming in.
+
+The room should feel lived-in, peaceful, aspirational and cinematic, rather than like a museum or tourist attraction.
+
+Use natural golden-hour light entering through the window, realistic shadows, soft atmospheric depth, sophisticated interior photography, rich textures, subtle imperfections, ultra-realistic materials, editorial luxury travel magazine aesthetic.
+
+No people. No excessive flags. No obvious stereotypical decorations. Keep the design sophisticated and believable.
+
+A small elegant handwritten inscription somewhere in the room:
+“If [COUNTRY] had a bedroom…”
+
+Vertical 4:5 composition, photorealistic, highly detailed, visually addictive, Pinterest-worthy, premium aesthetic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2107084839954661388>)
+
+---
