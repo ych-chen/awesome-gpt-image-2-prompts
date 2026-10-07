@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **469** | **60** | 2026-10-06 |
+| **469** | **60** | 2026-10-07 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,9 +28,9 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 123 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| 人像摄影 | 124 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
 | 商业产品 | 94 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| 海报设计 | 105 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| 海报设计 | 104 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 21 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 91 | [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | 场景空间 | 35 | [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 11
+### 人像摄影 · 12
 
 [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -365,6 +365,38 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/john_my07/status/2067642906035585315>)
+
+---
+
+<a id="prompt-43aaff00-fccf-4074-89b3-c0c7bc9fae88"></a>
+
+#### Tang-Fantasy Spring Guofeng Heroine Portrait
+
+<a href="https://musesignal.com/zh/prompt/43aaff00-fccf-4074-89b3-c0c7bc9fae88?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkcWVhbcAAufew.jpg?format=jpg&amp;name=small" width="480" alt="Tang-Fantasy Spring Guofeng Heroine Portrait" /></a>
+
+**GPT Image 2** · 原作者: 李岳
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+9:16 竖版，高精度古风仙侠春日女主写真，唐风幻想审美，华丽精修角色写真感，明亮通透、柔美梦幻、角色海报级完成度。
+画面主体是一位年轻成年东方女性，视觉年龄约 20–28 岁，具有自然明确的东方女性特征，不欧美化，不幼态化，不网红脸。她拥有精致东方淡颜，柔和杏眼，面中饱满，五官柔美耐看，脸型线条流畅，眼神清甜、灵动、温婉，带一点春日女主的柔和亲近感。整体气质为柔美、清甜、灵动、温婉、梦幻。
+妆容为桃粉水光妆，妆容浓度精致，重点强化水光底妆、腮红与卧蚕提亮。底妆瓷白通透、细腻水润，面中有明显但高级的奶油光泽与水光感，不油腻、不塑料。眼妆为桃粉与玫瑰棕柔和渐层，眼尾轻微加深，卧蚕自然提亮，增强清甜灵动感。腮红为桃粉或浅胭脂粉，存在感明显但自然高级，脸颊有春日气色。唇妆为柔润饱满的桃粉、花瓣粉或浅玫瑰粉，整体桃粉妆感明显但不廉价、不网红、不夸张。
+发型为黑长直半披半挽，发尾柔顺，发丝顺滑细腻，有自然光泽，少量碎发自然垂落在脸侧。头饰等级为华丽，佩戴精致浅金发冠、步摇、珍珠流苏、粉白宝石点缀与细金结构件，搭配精致耳饰、珍珠项链与浅粉宝石吊坠。头饰与首饰华丽但不杂乱，增强古偶女主感。
+服装为轻纱外袍 + 刺绣内层 + 华丽腰封，中高华丽度唐风幻想古装女主妆造。服装采用藕粉珍珠金系配色：主色为藕粉与柔和樱粉，辅色为奶白、珍珠白，点缀色为浅金、珍珠与粉晶感宝石。注意不要把全画面都染成粉色，粉色主要集中在人物服装与妆容，背景保持春日自然清透色彩。服装面料轻盈柔软，外层为半透明轻纱，内层有精致花卉刺绣与细腻藤蔓纹样，腰部为华丽浅金腰封，带珍珠、细金边、粉晶宝石与垂坠小饰件。胸部饱满但克制，整体端雅高级，不低俗、不暴露。
+场景为柳岸溪桥、春溪水边、轻雾桃柳之间。人物站在春溪水边或木桥附近，背景为虚化柳枝、溪流、木桥、桃花与春日散景。柳枝从画面上方或侧边自然垂落，溪水有柔和反光，木桥位于背景中远景，轻雾营造空气感与空间层次。背景只负责烘托氛围，不喧宾夺主。
+镜头为正面姿态或轻微三分之二侧身的大半身构图，人物为画面绝对视觉中心。姿态优雅自然，可以一只手轻扶轻纱外袍或袖口，另一只手自然垂落；也可以一只手轻触柳枝，另一只手放在腰封附近。手部动作简单、柔和、稳定，突出古风女主的温婉与灵动。
+光线氛围为晨间柔光，轻微逆光，空气感通透。人物面部受光柔和干净，发丝边缘有轻微逆光，高光不过曝，首饰、珍珠、金边与刺绣有细小闪光。整体画面明亮、清新、柔和、梦幻，春日感强，色彩高级，不灰、不脏、不全画面泛粉。
+画面质感要求高精度、高完成度、发丝细腻、肌肤通透、妆面精致、刺绣清晰、首饰精致、浅景深背景虚化，具有古风仙侠、唐风幻想、华丽女主写真与角色海报级完成度。
+负面约束：未成年感，幼态脸，欧美脸，网红整容脸，夸张现代浓妆，廉价影楼风，廉价 cosplay 风，西式礼服感，现代服装元素，过度暴露，低俗化，服装层次混乱，头饰简陋，首饰塑料感，手部畸形，手指错误，五官失衡，背景喧宾夺主，整张图过度泛粉，画面脏灰，光线过暗，过曝严重，过度模糊，低清晰度，塑料皮肤，低级 AI 感。
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/43aaff00-fccf-4074-89b3-c0c7bc9fae88?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/liyue_ai/status/2069716689080680895>)
 
 ---
 
@@ -2137,7 +2169,7 @@ Keep the same bowl, same kitchen world, same high-quality anime film style consi
 
 <a id="selected-character-art"></a>
 
-### 角色艺术 · 9
+### 角色艺术 · 8
 
 [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>)
 
@@ -2347,57 +2379,6 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/74dc8865-8352-428f-b55e-d2d90a72545f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/AIwithkhan/status/2066858886511161451>)
-
----
-
-<a id="prompt-52e511c1-4156-4874-8553-b5e493b75d90"></a>
-
-#### Rainy Bridge Duel Anime Storyboard Board
-
-<a href="https://musesignal.com/zh/prompt/52e511c1-4156-4874-8553-b5e493b75d90?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOKNyrjbQAAUCQT.jpg?format=jpg&amp;name=small" width="480" alt="Rainy Bridge Duel Anime Storyboard Board" /></a>
-
-**GPT Image 2** · 原作者: 𝐌
-
-创作场景: 角色艺术
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-GPT IMAGE 2: Create a single vertical anime animation development board for an original high-energy action short film titled "Rainy Bridge Duel."
-The final output must be ONE combined image only, clearly divided into 2 sections:
-TOP SECTION: Character design sheet
-BOTTOM SECTION: 12-frame storyboard page
-Create fully original anime characters. Do not imitate any existing anime, manga, game, or copyrighted character designs. Keep everything original, cinematic, dynamic, and easy to understand.
-STYLE: Premium anime pre-production board, loose pencil sketches mixed with semi-rendered anime keyframes, dramatic lighting, strong contrast, speed lines, impact frames, red panel borders, blue motion arrows, handwritten notes, timing notes, and lens notes.
-TOP SECTION — CHARACTER DESIGN SHEET
-Use a light neutral paper-like background.
-Fighter A: Young anime rain fighter, around 19, medium wet dark hair plastered to his face, fierce dark eyes, lean athletic build, determined expression. Outfit: soaked sleeveless hoodie, fingerless gloves, slim combat trousers, light boots. Personality: aggressive, relentless, fights harder in bad conditions. Show front view, side view, back view, 3/4 view, rain-soaked battle stance, rushing punch pose, slide-kick pose, and a few expressions.
-Fighter B: Cool rival duelist, around 22, slicked-back ash-grey hair, calm green eyes, tall lean build, unreadable expression. Outfit: long open trench coat (wet), fitted shirt, slim trousers, leather gloves, boots. Personality: calm, composed, uses the environment strategically. Show front view, side view, back view, 3/4 view, relaxed guard stance, sidestep pose, counter-throw pose, and a few expressions.
-Add small handwritten design notes and compact anime color swatches.
-BOTTOM SECTION — STORYBOARD PAGE
-Use a dark black background for the entire storyboard section. Do not use beige, yellow, or paper-colored background here.
-Create 12 cinematic anime storyboard panels in a clean grid. Use red panel borders, blue motion arrows, handwritten camera notes, timing notes, and action notes. Keep both fighters visually consistent.
-12 STORYBOARD FRAMES:
-➤ Split-screen with thick black divider: Fighter A standing at one end of a rain-soaked suspension bridge, rain hammering down (upper frame); Fighter B standing at the other end, trench coat drifting in the wind (lower frame).
-➤ Split-screen close-ups: Fighter A's fist tightens as rain streams down his arm; Fighter B's calm eyes watch through the rain.
-➤ Wide shot of both fighters on the bridge, rain falling hard, bridge lights flickering, dark river below.
-➤ Fighter A charges across the wet bridge at full speed, rain spraying off his body.
-➤ Tracking shot of Fighter A throwing a rushing straight punch.
-➤ Slow-motion: Fighter B leans aside, the punch passes his face, rain droplets scattering in slow motion.
-➤ Fighter B grabs Fighter A's arm and uses his own momentum to swing him into the bridge railing.
-➤ Fighter A crashes into the railing, metal bending, sparks flying.
-➤ Wide shot of Fighter A recovering near the damaged railing, dark river visible far below.
-➤ Fighter B advances calmly through the rain toward Fighter A.
-➤ Fighter B delivers a precise two-handed shove-strike sending Fighter A sliding hard across the wet bridge surface.
-➤ Aftermath: Rain continues. Fighter B stands at the center of the bridge, trench coat dripping. Fighter A is down near the far railing, bridge lights flickering above, dark river below.
-ENVIRONMENT: Long rain-soaked suspension bridge, flickering bridge lights, heavy rain, strong wind, dark river far below, stormy night sky, wet metal surfaces, sparks from bent railing.
-FINAL GOAL: Make the board clean, readable, cinematic, and production-ready. The top section should clearly show the character designs. The bottom section should clearly show the 12-frame action choreography on a black storyboard background.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/52e511c1-4156-4874-8553-b5e493b75d90?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2081381943665696888>)
 
 ---
 
@@ -2677,12 +2658,13 @@ Vertical 4:5 composition, photorealistic, highly detailed, visually addictive, P
 
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
-| GPT Image | 48 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 406 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image | 47 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
+| GPT Image 2 | 407 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 15 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## 最近发布
 
+- [Tang-Fantasy Spring Guofeng Heroine Portrait](<https://musesignal.com/zh/prompt/43aaff00-fccf-4074-89b3-c0c7bc9fae88?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Top-Down Packaged Snack Country Illustration](<https://musesignal.com/zh/prompt/bda45eb0-8780-4605-aa1e-4438c724ade7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
 - [If a Country Had a Bedroom — Cinematic Interior](<https://musesignal.com/zh/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
 - [Vintage Architectural Travel Poster Illustration](<https://musesignal.com/zh/prompt/26051eaa-a543-4dce-aaf5-2b8be27ce81c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
@@ -2690,7 +2672,6 @@ Vertical 4:5 composition, photorealistic, highly detailed, visually addictive, P
 - [Golden-Hour Editorial Portrait by Vintage Window](<https://musesignal.com/zh/prompt/22131019-926b-4e69-a004-b9e6a4fd500a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Golden Hour Portrait of a Woman in White Linen](<https://musesignal.com/zh/prompt/17cd8e4c-fd01-4f61-8916-7be5e545b7af?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Luxury Hand Cream Bottle with Cherries Product Shot](<https://musesignal.com/zh/prompt/e9708f01-8815-4674-af57-26aa049b0d6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Silky Tonkotsu Ramen Anime Storyboard Sheet](<https://musesignal.com/zh/prompt/541e6a30-b774-41fc-a30a-834858bc27b6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 

@@ -549,49 +549,6 @@ No photorealism, realism, watercolor, painterly brushwork, gradients, heavy shad
 
 ---
 
-<a id="prompt-1016fbb2-d0f8-4a04-8643-d3fddf71ec8e"></a>
-
-## Onyx: Open Source AI Platform with 31K GitHub Stars
-
-<a href="https://musesignal.com/zh/prompt/1016fbb2-d0f8-4a04-8643-d3fddf71ec8e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOAk0KrXEAERUU2.jpg?format=jpg&amp;name=small" width="480" alt="Onyx: Open Source AI Platform with 31K GitHub Stars" /></a>
-
-**GPT Image** · 原作者: Miguel Ángel \| GptZone
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Se llama Onyx y acaba de superar las 31.000 estrellas en GitHub.
-Es una plataforma de IA que puedes instalar en tus propios servidores y conectar con prácticamente cualquier LLM:
-↳ Claude
-↳ ChatGPT
-↳ Gemini
-↳ DeepSeek
-↳ Ollama
-↳ Modelos locales
-Pero lo realmente potente es todo lo que incluye:
-• Agentes de IA personalizados
-• RAG sobre tus propios documentos
-• Investigación profunda
-• Búsqueda web
-• Ejecución de código
-• Creación de archivos
-• Integración con MCP
-• Más de 50 conectores
-• Despliegue con Docker
-Puedes conectarlo a Slack, Google Drive, GitHub, Jira, Confluence y muchas otras fuentes.
-Además, su sistema de investigación profunda llegó a liderar DeepResearch Bench, por encima de varias alternativas propietarias.
-Y puedes alojarlo tú mismo para mantener el control sobre tus datos.
-Repositorio: github onyx-dot-app
-🚨 Guárdalo antes de que todo el mundo empiece a hablar de él.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1016fbb2-d0f8-4a04-8643-d3fddf71ec8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MiguelMaestroIA/status/2080703728945176833>)
-
----
-
 <a id="prompt-8899d928-e025-472f-b268-b915ae3f4f01"></a>
 
 ## Creating an Image with LartAI
