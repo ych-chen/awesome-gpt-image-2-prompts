@@ -98,3 +98,45 @@ Ultra-realistic golden hour close-up portrait of a young woman outdoors, eyes ge
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/43aaff00-fccf-4074-89b3-c0c7bc9fae88?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/liyue_ai/status/2069716689080680895>)
 
 ---
+
+<a id="prompt-d0f0d4c0-85e6-47ff-a2d0-fbd170a0f64a"></a>
+
+## Editorial Fashion Portrait in Red Bell-Sleeve Dress
+
+<a href="https://musesignal.com/zh/prompt/d0f0d4c0-85e6-47ff-a2d0-fbd170a0f64a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLRSN06akAAPKn7.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Fashion Portrait in Red Bell-Sleeve Dress" /></a>
+
+**GPT Image 2** · 原作者: Shahid Wani
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dramatic hard rim lighting from camera-left casting golden edge glow on fabric, direct intense eye contact with camera, parted lips, confident expression, wind-blown sleeve fabric captured mid-motion with natural fabric ripple, hair strands lifted by wind, deep saturated red shadows contrasted against warm blown-out gold highlights, asymmetric tight crop with one sleeve extending off-frame, cinematic color grading, high dynamic range, shot on Hasselblad medium format, 85mm lens, f/1.8 shallow depth of field, warm amber gradient backdrop with subtle atmospheric haze and soft lens flare bottom-left corner, skin texture realistic with subtle highlight sheen, professional studio fashion photography, ultra detailed
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d0f0d4c0-85e6-47ff-a2d0-fbd170a0f64a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/meng_dagg695/status/2068369080504222141>)
+
+---
+
+<a id="prompt-99054e6d-7e34-4c87-8326-f84205029a46"></a>
+
+## Warm Editorial Portrait of a South Asian Woman in Teal
+
+<a href="https://musesignal.com/zh/prompt/99054e6d-7e34-4c87-8326-f84205029a46?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOP0LSFXwAEv2TG.jpg?format=jpg&amp;name=small" width="480" alt="Warm Editorial Portrait of a South Asian Woman in Teal" /></a>
+
+**GPT Image** · 原作者: Minahil
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A captivating medium close-up portrait of a South Asian woman with long, voluminous, wavy dark brown hair, looking back over her shoulder with a soft expression. She is wearing an elegant teal traditional outfit adorned with delicate gold embroidery and a matching dupatta draped over her shoulder, complemented by ornate traditional earrings. The scene is bathed in warm, natural sunlight casting gentle shadows, with a minimalist neutral-toned background featuring a large decorative ceramic vase. The overall aesthetic is warm, cinematic, and editorial, highlighting rich textures and a soft focus.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/99054e6d-7e34-4c87-8326-f84205029a46?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2081775939470414270>)
+
+---

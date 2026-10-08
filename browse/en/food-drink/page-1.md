@@ -651,3 +651,24 @@ Keep the same bowl, same kitchen world, same high-quality anime film style consi
 **[Try on MuseSignal →](<https://musesignal.com/prompt/541e6a30-b774-41fc-a30a-834858bc27b6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068754237455220819>)
 
 ---
+
+<a id="prompt-c69a452e-d5e2-4a1e-96f4-23cb4e7487a5"></a>
+
+## Spicy Tomato Chili Chutney Overhead Food Photography
+
+<a href="https://musesignal.com/prompt/c69a452e-d5e2-4a1e-96f4-23cb4e7487a5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLMgzC8agAAAA4U.jpg?format=jpg&amp;name=small" width="480" alt="Spicy Tomato Chili Chutney Overhead Food Photography" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c69a452e-d5e2-4a1e-96f4-23cb4e7487a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068032837610356989>)
+
+---

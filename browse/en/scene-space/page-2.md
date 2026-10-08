@@ -149,3 +149,160 @@ Vertical 4:5 composition, photorealistic, highly detailed, visually addictive, P
 **[Try on MuseSignal →](<https://musesignal.com/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2107084839954661388>)
 
 ---
+
+<a id="prompt-7817903b-a8b6-485f-a266-51da54295572"></a>
+
+## Golden Hour Mountain Landscape
+
+<a href="https://musesignal.com/prompt/7817903b-a8b6-485f-a266-51da54295572?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLEG6eeb0AEhUS1.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Mountain Landscape" /></a>
+
+**GPT Image** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"prompt": {
+    "scene_type": "Ultra-realistic mountain landscape at golden hour sunset",
+    "style": "Nature photography, cinematic, HDR, photorealistic, National Geographic quality",
+    "resolution": "4K UHD",
+    "aspect_ratio": "3:4 vertical",
+    "camera": {
+      "angle": "Eye-level landscape view",
+      "lens": "24mm wide-angle",
+      "focus": "Deep focus throughout entire scene",
+      "depth_of_field": "Large depth of field, sharp foreground to background",
+      "quality": "Ultra-detailed, crisp textures, high dynamic range"
+    },
+    "environment": {
+      "location": "Mountain wilderness",
+      "season": "Late spring to summer",
+      "time_of_day": "Sunset / golden hour",
+      "weather": "Partly cloudy with dramatic illuminated clouds"
+    },
+    "foreground": {
+      "vegetation": [
+        "Dense wildflower meadow",
+        "Pink wildflowers",
+        "Purple wildflowers",
+        "White wildflowers",
+        "Yellow wildflowers",
+        "Green shrubs and bushes"
+      ],
+      "details": [
+        "Lush vegetation",
+        "Rich natural textures",
+        "Vibrant floral colors"
+      ]
+    },
+    "midground": {
+      "trees": [
+        {
+          "type": "Tall pine trees",
+          "appearance": "Dark green needles, detailed branches",
+          "placement": "Large pine dominating left side"
+        },
+        {
+          "type": "Pine trees",
+          "appearance": "Multiple varying heights",
+          "placement": "Scattered across center"
+        },
+        {
+          "type": "Tall isolated pine",
+          "appearance": "Elegant silhouette",
+          "placement": "Right side of frame"
+        }
+      ],
+      "forest": "Dense evergreen woodland extending across hills"
+    },
+    "background": {
+      "mountains": {
+        "type": "Rocky mountain range",
+        "lighting": "Warm sunlight striking mountain face",
+        "details": [
+          "Rugged rock formations",
+          "Visible ridges and textures",
+          "Natural earthy tones"
+        ]
+      },
+      "hills": "Layered forest-covered hills fading into distance"
+    },
+    "sky": {
+      "color_palette": [
+        "Deep blue",
+        "Soft cyan",
+        "Golden yellow",
+        "Warm orange",
+        "Peach pink",
+        "Lavender"
+      ],
+      "clouds": {
+        "type": "Scattered cumulus clouds",
+        "lighting": "Sunlit edges glowing orange and gold",
+        "density": "Moderately dense"
+      }
+    },
+    "sun": {
+      "position": "Low on horizon, right side of frame",
+      "effect": [
+        "Golden sunlight",
+        "Warm atmospheric glow",
+        "Natural lens illumination",
+        "Long-distance haze"
+      ]
+    },
+    "lighting": {
+      "primary": "Golden hour sunlight",
+      "secondary": "Soft ambient sky illumination",
+      "mood": [
+        "Peaceful",
+        "Majestic",
+        "Inspiring",
+        "Serene",
+        "Breathtaking"
+      ]
+    },
+    "colors": {
+      "dominant": [
+        "Forest green",
+        "Golden orange",
+        "Sky blue"
+      ],
+      "accent": [
+        "Pink flowers",
+        "Purple flowers",
+        "Warm yellow highlights"
+      ]
+    },
+    "render_quality": {
+      "photorealism": "Extreme",
+      "detail_level": "Ultra-detailed",
+      "hdr": true,
+      "global_illumination": true,
+      "volumetric_lighting": true,
+      "natural_shadows": true,
+      "ray_traced_quality": true,
+      "8k_source_quality": true
+    },
+    "negative_prompt": [
+      "People",
+      "Buildings",
+      "Roads",
+      "Vehicles",
+      "Watermarks",
+      "Text",
+      "Low resolution",
+      "Blur",
+      "Noise",
+      "Oversaturation",
+      "Artificial objects",
+      "Cartoon style"
+    ]
+  }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7817903b-a8b6-485f-a266-51da54295572?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2067441319677776309>)
+
+---

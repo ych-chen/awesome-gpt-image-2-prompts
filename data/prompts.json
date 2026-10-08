@@ -679,6 +679,33 @@
     "content_hash": "dad92c8df77ba7f768be5a54b93b83cf526aba4add6bad9e9ee1520500874f7f"
   },
   {
+    "id": "0e441638-84fd-429a-b55a-a4f32836a1d2",
+    "title": "B&W Typographic Silhouette Portrait Poster",
+    "prompt": "High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FEATURE]. Build the portrait with bold black silhouette blocks, sharp negative space, rough ink edges, fragmented stencil shapes, tiny editorial microtext, vertical typographic accents and expressive hand-drawn calligraphic marks. Integrate one large readable text block saying “[TEXT]” in 2 to 4 stacked lines, placed only inside the neck and body area, using oversized scribbled lettering that feels fused into the silhouette.  Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-white paper background, asymmetrical layout, cropped vertical composition, experimental editorial poster design, raw ink print texture, aspect ratio 4:5.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "simeon-sanai",
+      "handle": "Naiknelofar788"
+    },
+    "source_platform": "X",
+    "source_id": "2069776015178805535",
+    "source_url": "https://x.com/Naiknelofar788/status/2069776015178805535",
+    "images": [
+      "https://pbs.twimg.com/media/HLlSTv7bkAAFIQT.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLlSTwbWMAAUi1U.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0e441638-84fd-429a-b55a-a4f32836a1d2",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0e441638-84fd-429a-b55a-a4f32836a1d2",
+    "published_at": "2026-10-08T07:34:30.149257+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b78c389d79a782938b94bfce9fb81894de6406244af999fdd0cf4f6ab04dcb22"
+  },
+  {
     "id": "0e706338-ef5b-4853-8390-57029acacf68",
     "title": "Picasso Meets Kawaii: Neo-Cubist Vector Portrait",
     "prompt": "Create a cute neo-expressionist cubist minimal vector portrait illustration, Picasso meets kawaii minimalism, inspired by stylized fashion editorials and playful modern art. Ultra-simplified exaggerated facial features with oversized abstract eyes, flat cartoon eye shapes, minimal black dots or single curved strokes, no realistic iris details, no eyelashes, extremely reduced facial detail. Tiny abstract nose drawn with one short angular line. Small single-stroke lips, tiny soft geometric mouth shape, minimal expression marks, no realistic mouth anatomy. Rounded cheeks, dreamy innocent expression, playful asymmetrical proportions, elongated elegant neck, simplified geometric facial planes, stylized angular hair shapes, subtle caricature aesthetics, childlike artistic distortion. Use clean scalable vector shapes, flat color blocking, bold primitive contour lines, sharp Bézier curves, abstract polygon composition, minimal linework, naive handmade drawing quality, expressive empty space, icon-like facial abstraction, no realistic rendering, 2D primitive facial symbols. Add subtle oil pastel grain overlays, rough handmade brush accents, raw scribbled handwritten marks, visible pigment texture, silkscreen poster feeling. Vibrant limited color palette against deep matte black background. Luxury editorial gallery poster composition, contemporary fashion illustration, artsy modern cubist poster, stylish and adorable, premium print-ready vector artwork.",
@@ -5434,6 +5461,35 @@
     "content_hash": "8a043ec6fe0d538ef46b95b078e7b53b78f10305d7635513ede512d6759a8b01"
   },
   {
+    "id": "71b29aee-f76d-4ab9-86fa-4ff9597715db",
+    "title": "High-Fashion Product Campaign Poster Prompt",
+    "prompt": "Prompt:\n[Product type]: {perfume / sunscreen / sports drink / cushion compact / other}\n[Brand name]: {original fictional brand}\n[Product name]: {original product name}\n[Main word]: {AURA / SHIELD / BOOST / GLOW / other}\n[Model]: {gender, appearance, hairstyle, attitude}\n[Outfit]: {fashion direction and key materials}\n[Color palette]: {main color + neutral color + accent color}\n[Atmosphere]: {mist / sunbeams / water reflections / powder glow / other}\n[Aspect ratio]: 9:16\nCreate a vertical high-fashion commercial campaign poster.\nTurn the product into an oversized architectural stage occupying about 40–50% of the frame. The model sits, leans, or poses naturally on the product with believable weight, contact, balance, and body proportions. Use a slightly low camera angle and a strong diagonal or layered composition to create scale and visual impact.\nPlace one oversized emotional keyword behind the model and product. The typography should feel spatial, with partial cropping, foreground–background overlap, transparency, reflections, refraction, shadows, or material effects related to the product.\nAdd 3–5 short pieces of original brand copy. Arrange them creatively along the product edge, a light beam, a circular structure, or the side of the frame. Keep the micro typography refined, readable, and asymmetrical rather than placing every text block in the corners.\nBuild a minimal but atmospheric brand world. Use one main atmospheric effect and one subtle supporting effect, such as soft haze and glass caustics, sunlight and warm reflections, condensation and cool mist, or pearl powder and halo lighting. Avoid excessive particles and visual clutter.\nRealistic luxury commercial photography, authentic skin texture, accurate product packaging, refined materials, controlled reflections, cinematic lighting, editorial fashion styling, strong hierarchy, generous negative space, premium campaign quality.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Larus Canus",
+      "handle": "MrLarus"
+    },
+    "source_platform": "X",
+    "source_id": "2081318396243947848",
+    "source_url": "https://x.com/MrLarus/status/2081318396243947848",
+    "images": [
+      "https://pbs.twimg.com/media/HOJTXubaYAALVm3.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOJTYG9aoAAxXu0.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOJTYg-a0AABx6y.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOJTY6zb0AAB-RL.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db",
+    "published_at": "2026-10-08T07:34:33.153447+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "4ac2ecb883649d174bda68d73034265d6ac52758f31ccdecc64c49057551f6dc"
+  },
+  {
     "id": "71c0bc7e-fb2d-4d28-89ed-adff1f67c21a",
     "title": "California Driver License Mockup",
     "prompt": "4k image of driving license taken by my iPhone\ninformation present in image my name - iqrasaifiii CALIFORNIA , USA\n, on May 11 2026 16:9 , make sure visuals are on point",
@@ -5998,6 +6054,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "b23be5637bec3a20c0dc4bb7e38b85401e9bed3ee5e82afa0ea4c3a9bd709fca"
+  },
+  {
+    "id": "7817903b-a8b6-485f-a266-51da54295572",
+    "title": "Golden Hour Mountain Landscape",
+    "prompt": "\"prompt\": {\n    \"scene_type\": \"Ultra-realistic mountain landscape at golden hour sunset\",\n    \"style\": \"Nature photography, cinematic, HDR, photorealistic, National Geographic quality\",\n    \"resolution\": \"4K UHD\",\n    \"aspect_ratio\": \"3:4 vertical\",\n    \"camera\": {\n      \"angle\": \"Eye-level landscape view\",\n      \"lens\": \"24mm wide-angle\",\n      \"focus\": \"Deep focus throughout entire scene\",\n      \"depth_of_field\": \"Large depth of field, sharp foreground to background\",\n      \"quality\": \"Ultra-detailed, crisp textures, high dynamic range\"\n    },\n    \"environment\": {\n      \"location\": \"Mountain wilderness\",\n      \"season\": \"Late spring to summer\",\n      \"time_of_day\": \"Sunset / golden hour\",\n      \"weather\": \"Partly cloudy with dramatic illuminated clouds\"\n    },\n    \"foreground\": {\n      \"vegetation\": [\n        \"Dense wildflower meadow\",\n        \"Pink wildflowers\",\n        \"Purple wildflowers\",\n        \"White wildflowers\",\n        \"Yellow wildflowers\",\n        \"Green shrubs and bushes\"\n      ],\n      \"details\": [\n        \"Lush vegetation\",\n        \"Rich natural textures\",\n        \"Vibrant floral colors\"\n      ]\n    },\n    \"midground\": {\n      \"trees\": [\n        {\n          \"type\": \"Tall pine trees\",\n          \"appearance\": \"Dark green needles, detailed branches\",\n          \"placement\": \"Large pine dominating left side\"\n        },\n        {\n          \"type\": \"Pine trees\",\n          \"appearance\": \"Multiple varying heights\",\n          \"placement\": \"Scattered across center\"\n        },\n        {\n          \"type\": \"Tall isolated pine\",\n          \"appearance\": \"Elegant silhouette\",\n          \"placement\": \"Right side of frame\"\n        }\n      ],\n      \"forest\": \"Dense evergreen woodland extending across hills\"\n    },\n    \"background\": {\n      \"mountains\": {\n        \"type\": \"Rocky mountain range\",\n        \"lighting\": \"Warm sunlight striking mountain face\",\n        \"details\": [\n          \"Rugged rock formations\",\n          \"Visible ridges and textures\",\n          \"Natural earthy tones\"\n        ]\n      },\n      \"hills\": \"Layered forest-covered hills fading into distance\"\n    },\n    \"sky\": {\n      \"color_palette\": [\n        \"Deep blue\",\n        \"Soft cyan\",\n        \"Golden yellow\",\n        \"Warm orange\",\n        \"Peach pink\",\n        \"Lavender\"\n      ],\n      \"clouds\": {\n        \"type\": \"Scattered cumulus clouds\",\n        \"lighting\": \"Sunlit edges glowing orange and gold\",\n        \"density\": \"Moderately dense\"\n      }\n    },\n    \"sun\": {\n      \"position\": \"Low on horizon, right side of frame\",\n      \"effect\": [\n        \"Golden sunlight\",\n        \"Warm atmospheric glow\",\n        \"Natural lens illumination\",\n        \"Long-distance haze\"\n      ]\n    },\n    \"lighting\": {\n      \"primary\": \"Golden hour sunlight\",\n      \"secondary\": \"Soft ambient sky illumination\",\n      \"mood\": [\n        \"Peaceful\",\n        \"Majestic\",\n        \"Inspiring\",\n        \"Serene\",\n        \"Breathtaking\"\n      ]\n    },\n    \"colors\": {\n      \"dominant\": [\n        \"Forest green\",\n        \"Golden orange\",\n        \"Sky blue\"\n      ],\n      \"accent\": [\n        \"Pink flowers\",\n        \"Purple flowers\",\n        \"Warm yellow highlights\"\n      ]\n    },\n    \"render_quality\": {\n      \"photorealism\": \"Extreme\",\n      \"detail_level\": \"Ultra-detailed\",\n      \"hdr\": true,\n      \"global_illumination\": true,\n      \"volumetric_lighting\": true,\n      \"natural_shadows\": true,\n      \"ray_traced_quality\": true,\n      \"8k_source_quality\": true\n    },\n    \"negative_prompt\": [\n      \"People\",\n      \"Buildings\",\n      \"Roads\",\n      \"Vehicles\",\n      \"Watermarks\",\n      \"Text\",\n      \"Low resolution\",\n      \"Blur\",\n      \"Noise\",\n      \"Oversaturation\",\n      \"Artificial objects\",\n      \"Cartoon style\"\n    ]\n  }",
+    "category": "scene-space",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "NUSRAT",
+      "handle": "nxnusratul"
+    },
+    "source_platform": "X",
+    "source_id": "2067441319677776309",
+    "source_url": "https://x.com/nxnusratul/status/2067441319677776309",
+    "images": [
+      "https://pbs.twimg.com/media/HLEG6eeb0AEhUS1.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7817903b-a8b6-485f-a266-51da54295572",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7817903b-a8b6-485f-a266-51da54295572",
+    "published_at": "2026-10-08T07:34:11.364844+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0c1f493c3a11d0e05b6043ec0c63f598efbe89571b758548d68b7a3c1dd5e7e3"
   },
   {
     "id": "78b4bcd4-0380-4e35-8a9f-f1ba36cdf4af",
@@ -7465,6 +7547,32 @@
     "content_hash": "57f329693dc17bb271b6b1405d618111515ff0c714209d6c107c782bfcef9a46"
   },
   {
+    "id": "908cddbe-c044-442c-a18a-a6ac23548a17",
+    "title": "Pixar-Style World Cup 2026 Caricature Poster",
+    "prompt": "If you want more players ➡️ replace “3-4” to how many you’d like.\nPrompt:\n“Pixar-style 3D CGI caricature poster celebrating [NATION]'s World Cup 2026 national football team. Feature 3-4 of the team's most iconic current players as charming, exaggerated 3D caricature characters wearing the official nation home kit, big expressive eyes, warm glossy Pixar-quality rendering, dynamic hero poses radiating excitement and team pride. Background uses the nation’s flag colors with a stadium atmosphere, confetti, and subtle World Cup 2026 branding elements. Bold, energetic title text reading '[NATION] WORLD CUP 2026' at the top in a font style matching the team's national colors. Cinematic lighting, vibrant colors, professional sports poster composition, high detail, glossy finish.”",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "TechieSA",
+      "handle": "TechieBySA"
+    },
+    "source_platform": "X",
+    "source_id": "2069417585083396116",
+    "source_url": "https://x.com/TechieBySA/status/2069417585083396116",
+    "images": [
+      "https://pbs.twimg.com/media/HLgMUhUa8AA_g6k.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/908cddbe-c044-442c-a18a-a6ac23548a17",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/908cddbe-c044-442c-a18a-a6ac23548a17",
+    "published_at": "2026-10-08T07:34:28.804754+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "6cae868c85ba4a9ecde067c892dd2aba6563f64109514c226ca4acfc8e5203d4"
+  },
+  {
     "id": "90b5c046-fbc3-4089-a86a-2c04a749530e",
     "title": "Golden Hour Portrait Collage",
     "prompt": "image_generation\": {\n\"face\": {\n\"preserve_original\": true,\n\"reference_match\": true,\n\"description\": \"Maintain the same facial structure, skin tone, eye shape, and natural expressions across all frames, with consistent identity in each pose.\"\n},\n\n\"photo_style\": {\n\"type\": \"golden hour portrait collage\",\n\"camera_angle\": \"varied close-up and medium portrait angles\",\n\"lighting\": \"warm golden hour sunlight casting soft window shadows\",\n\"mood\": \"soft, calm, intimate, aesthetic\",\n\"texture\": \"natural skin texture, soft highlights, gentle contrast\",\n\"focus\": \"sharp focus on face with smooth background falloff\"\n},\n\n\"subject\": {\n\"poses\": [\n\"looking upward toward light\",\n\"soft smile facing camera\",\n\"side profile with downward gaze\",\n\"over-the-shoulder glance\",\n\"direct close-up with relaxed lips\",\n\"hand in hair casual pose\",\n\"head tilted back toward light\",\n\"clean side profile portrait\",\n\"thoughtful pose with hand near chin\"\n],\n\"expression\": \"natural, minimal, relaxed, emotionally subtle\",\n\"hair\": {\n\"style\": \"long straight hair worn loose\",\n\"color\": \"light to medium brown\",\n\"details\": \"natural shine with soft light highlights\"\n},\n\"clothing\": {\n\"type\": \"casual minimalist outfit\",\n\"details\": \"simple dark t-shirt with no visible branding\"\n}\n},\n\n\"composition\": {\n\"layout\": \"3x3 grid collage\",\n\"consistency\": \"uniform lighting and background across all frames\",\n\"framing\": \"clean portrait framing with slight pose variation\"\n},\n\n\"environment\": {\n\"setting\": \"indoor space near a window\",\n\"background\": \"plain wall with warm sunlight and shadow patterns\",\n\"atmosphere\": \"quiet, minimal, artistic indoor ambiance\"\n},\n\n\"aesthetic\": {\n\"style\": \"Instagram aesthetic portrait set\",\n\"features\": [\n\"golden hour light\",\n\"window shadow patterns\",\n\"minimal makeup\",\n\"natural expressions\",\n\"clean editorial portrait look\"\n]\n}\n\n}",
@@ -8162,6 +8270,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "8bdf9661616d2682336d520ef59e330eb965280f1711edfc15934714a408ee7f"
+  },
+  {
+    "id": "99054e6d-7e34-4c87-8326-f84205029a46",
+    "title": "Warm Editorial Portrait of a South Asian Woman in Teal",
+    "prompt": "A captivating medium close-up portrait of a South Asian woman with long, voluminous, wavy dark brown hair, looking back over her shoulder with a soft expression. She is wearing an elegant teal traditional outfit adorned with delicate gold embroidery and a matching dupatta draped over her shoulder, complemented by ornate traditional earrings. The scene is bathed in warm, natural sunlight casting gentle shadows, with a minimalist neutral-toned background featuring a large decorative ceramic vase. The overall aesthetic is warm, cinematic, and editorial, highlighting rich textures and a soft focus.",
+    "category": "portrait",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2081775939470414270",
+    "source_url": "https://x.com/Minahil42298354/status/2081775939470414270",
+    "images": [
+      "https://pbs.twimg.com/media/HOP0LSFXwAEv2TG.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/99054e6d-7e34-4c87-8326-f84205029a46",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/99054e6d-7e34-4c87-8326-f84205029a46",
+    "published_at": "2026-10-08T07:34:37.213475+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "d4cd441862092f51f5d36bdb0876608759fa88bf110cec48f1216586320ffee8"
   },
   {
     "id": "9a736949-45ac-4cb8-a49a-f0f23b69e769",
@@ -10067,6 +10201,34 @@
     "content_hash": "ad9b8c802d067d345f27236edab51fa6a4d31be891fef6b29a31ace041b4384e"
   },
   {
+    "id": "c69a452e-d5e2-4a1e-96f4-23cb4e7487a5",
+    "title": "Spicy Tomato Chili Chutney Overhead Food Photography",
+    "prompt": "Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "PromptLab",
+      "handle": "iamaiistudio"
+    },
+    "source_platform": "X",
+    "source_id": "2068032837610356989",
+    "source_url": "https://x.com/iamaiistudio/status/2068032837610356989",
+    "images": [
+      "https://pbs.twimg.com/media/HLMgzC8agAAAA4U.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLMgzC7acAAHzhJ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLMgzC7agAA934t.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c69a452e-d5e2-4a1e-96f4-23cb4e7487a5",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c69a452e-d5e2-4a1e-96f4-23cb4e7487a5",
+    "published_at": "2026-10-08T07:34:16.324513+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "86cf819e8b505420d6d0da4e566790ad3c175df2c330176096644d03e7d2c8f6"
+  },
+  {
     "id": "c958e627-a4d7-4e5a-83cb-34ac6a4ba1ca",
     "title": "Crocheted Seaside Shop in Spring Magic",
     "prompt": "Stitching a little bit of spring magic into reality. 🧵✨\nMade with GPT image 2 on @TapNow_AI\nPROMPT 1:\nA highly detailed 3D tactical crochet art diorama of a pastel blue, two story seaside shop from a straight on perspective, inspired by\nThe building is crocheted with neat, tight light blue yarn stitches, featuring a peachy pink yarn door and window frames. On the left, a massive, fluffy, ultra-textured cumulus cloud is crafted using thick, chunky white bouclé yarn to give it a 3D pop-out effect, set against a light blue crocheted sky. Below, the ocean is made of wavy horizontal rows of dark and light blue yarn, and the beach is stitched with textured beige sand yarn. A tiny crocheted bicycle with thin wire wheels, miniature chairs, a white umbrella, potted green yarn plants, a brown wooden-pole power line with thin yarn threads, and a small pink vending machine are all meticulously detailed in yarn. The entire piece is neatly enclosed inside a light, natural wooden frame, sitting flat on a neutral canvas fabric background, showing rich textile textures.\nPROMPT 2:\nA detailed, high-resolution close-up photograph of a meticulously crafted, intricate three-dimensional crochet diorama, presented inside a deep walnut wood frame with a clear glass front, sitting on a neutral textured surface. The subject is a miniaturized European-style street corner, recreated entirely through various crochet and textile arts, maintaining all elements from image_9.png. The buildings are rendered with tight, even crochet stitches, in their exact colors and positions: the mint-green and salmon-pink main structure with the striped awning, and the adjacent pink and yellow buildings. All features, including the multiple large, textured, voluminous light-pink crocheted cherry blossom trees (rendered with complex cluster-stitches), are present. The ground-floor detailed doors, windows with internal warm lights (like LED filaments within a yarn grille), balconies with crochet flower boxes, menu boards, potted plants, lamps, and cobblestone street pavement are all preserved with extreme fidelity. The sign over the striped awning retains its text. The surrounding blue crochet field is also visible. The deep walnut frame has clean lines and a visible grain. Natural, soft daylight from a large window illuminates the diorama, creating soft, warm shadows within the recessed scene and highlighting the rich textures of every yarn stitch and fiber. The depth of the diorama is clearly visible through the clear glass, showcasing the multi-layered construction. The focus is sharp across the central diorama, with the wood frame edges and the surface below softly out of focus. The entire piece is framed as a high-end, artisan craft.",
@@ -10392,6 +10554,34 @@
     "content_hash": "cb8f31aada44a3a9fae55567e31e2650a518cea86c2de0ecd8df235811a060d5"
   },
   {
+    "id": "d0f0d4c0-85e6-47ff-a2d0-fbd170a0f64a",
+    "title": "Editorial Fashion Portrait in Red Bell-Sleeve Dress",
+    "prompt": "Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dramatic hard rim lighting from camera-left casting golden edge glow on fabric, direct intense eye contact with camera, parted lips, confident expression, wind-blown sleeve fabric captured mid-motion with natural fabric ripple, hair strands lifted by wind, deep saturated red shadows contrasted against warm blown-out gold highlights, asymmetric tight crop with one sleeve extending off-frame, cinematic color grading, high dynamic range, shot on Hasselblad medium format, 85mm lens, f/1.8 shallow depth of field, warm amber gradient backdrop with subtle atmospheric haze and soft lens flare bottom-left corner, skin texture realistic with subtle highlight sheen, professional studio fashion photography, ultra detailed",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Shahid Wani",
+      "handle": "meng_dagg695"
+    },
+    "source_platform": "X",
+    "source_id": "2068369080504222141",
+    "source_url": "https://x.com/meng_dagg695/status/2068369080504222141",
+    "images": [
+      "https://pbs.twimg.com/media/HLRSN06akAAPKn7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLRSPwkbcAALegR.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLRSQp7aoAA5074.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d0f0d4c0-85e6-47ff-a2d0-fbd170a0f64a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d0f0d4c0-85e6-47ff-a2d0-fbd170a0f64a",
+    "published_at": "2026-10-08T07:34:20.963294+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "6ae39a2c38c56151eefd9212f0f52836ef9e200a078c47b85d33e822a0fb9123"
+  },
+  {
     "id": "d12d230f-604a-4ded-89d5-f0f85984689b",
     "title": "Pastel Pink Airport Travel Portrait",
     "prompt": "A photorealistic candid travel photograph of a young woman standing inside a bright modern international airport terminal near a departure gate. She has long, soft dark-brown hair styled half-up with a large pale-pink claw clip, wispy bangs framing her forehead, and a pair of black sunglasses resting on top of her head. She has delicate facial features, natural skin texture, subtle makeup, rosy cheeks, and a warm gentle smile while looking slightly to the side.\nShe is wearing a coordinated pastel-pink travel outfit: a soft pink zip-up hoodie layered over a simple white fitted top, paired with relaxed pink wide-leg pants. A structured dark-brown shoulder handbag hangs from her shoulder.\nShe is holding a pastel-pink insulated water bottle and a smartphone together in her hands. Beside her is a large beige hard-shell rolling suitcase with a dark brown backpack placed on top, and a pink baseball cap resting over the backpack. The luggage gives the scene an authentic airport-travel feeling.\nThe background shows a spacious modern airport terminal with large floor-to-ceiling windows, a visible airport control tower and aircraft outside, polished reflective flooring, travelers with rolling luggage, queue barriers, a coffee shop, and a prominent black-and-gold departure sign reading “GATE A42.” A large digital flight information display is visible on the right side.\nComposition: vertical 4:5 portrait, three-quarter/full-body framing, subject positioned slightly left of center, airport gate and control tower clearly visible behind her, natural candid travel pose, realistic smartphone-camera perspective.\nLighting: bright natural daylight entering through the huge terminal windows, soft indoor ambient lighting, gentle highlights on her hair and face, realistic reflections on the polished floor, clean airy atmosphere.\nPhotography style: ultra-realistic smartphone travel photography, soft Korean/Asian lifestyle fashion aesthetic, natural skin texture, realistic hair strands, detailed clothing and luggage textures, authentic airport environment, subtle depth of field, balanced exposure, soft pastel color grading, slight film grain, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, distorted luggage, warped suitcase, artificial hair, oversaturated colors, excessive blur, fake airport background, low resolution, text distortion, watermark, logo.",
@@ -10445,6 +10635,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "1f76472fc7741e95f9521a298145100c01fc2d8133f4117e5e7b1abf223561c8"
+  },
+  {
+    "id": "d359f1c2-485f-4708-b642-ca6e5985175a",
+    "title": "Layered Paper-Cut City Travel Poster",
+    "prompt": "Create a premium commercial-quality vertical 3:4 layered paper-cut collage illustration of [CITY], [COUNTRY], celebrating the harmonious coexistence of the city's historic heritage and contemporary urban identity.\nAutomatically select a believable viewpoint where old and new architecture naturally coexist within one continuous landscape.\nLet authentic historic districts, traditional buildings, streets, rooftops, bridges, waterfronts, hillsides, plazas, local architectural details, and cultural elements dominate the foreground and middle ground, while representative modern architecture appears subtly and naturally in the distant background.\nCompose the city as a handcrafted multi-layer paper diorama built from carefully cut and stacked matte papers.\nUse overlapping paper layers, repeated rooflines, streets, bridges, rivers, canals, coastlines, hills, terraces, pathways, structural rhythms, and atmospheric spacing to connect the entire city into one coherent composition.\nAvoid a disconnected landmark collage.\nVISUAL STYLE\n• layered paper-cut collage\n• visible paper edges and thickness\n• delicate stacked shadows\n• hand-cut organic contours\n• matte gouache paper texture\n• subtle paper grain and fiber texture\n• soft handmade irregularities\n• museum-quality handcrafted travel poster aesthetic\nCOLOR PALETTE\nUse a restrained color palette inspired by [CITY].\nColors should be:\n• lightly toned down\n• pastel\n• airy\n• elegant\n• softly weathered\n• low saturation\nAvoid vivid or highly saturated colors.\nCOMPOSITION\n• vertical 3:4 format\n• open sky occupies 40–50% of composition\n• generous negative space\n• simplified city silhouettes\n• selective architectural detail only\n• depth created through paper layering rather than realistic perspective\n• clean foreground, middle ground, and background separation\nEVERYDAY LIFE DETAILS\nInclude only a few tiny signs of life:\n• one or two pedestrians\n• a small café table\n• local transportation\n• a bicycle, boat, tram, ferry, train, or vehicle appropriate to the city\n• a few birds in the sky\nKeep all figures very small and secondary.\nTRAVEL JOURNAL DOODLES\nIntegrate subtle white hand-drawn travel-journal doodles:\n• arrows\n• route lines\n• stars\n• location pins\n• tiny local motifs\n• transportation notes\n• architectural annotations\n• handwritten marks\nKeep doodles sparse, delicate, and secondary.\nTYPOGRAPHY\nPlace \"[CITY]\" in the upper-right sky area using elegant hand-lettered travel-journal typography.\nThe text should feel lightly drawn onto the paper surface and never dominate the composition.\nLIGHTING\nWarm late-afternoon sunlight.\nLong soft shadows between paper layers.\nCalm nostalgic atmosphere.\nRefined editorial travel-poster mood.\nOVERALL FEELING\nminimal\nairy\nhandcrafted\npoetic\ncultured\ntimeless\nwarm\nquiet\npremium collectible destination poster\nAVOID\nphotorealism,\nglossy CGI,\n3D rendering,\nplastic textures,\nhard digital edges,\nexcessive detail,\ncrowded tourists,\nHDR lighting,\nlens blur,\nrealistic camera effects,\noversized landmarks,\nheavy typography,\nsouvenir-poster clichés,\ndisconnected landmark montage.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2067829709141061830",
+    "source_url": "https://x.com/Strength04_X/status/2067829709141061830",
+    "images": [
+      "https://pbs.twimg.com/media/HLJoBolaYAAovwg.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d359f1c2-485f-4708-b642-ca6e5985175a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d359f1c2-485f-4708-b642-ca6e5985175a",
+    "published_at": "2026-10-08T07:34:14.518781+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e48165ad792042a58655da7f3b43c6275158c9cda6956af05bc6fddb37b05efb"
   },
   {
     "id": "d38dc2c1-17b3-444e-89e0-73e438fa9b3c",
