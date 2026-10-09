@@ -997,3 +997,38 @@ disconnected landmark montage.
 **[Try on MuseSignal →](<https://musesignal.com/prompt/d359f1c2-485f-4708-b642-ca6e5985175a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2067829709141061830>)
 
 ---
+
+<a id="prompt-baf0b086-3b5d-4633-8998-fb7faa68447e"></a>
+
+## Nostalgic Editorial Scrapbook Photo Collage
+
+<a href="https://musesignal.com/prompt/baf0b086-3b5d-4633-8998-fb7faa68447e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUKHNs9bsAA5mtE.jpg?format=jpg&amp;name=small" width="480" alt="Nostalgic Editorial Scrapbook Photo Collage" /></a>
+
+**GPT Image 2** · Creator: Sairah
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a nostalgic editorial scrapbook-style image combining one main photorealistic lifestyle photograph with a hand-drawn illustrated section underneath.
+
+The top 50–55% should be a cinematic, highly realistic photograph of [SUBJECT / SCENE], captured like an authentic film photograph. Natural candid composition, warm nostalgic atmosphere, soft diffused light, subtle film grain, realistic textures, slightly muted vintage colors, autumnal/warm earthy tones, shallow depth of field where appropriate, beautifully composed but not overly polished.
+
+The bottom 45–50% should look like a vintage handmade scrapbook / travel journal page, printed on warm cream textured paper. Recreate small elements from the photograph as loose colored-pencil and watercolor doodle illustrations arranged in a clean 3×3 or balanced grid. Include simple hand-drawn objects related to the scene such as [OBJECT 1], [OBJECT 2], [OBJECT 3], [OBJECT 4]. Use imperfect sketch lines, subtle pencil strokes, watercolor bleed, slightly uneven coloring and authentic handmade imperfections.
+
+Add a short handwritten title at the top of the illustrated section: “[TITLE]”, in casual imperfect black/gray handwritten lettering. Add tiny decorative elements such as hearts, dots, clouds, leaves, stars, waves or small doodles around the illustrations.
+
+At the very bottom, add a small handwritten caption: “[SHORT CAPTION]”.
+
+Overall aesthetic: cozy Pinterest editorial, nostalgic travel diary, vintage film photography + children’s sketchbook illustration, warm analog memories, premium lifestyle magazine composition, tactile paper texture, understated and elegant, emotionally warm, authentic rather than overly digital.
+
+Composition: vertical 4:5, clean separation between photograph and illustration, balanced negative space, consistent visual storytelling between the photo and drawings.
+
+Important: preserve realistic photography in the top section; do not turn the photograph into an illustration. The lower section should clearly look hand-drawn. Avoid excessive text, distorted lettering, photorealistic doodles, CGI appearance, oversaturation, clutter, or overly perfect vector graphics.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/baf0b086-3b5d-4633-8998-fb7faa68447e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2108396270276804931>)
+
+---

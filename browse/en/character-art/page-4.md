@@ -50,3 +50,26 @@ FINAL GOAL: Make the board clean, readable, cinematic, and production-ready. The
 **[Try on MuseSignal →](<https://musesignal.com/prompt/52e511c1-4156-4874-8553-b5e493b75d90?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2081381943665696888>)
 
 ---
+
+<a id="prompt-876f91ef-2374-4045-8a0e-249c1cca8535"></a>
+
+## Delivery Courier Character Turnaround Sheet
+
+<a href="https://musesignal.com/prompt/876f91ef-2374-4045-8a0e-249c1cca8535?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNuhOFtaUAA6IYg.jpg?format=jpg&amp;name=small" width="480" alt="Delivery Courier Character Turnaround Sheet" /></a>
+
+**GPT Image 2** · Creator: Kashberg
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Image Prompt:
+Ultra-realistic full-body character turnaround sheet of a delivery courier wearing a modern green-and-dark-charcoal waterproof uniform. The layout includes front view, back view, left side, right side, 3/4 front, 3/4 back, a clean head-and-shoulders portrait, and a first-person POV looking down at both arms. The courier wears a green baseball cap, green crew-neck shirt, green hooded rain jacket with dark charcoal side panels, reflective silver strip near the hem, black slim-fit pants, and black athletic sneakers. White vertical branding printed on the jacket front panel and horizontal branding across the back. Neutral facial expression, athletic build, realistic skin texture.
+Studio product photography, seamless light gray background, soft diffused lighting, perfectly centered framing, consistent scale, orthographic reference style, highly detailed fabric texture, waterproof material, realistic stitching, clean folds, accurate proportions, fashion catalog quality, photorealistic, 8K, ultra-sharp, no shadows distracting from the subject, professional apparel design presentation.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/876f91ef-2374-4045-8a0e-249c1cca8535?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Kashberg_0/status/2079432928019505314>)
+
+---

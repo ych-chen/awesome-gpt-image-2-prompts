@@ -140,3 +140,59 @@ A captivating medium close-up portrait of a South Asian woman with long, volumin
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/99054e6d-7e34-4c87-8326-f84205029a46?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2081775939470414270>)
 
 ---
+
+<a id="prompt-ff6d0838-bc23-4add-a259-46f0f8dab3e0"></a>
+
+## High-Fashion Street-Style Portrait of a Woman
+
+<a href="https://musesignal.com/zh/prompt/ff6d0838-bc23-4add-a259-46f0f8dab3e0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTw7NVibYAAThXa.jpg?format=jpg&amp;name=small" width="480" alt="High-Fashion Street-Style Portrait of a Woman" /></a>
+
+**GPT Image 2** · 原作者: Sairah
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a photorealistic high-fashion street-style photograph of a stylish young woman standing casually on a modern European city street. She wears a black leather jacket over a fitted blue button-up shirt, high-waisted wide-leg black trousers, a black belt, black loafers, and carries a large black tote bag. Add sleek black rectangular sunglasses and minimal elegant jewelry.
+
+She has a relaxed, confident posture with one hand in her trouser pocket, captured naturally as if photographed during a casual city walk. Full-body composition, subject centered, realistic proportions and natural body anatomy.
+
+The environment features modern urban architecture, glass-and-concrete buildings, parked cars, leafy street trees, brick pavement, road markings and subtle everyday city activity in the background.
+
+Natural bright daytime sunlight, realistic shadows, soft highlights, slightly warm tones, authentic reflections, subtle depth of field. The image should feel like a candid luxury fashion editorial shot taken on a modern smartphone, not a studio photograph.
+
+Ultra-realistic skin and clothing textures, realistic hair strands, natural facial details, accurate fabric and leather texture, true-to-life colors, slight smartphone camera grain, subtle HDR, 35mm-equivalent perspective, high dynamic range, editorial fashion photography, candid composition, premium Instagram aesthetic.
+
+Avoid excessive retouching, plastic skin, unrealistic body proportions, overly dramatic lighting, artificial-looking backgrounds, text, logos, watermarks, or CGI appearance.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ff6d0838-bc23-4add-a259-46f0f8dab3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2106623836745826647>)
+
+---
+
+<a id="prompt-66224c00-f662-4399-805d-2de31c334cfe"></a>
+
+## Night Market Poker Snapshot
+
+<a href="https://musesignal.com/zh/prompt/66224c00-f662-4399-805d-2de31c334cfe?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIr68_taQAAqDy2.jpg?format=jpg&amp;name=small" width="480" alt="Night Market Poker Snapshot" /></a>
+
+**GPT Image 2** · 原作者: Iqra Saifi
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ein körniges, ungestelltes Smartphone-Foto, aus einer niedrigen Perspektive aufgenommen, während einer nächtlichen Straßen-Pokerrunde auf einem belebten Nachtmarkt. Um einen billigen, abgenutzten Holztisch sitzen vier Männer mittleren Alters auf niedrigen Plastikstühlen — Xi Jinping und Donald Trump tragen weiße gerippte Tanktops, Elon Musk trägt ein schwarzes Tanktop und greift nach einem Stapel blauer Chips, während Tim Cook ganz rechts mit Brille sitzt und Bier aus einem Plastikbecher trinkt.
+
+Im Vordergrund hält die Hand des Fotografen zwei Spielkarten, eine Dame und eine 8, wodurch der Blick auf den Tisch teilweise verdeckt wird. Auf dem Tisch liegen verstreut rote, weiße und blaue Pokerchips, eine grüne Glasbierflasche und mehrere Plastikbecher.
+
+Der Hintergrund zeigt eine überfüllte, authentische asiatische Nachtstraße mit verschwommenen Neonschildern in chinesischen Schriftzeichen, aufsteigendem Dampf von entfernten Essensständen und gedämpften, grellen Straßenlampen von oben. Blitzlicht-Effekt, hohes ISO-Rauschen, leicht unperfekte Bildkomposition, rohe Texturen, lässiger 35mm-Schnappschuss-Stil, hyperrealistisch, ungestellt, alltägliche Realität. --ar 4:3 --style raw
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/66224c00-f662-4399-805d-2de31c334cfe?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/IqrasaifiAI/status/2056732310213624199>)
+
+---

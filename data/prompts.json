@@ -29,6 +29,35 @@
     "content_hash": "f0a42b72620825b31ae624261df31074e948247e42497adbf5c9c452a88c08ff"
   },
   {
+    "id": "01f6379c-3071-4f68-874a-439a131d0d61",
+    "title": "LEGO-Style Soccer Minifigure Collectible Studio Shot",
+    "prompt": "A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "K",
+      "handle": "ChillaiKalan__"
+    },
+    "source_platform": "X",
+    "source_id": "2068717001145778630",
+    "source_url": "https://x.com/ChillaiKalan__/status/2068717001145778630",
+    "images": [
+      "https://pbs.twimg.com/media/HLWPIZ8aQAAPkF2.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLWPIZ3aIAIFSKi.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLWPIaLaMAA7IvC.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLWPIZ8awAAw_Gr.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/01f6379c-3071-4f68-874a-439a131d0d61",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/01f6379c-3071-4f68-874a-439a131d0d61",
+    "published_at": "2026-10-09T07:34:58.424745+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "8a9c35abbb2ae0c212dd29686c2ccedc0df1129ae0bf66cf663b6c79b756fc31"
+  },
+  {
     "id": "021ecf0d-19c0-477c-98a0-29ccbb7dbb04",
     "title": "Kirin Watermelon Premium Gift Packaging Proposal",
     "prompt": "麒麟西瓜\nGPT Image 2提示词：\n任务：为“麒麟西瓜”设计一张高端水果电商包装提案板，主题为“麒夏礼境”，面向城市中高端家庭送礼、企业团购、生鲜电商精品礼盒场景。输出应是一张专业、克制、真实可落地的包装设计 proposal board，而不是普通广告海报。\n品牌定位与受众：premium fresh fruit ecommerce gift packaging for Kirin watermelon, restrained luxury agricultural gifting, trustworthy, fresh, premium, modern Chinese aesthetic, audience includes urban families, summer seasonal gifting buyers, enterprise welfare procurement, boutique fresh-food ecommerce consumers.\n英雄包装结构：画面中心为一个超大 45-degree hero package，占画面 50% 左右。包装采用“一体式书型翻盖礼盒 + 外部运输护箱”的结构逻辑。礼盒为横向长方体，比例稳重，边角挺括，盖面完整展开后能看到内托与双果位；运输护箱作为次级模块出现在侧边，以较简洁方式展示其抗压、防护与面单区。礼盒提手不要做脆弱挖孔，改为加固织带提手或隐藏式侧提结构。底部结构必须厚实，有锁底或托盘式承重逻辑。整个包装不能显得轻薄廉价，必须有 realistic rigid board and corrugated structure thickness.\n水果与内托逻辑：麒麟西瓜为大果重果，方案采用 2果装。内部为双独立果位阵列，使用 molded pulp insert / paper-pulp tray with contour support, each watermelon seated into a shaped cradle, with honeycomb-paper bottom cushion, top stabilizing ring, side anti-roll ribs, clear lid clearance, visible ventilation path. 果实不得悬空，不得互相挤压，不得靠果皮直接承重碰撞。开箱模块中应清楚看到两个果位、限位环、底部缓冲、提取手位和透气孔路径。可以加入单个切面西瓜作为小面积辅助物，强调品类识别，但不能喧宾夺主。\n视觉识别系统：整体风格为高端东方农业礼品包装，clean premium packaging board, modern Chinese typography mood, restrained composition. 主色为深墨绿色、玉白色，辅助为淡藤黄色，点缀少量西瓜瓤红与低饱和烫金。图形语言来自“麒麟纹样抽象化 + 西瓜藤蔓曲线 + 夏季风场纹理”，但必须极简、规整、可用于大面积包装，不要传统复杂国潮堆砌。表面材质表现为特种纸裱灰板、局部烫金 logo、局部 UV 产品名、细腻压纹。工艺数量要克制，不超过三种重点效果。纸张纹理、瓦楞边厚度、模塑纸托纤维感都应清晰可见。\n提案板构成：使用 clean studio presentation board，浅暖白背景带轻微玉色渐层。除中央英雄包装外，周围以模块化网格排布 7 到 8 个辅助模块：\n1. 开箱视图：展示翻盖打开后的双果位内托结构\n2. 三视图：正面、侧面、顶部的包装外观小图\n3. 内托结构放大：显示纸浆托、蜂窝底垫、顶部限位环、提取手位\n4. 运输护箱模块：显示外护箱、面单区、条码区、二维码占位区\n5. 刀模结构示意：production-intent dieline visualization，不要伪装成完全可生产文件\n6. 材质与工艺 swatches：特种纸、纸浆托、烫金、局部UV、压纹\n7. 关键尺寸注释：礼盒外尺寸、单果位净空、提手位置、透气孔避让逻辑\n8. 品牌故事小模块：小面积展示“夏季精品瓜礼”的定位语和产地徽记\n刀模与生产标注：在右下或下方安排一个可读但不抢戏的 dieline module。使用标准图例表达：红色实线裁切线、蓝色虚线压痕线、绿色出血线、紫色安全线、浅绿色透气孔、浅棕色内托缓冲区域、黄色粘胶位。标注内容要是 clean modular annotations, unit mm, bleed 3 mm, safety margin 5 mm, finished-size tolerance +-1 mm, die-cut tolerance +-0.5 mm, print registration tolerance +-0.3 mm, logistics label zone, barcode placeholder, QR placeholder, traceability code placeholder, batch/date placeholder。注意所有码区都必须是 clearly labeled placeholder zones, not fake readable codes.\n灯光与镜头：soft studio lighting, premium commercial packaging photography, realistic shadows, subtle reflections, balanced white background, sharp focus, high resolution, professional industrial design board, clean alignment, generous negative space, realistic scale, luxury ecommerce proposal board, landscape composition, 16:9 ratio. 英雄包装最突出，辅助模块清晰但更小，整体像真正给客户汇报的 packaging concept board。\n包装文案块：在画面中尝试渲染简短且清晰的上包装文字，避免密集长段落。可见文字控制为少量短词：\n品牌主标：麒麟西瓜\n英文副标：KIRIN WATERMELON\n提案标题：夏季精品礼箱\n辅助语：清甜脆爽 / 产地精选 / 双果礼赠\n角标占位：产地徽记 / 可变信息区 / 物流面单区 / 条码区 / 二维码区\n请将所有文字视为短标签式排版，保持高级感和留白，不要生成大段难读文本。\n最终效果要求：professional premium fruit ecommerce packaging proposal board, one oversized 45-degree hero package, photorealistic paper and corrugated texture, heavy-fruit protective insert, coherent opening structure, realistic rigid gift box plus shipping sleeve logic, production-intent dieline visualization, restrained luxury agricultural brand identity, clean technical annotations, physically plausible structure, elegant high-end Chinese packaging presentation.",
@@ -5116,6 +5145,32 @@
     "content_hash": "5f8d17341d10f782934f694e915571616501903f4884918311fb9de8eee2815d"
   },
   {
+    "id": "66224c00-f662-4399-805d-2de31c334cfe",
+    "title": "Night Market Poker Snapshot",
+    "prompt": "Ein körniges, ungestelltes Smartphone-Foto, aus einer niedrigen Perspektive aufgenommen, während einer nächtlichen Straßen-Pokerrunde auf einem belebten Nachtmarkt. Um einen billigen, abgenutzten Holztisch sitzen vier Männer mittleren Alters auf niedrigen Plastikstühlen — Xi Jinping und Donald Trump tragen weiße gerippte Tanktops, Elon Musk trägt ein schwarzes Tanktop und greift nach einem Stapel blauer Chips, während Tim Cook ganz rechts mit Brille sitzt und Bier aus einem Plastikbecher trinkt.\n\nIm Vordergrund hält die Hand des Fotografen zwei Spielkarten, eine Dame und eine 8, wodurch der Blick auf den Tisch teilweise verdeckt wird. Auf dem Tisch liegen verstreut rote, weiße und blaue Pokerchips, eine grüne Glasbierflasche und mehrere Plastikbecher.\n\nDer Hintergrund zeigt eine überfüllte, authentische asiatische Nachtstraße mit verschwommenen Neonschildern in chinesischen Schriftzeichen, aufsteigendem Dampf von entfernten Essensständen und gedämpften, grellen Straßenlampen von oben. Blitzlicht-Effekt, hohes ISO-Rauschen, leicht unperfekte Bildkomposition, rohe Texturen, lässiger 35mm-Schnappschuss-Stil, hyperrealistisch, ungestellt, alltägliche Realität. --ar 4:3 --style raw",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Iqra Saifi",
+      "handle": "IqrasaifiAI"
+    },
+    "source_platform": "X",
+    "source_id": "2056732310213624199",
+    "source_url": "https://x.com/IqrasaifiAI/status/2056732310213624199",
+    "images": [
+      "https://pbs.twimg.com/media/HIr68_taQAAqDy2.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/66224c00-f662-4399-805d-2de31c334cfe",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/66224c00-f662-4399-805d-2de31c334cfe",
+    "published_at": "2026-10-09T07:34:49.831236+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "2dabbd705ca8341a0133b782174133175afa323e715fb85c6ace7f0a07d31740"
+  },
+  {
     "id": "66573d12-456f-4235-8900-369afeb95cef",
     "title": "Laundry Mart: Cleaner Clothes, Better Life",
     "prompt": "Design a premium, modern, high-converting advertising poster for a professional laundry service brand called \"Laundry Mart\". Use a clean blue, white, and navy color palette that conveys freshness, cleanliness, trust, and professionalism.\nThe poster should feature a smiling young customer holding a basket of neatly folded fresh clothes inside a bright, modern laundromat with stainless-steel washing machines in the background. The environment should look spotless, well-lit, and inviting.\nCreate a bold headline:\nLAUNDRY MART\nAdd a catchy slogan beneath:\n\"Cleaner Clothes. Better Life.\"\nInclude a large promotional message in bold typography:\nCLEAN TODAY,\nBETTER EVERYDAY.\nAdd supporting text:\nFresh laundry.\nMore time.\nLess stress.\nInclude a services section with modern line icons for:\n• Wash\n• Dry\n• Fold\n• Extra Care\nAdd an attractive promotional offer section:\nOPENING OFFER\n20% OFF\nON YOUR FIRST 3 VISITS\nInclude a call-to-action area:\nVISIT US TODAY!\nClean clothes. Happy life.\nAdd social media icons, location pin icon, QR code placeholder, and contact details section.\nEnhance the design with subtle water bubbles, sparkle effects, smooth curves, premium typography, modern layout composition, professional advertising style, realistic photography, ultra-sharp details, commercial marketing quality, luxury brand presentation, high-end print-ready poster design, balanced spacing, clean hierarchy, and eye-catching visual flow.\nStyle: Professional advertising campaign, photorealistic, corporate branding, modern marketing poster, ultra-detailed, 4K quality, magazine advertisement aesthetic, premium commercial design.",
@@ -7028,6 +7083,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0142d5601db3fada718bfda661c6e466bf7813f2a2568cf09678225874fe619d"
+  },
+  {
+    "id": "876f91ef-2374-4045-8a0e-249c1cca8535",
+    "title": "Delivery Courier Character Turnaround Sheet",
+    "prompt": "Image Prompt:\nUltra-realistic full-body character turnaround sheet of a delivery courier wearing a modern green-and-dark-charcoal waterproof uniform. The layout includes front view, back view, left side, right side, 3/4 front, 3/4 back, a clean head-and-shoulders portrait, and a first-person POV looking down at both arms. The courier wears a green baseball cap, green crew-neck shirt, green hooded rain jacket with dark charcoal side panels, reflective silver strip near the hem, black slim-fit pants, and black athletic sneakers. White vertical branding printed on the jacket front panel and horizontal branding across the back. Neutral facial expression, athletic build, realistic skin texture.\nStudio product photography, seamless light gray background, soft diffused lighting, perfectly centered framing, consistent scale, orthographic reference style, highly detailed fabric texture, waterproof material, realistic stitching, clean folds, accurate proportions, fashion catalog quality, photorealistic, 8K, ultra-sharp, no shadows distracting from the subject, professional apparel design presentation.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Kashberg",
+      "handle": "Kashberg_0"
+    },
+    "source_platform": "X",
+    "source_id": "2079432928019505314",
+    "source_url": "https://x.com/Kashberg_0/status/2079432928019505314",
+    "images": [
+      "https://pbs.twimg.com/media/HNuhOFtaUAA6IYg.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/876f91ef-2374-4045-8a0e-249c1cca8535",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/876f91ef-2374-4045-8a0e-249c1cca8535",
+    "published_at": "2026-10-09T07:35:11.320169+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1e60451170df0aca4d7161228dd5d7f084926d253a2236b9739c68bca5f5678b"
   },
   {
     "id": "88741e58-a4c5-4351-bc1d-07e1050d090f",
@@ -9740,6 +9821,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0364c6aa14accf3da4946615956a29d6fd9854baac6c316a3c4eaaf8e0959113"
+  },
+  {
+    "id": "baf0b086-3b5d-4633-8998-fb7faa68447e",
+    "title": "Nostalgic Editorial Scrapbook Photo Collage",
+    "prompt": "Create a nostalgic editorial scrapbook-style image combining one main photorealistic lifestyle photograph with a hand-drawn illustrated section underneath.\n\nThe top 50–55% should be a cinematic, highly realistic photograph of [SUBJECT / SCENE], captured like an authentic film photograph. Natural candid composition, warm nostalgic atmosphere, soft diffused light, subtle film grain, realistic textures, slightly muted vintage colors, autumnal/warm earthy tones, shallow depth of field where appropriate, beautifully composed but not overly polished.\n\nThe bottom 45–50% should look like a vintage handmade scrapbook / travel journal page, printed on warm cream textured paper. Recreate small elements from the photograph as loose colored-pencil and watercolor doodle illustrations arranged in a clean 3×3 or balanced grid. Include simple hand-drawn objects related to the scene such as [OBJECT 1], [OBJECT 2], [OBJECT 3], [OBJECT 4]. Use imperfect sketch lines, subtle pencil strokes, watercolor bleed, slightly uneven coloring and authentic handmade imperfections.\n\nAdd a short handwritten title at the top of the illustrated section: “[TITLE]”, in casual imperfect black/gray handwritten lettering. Add tiny decorative elements such as hearts, dots, clouds, leaves, stars, waves or small doodles around the illustrations.\n\nAt the very bottom, add a small handwritten caption: “[SHORT CAPTION]”.\n\nOverall aesthetic: cozy Pinterest editorial, nostalgic travel diary, vintage film photography + children’s sketchbook illustration, warm analog memories, premium lifestyle magazine composition, tactile paper texture, understated and elegant, emotionally warm, authentic rather than overly digital.\n\nComposition: vertical 4:5, clean separation between photograph and illustration, balanced negative space, consistent visual storytelling between the photo and drawings.\n\nImportant: preserve realistic photography in the top section; do not turn the photograph into an illustration. The lower section should clearly look hand-drawn. Avoid excessive text, distorted lettering, photorealistic doodles, CGI appearance, oversaturation, clutter, or overly perfect vector graphics.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Sairah",
+      "handle": "Sairah_0"
+    },
+    "source_platform": "X",
+    "source_id": "2108396270276804931",
+    "source_url": "https://x.com/Sairah_0/status/2108396270276804931",
+    "images": [
+      "https://pbs.twimg.com/media/HUKHNs9bsAA5mtE.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUKHNs4bAAEAZvu.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUKHNs2a8AActRf.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/baf0b086-3b5d-4633-8998-fb7faa68447e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/baf0b086-3b5d-4633-8998-fb7faa68447e",
+    "published_at": "2026-10-09T07:35:34.615928+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "558092f0cbecdaa304bc202caa037c3c96022fd286d3110309165750780969d0"
   },
   {
     "id": "bb8db6cf-d1e6-4a16-af5a-c558cb311175",
@@ -12846,6 +12955,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "451e56c02ef4eadb19e9ec4068f057122c13bfdea63c795759dfa09eee79f6a5"
+  },
+  {
+    "id": "ff6d0838-bc23-4add-a259-46f0f8dab3e0",
+    "title": "High-Fashion Street-Style Portrait of a Woman",
+    "prompt": "Create a photorealistic high-fashion street-style photograph of a stylish young woman standing casually on a modern European city street. She wears a black leather jacket over a fitted blue button-up shirt, high-waisted wide-leg black trousers, a black belt, black loafers, and carries a large black tote bag. Add sleek black rectangular sunglasses and minimal elegant jewelry.\n\nShe has a relaxed, confident posture with one hand in her trouser pocket, captured naturally as if photographed during a casual city walk. Full-body composition, subject centered, realistic proportions and natural body anatomy.\n\nThe environment features modern urban architecture, glass-and-concrete buildings, parked cars, leafy street trees, brick pavement, road markings and subtle everyday city activity in the background.\n\nNatural bright daytime sunlight, realistic shadows, soft highlights, slightly warm tones, authentic reflections, subtle depth of field. The image should feel like a candid luxury fashion editorial shot taken on a modern smartphone, not a studio photograph.\n\nUltra-realistic skin and clothing textures, realistic hair strands, natural facial details, accurate fabric and leather texture, true-to-life colors, slight smartphone camera grain, subtle HDR, 35mm-equivalent perspective, high dynamic range, editorial fashion photography, candid composition, premium Instagram aesthetic.\n\nAvoid excessive retouching, plastic skin, unrealistic body proportions, overly dramatic lighting, artificial-looking backgrounds, text, logos, watermarks, or CGI appearance.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Sairah",
+      "handle": "Sairah_0"
+    },
+    "source_platform": "X",
+    "source_id": "2106623836745826647",
+    "source_url": "https://x.com/Sairah_0/status/2106623836745826647",
+    "images": [
+      "https://pbs.twimg.com/media/HTw7NVibYAAThXa.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTw7NVcaAAA0ZWJ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/ff6d0838-bc23-4add-a259-46f0f8dab3e0",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/ff6d0838-bc23-4add-a259-46f0f8dab3e0",
+    "published_at": "2026-10-09T07:35:29.900862+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "508c8d90dd385eb3d656d4d604996d6495dd2a7b5b511a7f29fd4fd1e53c658e"
   },
   {
     "id": "ff89ce64-775b-4a51-b88f-22f3b9d47335",

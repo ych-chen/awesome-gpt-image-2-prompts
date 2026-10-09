@@ -346,3 +346,24 @@ Realistic luxury commercial photography, authentic skin texture, accurate produc
 **[Try on MuseSignal →](<https://musesignal.com/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrLarus/status/2081318396243947848>)
 
 ---
+
+<a id="prompt-01f6379c-3071-4f68-874a-439a131d0d61"></a>
+
+## LEGO-Style Soccer Minifigure Collectible Studio Shot
+
+<a href="https://musesignal.com/prompt/01f6379c-3071-4f68-874a-439a131d0d61?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWPIZ8aQAAPkF2.jpg?format=jpg&amp;name=small" width="480" alt="LEGO-Style Soccer Minifigure Collectible Studio Shot" /></a>
+
+**GPT Image 2** · Creator: K
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/01f6379c-3071-4f68-874a-439a131d0d61?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ChillaiKalan__/status/2068717001145778630>)
+
+---
