@@ -672,3 +672,498 @@ Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surfa
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c69a452e-d5e2-4a1e-96f4-23cb4e7487a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068032837610356989>)
 
 ---
+
+<a id="prompt-5fa96c94-0b5c-415a-8dd9-6ecca318fb25"></a>
+
+## Ultra-Premium Refreshing Beverage Splash Poster Template
+
+<a href="https://musesignal.com/zh/prompt/5fa96c94-0b5c-415a-8dd9-6ecca318fb25?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZQDyVawAAIQgp.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Premium Refreshing Beverage Splash Poster Template" /></a>
+
+**GPT Image 2** · 原作者: Shore Lyn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT Image 2 on ChatGPT
+
+Prompt:
+
+TITLE:
+ULTRA-PREMIUM REFRESHING BEVERAGE SPLASH POSTER TEMPLATE
+
+CORE CONCEPT:
+Create a premium beverage advertising poster built around the idea of “freshness in motion”.
+
+The main idea is:
+one refreshing drink becomes the center of a dynamic splash moment,
+surrounded by ice cubes, fruit slices, liquid motion, bold oversized typography, and clean commercial UI details.
+
+The poster should communicate:
+
+freshness,
+energy,
+cool taste,
+summer mood,
+premium refreshment,
+bold flavor,
+social-media appetite appeal,
+modern drink branding.
+
+Do NOT copy any reference image literally.
+Use only the concept of:
+large drink glass,
+frozen splash motion,
+floating ice,
+fruit garnish,
+bold oversized typography,
+warm energetic background,
+premium beverage campaign layout.
+
+TOPIC:
+[BEVERAGE POSTER / COLD DRINK AD / ICED TEA CAMPAIGN / MOCKTAIL POSTER / SUMMER DRINK BRANDING / JUICE AD / SODA CAMPAIGN / CAFE MENU POSTER / REFRESHING DRINK TEMPLATE / PREMIUM FOOD AND DRINK ADVERTISING]
+
+STYLE & ART DIRECTION:
+
+Premium beverage advertising.
+
+High-energy summer drink campaign.
+
+Clean commercial poster composition.
+
+Bold editorial typography.
+
+Fresh fruit-driven visual identity.
+
+Modern cafe and restaurant branding.
+
+Dynamic liquid photography style.
+
+Social-media-ready drink layout.
+
+High-end refreshment campaign.
+
+Marketplace-ready beverage poster template.
+
+MAIN SUBJECT:
+
+ONE hero drink displayed prominently.
+
+The drink may be:
+
+iced tea,
+soda,
+cola,
+lemonade,
+fruit juice,
+mocktail,
+cold brew,
+sparkling drink,
+summer refresher,
+cafe signature drink,
+restaurant beverage.
+
+The glass should look:
+
+cold,
+fresh,
+glossy,
+realistic,
+transparent,
+premium,
+high-detail,
+commercial-quality.
+
+Include visible drink details such as:
+
+ice cubes,
+bubbles,
+condensation,
+fruit slices,
+garnish,
+liquid highlights,
+glass reflections,
+fresh splash movement.
+
+VISUAL METAPHOR:
+
+Create a “freshness explosion” around the drink.
+
+Use:
+
+liquid splash arc,
+floating ice cubes,
+fruit slices,
+bubbles,
+condensation droplets,
+cold mist,
+citrus garnish,
+dynamic diagonal motion.
+
+The splash should feel frozen in time.
+
+The drink should look like it is moving through the poster with energy and taste.
+
+LAYOUT & COMPOSITION:
+
+Horizontal or vertical premium beverage-poster composition.
+
+The design should include:
+
+brand logo in the top corner,
+
+large oversized typography across the middle,
+
+hero drink overlapping or cutting through the typography,
+
+fruit slices floating around the glass,
+
+liquid splash above or behind the drink,
+
+small price or menu detail,
+
+small origin / flavor / location text block,
+
+minimal CTA button,
+
+subtle dotted texture or graphic detail,
+
+clean negative space,
+
+strong brand-color background,
+
+premium commercial hierarchy.
+
+The typography should feel integrated into the drink motion, not separated from it.
+
+The product should remain the strongest visual focus.
+
+TYPOGRAPHY:
+
+Use:
+
+extra-bold condensed sans-serif typography,
+
+large uppercase display words,
+
+wide letter spacing,
+
+clean menu-style microcopy,
+
+modern beverage-brand hierarchy,
+
+minimal UI-style labels,
+
+high-impact social media readability.
+
+TEXT STRUCTURE:
+
+Brand Name:
+[BEVERAGE BRAND NAME]
+
+Main Campaign Word:
+[OVERSIZED DRINK NAME / FLAVOR / LOCATION WORD]
+
+Supporting Line:
+[SHORT REFRESHING MESSAGE]
+
+Flavor / Origin Text:
+[FROM / FLAVOR / INGREDIENT / LOCATION]
+
+Price or Menu Detail:
+[PRICE / MENU NOTE / LIMITED OFFER]
+
+CTA:
+[OPEN MENU / ORDER NOW / TRY TODAY / REFRESH NOW]
+
+Bottom Info:
+[WEBSITE / SOCIAL HANDLE / CAFE LOCATION]
+
+HEADLINE EXAMPLES:
+
+ICE COLD
+
+FRESH SIP
+
+CITRUS RUSH
+
+SUMMER POUR
+
+COOL WAVE
+
+LONG REFRESH
+
+TASTE THE CHILL
+
+SPLASH SEASON
+
+BIG FLAVOR
+
+POUR THE MOMENT
+
+SUPPORTING LINE EXAMPLES:
+
+Freshness served cold.
+
+A bold sip of summer.
+
+Made for sunny moments.
+
+Cool taste, big energy.
+
+Your daily refreshment escape.
+
+Bright flavor in every sip.
+
+A splash of pure refreshment.
+
+VISUAL SYSTEM:
+
+Build the poster around a “drink in motion” visual system.
+
+Use:
+
+hero glass perspective,
+
+diagonal drink movement,
+
+oversized typography behind the glass,
+
+liquid splash crown,
+
+floating ice cubes,
+
+fresh fruit garnish,
+
+soft bubbles,
+
+subtle halftone dots,
+
+minimal UI arrows,
+
+clean menu button,
+
+premium light reflections.
+
+The design should feel modern, energetic, and highly appetizing.
+
+BACKGROUND SYSTEM:
+
+Use a single bold beverage background color.
+
+Recommended color directions:
+
+orange citrus gradient,
+
+lime green summer background,
+
+deep cola brown,
+
+lemon yellow,
+
+berry red,
+
+ice blue,
+
+mint green,
+
+peach sunset,
+
+tropical teal.
+
+Add subtle lighting gradients and soft bokeh only if needed.
+
+Avoid clutter.
+
+Avoid busy patterns.
+
+Keep the drink, splash, and typography as the main focus.
+
+COLOR PALETTE:
+
+PRIMARY COLOR:
+[BRAND BACKGROUND COLOR]
+
+SECONDARY COLOR:
+[DRINK / GLASS HIGHLIGHT COLOR]
+
+ACCENT COLOR:
+[FRUIT / CTA / GRAPHIC DETAIL COLOR]
+
+TEXT COLOR:
+[WHITE / CREAM / HIGH-CONTRAST COLOR]
+
+Use the color system consistently across:
+
+background,
+
+typography,
+
+fruit garnish,
+
+drink highlights,
+
+CTA,
+
+brand logo,
+
+menu details,
+
+graphic accents.
+
+EXTRA DESIGN DETAILS:
+
+Frozen liquid splash.
+
+Floating ice cubes.
+
+Fresh citrus slices.
+
+Cold condensation.
+
+Large cropped typography.
+
+Minimal price label.
+
+Menu CTA button.
+
+Small origin text.
+
+UI arrow details.
+
+Soft bokeh circles.
+
+Subtle dotted texture.
+
+Premium glass reflections.
+
+Clean beverage-brand spacing.
+
+MARKETPLACE TEMPLATE REQUIREMENTS:
+
+The template must be reusable for:
+
+iced tea brands,
+
+juice bars,
+
+mocktail menus,
+
+soda campaigns,
+
+cafe drinks,
+
+summer beverages,
+
+lemonade brands,
+
+cold brew products,
+
+restaurant drink menus,
+
+smoothie campaigns,
+
+energy drinks,
+
+sparkling water,
+
+fruit refreshers,
+
+social media drink ads.
+
+The buyer should be able to replace:
+
+brand name,
+
+drink type,
+
+glass image,
+
+fruit garnish,
+
+headline,
+
+background color,
+
+price,
+
+CTA,
+
+location text,
+
+flavor name,
+
+logo,
+
+website,
+
+social handle,
+
+menu details.
+
+QUALITY:
+
+Ultra-realistic beverage photography.
+
+Premium commercial drink advertising.
+
+High-end cafe campaign design.
+
+Behance-quality composition.
+
+Pinterest-worthy beverage poster.
+
+Magazine-quality refreshment ad.
+
+Clean social-media-ready layout.
+
+8K ultra-high-resolution rendering.
+
+QUALITY CONTROLS:
+
+Do NOT copy the reference image exactly.
+
+Do NOT use the same brand name.
+
+Do NOT use the same drink name.
+
+Do NOT repeat the exact glass angle.
+
+Do NOT repeat the exact typography placement.
+
+Do NOT overcrowd the layout.
+
+Do NOT make the drink look artificial.
+
+Do NOT make the text unreadable.
+
+Do NOT limit the concept to one beverage only.
+
+Do NOT create a one-time dead idea.
+
+Preserve only the core idea:
+
+refreshing hero drink,
+
+dynamic liquid splash,
+
+floating ice and fruit,
+
+oversized integrated typography,
+
+bold single-color background,
+
+menu-style UI details,
+
+premium beverage advertising mood,
+
+marketplace-ready editable structure.
+
+The final result should feel like a fresh premium drink advertising template that can be sold as part of a reusable beverage and cafe campaign system.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5fa96c94-0b5c-415a-8dd9-6ecca318fb25?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2068929219133112758>)
+
+---

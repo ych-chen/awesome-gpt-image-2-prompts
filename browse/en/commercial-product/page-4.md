@@ -367,3 +367,219 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 **[Try on MuseSignal →](<https://musesignal.com/prompt/01f6379c-3071-4f68-874a-439a131d0d61?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ChillaiKalan__/status/2068717001145778630>)
 
 ---
+
+<a id="prompt-3c7a8595-e6c5-43ee-bd04-ab88c0988280"></a>
+
+## Cinematic BMW E30 Street-Racing Editorial Poster
+
+<a href="https://musesignal.com/prompt/3c7a8595-e6c5-43ee-bd04-ab88c0988280?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTIL8gAboAA74kF.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic BMW E30 Street-Racing Editorial Poster" /></a>
+
+**GPT Image 2.5** · Creator: Shore Lyn
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT image 2.5 on ChatGPT 
+
+Prompt:
+Create a high-end cinematic automotive editorial poster featuring a classic 1980s BMW E30 race car as the main subject. The visual style combines underground street racing culture, distressed vintage motorsport graphics, brutalist urban design, and experimental contemporary magazine art.
+
+SUBJECT:
+A heavily modified classic BMW E30 coupe, low and wide stance, aggressive lowered suspension, deep-dish black racing wheels, wide fenders, performance bodywork, front splitter, roll cage visible through the windshield, racing decals and small sponsor stickers, weathered white/off-white paint with scratches, dirt, faded graphics, chipped paint and realistic signs of hard racing use. Keep the BMW proportions and recognizable E30 design extremely accurate. Detailed circular headlights, classic kidney grille, boxy body shape and authentic period-correct details.
+
+VISUAL STYLE:
+Raw 1980s/1990s underground street-racing aesthetic mixed with luxury automotive editorial photography. Distressed screen-print textures, faded ink, rough paper grain, scratched surfaces, photocopy artifacts, torn-poster textures, imperfect registration, subtle halftone patterns, paint splashes, dust, concrete textures and analog film grain.
+
+COLOR PALETTE:
+Muted cream, dirty white, charcoal black, faded teal, desaturated green, warm beige, burnt orange and selective racing red. Use restrained colors with occasional bold red graphic elements.
+
+COMPOSITION:
+Vertical 4:5 editorial poster composition. The BMW dominates the lower and middle portion of the frame. Use dramatic low camera angles, wide-angle automotive photography, strong perspective, detailed reflections and cinematic depth. Leave enough negative space around the vehicle for oversized graphic typography.
+
+BACKGROUND:
+A dense modern city skyline with tall glass skyscrapers, brutalist architecture, industrial structures, elevated roads and urban streets. Integrate large abstract graphic shapes, painted walls, torn advertisements and oversized typographic elements into the environment. The background should feel like a real city photographed through a distressed analog editorial aesthetic.
+
+TYPOGRAPHY:
+Add enormous bold condensed sans-serif typography behind and partially around the car. Use fragmented words and abstract letterforms inspired by vintage motorsport posters and experimental Swiss graphic design. Typography should look screen-printed, weathered, partially erased and layered over the architecture. Keep the typography visually integrated rather than clean digital text.
+
+SCENE VARIATION:
+Create one of these cinematic situations while maintaining the same BMW and visual identity:
+
+1. FRONT HERO SHOT:
+   BMW facing directly toward the camera on a cracked urban road, extremely low front angle, city skyline behind it, enormous faded red typography covering the background, warm late-afternoon sunlight, long shadows and gritty asphalt texture.
+
+2. THREE-QUARTER HERO SHOT:
+   BMW viewed from a dramatic low front three-quarter angle, parked inside or beside a damaged industrial structure, tall skyscrapers visible behind it, broken concrete and large red graphic typography on the wall, soft atmospheric sunlight and heavy film grain.
+
+3. REAR DRIFT SHOT:
+   BMW E30 accelerating away from the camera, rear three-quarter perspective, wide stance and black wheels visible, tires producing smoke and dust, colorful faded racing graphics on the body, large abstract typography behind the car, cinematic sunset light and flying debris.
+
+4. APOCALYPTIC STREET SHOT:
+   BMW facing the camera in the middle of a chaotic urban canyon, surrounded by torn posters, flying paper, broken advertisements, dust and fragments. Tall buildings rise on both sides. Strong central perspective, mostly monochrome environment with selective red and yellow graphic accents, dramatic overcast light and intense motion.
+
+PHOTOGRAPHY:
+Ultra-detailed professional automotive photography, 24mm wide-angle lens, low camera position, realistic reflections, realistic tire deformation, physically accurate shadows, cinematic depth, subtle motion blur where appropriate, natural atmospheric haze, 35mm analog film texture, fine grain, slightly faded highlights and rich shadow detail.
+
+TEXTURE:
+Extremely tactile printed-poster appearance. Add aged paper grain, scratches, dust, faded ink, cracked paint, torn edges, imperfect screen printing, subtle chromatic misregistration and distressed photographic textures without making the image look artificially low quality.
+
+MOOD:
+Rebellious, nostalgic, raw, urban, underground, cinematic and experimental. The image should feel like a rare vintage motorsport magazine cover discovered decades later, but photographed with modern high-end automotive photography.
+
+QUALITY:
+Photorealistic BMW, accurate vehicle geometry, realistic materials, realistic city architecture, physically believable lighting, extremely detailed textures, cinematic composition, premium editorial photography, 8K detail, sharp subject, subtle film grain, sophisticated art direction.
+
+Avoid cartoon styling, generic modern cars, futuristic vehicle designs, incorrect BMW proportions, excessive neon, clean digital graphics, plastic-looking surfaces, unrealistic wheels, distorted headlights, malformed typography, excessive HDR, oversaturation and artificial CGI appearance.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3c7a8595-e6c5-43ee-bd04-ab88c0988280?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Shorelyn_/status/2103757153383457195>)
+
+---
+
+<a id="prompt-32905e2e-ed00-443d-8b86-8e5d187db484"></a>
+
+## Giant Strawberry Milk Bottle FMCG Campaign
+
+<a href="https://musesignal.com/prompt/32905e2e-ed00-443d-8b86-8e5d187db484?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJFR-PvasAAYuJX.jpg?format=jpg&amp;name=small" width="480" alt="Giant Strawberry Milk Bottle FMCG Campaign" /></a>
+
+**GPT Image 2** · Creator: Hemayxn.ai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a hyper-realistic luxury FMCG advertisement titled:
+
+“THE WORLD’S MOST BEAUTIFUL STRAWBERRY MILK.”
+
+The image should feel:
+bright,
+instantly understandable,
+premium,
+saveable and aggressively scroll-stopping.
+
+IMPORTANT:
+This should NOT feel like a normal product shot.
+
+It should feel like:
+a billion-dollar global campaign designed specifically to dominate social media feeds.
+
+SCENE:
+
+A gigantic transparent glass bottle of premium strawberry milk stands in the middle of a dreamy sunlit strawberry field during golden-hour sunset.
+
+The bottle should be enormous —
+larger than a small house —
+like a real-world landmark.
+
+Inside the glass bottle:
+perfect creamy pink strawberry milk swirls realistically with soft condensation and flowing liquid movement.
+
+The bottle itself should look:
+obsessively tactile and luxurious:
+
+- cold condensation droplets,
+- glossy glass reflections,
+- creamy liquid texture,
+- embossed logo,
+- realistic strawberry illustrations,
+- tiny imperfections in glass,
+- sunlight refracting through the liquid.
+
+AROUND THE BOTTLE:
+
+People naturally interact with it as though it has always existed there.
+
+Examples:
+
+- children running through giant strawberries,
+- friends sitting beneath the shadow of the bottle,
+- someone climbing a ladder attached to the bottle cap,
+- a girl photographing reflections in the glass,
+- strawberries rolling through grass in cinematic slow motion,
+- milk splashes forming organically around the environment.
+
+The atmosphere should feel:
+joyful,
+warm,
+dreamlike and visually addictive.
+
+IMPORTANT:
+
+The image should contain:
+MASSIVE oversized strawberries scattered across the landscape like natural objects.
+
+Some sliced open.
+Some reflecting sunlight.
+Some partially dipped in milk.
+
+The strawberries should feel:
+hyper-realistic,
+fresh,
+glossy and almost edible through the screen.
+
+TYPOGRAPHY:
+
+Minimal clean luxury typography floating softly in the sky:
+
+“DRINK SUMMER.”
+
+Small subtext beneath:
+“Sweetness, bottled.”
+
+Typography should feel:
+Apple-level minimal and globally iconic.
+
+LIGHTING:
+
+Warm golden-hour sunset lighting with:
+
+- glowing milk reflections,
+- cinematic lens flare,
+- soft atmospheric haze,
+- warm grass highlights,
+- dreamy backlighting,
+- realistic shadow falloff,
+- reflective liquid highlights.
+
+CAMERA STYLE:
+
+Blend:
+
+- luxury beverage commercials,
+- FMCG photography,
+- dreamlike environmental realism,
+- and tactile food cinematography.
+
+Use:
+
+- medium-format realism,
+- cinematic depth of field,
+- realistic skin texture,
+- subtle motion blur,
+- premium lens behavior,
+- aerial drone composition,
+- and practical reflections.
+
+COLOR PALETTE:
+
+creamy pink,
+warm strawberry red,
+golden sunlight,
+fresh green grass,
+soft white highlights and sunset orange tones.
+
+The final image should feel:
+so visually satisfying and commercially polished that people immediately stop scrolling and think:
+
+“how is this not a real campaign?”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/32905e2e-ed00-443d-8b86-8e5d187db484?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/hemayxn/status/2058516638086156502>)
+
+---

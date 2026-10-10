@@ -196,3 +196,85 @@ Der Hintergrund zeigt eine überfüllte, authentische asiatische Nachtstraße mi
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/66224c00-f662-4399-805d-2de31c334cfe?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/IqrasaifiAI/status/2056732310213624199>)
 
 ---
+
+<a id="prompt-f2041249-7c60-460a-98e4-69f0070715bc"></a>
+
+## Cinematic Fashion Editorial Portrait of a Bearded Man
+
+<a href="https://musesignal.com/zh/prompt/f2041249-7c60-460a-98e4-69f0070715bc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNo7b4NaEAAtE22.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Fashion Editorial Portrait of a Bearded Man" /></a>
+
+**GPT Image 2** · 原作者: Duet \| AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A close-up, cinematic fashion editorial portrait of a stylish man with a sharp undercut fade and a thick, well-groomed beard. The man is looking downwards and to the left in a 3/4 profile pose. He is wearing classic black matte sunglasses with a thick plastic frame, featuring a subtle white logo printed on the temple arm.
+He is dressed in a heavily textured, black open waffle-knit sweater. His left hand is raised across his chest, lightly touching the collar area, which prominently displays a minimalist black watch with a slim silver rim, a clean radial black dial, and fine white tick markers without numbers.
+The lighting is soft, diffused natural daylight coming from the top-right, creating gentle highlights on his right cheekbone, nose, and knuckles, while casting subtle shadows that define the rich texture of his beard and sweater. The background is a clean, split minimalist backdrop: a vibrant, matte teal blue surface on the upper half and a softly blurred, out-of-focus warm tan tone on the lower half. The shot is captured at eye-level with a shallow depth of field, keeping the sharp focus entirely on the subject’s face, sunglasses, and the crisp details of his watch.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f2041249-7c60-460a-98e4-69f0070715bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2079039541001003498>)
+
+---
+
+<a id="prompt-81671e41-2ece-4af5-9a4c-4e036959d709"></a>
+
+## Cinematic Night Portrait in Luxury Car
+
+<a href="https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTYaBOybEAAqB6g.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Night Portrait in Luxury Car" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a cinematic photorealistic portrait of a young woman sitting inside a dark luxury car at night, viewed from outside through the passenger-side window.
+
+She has straight copper-red hair with soft bangs framing her forehead, pale natural skin, subtle makeup, and a quiet, thoughtful expression. She rests her chin gently on her hand, looking slightly to the side with a distant, introspective gaze. She wears a beige hooded jacket with the hood pulled over her head, creating a cozy contrast against the dark interior.
+
+The car has glossy black paint and reflective glass, with the window frame and door cutting diagonally across the composition. Warm amber streetlights and colorful city lights reflect across the glass and car body, creating soft circular bokeh in yellow, orange, green, white, and red. The interior is mostly dark, with subtle warm lighting illuminating her face and hair.
+
+Shot from a low outside angle through the car window, intimate close-up framing, slightly off-center composition, realistic reflections and refractions on the glass, shallow depth of field, cinematic night photography, natural skin texture, detailed hair strands, soft atmospheric lighting, deep shadows, moody urban atmosphere, subtle film grain, realistic lens flare, high dynamic range, 85mm lens look, f/1.4, professional cinematic color grading, photorealistic, ultra-detailed.
+
+Vertical 9:16 composition, no text, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2104898608927842762>)
+
+---
+
+<a id="prompt-b8c838cd-d541-4954-ab2b-ba40edb16f16"></a>
+
+## Korean Woman Luxury Car 2x2 Collage
+
+<a href="https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSzPRseaAAAa0Sp.jpg?format=jpg&amp;name=small" width="480" alt="Korean Woman Luxury Car 2x2 Collage" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a 2x2 four-panel cinematic photo collage featuring the EXACT SAME Korean-looking young woman in all four panels. Strong identity consistency: same face, same hairstyle, same black oversized sweatshirt, same sunglasses, same earrings, same makeup, same Mercedes car, same beige leather interior, same lighting, same time of day, and the same Dubai skyline with the Burj Khalifa visible through the windows.
+
+She is sitting comfortably inside the car taking stylish photos/selfies. Each panel must show a DIFFERENT natural pose while everything else remains identical.
+
+Panel 1: She rests her cheek on her hand and gives a playful wink toward the camera.
+Panel 2: She turns slightly toward the camera with a soft confident expression, one hand near the steering wheel.
+Panel 3: She holds her smartphone in front of her face while taking a selfie.
+Panel 4: She looks toward the window with her hand gently touching her cheek.
+
+Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, realistic skin texture, natural facial expressions, cinematic sunset lighting, Dubai city lights beginning to glow, Burj Khalifa clearly visible in the background, premium social-media aesthetic, highly detailed, realistic camera photography, seamless 2x2 collage, perfect visual consistency across all four panels, no face changes, no outfit changes, no car changes, no background changes.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2102283043696165107>)
+
+---
