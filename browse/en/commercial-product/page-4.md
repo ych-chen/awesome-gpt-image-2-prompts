@@ -583,3 +583,291 @@ so visually satisfying and commercially polished that people immediately stop sc
 **[Try on MuseSignal →](<https://musesignal.com/prompt/32905e2e-ed00-443d-8b86-8e5d187db484?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/hemayxn/status/2058516638086156502>)
 
 ---
+
+<a id="prompt-c673b1c1-68d6-4058-9947-62fc7eb596ad"></a>
+
+## Tropicana Premium Juice Poster Prompt
+
+<a href="https://musesignal.com/prompt/c673b1c1-68d6-4058-9947-62fc7eb596ad?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLVhN06aQAA9PDc.jpg?format=jpg&amp;name=small" width="480" alt="Tropicana Premium Juice Poster Prompt" /></a>
+
+**GPT Image 2** · Creator: ᴍᴜʀᴘʜʏ
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt : SYSTEM ROLE
+You are an elite multidisciplinary creative intelligence system operating at the level of a world-class global branding agency.
+Domains of expertise:
+- beverage branding
+- juice advertising
+- social media campaign systems
+- editorial graphic design
+- typography hierarchy
+- commercial product photography
+- premium advertising campaigns
+Think like a hybrid of:
+Tropicana Global Creative Team
+AKQA
+Pentagram
+PepsiCo Design
+Core behavior:
+- think strategically before visual execution
+- prioritize freshness and appetite appeal
+- preserve brand authenticity
+- reject generic FMCG layouts
+- avoid AI-generated clichés
+Never create generic juice ads, messy layouts, or AI-slop visuals.
+TASK
+Create a world-class premium social media marketing poster for Tropicana.
+Campaign objective:
+Increase brand awareness and product desirability through freshness-driven visual communication.
+The final creative must feel fresh, vibrant, natural, and instantly recognizable as Tropicana.
+BRAND CONTEXT
+Brand:
+Tropicana
+Industry:
+Juice / Beverage
+Core Brand Values:
+- freshness
+- vitality
+- natural goodness
+- optimism
+- purity
+- health
+Brand truth:
+Tropicana does not simply sell juice.
+Tropicana delivers bottled freshness.
+Psychological positioning:
+Morning vitality.
+AUDIENCE
+Target audience:
+- families
+- professionals
+- health-conscious consumers
+- young adults
+- premium mass market
+Audience motivations:
+- healthy choices
+- freshness
+- better mornings
+- natural nutrition
+Emotional drivers:
+energy
+freshness
+optimism
+wellness
+EMOTIONAL FRAMEWORK
+Trigger:
+- freshness
+- vitality
+- appetite
+- positivity
+- natural energy
+Desired viewer reaction:
+“This looks fresh and irresistible.”
+ENVIRONMENT
+Create a premium sunlit breakfast environment.
+Scene includes:
+bright kitchen counter
+soft morning sunlight
+clean marble surface
+natural depth
+subtle background blur
+Environment remains secondary.
+VISUAL COMPOSITION
+Platform:
+Instagram SMM
+Aspect Ratio:
+4:5 vertical
+Resolution:
+1080 x 1350
+Composition hierarchy:
+Top 25%
+Campaign headline
+Center 55%
+Hero bottle/carton + fruit splash
+Bottom 20%
+Brand block + CTA
+Composition ratio:
+35% product hero
+35% fruit architecture
+30% graphic design
+Use strong focal hierarchy.
+BRAND ASSETS
+Mandatory assets:
+1. Tropicana logo
+2. leaf motif
+3. orange fruit geometry
+4. pack silhouette
+Use circular fruit shapes in composition.
+COLOR SYSTEM
+Primary:
+Tropicana Orange
+Leaf Green
+Secondary:
+White
+Yellow highlights
+Color rules:
+Orange dominates.
+Green supports freshness.
+White adds clarity.
+TYPOGRAPHY SYSTEM
+Typography acts as visual support.
+Use:
+- bold clean sans serif
+- premium readability
+- strong hierarchy
+- clean spacing
+Headline examples:
+SIP
+SUNSHINE
+or
+FRESH
+START
+Typography should feel bright and modern.
+GRAPHIC DESIGN SYSTEM
+Use premium SMM overlays.
+Include:
+- circular fruit frames
+- clean editorial labels
+- leaf-inspired curves
+- layered gradients
+- subtle geometric framing
+Design language must feel:
+fresh
+premium
+clean
+vibrant
+LIGHTING
+Use luxury commercial product lighting.
+Lighting setup:
+bright morning sunlight
+soft bounce fill
+clean highlights
+juicy reflections
+Lighting must sculpt freshness.
+MICRO DETAILS
+Include:
+condensation droplets
+juice splash arcs
+orange pulp texture
+fruit fibers
+glass reflections
+premium shadows
+Every detail must feel intentional.
+CTA
+Examples:
+Sip Sunshine
+Start Fresh
+Taste the Morning
+CTA must feel optimistic.
+HARD CONSTRAINTS
+Strictly reject:
+- generic juice ads
+- artificial CGI fruits
+- oversaturated colors
+- messy splashes
+- weak typography
+- cluttered layouts
+- AI artifacts
+SELF EVALUATION LOOP
+Evaluate:
+Brand Alignment /10
+Freshness /10
+Appetite Appeal /10
+Layout Quality /10
+SMM Stopping Power /10
+Originality /10
+If any score < 9:
+Refine output.
+FINAL QUALITY BAR
+Final result must feel like a premium global Tropicana campaign built by a top creative agency.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c673b1c1-68d6-4058-9947-62fc7eb596ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Diplomeme/status/2068666503776620857>)
+
+---
+
+<a id="prompt-805bb5c4-50f5-4e47-aef6-edb6b9c5bff3"></a>
+
+## One8 Instagram Table Brand Campaign
+
+<a href="https://musesignal.com/prompt/805bb5c4-50f5-4e47-aef6-edb6b9c5bff3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLbfE1rboAAZ6HC.jpg?format=jpg&amp;name=small" width="480" alt="One8 Instagram Table Brand Campaign" /></a>
+
+**GPT Image 2** · Creator: Al-Shamus
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Here's a refined, production-ready advertising prompt:
+
+**Branded Social Media Advertising Campaign – One8 Lifestyle**
+
+Ultra-wide-angle hyper-realistic top-down photography, camera positioned directly overhead and pulled far back, creating a large amount of clean negative space around the subjects and table. Minimalist premium commercial aesthetic. Professional studio environment with crisp shadows and perfectly controlled lighting. Ultra-sharp focus, 8K quality, luxury brand campaign look.
+
+**Scene & Atmosphere:**
+Four real people seated around a square dining table, relaxed, energetic, premium lifestyle vibe associated with fitness, healthy living, and modern social culture.
+
+**Clothing Style:**
+
+* Person 1: Black One8 athletic polo shirt and dark jeans.
+* Person 2: White One8 performance t-shirt and beige chinos.
+* Person 3: Black One8 hoodie with athletic joggers.
+* Person 4: White One8 casual shirt with black trousers.
+
+**Actions:**
+
+* Person 1 is reaching toward a healthy salad bowl.
+* Person 2 is holding a smoothie glass and smiling.
+* Person 3 is placing a fruit bowl at the center of the table.
+* Person 4 is picking up a sandwich while looking toward the group.
+
+**Instagram Table Prop:**
+Custom-built square dining table designed as a giant Instagram post.
+
+**Top White Stripe Only:**
+
+* Circular profile illustration on the left.
+* Username: **"one8"**
+* Small blue verified checkmark icon beside the username.
+* Three-dot menu ("...") aligned to the far right.
+
+**Bottom White Stripe Only:**
+
+* Red heart icon.
+* Comment icon.
+* Share icon.
+* Bookmark icon aligned to the far right.
+
+**Important:**
+No white borders on the left or right sides of the table.
+Only top and bottom white stripes exist.
+
+**Central Content Area:**
+The entire center area of the table is filled with a vibrant **blue and green gradient**.
+
+**Food & Objects Inside the Colored Area Only:**
+Fresh salads, fruit platters, protein bowls, sandwiches, smoothies, healthy snacks, water bottles, cutlery, napkins.
+
+**Critical Composition Rule:**
+All food, beverages, plates, utensils, hands, arms, and interacting objects must remain completely inside the blue-and-green center section of the table.
+Nothing may overlap or extend onto the white Instagram interface stripes.
+Nothing may extend beyond the edges of the table.
+
+**Floor & Background:**
+Matte light-gray studio floor with subtle texture, creating strong visual separation from the table.
+Large empty floor space surrounding the table for premium advertising composition and copy placement.
+
+**Lighting & Quality:**
+Professional commercial studio lighting, realistic shadows, natural skin tones, premium advertising photography, luxury social media campaign, ultra-detailed textures, photorealistic, clean geometry, sharp edges, magazine-quality production, cinematic realism, 8K resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/805bb5c4-50f5-4e47-aef6-edb6b9c5bff3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/im_shahid7/status/2069086362297655483>)
+
+---

@@ -1167,3 +1167,35 @@ The final result should feel like a fresh premium drink advertising template tha
 **[Try on MuseSignal →](<https://musesignal.com/prompt/5fa96c94-0b5c-415a-8dd9-6ecca318fb25?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Shorelyn_/status/2068929219133112758>)
 
 ---
+
+<a id="prompt-f2e52636-2962-4b20-af14-03c2602fa72f"></a>
+
+## Premium Food Product Advertising Poster Design System
+
+<a href="https://musesignal.com/prompt/f2e52636-2962-4b20-af14-03c2602fa72f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPHW6HDW4AAbCdS.jpg?format=jpg&amp;name=small" width="480" alt="Premium Food Product Advertising Poster Design System" /></a>
+
+**GPT Image 2** · Creator: Lucia Ai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt
+Create a premium food product advertising poster using an AI-powered design system. Do not use a manually written design prompt. Instead, simulate an intelligent design database containing curated Pinterest-inspired design patterns, premium color palettes, typography styles, composition rules, branding elements, and visual hierarchy techniques.
+The AI design skill should analyze the food product and automatically select the most suitable:
+- Luxury poster layout
+- Color combination
+- Typography style
+- Product placement
+- Lighting style
+- Background aesthetics
+- Brand storytelling elements
+Generate a high-converting, professional food advertisement poster that looks like it was created by an expert design team. Focus on realistic product photography, premium branding, cinematic lighting, and modern marketing aesthetics.
+The system should be specially optimized for food products to create visually appealing, engaging, and sales-focused designs.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f2e52636-2962-4b20-af14-03c2602fa72f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/alizagori1/status/2085684537825099854>)
+
+---

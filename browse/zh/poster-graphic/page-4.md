@@ -1153,3 +1153,24 @@ Typography at the top features the destination name in elegant large serif lette
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1fb00a56-1a79-40a1-bfd0-b4a7e2a4ab68?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2105550502838858030>)
 
 ---
+
+<a id="prompt-cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6"></a>
+
+## GTA VI Neon Vice City Cinematic Poster
+
+<a href="https://musesignal.com/zh/prompt/cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLPt0YcbIAA0hJ5.jpg?format=jpg&amp;name=small" width="480" alt="GTA VI Neon Vice City Cinematic Poster" /></a>
+
+**GPT Image 2** · 原作者: Noira.
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-luxury hyper-realistic cinematic promotional poster inspired by Grand Theft Auto VI, set in a dark futuristic neon-drenched Vice City at midnight during a violent thunderstorm. A lone mysterious male protagonist stands in the foreground beside a sleek black hypercar, wearing a premium wet leather jacket with glowing “Vice City” branding on the back. Heavy rain pours across the scene, with water dripping from his jacket and reflecting across the glossy streets. The road is flooded with neon reflections in pink, blue, and purple, creating an intense cyberpunk atmosphere. In the background, multiple police cars with flashing red and blue sirens race through the streets, creating motion blur and chaos. A police helicopter hovers above with a sharp spotlight scanning the streets, while lightning violently cracks through dark storm clouds, illuminating the skyline. Massive futuristic skyscrapers with glowing neon windows, giant holographic billboards, luxury hotels, palm trees swaying in the wind, and a glowing oceanfront create a premium Miami-inspired futuristic vibe. The black supercar should look ultra-detailed, aggressive, wet from rain, with realistic reflections, sharp taillights, and cinematic smoke around the tires. The character should feel powerful, mysterious, and dangerous, like the king of Vice City. Add cinematic volumetric lighting, dramatic shadows, fog, rain particles, realistic puddles, lens flares, high contrast, sharp focus, realistic textures, extreme depth of field, and movie-level storytelling composition. Place the glowing GTA VI logo at the top center with COMING 2026 beneath it, styled like an official premium reveal poster. Make it look like a blockbuster AAA game announcement, ultra-realistic, photorealistic, 8K, masterpiece, dark luxury aesthetic, viral X/Twitter AI campaign style, insanely detailed, cinematic perfection.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/veylorvisions/status/2068258142056849450>)
+
+---

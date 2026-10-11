@@ -278,3 +278,45 @@ Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, r
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2102283043696165107>)
 
 ---
+
+<a id="prompt-99a113f8-d2a2-4666-b6fa-34f6e663178e"></a>
+
+## Editorial Fashion Portrait of South Asian Woman in Saree
+
+<a href="https://musesignal.com/zh/prompt/99a113f8-d2a2-4666-b6fa-34f6e663178e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL5PnpjboAAtw3i.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Fashion Portrait of South Asian Woman in Saree" /></a>
+
+**GPT Image** · 原作者: Aadil Maqbool
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic editorial fashion portrait of a graceful South Asian woman wearing a blush pink floral embroidered organza saree with an elegant silver zari lace border and a matching sheer embroidered veil draped over her head. Soft glamorous bridal makeup with radiant glowing skin, winged eyeliner, nude pink lips, perfectly shaped brows, and long wavy dark hair cascading over one shoulder. Traditional oxidized silver jhumka earrings, delicate bracelet, and a subtle ring. Luxury ethnic couture, poised smile, refined elegance. Composite layout featuring a large close-up side profile with eyes gently lowered on the left and a full-length standing portrait on the right. Warm beige palace-inspired interior with carved architectural details, soft greenery, creamy bokeh, cinematic golden lighting, shallow depth of field, premium DSLR photography, 85mm lens, f/1.8, ultra-high detail, natural skin texture, pastel color palette, Vogue-style fashion editorial, soft shadows, photorealistic, 8K, HDR, masterpiece, elegant composition.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/99a113f8-d2a2-4666-b6fa-34f6e663178e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aadilpktm/status/2071180466917413272>)
+
+---
+
+<a id="prompt-04e28cad-eb15-4e44-9c72-112f03345bbd"></a>
+
+## Ultra-Realistic Studio Portrait of an Indian Woman
+
+<a href="https://musesignal.com/zh/prompt/04e28cad-eb15-4e44-9c72-112f03345bbd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL_higYbEAAlnnO.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Studio Portrait of an Indian Woman" /></a>
+
+**GPT Image 2** · 原作者: Aadil Maqbool
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+An ultra-realistic studio portrait of a beautiful young Indian woman with naturally warm medium-fair Indian skin, a smooth natural complexion, softly sculpted cheekbones, a defined jawline, and a graceful oval face. She has large expressive dark brown eyes with long curled eyelashes, thick naturally shaped eyebrows, and naturally full lips.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/04e28cad-eb15-4e44-9c72-112f03345bbd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aadilpktm/status/2071622343957598264>)
+
+---
