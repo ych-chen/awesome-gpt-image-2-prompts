@@ -1174,3 +1174,24 @@ Create an ultra-luxury hyper-realistic cinematic promotional poster inspired by 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/veylorvisions/status/2068258142056849450>)
 
 ---
+
+<a id="prompt-a62dfbca-63d1-46dc-9366-77d5c77b07df"></a>
+
+## Pixar-Style Lupin TV Show Movie Poster
+
+<a href="https://musesignal.com/zh/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLXGsk0bYAAduX3.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style Lupin TV Show Movie Poster" /></a>
+
+**GPT Image 2** · 原作者: ANKIT PATEL 🇮🇳 \| AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches Lupin's tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ankit_patel211/status/2068778128659603644>)
+
+---

@@ -871,3 +871,101 @@ Professional commercial studio lighting, realistic shadows, natural skin tones, 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/805bb5c4-50f5-4e47-aef6-edb6b9c5bff3?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2069086362297655483>)
 
 ---
+
+<a id="prompt-3c35cfd4-e1d9-4f82-ae73-861253edd138"></a>
+
+## Luxury Perfume Ad in Chrome Pasta Machine
+
+<a href="https://musesignal.com/zh/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMxlwvnWUAAtz8s.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Perfume Ad in Chrome Pasta Machine" /></a>
+
+**GPT Image** · 原作者: shah\_zadii
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+MASTER LUXURY PERFUME AD
+
+ PROMPT:
+
+Create an ultra-realistic premium luxury commercial fragrance advertisement.
+A beautiful ({BOTTLE COLOR}) luxury perfume bottle labeled ({PERFUME NAME}) is positioned vertically with a slight backward tilt, perfectly supported between the polished stainless-steel guide plates of a premium chrome manual pasta machine.
+The machine is centered, facing directly toward the camera.
+Black wooden crank handle on the left side.
+Chrome adjustment knob on the right.
+Front roller opening fully visible.
+From the roller opening, a rich and abundant flow of ({MAIN INGREDIENT}) naturally exits the machine and spreads into a luxurious pile on the tabletop.
+Mix different sizes of ({MAIN INGREDIENT}), crushed pieces, flakes, powder and premium texture details for maximum realism.
+Around the pile add scattered ({SMALL DECOR ELEMENTS}) naturally.
+Background contains elegant ({BACKGROUND DECOR}) with soft cinematic depth of field.
+Luxury marble tabletop.
+Premium studio lighting.
+Beautiful realistic reflections on chrome.
+Elegant luxury color grading matching the ingredient.
+Centered composition.
+Large negative space at top for typography.
+Minimal premium advertisement style.
+Luxury fragrance campaign.
+Soft shadows.
+Ultra sharp focus.
+Photorealistic.
+8K.
+Magazine quality.
+Typography
+Top center:
+PICK YOUR FAVORITE
+Below:
+SCENT THAT SPEAKS FOR YOU
+Below:
+Because you deserve the best
+Left side badge:
+NEW ARRIVAL
+Minimal luxury typography.
+Modern serif fonts mixed with elegant handwritten script.
+Perfect spacing.
+Premium cosmetic advertisement layout.
+Camera
+Straight-on camera
+Slight high angle
+85mm Lens
+f/4
+Soft studio lighting
+Luxury commercial photography
+Perfect reflections
+Extremely realistic
+No people
+No watermark
+No logo except perfume label
+No AI artifacts
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2075145441163846022>)
+
+---
+
+<a id="prompt-a362278e-4736-4bfa-9853-dcfa30364df1"></a>
+
+## Luxury Ferrari Rainy Tokyo Ad
+
+<a href="https://musesignal.com/zh/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLGfThNbQAAtKvm.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Ferrari Rainy Tokyo Ad" /></a>
+
+**GPT Image 2** · 原作者: Noira.
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-luxury cinematic automotive advertisement featuring a glossy blood-red Ferrari 488 Pista in a futuristic Tokyo street at midnight during heavy rain. The car is positioned in a low-angle close-up hero shot, dominating the frame with an aggressive, powerful presence. The body is covered in realistic raindrops, with glowing red taillights reflecting intensely across the wet black asphalt. Surround the scene with neon-lit skyscrapers, blurred city lights, glowing Japanese signboards, cinematic fog, smoke, and light rain particles in motion, creating a dark moody cyberpunk atmosphere.
+
+Beside the car stands a stunning elegant female model in a black luxury wet silk gown, high heels, sharp jawline, wet hair flowing in the wind, confident and mysterious pose, looking slightly away from the camera with a strong powerful aura. Her silhouette is highlighted with dramatic rim lighting, adding depth and premium editorial fashion energy.
+
+The environment should feel expensive, mysterious, and larger than life — with glossy reflections, deep black shadows, realistic puddles, cinematic smoke trails, subtle motion blur in rain, and glowing city lights creating depth. Keep the composition balanced with the Ferrari as the main hero and the model as the luxury storytelling element. Use a black and red luxury color palette, ultra-realistic textures, hyper-detailed reflections, movie-poster composition, luxury magazine cover style, premium commercial photography, sharp focus, realistic lighting physics, minimal branding (only Ferrari logo and one small tagline), ultra-detailed 8K, masterpiece quality, photorealistic, dramatic cinematic depth, expensive billionaire lifestyle aesthetic, viral X luxury campaign style, futuristic realism, intense emotional storytelling, and world-class advertisement quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/veylorvisions/status/2067608866733584706>)
+
+---

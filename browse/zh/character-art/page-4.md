@@ -73,3 +73,30 @@ Studio product photography, seamless light gray background, soft diffused lighti
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/876f91ef-2374-4045-8a0e-249c1cca8535?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Kashberg_0/status/2079432928019505314>)
 
 ---
+
+<a id="prompt-5d3312fa-4867-4dcb-98c3-d7c8f9062559"></a>
+
+## Retro Children&#39;s Book Cover with Three Peeking Characters
+
+<a href="https://musesignal.com/zh/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUKfAhmbwAE-PRB.jpg?format=jpg&amp;name=small" width="480" alt="Retro Children&#39;s Book Cover with Three Peeking Characters" /></a>
+
+**GPT Image 2** · 原作者: VoxCat
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【角色A】【角色B】【角色C】，复古儿童文学封面 × naïve 手绘角色插画 × mid-century book cover design。
+
+保留三名角色的发型、发色、眼睛、标志性配饰、服装领口与身份特征，采用成熟角色设定。三个角色沿画面中央纵向分成三层排列，从与背景同色的不可见横向边缘后探出：上层露出头部与双手，中层只露出头部，下层露出头部与搭在边缘的双手。身体下缘形成清楚的水平遮挡，层间与左右保留充足留白。
+
+三名角色分别呈现困倦、惊讶、冷淡、好奇或慵懒的表情。比例轻微卡通化，眼睛略放大，轮廓清楚。以水粉色块、彩铅线条和干笔刷表现发丝、毛发、服装与皮肤，保留粗糙手绘笔触、纸张颗粒和复古印刷感。
+
+根据角色配色选择单一深色背景，以暖色肤色与角色色块形成鲜明对比。构图简单、居中、纵向堆叠，具有旧儿童读物与20世纪中期书籍封面的气质。3:4竖版，右下角极小 voxcat 签名。
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VoxcatAI/status/2108497704829829397>)
+
+---

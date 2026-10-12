@@ -1199,3 +1199,45 @@ The system should be specially optimized for food products to create visually ap
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f2e52636-2962-4b20-af14-03c2602fa72f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/alizagori1/status/2085684537825099854>)
 
 ---
+
+<a id="prompt-fdfd66d9-06dc-4450-b744-b6e3757a92eb"></a>
+
+## Surrealist Food Ad: Raw Fish Meets Sushi in Vanity Mirror
+
+<a href="https://musesignal.com/zh/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIc4WSaakAEFOmM.jpg?format=jpg&amp;name=small" width="480" alt="Surrealist Food Ad: Raw Fish Meets Sushi in Vanity Mirror" /></a>
+
+**GPT Image** · 原作者: Soulful Ai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A minimalist, surrealist food advertisement photograph on a warm, muted beige tan background. On the left side of the frame, a raw, translucent whole (FISH/HEN) stands upright on its tail, looking into a small, black rimmed circular vanity mirror placed on the right. Inside the mirror's reflection, instead of the raw (FISH/HEN), a perfect (sushi /fried chicken) platter is visible, matching the upright posture. The scene is lit with dramatic, soft studio lighting from the side, casting gentle shadows to the right and giving the image a high end, editorial feel. The overall color palette is fresh , featuring fresh tones of tan, deep orange, and soft black.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/soulful__ai/status/2055673718073160019>)
+
+---
+
+<a id="prompt-082f4586-63c7-44e6-ada5-f3eb8183495e"></a>
+
+## Italian Restaurant Food Poster with GPT Image 2
+
+<a href="https://musesignal.com/zh/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLJtNgmbYAALAR0.jpg?format=jpg&amp;name=small" width="480" alt="Italian Restaurant Food Poster with GPT Image 2" /></a>
+
+**GPT Image 2** · 原作者: Al-Shamus
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A minimalistic advertising poster about food in a modern Italian style with Japanese layout aesthetics, preserving the exact compositional structure: two large rounded vertical geometric color blocks arranged diagonally along the composition, food photography with a view from above. The upper left block is a hero dish: fresh tagliatelle pasta with truffle cream and parmesan cheese on a light ceramic plate, with thin slices of black truffle, olive oil and microgreens, premium restaurant service. The lower right block is the second hero dish: slow—stewed ossobuco with saffron risotto on a matte dark plate, with rich sauce, gremolata and fresh herbs, modern author's Italian cuisine. Floating side dishes and appliances are neatly arranged around each dish: vintage cutlery, linen napkins, sprigs of rosemary and thyme, cherry tomatoes, slices of parmesan, miniature saucepans with olive oil, fresh handmade focaccia, olives and spices. Large typography in modern Italian style is aligned to the upper right, the text is entirely in English : the name of the restaurant, the names of the dishes and the prices. Small text with prices is placed next to each dish. Airy editorial is a negative space system, a soft pastel commercial palette with shades of cream, terracotta, olive, sage and graphite. Clear asymmetrical visual hierarchy, premium restaurant branding aesthetics, cinematic soft shadows, modern menu presentation in poster format. The subtle signature in the footer is naturally integrated into the bottom of the composition. Pure vertical composition, ultra detailed, premium branding, realistic food styling, soft cinematic dim green lighting, Italian cuisine editorial poster design, minimalism.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2067835275695534326>)
+
+---

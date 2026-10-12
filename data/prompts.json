@@ -517,6 +517,34 @@
     "content_hash": "e1a1b737d87960c62eda4e6dcd3879cc5157727c86a2c73cf9a29740d1f1fabb"
   },
   {
+    "id": "082f4586-63c7-44e6-ada5-f3eb8183495e",
+    "title": "Italian Restaurant Food Poster with GPT Image 2",
+    "prompt": "A minimalistic advertising poster about food in a modern Italian style with Japanese layout aesthetics, preserving the exact compositional structure: two large rounded vertical geometric color blocks arranged diagonally along the composition, food photography with a view from above. The upper left block is a hero dish: fresh tagliatelle pasta with truffle cream and parmesan cheese on a light ceramic plate, with thin slices of black truffle, olive oil and microgreens, premium restaurant service. The lower right block is the second hero dish: slow—stewed ossobuco with saffron risotto on a matte dark plate, with rich sauce, gremolata and fresh herbs, modern author's Italian cuisine. Floating side dishes and appliances are neatly arranged around each dish: vintage cutlery, linen napkins, sprigs of rosemary and thyme, cherry tomatoes, slices of parmesan, miniature saucepans with olive oil, fresh handmade focaccia, olives and spices. Large typography in modern Italian style is aligned to the upper right, the text is entirely in English : the name of the restaurant, the names of the dishes and the prices. Small text with prices is placed next to each dish. Airy editorial is a negative space system, a soft pastel commercial palette with shades of cream, terracotta, olive, sage and graphite. Clear asymmetrical visual hierarchy, premium restaurant branding aesthetics, cinematic soft shadows, modern menu presentation in poster format. The subtle signature in the footer is naturally integrated into the bottom of the composition. Pure vertical composition, ultra detailed, premium branding, realistic food styling, soft cinematic dim green lighting, Italian cuisine editorial poster design, minimalism.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Al-Shamus",
+      "handle": "im_shahid7"
+    },
+    "source_platform": "X",
+    "source_id": "2067835275695534326",
+    "source_url": "https://x.com/im_shahid7/status/2067835275695534326",
+    "images": [
+      "https://pbs.twimg.com/media/HLJtNgmbYAALAR0.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLJtNhAa8AA2jZO.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLJtNgXbwAA_6mL.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e",
+    "published_at": "2026-10-12T07:35:45.836835+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "bd3359dd7b5320a0e05d8b301804d1613a8c133154467768e1570c1aaaedb813"
+  },
+  {
     "id": "08412bae-bac9-4bce-a20a-b052a2a6c093",
     "title": "Radiant East Asian Beauty in Studio Light",
     "prompt": "Ultra-photorealistic beauty portrait of a fictional East Asian woman, front-facing, radiant genuine smile with visible teeth, soft dimples, clear porcelain skin, shoulder-length silky black hair with a center part, almond-shaped brown eyes, elegant oval face, natural glossy pink lips, subtle peach blush, minimal pearl earrings, wearing a white satin strapless dress, soft studio lighting, warm creamy background, shallow depth of field, luxury fashion editorial, premium beauty campaign, ultra-detailed skin texture, 85mm lens, f/1.8, cinematic bokeh, HDR, 8K, highly realistic, no text, no watermark, no distortions.\nNegative Prompt: low quality, blurry, cartoon, CGI, bad anatomy, asymmetrical face, extra limbs, extra fingers, deformed hands, duplicate features, watermark, logo, text, oversaturated, plastic skin.",
@@ -1493,6 +1521,35 @@
     "content_hash": "3fc03fdddbc954b5c08ff54565449a3a4625f3eacb81de7add958e962c84cd01"
   },
   {
+    "id": "1a63e032-956b-4e6f-91ba-335a47718651",
+    "title": "1990s East Asian Retro Film Portrait of Mature Female Character",
+    "prompt": "GPT-image2｜经典日漫角色真人 COS\n\n这组重点放在身材曲线和人物神态上。\n\n成熟丰满的御姐身材，饱满上围、纤细腰线、圆润臀部，通过前倾、扭腰、回眸形成明显的 S 形曲线。\n\n表情保留七分冷艳慵懒、三分柔弱无辜。半垂眼睑、微张嘴唇、从肩膀上方回望镜头，带一点漫不经心的挑逗感。\n\n搭配 90–00 年代东亚复古私摄影、暖调电影光与彩色负片质感。\n\n替换角色即可生成👇\n\n【角色】，明确成年真人化，保留角色核心身份特征：发型、发色、眼睛、脸部结构、角色主色、标志性服装轮廓与身份配饰。\n\n1990s–2000s 东亚复古私摄影 × 日式夜间街头写真 × 港式暖调电影摄影 × 低照度彩色负片摄影。\n\n人物具有成熟甜颜御姐气质，精致柔和的鹅蛋脸，小巧下巴，细窄挺直的鼻梁，饱满红唇，杏仁形猫系眼睛，眼尾轻微上挑，纤细自然的眉毛，深邃而略带湿润感的眼神。五官兼具甜美与冷艳，面部细腻真实，散发轻熟、慵懒、略带距离感的女性魅力。\n\n成年女性丰满曲线型身材，胸部饱满，腰部纤细紧致，臀部圆润饱满，腰臀比例鲜明，身体轮廓流畅，具有自然柔软的真实人体质感。合身的收腰服装突出胸腰臀的连续曲线，布料随姿态形成自然张力和褶皱。\n\n人物身处具有真实生活痕迹的复古室内空间，正在操作一台老式日常设备。双手支撑在设备边缘，上半身微微前倾，腰部自然扭转，臀部向后移动，肩线、腰线与臀线形成清晰的 S 形身体结构。\n\n人物突然从肩膀上方回头凝视摄影机，头部略微下沉，下巴轻收，眼睛向上看向镜头。上眼睑轻微下压，眼尾微扬，目光集中而慵懒，眉间放松，嘴唇自然微张，嘴角平直。表情呈现七分冷艳慵懒与三分柔弱无辜，带有轻微挑衅、漫不经心与若即若离的感觉。\n\n摄影机位于人物斜后方，接近腰部至胸部高度，中近景竖向构图。人物身体占据主要画面，脸部位于上半部，设备处于侧面前景，头部回转与腰臀曲线共同形成视觉中心。\n\n低照度室内混合光，暖黄色顶灯照亮面部与肌肤，设备荧光屏提供局部青绿色反射光，背景沉入橄榄绿、暖棕色暗部。奶油色高光、低饱和暖调、柔和暗部层次。\n\n高感光度彩色负片质感，明显的胶片颗粒、轻微失焦、柔化高光、低微对比、胶片扫描噪点。真实私人抓拍与复古电影剧照融合，人物面部清晰，皮肤保留自然纹理。\n\n3:4 竖幅，右下角极小签名 voxcat。",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "VoxCat",
+      "handle": "VoxcatAI"
+    },
+    "source_platform": "X",
+    "source_id": "2108592071611240827",
+    "source_url": "https://x.com/VoxcatAI/status/2108592071611240827",
+    "images": [
+      "https://pbs.twimg.com/media/HUMlKt8akAAF7qS.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUMlKrPbQAIqnxV.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUMlKrhaAAAB6gI.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUMlKt7bsAAlY2o.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1a63e032-956b-4e6f-91ba-335a47718651",
+    "published_at": "2026-10-12T07:36:17.84717+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "563792d683e5fce3caaecb153d7508ede9ddf91979970d37ee986926fdd4c956"
+  },
+  {
     "id": "1ae3366b-17df-428d-9528-524a28d5f32a",
     "title": "Layered Papercut Travel Poster of a City's Landmarks",
     "prompt": "CITY = {CITY}\nCreate a sophisticated vertical 3:4 travel poster of {CITY} as a premium layered papercut sticker illustration.\nUse only the city name as input. Identify its country, architecture, geography, visual identity, and 3–5 iconic landmarks genuinely located in {CITY}. Select 1–2 Hero Landmarks + 2–3 Secondary Landmarks based on recognizability, cultural importance, uniqueness, and strong association with the city. Never invent or borrow landmarks.\nLandmark accuracy: Preserve authentic silhouettes, proportions, rooflines, towers, domes, arches, bridges, façades, and defining structures. Keep approximately 70% landmark identity / 30% stylization.\nComposition: Vertical 3:4. Place the main cityscape in the lower 50–60%, leaving the upper 40–50% clean and spacious. Put only {CITY} at the upper center in uppercase sans-serif with wide letter spacing. No subtitle, slogan, labels, or extra text. Build one cohesive cityscape with authentic buildings, streets, water, hills, vegetation, clouds, bridges, and environmental elements appropriate to {CITY}.\nPapercut style: Handcrafted layered matte cardstock, clean simplified shapes, rounded cut edges, subtle paper thickness, visible fibers, slight imperfections, and soft contact shadows. Premium tactile paper artwork—not glossy CGI, plastic, photorealism, or heavy 3D.\nWhite sticker border: Mandatory thick white/ivory die-cut outline around major landmarks, buildings, bridges, vegetation, vehicles, landforms, and selected clouds. Keep it smooth, continuous, rounded, and approximately 2–4% of object width. Use subtle contact shadows. Do not heavily outline tiny details or title text.\nColor: Create a refined 6–10 color palette inspired by {CITY}. Use sophisticated muted tones such as dusty blue, teal, mint, coral, terracotta, warm sand, cream, off-white, and restrained dark accents. Adapt naturally to the city; avoid neon and excessive saturation.\nStyle: Premium papercut illustration, layered cardstock collage, collectible travel sticker, Scandinavian editorial design, contemporary architectural poster, clean geometric simplification, museum-quality craftsmanship.\nAvoid: inaccurate landmarks, borrowed landmarks, generic skylines, extreme abstraction, disconnected stickers, inconsistent outlines, childish/kawaii styling, photorealism, glossy surfaces, heavy extrusion, dramatic shadows, excessive gradients, neon colors, vintage filters, overcrowding, micro-detail, and unnecessary text.\nFINAL: Create an elegant, recognizable {CITY} cityscape that reads instantly at thumbnail size, with authentic landmarks, cohesive layered paper construction, refined colors, and bold white die-cut borders.",
@@ -1604,6 +1661,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "de1eee142d51bf3e7ad0092664269113ebfc951d33bb0721ab4d555c0b2a2320"
+  },
+  {
+    "id": "1c630916-b0b6-44e1-bdf9-addea2def831",
+    "title": "Tiny Man and Giant Sea Turtle Beach Collage",
+    "prompt": "Ultra-realistic cinematic forced-perspective miniature fantasy photography featuring the same adorable tiny man (large expressive head, realistic body proportions, cheerful facial expressions) enjoying six different adventures with a gigantic friendly sea turtle on a tropical beach. The composition is arranged as a clean 2×3 collage, with thin white borders separating each frame. Every panel tells a different playful story while maintaining the same character and turtle.\n\nPanel 1 – Chase: The tiny man runs across the sandy beach with a surprised, humorous expression as a massive sea turtle playfully follows behind him. Ocean waves gently wash onto the shore under bright tropical sunlight.\n\nPanel 2 – Relaxing: The giant turtle wears stylish black sunglasses and a woven straw hat while resting peacefully on the beach. The tiny man relaxes beside it on a striped beach towel, hands behind his head, with a fresh coconut drink and small beach umbrella nearby, creating a funny vacation vibe.\n\nPanel 3 – Pulling the Turtle: The miniature man struggles dramatically while pulling the enormous turtle using a thick rope tied around its shell, creating a humorous illusion of incredible strength. Warm golden beach lighting and shallow depth of field.\n\nPanel 4 – Turtle Ride: Under crystal-clear turquoise water, the tiny man joyfully rides on the back of the giant sea turtle above colorful coral reefs and tropical fish. Sun rays penetrate the water, creating magical underwater caustics and realistic light beams.\n\nPanel 5 – Fishing: Standing on a seaside rock, the tiny man excitedly fishes with a realistic fishing rod while the giant turtle pops its head above the water with an open mouth as if waiting for the catch. Natural coastal scenery with sparkling ocean reflections.\n\nPanel 6 – Sandcastle: The tiny man carefully builds an intricate sandcastle using a small bucket and shovel while the giant turtle curiously watches from beside him, creating a heartwarming friendship moment.\n\nHighly detailed realistic sea turtle, photorealistic skin textures, realistic wet sand, ocean reflections, tropical beach, blue sky with soft clouds, cinematic lighting, soft golden sunlight, shallow depth of field, miniature forced-perspective illusion, humorous storytelling, Pixar-inspired charm with photorealistic rendering, ultra-detailed textures, HDR, volumetric lighting, natural color grading, 85mm lens, f/1.8, Unreal Engine 5, Octane Render, masterpiece composition, 8K ultra-high resolution, vibrant colors, premium editorial wildlife fantasy photography.",
+    "category": "scene-space",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Harry Potter",
+      "handle": "mon010_de"
+    },
+    "source_platform": "X",
+    "source_id": "2084506792667775033",
+    "source_url": "https://x.com/mon010_de/status/2084506792667775033",
+    "images": [
+      "https://pbs.twimg.com/media/HO2n316a8AARU8j.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1c630916-b0b6-44e1-bdf9-addea2def831",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1c630916-b0b6-44e1-bdf9-addea2def831",
+    "published_at": "2026-10-12T07:36:07.116273+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "31243b4846191d90f9c2a05de3bc375faf7bcbc2689e1a727da0130b5cac4936"
   },
   {
     "id": "1cc2280f-331b-41f4-b578-bdac663fa139",
@@ -2939,6 +3022,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "7aabe96785ece8246a36e9488bf5848e02e9640c6cf5b2905e42400d39759d79"
+  },
+  {
+    "id": "3c35cfd4-e1d9-4f82-ae73-861253edd138",
+    "title": "Luxury Perfume Ad in Chrome Pasta Machine",
+    "prompt": "MASTER LUXURY PERFUME AD\n\n PROMPT:\n\nCreate an ultra-realistic premium luxury commercial fragrance advertisement.\nA beautiful ({BOTTLE COLOR}) luxury perfume bottle labeled ({PERFUME NAME}) is positioned vertically with a slight backward tilt, perfectly supported between the polished stainless-steel guide plates of a premium chrome manual pasta machine.\nThe machine is centered, facing directly toward the camera.\nBlack wooden crank handle on the left side.\nChrome adjustment knob on the right.\nFront roller opening fully visible.\nFrom the roller opening, a rich and abundant flow of ({MAIN INGREDIENT}) naturally exits the machine and spreads into a luxurious pile on the tabletop.\nMix different sizes of ({MAIN INGREDIENT}), crushed pieces, flakes, powder and premium texture details for maximum realism.\nAround the pile add scattered ({SMALL DECOR ELEMENTS}) naturally.\nBackground contains elegant ({BACKGROUND DECOR}) with soft cinematic depth of field.\nLuxury marble tabletop.\nPremium studio lighting.\nBeautiful realistic reflections on chrome.\nElegant luxury color grading matching the ingredient.\nCentered composition.\nLarge negative space at top for typography.\nMinimal premium advertisement style.\nLuxury fragrance campaign.\nSoft shadows.\nUltra sharp focus.\nPhotorealistic.\n8K.\nMagazine quality.\nTypography\nTop center:\nPICK YOUR FAVORITE\nBelow:\nSCENT THAT SPEAKS FOR YOU\nBelow:\nBecause you deserve the best\nLeft side badge:\nNEW ARRIVAL\nMinimal luxury typography.\nModern serif fonts mixed with elegant handwritten script.\nPerfect spacing.\nPremium cosmetic advertisement layout.\nCamera\nStraight-on camera\nSlight high angle\n85mm Lens\nf/4\nSoft studio lighting\nLuxury commercial photography\nPerfect reflections\nExtremely realistic\nNo people\nNo watermark\nNo logo except perfume label\nNo AI artifacts",
+    "category": "commercial-product",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "shah_zadii",
+      "handle": "sha_zdiii"
+    },
+    "source_platform": "X",
+    "source_id": "2075145441163846022",
+    "source_url": "https://x.com/sha_zdiii/status/2075145441163846022",
+    "images": [
+      "https://pbs.twimg.com/media/HMxlwvnWUAAtz8s.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMxlxegWIAAP9Vu.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138",
+    "published_at": "2026-10-12T07:35:51.294118+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "87bd7925f4921d02c4f2a8e37f08a1fc43422363046b07816f8dc9a1f6434fc0"
   },
   {
     "id": "3c7a8595-e6c5-43ee-bd04-ab88c0988280",
@@ -4792,6 +4902,35 @@
     "content_hash": "1a9e6a6ba151820fe7e29faa5e3d8c1dbf4dc50799284ab51efc7cec515eb0da"
   },
   {
+    "id": "5d3312fa-4867-4dcb-98c3-d7c8f9062559",
+    "title": "Retro Children's Book Cover with Three Peeking Characters",
+    "prompt": "【角色A】【角色B】【角色C】，复古儿童文学封面 × naïve 手绘角色插画 × mid-century book cover design。\n\n保留三名角色的发型、发色、眼睛、标志性配饰、服装领口与身份特征，采用成熟角色设定。三个角色沿画面中央纵向分成三层排列，从与背景同色的不可见横向边缘后探出：上层露出头部与双手，中层只露出头部，下层露出头部与搭在边缘的双手。身体下缘形成清楚的水平遮挡，层间与左右保留充足留白。\n\n三名角色分别呈现困倦、惊讶、冷淡、好奇或慵懒的表情。比例轻微卡通化，眼睛略放大，轮廓清楚。以水粉色块、彩铅线条和干笔刷表现发丝、毛发、服装与皮肤，保留粗糙手绘笔触、纸张颗粒和复古印刷感。\n\n根据角色配色选择单一深色背景，以暖色肤色与角色色块形成鲜明对比。构图简单、居中、纵向堆叠，具有旧儿童读物与20世纪中期书籍封面的气质。3:4竖版，右下角极小 voxcat 签名。",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "VoxCat",
+      "handle": "VoxcatAI"
+    },
+    "source_platform": "X",
+    "source_id": "2108497704829829397",
+    "source_url": "https://x.com/VoxcatAI/status/2108497704829829397",
+    "images": [
+      "https://pbs.twimg.com/media/HUKfAhmbwAE-PRB.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUKfAkhbIAA9q_Y.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUKfAhkboAAVNgG.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HUKfAkjaUAADS7u.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559",
+    "published_at": "2026-10-12T07:36:16.257559+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f8631a55ae30479e92f93748bf365809081d11ffe1221ab5a8d87896e988ab05"
+  },
+  {
     "id": "5ddaf32b-018e-451b-816f-1d4b4f397324",
     "title": "Logo-to-Living Installation System",
     "prompt": "The 2-variable prompt system for turning any brand logo into a living concrete-botanical installation\n- without rebuilding the foliage, material, lighting & architectural setup\nTip:\nTo lock your own logo geometry - add it as a ref image\nPrompt 🔽",
@@ -4816,6 +4955,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "37294329147778b89e37b8df895ffa5730ef244d6aa010fbb4772d54f45b4d42"
+  },
+  {
+    "id": "5e00e501-5e66-46af-a54b-aabe7e3cea92",
+    "title": "Alpine Travel Portrait in Grindelwald",
+    "prompt": "Prompt -\nA cinematic, ultra-high-resolution travel portrait of a stylish young\nwoman sitting on a rustic wooden fence overlooking the picturesque alpine village of Grindelwald, Switzerland. She wears a cream-colored knit sweater layered over a white collared shirt, relaxed-fit beige trousers, and classic white sneakers. Her hair moves gently in the mountain breeze as she smiles naturally toward the camera with a relaxed, confident expression.\nBehind her, charming Swiss chalets with flower-filled balconies are scattered across rolling green meadows, while dramatic snow-capped peaks of the Swiss Alps rise majestically in the distance. A winding mountain path, grazing cows, and vibrant wildflowers add authentic alpine character to the scene. Warm afternoon sunlight bathes the landscape, creating soft highlights and rich natural colors.\nCaptured from a slightly low angle with professional travel-photography styling, shallow depth of field, realistic skin texture, cinematic color grading, natural lighting, premium lifestyle aesthetic, environmental portrait composition, ultra-detailed scenery, breathtaking mountain atmosphere, award-winning travel magazine photography, HDR, masterpiece quality, 8K resolution.\nNegative Prompt: blurry face, low quality, cartoon, anime, illustration, distorted anatomy, extra limbs, extra fingers, duplicate person, harsh shadows, overprocessed skin, unrealistic proportions, text, watermark, logo, crowd, sunglasses, hat, motion blur, artificial background.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Mani",
+      "handle": "manibuildsAI"
+    },
+    "source_platform": "X",
+    "source_id": "2066089034599080348",
+    "source_url": "https://x.com/manibuildsAI/status/2066089034599080348",
+    "images": [
+      "https://pbs.twimg.com/media/HKw5BiQaoAA8kLw.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92",
+    "published_at": "2026-10-12T07:35:40.584964+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "5f66158a4072fc0b0b4c3b0828d422cbb8beb7fd887d28da472dfcf82cf1803a"
   },
   {
     "id": "5e272efa-fbd5-4e11-bab4-a007372f7203",
@@ -9113,6 +9278,32 @@
     "content_hash": "c4da184b533bf9b9dccf4e8f0d5fae775ac15cb975c95a451ca53181f8e1dead"
   },
   {
+    "id": "a362278e-4736-4bfa-9853-dcfa30364df1",
+    "title": "Luxury Ferrari Rainy Tokyo Ad",
+    "prompt": "Create an ultra-luxury cinematic automotive advertisement featuring a glossy blood-red Ferrari 488 Pista in a futuristic Tokyo street at midnight during heavy rain. The car is positioned in a low-angle close-up hero shot, dominating the frame with an aggressive, powerful presence. The body is covered in realistic raindrops, with glowing red taillights reflecting intensely across the wet black asphalt. Surround the scene with neon-lit skyscrapers, blurred city lights, glowing Japanese signboards, cinematic fog, smoke, and light rain particles in motion, creating a dark moody cyberpunk atmosphere.\n\nBeside the car stands a stunning elegant female model in a black luxury wet silk gown, high heels, sharp jawline, wet hair flowing in the wind, confident and mysterious pose, looking slightly away from the camera with a strong powerful aura. Her silhouette is highlighted with dramatic rim lighting, adding depth and premium editorial fashion energy.\n\nThe environment should feel expensive, mysterious, and larger than life — with glossy reflections, deep black shadows, realistic puddles, cinematic smoke trails, subtle motion blur in rain, and glowing city lights creating depth. Keep the composition balanced with the Ferrari as the main hero and the model as the luxury storytelling element. Use a black and red luxury color palette, ultra-realistic textures, hyper-detailed reflections, movie-poster composition, luxury magazine cover style, premium commercial photography, sharp focus, realistic lighting physics, minimal branding (only Ferrari logo and one small tagline), ultra-detailed 8K, masterpiece quality, photorealistic, dramatic cinematic depth, expensive billionaire lifestyle aesthetic, viral X luxury campaign style, futuristic realism, intense emotional storytelling, and world-class advertisement quality.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Noira.",
+      "handle": "veylorvisions"
+    },
+    "source_platform": "X",
+    "source_id": "2067608866733584706",
+    "source_url": "https://x.com/veylorvisions/status/2067608866733584706",
+    "images": [
+      "https://pbs.twimg.com/media/HLGfThNbQAAtKvm.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a362278e-4736-4bfa-9853-dcfa30364df1",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a362278e-4736-4bfa-9853-dcfa30364df1",
+    "published_at": "2026-10-12T07:35:43.955642+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f55e404adaf8ab5e3682bf11d552abeaba5d2d41d195c335d2ed7238f792e1ad"
+  },
+  {
     "id": "a47a37d7-d0c8-4199-b9ee-a9981138f539",
     "title": "Cool Rain Amidst Nature's Shades",
     "prompt": "The contrast of the cool rain and the shades of nature\nCreated in @vadooai\nModel: Nano Banana 2 and GPT Image 2\nPrompt in ALT⤵️",
@@ -9247,6 +9438,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "6e450f304f4fa99776b3e90095d32cb8eb40ee2fcbc5864449adc0d0cb1994e7"
+  },
+  {
+    "id": "a62dfbca-63d1-46dc-9366-77d5c77b07df",
+    "title": "Pixar-Style Lupin TV Show Movie Poster",
+    "prompt": "Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches Lupin's tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ANKIT PATEL 🇮🇳 | AI",
+      "handle": "Ankit_patel211"
+    },
+    "source_platform": "X",
+    "source_id": "2068778128659603644",
+    "source_url": "https://x.com/Ankit_patel211/status/2068778128659603644",
+    "images": [
+      "https://pbs.twimg.com/media/HLXGsk0bYAAduX3.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLXGueAbkAAUWLj.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df",
+    "published_at": "2026-10-12T07:35:49.241444+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e58a15853eda3eee3ee9663ec3f077a1817aabeadbd32155861f927019f55888"
   },
   {
     "id": "a6627d09-ef3c-4a17-8942-4a507c48c866",
@@ -12553,6 +12771,33 @@
     "content_hash": "5ddd3642959b866f52f4ce5c476118243245b542d89d467044c575d6953b3819"
   },
   {
+    "id": "edd34700-9bfc-461c-98e3-a99da6e3bdde",
+    "title": "Neo-Retro Japanese Street Scene with Honda NSX",
+    "prompt": "Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage anime aesthetics. A confident young man with slicked-back black hair tied into a small bun leans casually against the rear of a bright red Honda NSX (NA1), one hand in his pocket and the other holding a lit cigarette. He tilts his head back while slowly exhaling a dramatic stream of smoke into the evening sky, giving off a calm, rebellious attitude. Wearing a loose black oversized T-shirt, wide-leg black trousers, and polished black leather loafers. Traditional Japanese Edo-style wooden buildings line both sides of a narrow cobblestone street, with warm lantern light glowing from windows and deep atmospheric shadows. Muted earthy color palette with rich reds, charcoal blacks, and warm browns. Highly detailed architectural textures, cinematic composition, moody dusk lighting, subtle film grain, vintage poster aesthetic, ukiyo-e inspired perspective blended with modern manga realism, dramatic depth, nostalgic 1990s Japanese street culture vibe, masterpiece, ultra-detailed, no watermark, no text, no logos.",
+    "category": "scene-space",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Aqsa",
+      "handle": "Aqsahere_"
+    },
+    "source_platform": "X",
+    "source_id": "2077279939070726176",
+    "source_url": "https://x.com/Aqsahere_/status/2077279939070726176",
+    "images": [
+      "https://pbs.twimg.com/media/HNP7AJ8WMAAMu_J.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNP7DV8W8AApai4.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde",
+    "published_at": "2026-10-12T07:36:00.354927+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "6e7a6682a0537330f9f665b2196860e16200f852d99ca7487f57ee9c5d6a8bc8"
+  },
+  {
     "id": "ee8fc73a-911e-45d5-8870-8c91418667a5",
     "title": "Luxury Birthday Portrait with 3D Number",
     "prompt": "Luxury birthday poster, 3:4 portrait, premium editorial studio style. Off-white textured wall background with soft grain. Large carved 3D number [AGE] with deep shadows. Inside: elegant pastel pink balloons, white flowers, luxury floral arrangement. Happy [AGE]-year-old child in clean ivory/pastel outfit, natural joyful expression. Face and hand slightly popping out of number for 3D effect. Warm golden sunlight, soft rim light, ultra-realistic skin, cinematic shadows, high-end magazine look. Minimal typography: [NAME] CHAPTER [AGE]\n365 MORE DAYS OF WONDER. Clean, luxury, photorealistic, no distortion.",
@@ -13312,6 +13557,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0d92605c882470de0ac93e8ad827439eded7f64f29b6993e533de8213b733cbb"
+  },
+  {
+    "id": "fdfd66d9-06dc-4450-b744-b6e3757a92eb",
+    "title": "Surrealist Food Ad: Raw Fish Meets Sushi in Vanity Mirror",
+    "prompt": "A minimalist, surrealist food advertisement photograph on a warm, muted beige tan background. On the left side of the frame, a raw, translucent whole (FISH/HEN) stands upright on its tail, looking into a small, black rimmed circular vanity mirror placed on the right. Inside the mirror's reflection, instead of the raw (FISH/HEN), a perfect (sushi /fried chicken) platter is visible, matching the upright posture. The scene is lit with dramatic, soft studio lighting from the side, casting gentle shadows to the right and giving the image a high end, editorial feel. The overall color palette is fresh , featuring fresh tones of tan, deep orange, and soft black.",
+    "category": "food-drink",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Soulful Ai",
+      "handle": "soulful__ai"
+    },
+    "source_platform": "X",
+    "source_id": "2055673718073160019",
+    "source_url": "https://x.com/soulful__ai/status/2055673718073160019",
+    "images": [
+      "https://pbs.twimg.com/media/HIc4WSaakAEFOmM.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HIc4WZjaAAAncMa.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb",
+    "published_at": "2026-10-12T07:35:38.516631+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ce278e1b680a2c573dd2dc5673980b1472710f657f3a6501a5f600c372cf3fef"
   },
   {
     "id": "fecc3796-c385-45ac-a733-b65325222bb2",
