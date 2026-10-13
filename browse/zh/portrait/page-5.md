@@ -397,3 +397,26 @@ Negative Prompt: blurry face, low quality, cartoon, anime, illustration, distort
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manibuildsAI/status/2066089034599080348>)
 
 ---
+
+<a id="prompt-8f260c0c-8599-4f2a-a15e-7c52222449fd"></a>
+
+## Editorial Magazine Cover Portrait With Sony Camera
+
+<a href="https://musesignal.com/zh/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUUQ0guaoAA3pS2.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Magazine Cover Portrait With Sony Camera" /></a>
+
+**GPT Image 2** · 原作者: Zephyra Leigh
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic photography editorial magazine cover featuring a creative Korean woman in a casual all-black outfit, eye pressed to the viewfinder of a Sony A7R VI mirrorless camera with a large G Master lens, mid-shot of something off-frame, fully absorbed in composition. Natural glowing skin, minimal creator makeup, hair loosely tied back. Background: moody documentary-style dark studio with dramatic single backlight rim, lens flare streaking from light source. "DIGITAL PHOTO PRO" masthead in clean editorial sans-serif with "SENSOR REVOLUTION ISSUE" callout. 50mm lens, ultra-detailed Sony body texture and lens glass element, 8K photorealistic. 
+
+Negative: cartoon, blurry, incorrect camera shape, watermark, distorted. 9:16
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ZephyraLeigh/status/2109110503876481180>)
+
+---

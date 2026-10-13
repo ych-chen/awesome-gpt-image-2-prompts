@@ -1195,3 +1195,30 @@ Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ankit_patel211/status/2068778128659603644>)
 
 ---
+
+<a id="prompt-2716df3b-a0f4-4189-93f5-6259ac01bc3f"></a>
+
+## Cinematic Anime Sports Character Poster
+
+<a href="https://musesignal.com/zh/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpQY_SaEAApoW4.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Anime Sports Character Poster" /></a>
+
+**GPT Image 2** · 原作者: Taaruk
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a cinematic anime character poster in the style of a premium sports anime key visual. Vertical 9:16 composition featuring a single character occupying the right half of the frame, shown from chest-up with only half of the face illuminated while the other half fades into deep shadows. The character has a sharp, confident expression, detailed anime eyes, dramatic rim lighting, and wears a realistic black-and-orange volleyball jersey with subtle fabric texture.
+
+The background is a dark smoky gradient filled with cinematic fog, floating dust particles, glowing embers, and soft volumetric light. Use a dominant monochromatic color theme that matches the character's personality (orange, blue, gold, crimson, emerald, etc.), with the background glow and lighting reflecting that color.
+
+On the left side, place a huge vertical bold condensed sans-serif title in distressed metallic lettering displaying the character's name. Beside it, include a thin vertical subtitle such as "THE KING OF THE COURT", "THE BLOCKING STRATEGIST", or another defining title. Add elegant Japanese typography beneath the subtitle. Include small premium editorial text in the lower-left corner with the character's full name, team, position, and jersey number.
+
+Design should resemble a luxury movie poster with minimal composition, dramatic contrast, premium typography hierarchy, textured overlays, grunge details, subtle paint scratches, smoky atmosphere, ultra-clean anime rendering, highly detailed facial features, glossy jersey highlights, professional sports branding aesthetic, magazine cover quality, cinematic lighting, masterpiece, ultra detailed, 8K, sharp focus, dark mood, premium poster design.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Taaruk_/status/2070055492005568904>)
+
+---

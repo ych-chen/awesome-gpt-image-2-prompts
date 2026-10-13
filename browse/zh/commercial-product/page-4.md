@@ -969,3 +969,26 @@ The environment should feel expensive, mysterious, and larger than life — with
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/veylorvisions/status/2067608866733584706>)
 
 ---
+
+<a id="prompt-ccd4237d-b992-4e31-8880-6fe146a08d7d"></a>
+
+## Neon Brooks Running Shoe Commercial Ad
+
+<a href="https://musesignal.com/zh/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM1cv1NbsAAdarI.jpg?format=jpg&amp;name=small" width="480" alt="Neon Brooks Running Shoe Commercial Ad" /></a>
+
+**GPT Image 2** · 原作者: Snow
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra realistic premium commercial advertisement featuring a Brooks running shoe floating dramatically above a futuristic circular podium in a dark matte black studio. The shoe is surrounded by vibrant electric neon magenta energy, with glowing plasma smoke, holographic light trails, swirling particles, and luminous vapor rising from the platform. The midsole emits an intense pink glow, emphasizing Brooks’ advanced cushioning technology. High contrast cinematic lighting, volumetric fog, realistic reflections, soft shadows, premium product photography, ultra detailed mesh texture, dynamic three quarter angle, crisp branding, hyper realistic materials, dramatic depth of field, luxury sportswear campaign aesthetic.
+
+Large bold typography at the top reads “COMFORT MEETS PERFORMANCE”, with “Performance” in elegant handwritten script. Bottom left features “Up to 25% OFF”, bottom right displays “Starting at $180” inside a modern neon outlined price badge. A premium rounded “SHOP NOW” call to action button sits at the bottom center. Include subtle social media icons in the top right, minimal website and contact details along the bottom, clean luxury layout, black and neon pink color palette, futuristic sports branding, IMAX quality, 8K, HDR, photorealistic, award winning commercial advertising, Octane Render, Unreal Engine 5, ultra sharp focus.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2075416994141417493>)
+
+---
