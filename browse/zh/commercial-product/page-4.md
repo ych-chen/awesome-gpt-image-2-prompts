@@ -992,3 +992,28 @@ Large bold typography at the top reads “COMFORT MEETS PERFORMANCE”, with “
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2075416994141417493>)
 
 ---
+
+<a id="prompt-0656dc5d-64ba-4c99-8fef-27c843a7d0b7"></a>
+
+## Blueberry Energy Drink Can Product Ad
+
+<a href="https://musesignal.com/zh/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMrszFiboAATMFw.jpg?format=jpg&amp;name=small" width="480" alt="Blueberry Energy Drink Can Product Ad" /></a>
+
+**GPT Image 2** · 原作者: Snow
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic premium commercial product advertisement featuring a sleek, matte metallic blueberry energy drink can standing upright at the center of a clean pastel lavender studio background. The can is covered with realistic cold condensation droplets, giving a freshly chilled appearance. Large semi-transparent typography reading “FRESH DRINK” fills the background behind the can, creating depth while remaining subtle. At the top, elegant bold text reads “ENERGY DRINK”.
+
+Several fresh, juicy blueberries are artistically floating around the can in different sizes and depths, accompanied by vibrant green leaves for a natural, refreshing look. Additional blueberries rest naturally at the base of the can, enhancing realism and product appeal. The can label features elegant white handwritten typography saying “blueberry flavour” and a bold modern logo reading “Drink”.
+
+Soft diffused studio lighting, smooth shadows, premium minimalist composition, centered layout, vibrant purple and blue color harmony, glossy fruit textures, photorealistic water droplets, clean advertising aesthetic, luxury beverage branding, high-end packaging visualization, shallow depth of field, ultra-sharp focus, soft reflections, realistic materials, premium graphic design, commercial food photography, award-winning product mockup, hyper-detailed, 8K, HDR, Octane Render, Unreal Engine quality, ultra-realistic, Instagram and Pinterest trending beverage advertisement.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2074730952400781666>)
+
+---

@@ -362,3 +362,40 @@ Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage an
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2077279939070726176>)
 
 ---
+
+<a id="prompt-863f4152-c5b6-424e-85c2-1852aaf55149"></a>
+
+## Frozen City Popsicle Travel Photo
+
+<a href="https://musesignal.com/zh/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjTO3ZacAA8jFO.jpg?format=jpg&amp;name=small" width="480" alt="Frozen City Popsicle Travel Photo" /></a>
+
+**GPT Image 2** · 原作者: simeon-sanai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a hyper-realistic vertical 4:5 conceptual travel photograph of [CITY / COUNTRY], where the entire essence of the destination is magically frozen inside a crystal-clear ice popsicle held in a person’s hand.
+
+Inside the transparent popsicle, build a miniature yet incredibly detailed 3D world featuring [ICONIC LANDMARK] as the central hero, surrounded by tiny recognizable elements of the city — [LOCAL ARCHITECTURE], flowering trees, a charming café, tiny street furniture, and subtle cultural details. The landmark should appear physically embedded inside the ice, as if an entire miniature city has been frozen in time.
+
+The popsicle must look extremely realistic: crystal-clear ice, frozen bubbles, tiny cracks, frost along the edges, melting droplets, refraction, internal condensation, subtle imperfections, and realistic translucent depth. The miniature world inside should remain beautifully sharp and detailed through the ice.
+
+Place the popsicle against a realistic, softly blurred street scene of [CITY], creating a fascinating contrast between the ordinary real world and the magical miniature frozen world in the foreground.
+
+A natural human hand holds the wooden popsicle stick from the bottom, with realistic skin texture, fingerprints, tiny creases, and natural sunlight.
+
+Photography: cinematic travel photography, shallow depth of field, macro-level detail on the popsicle, realistic perspective, natural daylight, soft golden sunlight, beautiful bokeh, subtle lens compression, physically accurate reflections and refractions, premium editorial photography.
+
+Composition: popsicle perfectly centered, landmark clearly visible through the ice, hand entering naturally from the bottom, real city softly surrounding it, strong foreground-to-background depth, clean visual hierarchy, no text, no logos.
+
+Mood: magical, elegant, surreal but believable — “the whole city frozen into one unforgettable bite.”
+
+Ultra-photorealistic, high dynamic range, intricate miniature architecture, realistic ice physics, natural colors, sophisticated travel campaign aesthetic, 8K detail.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2092154294816665829>)
+
+---

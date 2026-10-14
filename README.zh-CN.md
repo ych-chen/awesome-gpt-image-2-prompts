@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **510** | **60** | 2026-10-13 |
+| **513** | **60** | 2026-10-14 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,12 +28,12 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 136 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| 商业产品 | 103 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| 人像摄影 | 137 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| 商业产品 | 104 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
 | 海报设计 | 114 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 26 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 93 | [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
-| 场景空间 | 38 | [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
+| 场景空间 | 39 | [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -368,6 +368,49 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-bf6a905d-8827-4cf4-8d35-f7bce865de3b"></a>
+
+#### Arctic Chieftain Portrait with Polar Bear Guardian
+
+<a href="https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTmlGSFbEAADi9b.jpg?format=jpg&amp;name=small" width="480" alt="Arctic Chieftain Portrait with Polar Bear Guardian" /></a>
+
+**GPT Image 2.5** · 原作者: Ali
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium ultra-photorealistic cinematic vertical 9:16 waist-up portrait of Sufni as a powerful ancient Arctic female chieftain.
+
+A young hijabi woman in her early 20s, preserving her recognizable facial identity and natural facial proportions. Completely no makeup, natural visible pores and skin texture, slightly red cheeks and nose from the freezing cold, with a few subtle natural freckles across her nose and cheeks.
+
+She looks directly into the camera with a calm, serious, intimidating expression. No smile, no glamour, no model pose. Her eyes communicate absolute authority, courage, and quiet power — the kind of presence that makes people instinctively feel respect and fear.
+
+She wears a dark charcoal-brown wool khimar covering her chest, layered with a rugged ancient Arctic tribal outfit made from dark wool, leather, and natural fur. Weathered textures, handmade details, primitive tribal clasp and leather belt.
+
+She firmly holds a large ancient wooden tribal spear vertically along the left side of the frame. The spear has a weathered wooden shaft, leather bindings, primitive carved details, and an aged stone-and-metal spearhead.
+
+Directly behind her stands a gigantic adult polar bear, acting as her silent guardian. The bear's head rises above her shoulder and looks directly into the camera with a calm, intelligent, intimidating gaze. Detailed natural white fur, realistic anatomy, snow and frost on its coat.
+
+Composition: waist-up, not chest-up, showing her waist, upper torso, shoulders, arms, hands, belt, and spear. Sufni is the main focal point; the polar bear towers behind her as a powerful secondary subject. Eye-level camera with a subtle low-angle perspective.
+
+Ancient snowy Arctic tribal settlement in the background, wooden shelters, distant firelight, mountains, falling snow and cold mist.
+
+Natural Arctic daylight, cinematic shadows, cold blue-gray tones, subtle warm firelight, 85mm lens, shallow depth of field, realistic skin and fur, documentary photography, subtle film grain.
+
+No CGI, no 3D, no cartoon, no beauty filter, no makeup, no glamorous styling, no smile, no modern clothing, no modern weapons, no aggressive bear, no distorted anatomy, no extra fingers, no duplicate bear, no text, no watermark.
+
+The final image should feel like a real historical photograph of a feared and respected Arctic chieftain standing with her enormous polar bear guardian.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/aiwithaly/status/2105895841466663379>)
+
+---
+
 <a id="prompt-8f260c0c-8599-4f2a-a15e-7c52222449fd"></a>
 
 #### Editorial Magazine Cover Portrait With Sony Camera
@@ -443,34 +486,6 @@ GPT-image2｜经典日漫角色真人 COS
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/VoxcatAI/status/2108592071611240827>)
-
----
-
-<a id="prompt-5e00e501-5e66-46af-a54b-aabe7e3cea92"></a>
-
-#### Alpine Travel Portrait in Grindelwald
-
-<a href="https://musesignal.com/zh/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKw5BiQaoAA8kLw.jpg?format=jpg&amp;name=small" width="480" alt="Alpine Travel Portrait in Grindelwald" /></a>
-
-**GPT Image 2** · 原作者: Mani
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Prompt -
-A cinematic, ultra-high-resolution travel portrait of a stylish young
-woman sitting on a rustic wooden fence overlooking the picturesque alpine village of Grindelwald, Switzerland. She wears a cream-colored knit sweater layered over a white collared shirt, relaxed-fit beige trousers, and classic white sneakers. Her hair moves gently in the mountain breeze as she smiles naturally toward the camera with a relaxed, confident expression.
-Behind her, charming Swiss chalets with flower-filled balconies are scattered across rolling green meadows, while dramatic snow-capped peaks of the Swiss Alps rise majestically in the distance. A winding mountain path, grazing cows, and vibrant wildflowers add authentic alpine character to the scene. Warm afternoon sunlight bathes the landscape, creating soft highlights and rich natural colors.
-Captured from a slightly low angle with professional travel-photography styling, shallow depth of field, realistic skin texture, cinematic color grading, natural lighting, premium lifestyle aesthetic, environmental portrait composition, ultra-detailed scenery, breathtaking mountain atmosphere, award-winning travel magazine photography, HDR, masterpiece quality, 8K resolution.
-Negative Prompt: blurry face, low quality, cartoon, anime, illustration, distorted anatomy, extra limbs, extra fingers, duplicate person, harsh shadows, overprocessed skin, unrealistic proportions, text, watermark, logo, crowd, sunglasses, hat, motion blur, artificial background.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/manibuildsAI/status/2066089034599080348>)
 
 ---
 
@@ -975,6 +990,33 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 ---
 
+<a id="prompt-0656dc5d-64ba-4c99-8fef-27c843a7d0b7"></a>
+
+#### Blueberry Energy Drink Can Product Ad
+
+<a href="https://musesignal.com/zh/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMrszFiboAATMFw.jpg?format=jpg&amp;name=small" width="480" alt="Blueberry Energy Drink Can Product Ad" /></a>
+
+**GPT Image 2** · 原作者: Snow
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic premium commercial product advertisement featuring a sleek, matte metallic blueberry energy drink can standing upright at the center of a clean pastel lavender studio background. The can is covered with realistic cold condensation droplets, giving a freshly chilled appearance. Large semi-transparent typography reading “FRESH DRINK” fills the background behind the can, creating depth while remaining subtle. At the top, elegant bold text reads “ENERGY DRINK”.
+
+Several fresh, juicy blueberries are artistically floating around the can in different sizes and depths, accompanied by vibrant green leaves for a natural, refreshing look. Additional blueberries rest naturally at the base of the can, enhancing realism and product appeal. The can label features elegant white handwritten typography saying “blueberry flavour” and a bold modern logo reading “Drink”.
+
+Soft diffused studio lighting, smooth shadows, premium minimalist composition, centered layout, vibrant purple and blue color harmony, glossy fruit textures, photorealistic water droplets, clean advertising aesthetic, luxury beverage branding, high-end packaging visualization, shallow depth of field, ultra-sharp focus, soft reflections, realistic materials, premium graphic design, commercial food photography, award-winning product mockup, hyper-detailed, 8K, HDR, Octane Render, Unreal Engine quality, ultra-realistic, Instagram and Pinterest trending beverage advertisement.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2074730952400781666>)
+
+---
+
 <a id="prompt-ccd4237d-b992-4e31-8880-6fe146a08d7d"></a>
 
 #### Neon Brooks Running Shoe Commercial Ad
@@ -1072,33 +1114,6 @@ No AI artifacts
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2075145441163846022>)
-
----
-
-<a id="prompt-a362278e-4736-4bfa-9853-dcfa30364df1"></a>
-
-#### Luxury Ferrari Rainy Tokyo Ad
-
-<a href="https://musesignal.com/zh/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLGfThNbQAAtKvm.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Ferrari Rainy Tokyo Ad" /></a>
-
-**GPT Image 2** · 原作者: Noira.
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Create an ultra-luxury cinematic automotive advertisement featuring a glossy blood-red Ferrari 488 Pista in a futuristic Tokyo street at midnight during heavy rain. The car is positioned in a low-angle close-up hero shot, dominating the frame with an aggressive, powerful presence. The body is covered in realistic raindrops, with glowing red taillights reflecting intensely across the wet black asphalt. Surround the scene with neon-lit skyscrapers, blurred city lights, glowing Japanese signboards, cinematic fog, smoke, and light rain particles in motion, creating a dark moody cyberpunk atmosphere.
-
-Beside the car stands a stunning elegant female model in a black luxury wet silk gown, high heels, sharp jawline, wet hair flowing in the wind, confident and mysterious pose, looking slightly away from the camera with a strong powerful aura. Her silhouette is highlighted with dramatic rim lighting, adding depth and premium editorial fashion energy.
-
-The environment should feel expensive, mysterious, and larger than life — with glossy reflections, deep black shadows, realistic puddles, cinematic smoke trails, subtle motion blur in rain, and glowing city lights creating depth. Keep the composition balanced with the Ferrari as the main hero and the model as the luxury storytelling element. Use a black and red luxury color palette, ultra-realistic textures, hyper-detailed reflections, movie-poster composition, luxury magazine cover style, premium commercial photography, sharp focus, realistic lighting physics, minimal branding (only Ferrari logo and one small tagline), ultra-detailed 8K, masterpiece quality, photorealistic, dramatic cinematic depth, expensive billionaire lifestyle aesthetic, viral X luxury campaign style, futuristic realism, intense emotional storytelling, and world-class advertisement quality.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/veylorvisions/status/2067608866733584706>)
 
 ---
 
@@ -1625,7 +1640,7 @@ Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast
 
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 9
+### 食物饮品 · 8
 
 [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>)
 
@@ -1822,29 +1837,6 @@ A minimalist, surrealist food advertisement photograph on a warm, muted beige ta
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/soulful__ai/status/2055673718073160019>)
-
----
-
-<a id="prompt-082f4586-63c7-44e6-ada5-f3eb8183495e"></a>
-
-#### Italian Restaurant Food Poster with GPT Image 2
-
-<a href="https://musesignal.com/zh/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLJtNgmbYAALAR0.jpg?format=jpg&amp;name=small" width="480" alt="Italian Restaurant Food Poster with GPT Image 2" /></a>
-
-**GPT Image 2** · 原作者: Al-Shamus
-
-创作场景: 食物饮品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A minimalistic advertising poster about food in a modern Italian style with Japanese layout aesthetics, preserving the exact compositional structure: two large rounded vertical geometric color blocks arranged diagonally along the composition, food photography with a view from above. The upper left block is a hero dish: fresh tagliatelle pasta with truffle cream and parmesan cheese on a light ceramic plate, with thin slices of black truffle, olive oil and microgreens, premium restaurant service. The lower right block is the second hero dish: slow—stewed ossobuco with saffron risotto on a matte dark plate, with rich sauce, gremolata and fresh herbs, modern author's Italian cuisine. Floating side dishes and appliances are neatly arranged around each dish: vintage cutlery, linen napkins, sprigs of rosemary and thyme, cherry tomatoes, slices of parmesan, miniature saucepans with olive oil, fresh handmade focaccia, olives and spices. Large typography in modern Italian style is aligned to the upper right, the text is entirely in English : the name of the restaurant, the names of the dishes and the prices. Small text with prices is placed next to each dish. Airy editorial is a negative space system, a soft pastel commercial palette with shades of cream, terracotta, olive, sage and graphite. Clear asymmetrical visual hierarchy, premium restaurant branding aesthetics, cinematic soft shadows, modern menu presentation in poster format. The subtle signature in the footer is naturally integrated into the bottom of the composition. Pure vertical composition, ultra detailed, premium branding, realistic food styling, soft cinematic dim green lighting, Italian cuisine editorial poster design, minimalism.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2067835275695534326>)
 
 ---
 
@@ -2094,7 +2086,7 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 <a id="selected-scene-space"></a>
 
-### 场景空间 · 10
+### 场景空间 · 11
 
 [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2312,6 +2304,45 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ---
 
+<a id="prompt-863f4152-c5b6-424e-85c2-1852aaf55149"></a>
+
+#### Frozen City Popsicle Travel Photo
+
+<a href="https://musesignal.com/zh/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjTO3ZacAA8jFO.jpg?format=jpg&amp;name=small" width="480" alt="Frozen City Popsicle Travel Photo" /></a>
+
+**GPT Image 2** · 原作者: simeon-sanai
+
+创作场景: 场景空间
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a hyper-realistic vertical 4:5 conceptual travel photograph of [CITY / COUNTRY], where the entire essence of the destination is magically frozen inside a crystal-clear ice popsicle held in a person’s hand.
+
+Inside the transparent popsicle, build a miniature yet incredibly detailed 3D world featuring [ICONIC LANDMARK] as the central hero, surrounded by tiny recognizable elements of the city — [LOCAL ARCHITECTURE], flowering trees, a charming café, tiny street furniture, and subtle cultural details. The landmark should appear physically embedded inside the ice, as if an entire miniature city has been frozen in time.
+
+The popsicle must look extremely realistic: crystal-clear ice, frozen bubbles, tiny cracks, frost along the edges, melting droplets, refraction, internal condensation, subtle imperfections, and realistic translucent depth. The miniature world inside should remain beautifully sharp and detailed through the ice.
+
+Place the popsicle against a realistic, softly blurred street scene of [CITY], creating a fascinating contrast between the ordinary real world and the magical miniature frozen world in the foreground.
+
+A natural human hand holds the wooden popsicle stick from the bottom, with realistic skin texture, fingerprints, tiny creases, and natural sunlight.
+
+Photography: cinematic travel photography, shallow depth of field, macro-level detail on the popsicle, realistic perspective, natural daylight, soft golden sunlight, beautiful bokeh, subtle lens compression, physically accurate reflections and refractions, premium editorial photography.
+
+Composition: popsicle perfectly centered, landmark clearly visible through the ice, hand entering naturally from the bottom, real city softly surrounding it, strong foreground-to-background depth, clean visual hierarchy, no text, no logos.
+
+Mood: magical, elegant, surreal but believable — “the whole city frozen into one unforgettable bite.”
+
+Ultra-photorealistic, high dynamic range, intricate miniature architecture, realistic ice physics, natural colors, sophisticated travel campaign aesthetic, 8K detail.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2092154294816665829>)
+
+---
+
 <a id="prompt-1c630916-b0b6-44e1-bdf9-addea2def831"></a>
 
 #### Tiny Man and Giant Sea Turtle Beach Collage
@@ -2383,19 +2414,19 @@ Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage an
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 52 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 437 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
-| GPT Image 2.5 | 21 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
+| GPT Image 2 | 439 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2.5 | 22 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## 最近发布
 
+- [Arctic Chieftain Portrait with Polar Bear Guardian](<https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
+- [Frozen City Popsicle Travel Photo](<https://musesignal.com/zh/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Blueberry Energy Drink Can Product Ad](<https://musesignal.com/zh/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Editorial Magazine Cover Portrait With Sony Camera](<https://musesignal.com/zh/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Neon Brooks Running Shoe Commercial Ad](<https://musesignal.com/zh/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Cinematic Anime Sports Character Poster](<https://musesignal.com/zh/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [1990s East Asian Retro Film Portrait of Mature Female Character](<https://musesignal.com/zh/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Retro Children&#39;s Book Cover with Three Peeking Characters](<https://musesignal.com/zh/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Tiny Man and Giant Sea Turtle Beach Collage](<https://musesignal.com/zh/prompt/1c630916-b0b6-44e1-bdf9-addea2def831?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Neo-Retro Japanese Street Scene with Honda NSX](<https://musesignal.com/zh/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Luxury Perfume Ad in Chrome Pasta Machine](<https://musesignal.com/zh/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
 
 ## 在 MuseSignal 生成
 
@@ -2416,7 +2447,7 @@ Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage an
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 510](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 513](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

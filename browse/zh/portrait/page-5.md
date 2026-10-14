@@ -420,3 +420,44 @@ Negative: cartoon, blurry, incorrect camera shape, watermark, distorted. 9:16
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ZephyraLeigh/status/2109110503876481180>)
 
 ---
+
+<a id="prompt-bf6a905d-8827-4cf4-8d35-f7bce865de3b"></a>
+
+## Arctic Chieftain Portrait with Polar Bear Guardian
+
+<a href="https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTmlGSFbEAADi9b.jpg?format=jpg&amp;name=small" width="480" alt="Arctic Chieftain Portrait with Polar Bear Guardian" /></a>
+
+**GPT Image 2.5** · 原作者: Ali
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium ultra-photorealistic cinematic vertical 9:16 waist-up portrait of Sufni as a powerful ancient Arctic female chieftain.
+
+A young hijabi woman in her early 20s, preserving her recognizable facial identity and natural facial proportions. Completely no makeup, natural visible pores and skin texture, slightly red cheeks and nose from the freezing cold, with a few subtle natural freckles across her nose and cheeks.
+
+She looks directly into the camera with a calm, serious, intimidating expression. No smile, no glamour, no model pose. Her eyes communicate absolute authority, courage, and quiet power — the kind of presence that makes people instinctively feel respect and fear.
+
+She wears a dark charcoal-brown wool khimar covering her chest, layered with a rugged ancient Arctic tribal outfit made from dark wool, leather, and natural fur. Weathered textures, handmade details, primitive tribal clasp and leather belt.
+
+She firmly holds a large ancient wooden tribal spear vertically along the left side of the frame. The spear has a weathered wooden shaft, leather bindings, primitive carved details, and an aged stone-and-metal spearhead.
+
+Directly behind her stands a gigantic adult polar bear, acting as her silent guardian. The bear's head rises above her shoulder and looks directly into the camera with a calm, intelligent, intimidating gaze. Detailed natural white fur, realistic anatomy, snow and frost on its coat.
+
+Composition: waist-up, not chest-up, showing her waist, upper torso, shoulders, arms, hands, belt, and spear. Sufni is the main focal point; the polar bear towers behind her as a powerful secondary subject. Eye-level camera with a subtle low-angle perspective.
+
+Ancient snowy Arctic tribal settlement in the background, wooden shelters, distant firelight, mountains, falling snow and cold mist.
+
+Natural Arctic daylight, cinematic shadows, cold blue-gray tones, subtle warm firelight, 85mm lens, shallow depth of field, realistic skin and fur, documentary photography, subtle film grain.
+
+No CGI, no 3D, no cartoon, no beauty filter, no makeup, no glamorous styling, no smile, no modern clothing, no modern weapons, no aggressive bear, no distorted anatomy, no extra fingers, no duplicate bear, no text, no watermark.
+
+The final image should feel like a real historical photograph of a feared and respected Arctic chieftain standing with her enormous polar bear guardian.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aiwithaly/status/2105895841466663379>)
+
+---
