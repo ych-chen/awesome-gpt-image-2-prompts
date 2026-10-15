@@ -1017,3 +1017,24 @@ Soft diffused studio lighting, smooth shadows, premium minimalist composition, c
 **[Try on MuseSignal →](<https://musesignal.com/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2074730952400781666>)
 
 ---
+
+<a id="prompt-f0d841ed-0eb0-4e66-b97f-62757429bceb"></a>
+
+## Luxury Swiss Watch Commercial Ad
+
+<a href="https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOT9oLKacAA0utX.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Swiss Watch Commercial Ad" /></a>
+
+**GPT Image 2** · Creator: Mr Das
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Minimalist commercial ad featuring an oversized premium luxury Swiss mechanical watch with intricate open-heart dial, polished rose-gold case, sapphire crystal, fine leather strap details, and gleaming metallic textures, ultra-clean design. A fashionable young woman wearing an elegant all-white outfit leans casually against the giant watch while holding the crown between her fingers, relaxed confident pose, eyes closed. Soft gradient deep emerald-green background with large bold white “WATCH” text behind. Glossy reflective floor, premium studio lighting, luxury product photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Time refined beautifully.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2082067804472360967>)
+
+---

@@ -1222,3 +1222,30 @@ Design should resemble a luxury movie poster with minimal composition, dramatic 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Taaruk_/status/2070055492005568904>)
 
 ---
+
+<a id="prompt-cf205195-bc0c-4768-a85e-7b316a8a1f3a"></a>
+
+## Miniature Diorama London Travel Poster
+
+<a href="https://musesignal.com/zh/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMmJx8XaEAA23F5.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Diorama London Travel Poster" /></a>
+
+**GPT Image 2** · 原作者: Harry Potter
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-detailed miniature diorama travel poster of London, designed in a charming Pixar-inspired 3D style with cinematic lighting and hyper-realistic textures. A smiling young South Asian traveler with neatly styled black hair, trimmed beard, and black sunglasses rides a vintage pastel mint-blue Vespa scooter through a beautifully crafted cobblestone street. He wears a light blue rolled-sleeve button-up shirt, beige chinos, brown leather boots, and a camera hanging around his neck. A vintage brown leather suitcase covered with travel stickers is mounted behind the scooter.
+
+The scene features iconic London landmarks including Big Ben, the Palace of Westminster, the London Eye, Westminster Bridge, a classic red double-decker bus, an iconic red telephone booth, Underground station sign, black London taxi, traditional British pub, riverboats on the Thames, Victorian buildings, and charming street lamps. A winding red-and-white dotted travel path leads to a large red location pin in the foreground, emphasizing the travel journey.
+
+Decorative destination signboards point toward Big Ben, London Eye, Buckingham Palace, Tower Bridge, and Camden Market. The composition includes a vintage passport stamp, British flag, and bold travel-poster typography reading "EXPLORING LONDON" with the subtitle "Timeless City, Endless Stories."
+
+Warm golden-hour sunlight, soft volumetric lighting, shallow depth of field, ultra-sharp focus, vibrant colors, intricate miniature architecture, highly detailed textures, whimsical storytelling, collectible toy-diorama aesthetic, premium travel advertisement, centered composition, 8K, HDR, masterpiece, photorealistic CGI, Octane Render, Unreal Engine 5, global illumination, magazine-quality travel poster, vertical 2:3 aspect ratio.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mon010_de/status/2074340605098926144>)
+
+---

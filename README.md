@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **513** | **60** | 2026-10-14 |
+| **516** | **60** | 2026-10-15 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,9 +28,9 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 137 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| Commercial &amp; Product | 104 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| Poster &amp; Graphic | 114 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| Portrait | 138 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| Commercial &amp; Product | 105 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| Poster &amp; Graphic | 115 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 26 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 93 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | Scene &amp; Space | 39 | [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 11
+### Portrait · 12
 
 [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -365,6 +365,34 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/john_my07/status/2067642906035585315>)
+
+---
+
+<a id="prompt-0af2874d-b4aa-4023-a766-d4ca628dbd4d"></a>
+
+#### Pop-Art Portrait of Woman with Yellow Headphones
+
+<a href="https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNvRAwTa8AABd1r.jpg?format=jpg&amp;name=small" width="480" alt="Pop-Art Portrait of Woman with Yellow Headphones" /></a>
+
+**GPT Image 2** · Creator: Sairah
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-detailed modern pop-art portrait of a confident East Asian woman in a clean left-side profile, looking slightly upward with a calm, determined expression. She has a sleek chin-length bob haircut with soft wispy bangs, silky jet-black hair with a subtle natural shine, softly arched eyebrows, expressive dark brown almond-shaped eyes, delicate eyelashes, a refined nose, naturally full lips, elegant feminine facial contours, a graceful jawline, and smooth luminous natural skin with subtle pores and realistic texture.
+She is wearing oversized vibrant yellow wired over-ear headphones with a matte finish and a minimalist black oversized off-shoulder hoodie featuring realistic fabric folds and a soft premium cotton texture.
+The background features a bold solid yellow canvas with a large centered hot-pink circle positioned behind her head, creating a striking contemporary graphic composition inspired by Japanese pop-art posters and minimalist editorial design.
+Dramatic studio lighting with soft shadows, ultra-clean composition, crisp edge definition, premium digital illustration, hyper-realistic mixed-media rendering, smooth gradients, vibrant high-contrast colors, poster-quality artwork, modern branding aesthetic, centered composition, 8K resolution, Adobe Illustrator + Photoshop hybrid style, flawless detailing, magazine cover quality, minimalistic luxury design, contemporary visual identity, no text, no watermark, no logo.
+Negative Prompt:
+low quality, blurry, noisy, pixelated, distorted face, asymmetrical eyes, extra ears, extra headphones, duplicate features, bad anatomy, bad proportions, masculine facial features, oversaturated skin, flat lighting, messy background, text, watermark, logo, frame, artifacts, cropped head, low resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2079485485102272558>)
 
 ---
 
@@ -990,6 +1018,29 @@ Use case: Commercial &amp; Product
 
 ---
 
+<a id="prompt-f0d841ed-0eb0-4e66-b97f-62757429bceb"></a>
+
+#### Luxury Swiss Watch Commercial Ad
+
+<a href="https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOT9oLKacAA0utX.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Swiss Watch Commercial Ad" /></a>
+
+**GPT Image 2** · Creator: Mr Das
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Minimalist commercial ad featuring an oversized premium luxury Swiss mechanical watch with intricate open-heart dial, polished rose-gold case, sapphire crystal, fine leather strap details, and gleaming metallic textures, ultra-clean design. A fashionable young woman wearing an elegant all-white outfit leans casually against the giant watch while holding the crown between her fingers, relaxed confident pose, eyes closed. Soft gradient deep emerald-green background with large bold white “WATCH” text behind. Glossy reflective floor, premium studio lighting, luxury product photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Time refined beautifully.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2082067804472360967>)
+
+---
+
 <a id="prompt-0656dc5d-64ba-4c99-8fef-27c843a7d0b7"></a>
 
 #### Blueberry Energy Drink Can Product Ad
@@ -1039,81 +1090,6 @@ Large bold typography at the top reads “COMFORT MEETS PERFORMANCE”, with “
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2075416994141417493>)
-
----
-
-<a id="prompt-3c35cfd4-e1d9-4f82-ae73-861253edd138"></a>
-
-#### Luxury Perfume Ad in Chrome Pasta Machine
-
-<a href="https://musesignal.com/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMxlwvnWUAAtz8s.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Perfume Ad in Chrome Pasta Machine" /></a>
-
-**GPT Image** · Creator: shah\_zadii
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-MASTER LUXURY PERFUME AD
-
- PROMPT:
-
-Create an ultra-realistic premium luxury commercial fragrance advertisement.
-A beautiful ({BOTTLE COLOR}) luxury perfume bottle labeled ({PERFUME NAME}) is positioned vertically with a slight backward tilt, perfectly supported between the polished stainless-steel guide plates of a premium chrome manual pasta machine.
-The machine is centered, facing directly toward the camera.
-Black wooden crank handle on the left side.
-Chrome adjustment knob on the right.
-Front roller opening fully visible.
-From the roller opening, a rich and abundant flow of ({MAIN INGREDIENT}) naturally exits the machine and spreads into a luxurious pile on the tabletop.
-Mix different sizes of ({MAIN INGREDIENT}), crushed pieces, flakes, powder and premium texture details for maximum realism.
-Around the pile add scattered ({SMALL DECOR ELEMENTS}) naturally.
-Background contains elegant ({BACKGROUND DECOR}) with soft cinematic depth of field.
-Luxury marble tabletop.
-Premium studio lighting.
-Beautiful realistic reflections on chrome.
-Elegant luxury color grading matching the ingredient.
-Centered composition.
-Large negative space at top for typography.
-Minimal premium advertisement style.
-Luxury fragrance campaign.
-Soft shadows.
-Ultra sharp focus.
-Photorealistic.
-8K.
-Magazine quality.
-Typography
-Top center:
-PICK YOUR FAVORITE
-Below:
-SCENT THAT SPEAKS FOR YOU
-Below:
-Because you deserve the best
-Left side badge:
-NEW ARRIVAL
-Minimal luxury typography.
-Modern serif fonts mixed with elegant handwritten script.
-Perfect spacing.
-Premium cosmetic advertisement layout.
-Camera
-Straight-on camera
-Slight high angle
-85mm Lens
-f/4
-Soft studio lighting
-Luxury commercial photography
-Perfect reflections
-Extremely realistic
-No people
-No watermark
-No logo except perfume label
-No AI artifacts
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/sha_zdiii/status/2075145441163846022>)
 
 ---
 
@@ -1586,6 +1562,35 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 
 ---
 
+<a id="prompt-cf205195-bc0c-4768-a85e-7b316a8a1f3a"></a>
+
+#### Miniature Diorama London Travel Poster
+
+<a href="https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMmJx8XaEAA23F5.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Diorama London Travel Poster" /></a>
+
+**GPT Image 2** · Creator: Harry Potter
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-detailed miniature diorama travel poster of London, designed in a charming Pixar-inspired 3D style with cinematic lighting and hyper-realistic textures. A smiling young South Asian traveler with neatly styled black hair, trimmed beard, and black sunglasses rides a vintage pastel mint-blue Vespa scooter through a beautifully crafted cobblestone street. He wears a light blue rolled-sleeve button-up shirt, beige chinos, brown leather boots, and a camera hanging around his neck. A vintage brown leather suitcase covered with travel stickers is mounted behind the scooter.
+
+The scene features iconic London landmarks including Big Ben, the Palace of Westminster, the London Eye, Westminster Bridge, a classic red double-decker bus, an iconic red telephone booth, Underground station sign, black London taxi, traditional British pub, riverboats on the Thames, Victorian buildings, and charming street lamps. A winding red-and-white dotted travel path leads to a large red location pin in the foreground, emphasizing the travel journey.
+
+Decorative destination signboards point toward Big Ben, London Eye, Buckingham Palace, Tower Bridge, and Camden Market. The composition includes a vintage passport stamp, British flag, and bold travel-poster typography reading "EXPLORING LONDON" with the subtitle "Timeless City, Endless Stories."
+
+Warm golden-hour sunlight, soft volumetric lighting, shallow depth of field, ultra-sharp focus, vibrant colors, intricate miniature architecture, highly detailed textures, whimsical storytelling, collectible toy-diorama aesthetic, premium travel advertisement, centered composition, 8K, HDR, masterpiece, photorealistic CGI, Octane Render, Unreal Engine 5, global illumination, magazine-quality travel poster, vertical 2:3 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/mon010_de/status/2074340605098926144>)
+
+---
+
 <a id="prompt-2716df3b-a0f4-4189-93f5-6259ac01bc3f"></a>
 
 #### Cinematic Anime Sports Character Poster
@@ -1612,29 +1617,6 @@ Design should resemble a luxury movie poster with minimal composition, dramatic 
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2070055492005568904>)
-
----
-
-<a id="prompt-a62dfbca-63d1-46dc-9366-77d5c77b07df"></a>
-
-#### Pixar-Style Lupin TV Show Movie Poster
-
-<a href="https://musesignal.com/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLXGsk0bYAAduX3.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style Lupin TV Show Movie Poster" /></a>
-
-**GPT Image 2** · Creator: ANKIT PATEL 🇮🇳 \| AI
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches Lupin's tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Ankit_patel211/status/2068778128659603644>)
 
 ---
 
@@ -2086,7 +2068,7 @@ Use case: Character &amp; Art
 
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 11
+### Scene &amp; Space · 10
 
 [GPT Image](<https://musesignal.com/?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2380,29 +2362,6 @@ Highly detailed realistic sea turtle, photorealistic skin textures, realistic we
 
 ---
 
-<a id="prompt-edd34700-9bfc-461c-98e3-a99da6e3bdde"></a>
-
-#### Neo-Retro Japanese Street Scene with Honda NSX
-
-<a href="https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNP7AJ8WMAAMu_J.jpg?format=jpg&amp;name=small" width="480" alt="Neo-Retro Japanese Street Scene with Honda NSX" /></a>
-
-**GPT Image 2** · Creator: Aqsa
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage anime aesthetics. A confident young man with slicked-back black hair tied into a small bun leans casually against the rear of a bright red Honda NSX (NA1), one hand in his pocket and the other holding a lit cigarette. He tilts his head back while slowly exhaling a dramatic stream of smoke into the evening sky, giving off a calm, rebellious attitude. Wearing a loose black oversized T-shirt, wide-leg black trousers, and polished black leather loafers. Traditional Japanese Edo-style wooden buildings line both sides of a narrow cobblestone street, with warm lantern light glowing from windows and deep atmospheric shadows. Muted earthy color palette with rich reds, charcoal blacks, and warm browns. Highly detailed architectural textures, cinematic composition, moody dusk lighting, subtle film grain, vintage poster aesthetic, ukiyo-e inspired perspective blended with modern manga realism, dramatic depth, nostalgic 1990s Japanese street culture vibe, masterpiece, ultra-detailed, no watermark, no text, no logos.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Aqsahere_/status/2077279939070726176>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2414,19 +2373,19 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 52 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 439 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 442 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 22 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## Recently published
 
+- [Luxury Swiss Watch Commercial Ad](<https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Pop-Art Portrait of Woman with Yellow Headphones](<https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Miniature Diorama London Travel Poster](<https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Arctic Chieftain Portrait with Polar Bear Guardian](<https://musesignal.com/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
 - [Frozen City Popsicle Travel Photo](<https://musesignal.com/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Blueberry Energy Drink Can Product Ad](<https://musesignal.com/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Editorial Magazine Cover Portrait With Sony Camera](<https://musesignal.com/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Neon Brooks Running Shoe Commercial Ad](<https://musesignal.com/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Cinematic Anime Sports Character Poster](<https://musesignal.com/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [1990s East Asian Retro Film Portrait of Mature Female Character](<https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Retro Children&#39;s Book Cover with Three Peeking Characters](<https://musesignal.com/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2447,7 +2406,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 513](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 516](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

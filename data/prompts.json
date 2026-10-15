@@ -653,6 +653,33 @@
     "content_hash": "1dc211000d552d5be446e2eac4f3cef746908cb2cd81f59db5add6eaadc3cdb0"
   },
   {
+    "id": "0af2874d-b4aa-4023-a766-d4ca628dbd4d",
+    "title": "Pop-Art Portrait of Woman with Yellow Headphones",
+    "prompt": "Create an ultra-detailed modern pop-art portrait of a confident East Asian woman in a clean left-side profile, looking slightly upward with a calm, determined expression. She has a sleek chin-length bob haircut with soft wispy bangs, silky jet-black hair with a subtle natural shine, softly arched eyebrows, expressive dark brown almond-shaped eyes, delicate eyelashes, a refined nose, naturally full lips, elegant feminine facial contours, a graceful jawline, and smooth luminous natural skin with subtle pores and realistic texture.\nShe is wearing oversized vibrant yellow wired over-ear headphones with a matte finish and a minimalist black oversized off-shoulder hoodie featuring realistic fabric folds and a soft premium cotton texture.\nThe background features a bold solid yellow canvas with a large centered hot-pink circle positioned behind her head, creating a striking contemporary graphic composition inspired by Japanese pop-art posters and minimalist editorial design.\nDramatic studio lighting with soft shadows, ultra-clean composition, crisp edge definition, premium digital illustration, hyper-realistic mixed-media rendering, smooth gradients, vibrant high-contrast colors, poster-quality artwork, modern branding aesthetic, centered composition, 8K resolution, Adobe Illustrator + Photoshop hybrid style, flawless detailing, magazine cover quality, minimalistic luxury design, contemporary visual identity, no text, no watermark, no logo.\nNegative Prompt:\nlow quality, blurry, noisy, pixelated, distorted face, asymmetrical eyes, extra ears, extra headphones, duplicate features, bad anatomy, bad proportions, masculine facial features, oversaturated skin, flat lighting, messy background, text, watermark, logo, frame, artifacts, cropped head, low resolution.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Sairah",
+      "handle": "Sairah_0"
+    },
+    "source_platform": "X",
+    "source_id": "2079485485102272558",
+    "source_url": "https://x.com/Sairah_0/status/2079485485102272558",
+    "images": [
+      "https://pbs.twimg.com/media/HNvRAwTa8AABd1r.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNvRAv_bsAAHbMW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d",
+    "published_at": "2026-10-15T06:03:33.597864+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "265fa4e1534c06f6a665522d6850330558ac420ad7ffbf7d4881a902d89537f5"
+  },
+  {
     "id": "0b42df52-4db8-4848-85e1-2d9a75ebe1de",
     "title": "Melancholic Elegance in Neon Glow",
     "prompt": "Ultra-realistic cinematic portrait of a beautiful young woman with long black hair, wearing an elegant black off-shoulder dress, sitting alone in a dimly lit luxury bar at night, holding a cocktail glass. Soft warm candlelight, red neon Chinese signs glowing in the background, moody atmosphere, shallow depth of field, creamy bokeh lights, detailed skin texture, natural makeup, delicate jewelry, melancholic expression, high-end fashion photography, dramatic shadows, professional lighting, 85mm lens, f/1.4, ultra detailed, photorealistic, 8K, masterpiece.\nNegative Prompt:\nlow quality, blurry, extra fingers, bad anatomy, distorted face, overexposed, oversaturated, cartoon, anime, watermark, text, logo, duplicate, cropped, ugly, noisy background.",
@@ -11288,6 +11315,32 @@
     "content_hash": "fe47a5ae5e70f088059924d9c794fc43f2300f5ff0de3a4017ac1310cd013cf5"
   },
   {
+    "id": "cf205195-bc0c-4768-a85e-7b316a8a1f3a",
+    "title": "Miniature Diorama London Travel Poster",
+    "prompt": "Ultra-detailed miniature diorama travel poster of London, designed in a charming Pixar-inspired 3D style with cinematic lighting and hyper-realistic textures. A smiling young South Asian traveler with neatly styled black hair, trimmed beard, and black sunglasses rides a vintage pastel mint-blue Vespa scooter through a beautifully crafted cobblestone street. He wears a light blue rolled-sleeve button-up shirt, beige chinos, brown leather boots, and a camera hanging around his neck. A vintage brown leather suitcase covered with travel stickers is mounted behind the scooter.\n\nThe scene features iconic London landmarks including Big Ben, the Palace of Westminster, the London Eye, Westminster Bridge, a classic red double-decker bus, an iconic red telephone booth, Underground station sign, black London taxi, traditional British pub, riverboats on the Thames, Victorian buildings, and charming street lamps. A winding red-and-white dotted travel path leads to a large red location pin in the foreground, emphasizing the travel journey.\n\nDecorative destination signboards point toward Big Ben, London Eye, Buckingham Palace, Tower Bridge, and Camden Market. The composition includes a vintage passport stamp, British flag, and bold travel-poster typography reading \"EXPLORING LONDON\" with the subtitle \"Timeless City, Endless Stories.\"\n\nWarm golden-hour sunlight, soft volumetric lighting, shallow depth of field, ultra-sharp focus, vibrant colors, intricate miniature architecture, highly detailed textures, whimsical storytelling, collectible toy-diorama aesthetic, premium travel advertisement, centered composition, 8K, HDR, masterpiece, photorealistic CGI, Octane Render, Unreal Engine 5, global illumination, magazine-quality travel poster, vertical 2:3 aspect ratio.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Harry Potter",
+      "handle": "mon010_de"
+    },
+    "source_platform": "X",
+    "source_id": "2074340605098926144",
+    "source_url": "https://x.com/mon010_de/status/2074340605098926144",
+    "images": [
+      "https://pbs.twimg.com/media/HMmJx8XaEAA23F5.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a",
+    "published_at": "2026-10-15T06:03:25.407157+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7651c32d86c9b59b397e6172e4c48ac65ec75d08bf0956b9c86c5803717b8fab"
+  },
+  {
     "id": "cfea5eac-5899-4e25-a4d3-9e64aa3339f8",
     "title": "Luminous Skincare Editorial with Model and Product",
     "prompt": "{\n\"SUBJECT\": \"<user-defined subject/image>\",\n\"HEADER\": \"<user-defined editorial header>\",\n\"POSE\": \"<user-defined pose>\",\n\"BOTTLE_IN_HAND\": \"<user-provided product/bottle>\",\n\"prompt\": \"Create a premium high-fashion skincare editorial poster using SUBJECT as the main model. Preserve the subject's identity, facial structure, natural features, hairstyle, hair color, body proportions, and recognizable appearance accurately. The model should have exceptionally fair, luminous, healthy-looking skin with a natural dewy glow, including the face, neck, arms, and visible shoulder. Skin must remain realistic with visible natural texture and subtle pores — no plastic skin, excessive retouching, or artificial whitening.\\n\\nPlace the subject in POSE while naturally holding BOTTLE_IN_HAND. Preserve the bottle's exact shape, proportions, cap, material, color, label placement, and recognizable product appearance. The bottle should remain clearly visible and naturally integrated into the composition.\\n\\nDress the subject in a minimal, sophisticated black outfit with clean fashion-editorial styling. Keep the clothing secondary to the face and product.\\n\\nCreate a refined luxury beauty-campaign aesthetic: warm neutral studio background, soft directional diffused lighting, subtle highlights across the cheekbones and shoulder, controlled shadows, realistic skin reflections, elegant contrast, premium commercial photography, sophisticated composition, understated sensuality, and high-end magazine styling.\\n\\nUse HEADER as the main editorial headline. The header should feel catchy, sophisticated, and fashion-forward, with elegant high-contrast serif typography. Automatically generate tasteful supporting editorial typography around the composition only when appropriate, keeping it minimal and avoiding clutter. Do not use a brand name as the main header unless HEADER explicitly contains one.\\n\\nComposition should feel like a real luxury skincare magazine campaign photographed by a professional beauty photographer. Close-up portrait framing, realistic depth of field, refined tonal grading, subtle film texture, premium print-editorial finish, photorealistic detail, natural hands and fingers, accurate product geometry, and intentional negative space.\\n\\nDo not add watermarks, corner brackets, website names, AI labels, creator credits, or unrelated text. Do not change the user's defined SUBJECT, HEADER, POSE, or BOTTLE_IN_HAND.\"",
@@ -13070,6 +13123,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "fe4e0a698000062bf872547682b34e9f1eb2e3693e8368812927b67315aad3e8"
+  },
+  {
+    "id": "f0d841ed-0eb0-4e66-b97f-62757429bceb",
+    "title": "Luxury Swiss Watch Commercial Ad",
+    "prompt": "Minimalist commercial ad featuring an oversized premium luxury Swiss mechanical watch with intricate open-heart dial, polished rose-gold case, sapphire crystal, fine leather strap details, and gleaming metallic textures, ultra-clean design. A fashionable young woman wearing an elegant all-white outfit leans casually against the giant watch while holding the crown between her fingers, relaxed confident pose, eyes closed. Soft gradient deep emerald-green background with large bold white “WATCH” text behind. Glossy reflective floor, premium studio lighting, luxury product photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Time refined beautifully.”",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Mr Das",
+      "handle": "MrDasOnX"
+    },
+    "source_platform": "X",
+    "source_id": "2082067804472360967",
+    "source_url": "https://x.com/MrDasOnX/status/2082067804472360967",
+    "images": [
+      "https://pbs.twimg.com/media/HOT9oLKacAA0utX.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb",
+    "published_at": "2026-10-15T06:03:42.960925+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7b97ed466e0657dbb06b76f8842f969e15b269907bd0fb9f8ca3278cc5fbadb1"
   },
   {
     "id": "f0e83318-6e3c-46be-bf40-4c8de667b7bc",
