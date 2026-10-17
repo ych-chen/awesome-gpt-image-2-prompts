@@ -1249,3 +1249,131 @@ Warm golden-hour sunlight, soft volumetric lighting, shallow depth of field, ult
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mon010_de/status/2074340605098926144>)
 
 ---
+
+<a id="prompt-a5b8c43d-78c2-4d57-b6f4-1541f0a50bec"></a>
+
+## Minimalist Blue Editorial Illustration
+
+<a href="https://musesignal.com/zh/prompt/a5b8c43d-78c2-4d57-b6f4-1541f0a50bec?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpoogKa8AAha0a.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Blue Editorial Illustration" /></a>
+
+**GPT Image 2** · 原作者: 沐阳
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+一张极简主义现代编辑风格插画，主体为【xxx】。画面以干净流畅的优雅线条塑造主体轮廓，强调修长比例、简洁造型与高级审美。背景保留大面积留白，并搭配少量抽象几何构成、半透明叠层、弧线或简化自然元素。整体色彩以蓝色为主，包括冷白、雾灰、浅灰蓝、冰蓝、湖蓝、钢蓝、钴蓝等冷调色系，辅以少量米白与银灰平衡画面，并在局部加入一处高纯度亮蓝或宝石蓝作为视觉焦点。整体氛围清冷、安静、现代、优雅，具有高级杂志插画与现代艺术海报质感。无文字、无水印、无复杂背景、无低幼卡通感。
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a5b8c43d-78c2-4d57-b6f4-1541f0a50bec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/yyyole/status/2070084443793166792>)
+
+---
+
+<a id="prompt-d0c5a31e-4eb3-4dd4-bc07-557b0da9b043"></a>
+
+## Messi Street Art Football Poster
+
+<a href="https://musesignal.com/zh/prompt/d0c5a31e-4eb3-4dd4-bc07-557b0da9b043?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkH9INaIAAhcrR.jpg?format=jpg&amp;name=small" width="480" alt="Messi Street Art Football Poster" /></a>
+
+**GPT Image 2** · 原作者: BMX
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A dynamic illustrated football poster in explosive street art style, featuring Lionel Messi wearing Argentina’s updated 2026 World Cup inspired jersey, sprinting forward and striking the ball with intense focus. Low angle cinematic perspective, oversized football in the foreground, dramatic motion blur, flying dirt, paint splashes, bold blue white Argentina colors, energetic graffiti background, hand-painted brush typography saying “¡Viva Messi!”, powerful stadium atmosphere, ultra detailed sports illustration, heroic lighting, poster composition, high impact action, vibrant colors, 4K quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d0c5a31e-4eb3-4dd4-bc07-557b0da9b043?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/bmx_ai13/status/2069694334505799959>)
+
+---
+
+<a id="prompt-686efcd0-d29c-4ac0-acaa-0d8d779fdd89"></a>
+
+## Gas Refill Service Promotional Poster
+
+<a href="https://musesignal.com/zh/prompt/686efcd0-d29c-4ac0-acaa-0d8d779fdd89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkt3M1XAAA1Cf3.jpg?format=jpg&amp;name=small" width="480" alt="Gas Refill Service Promotional Poster" /></a>
+
+**GPT Image 2** · 原作者: Abkr Sadiq
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a high-resolution, modern promotional poster for a Gas Refill Service.
+Design style: clean, bold, and professional with a strong commercial advertising look. Use a blue, white, and orange color scheme for trust and energy.
+Main headline (large, bold text):
+"GAS REFILL SERVICE"
+Subheadline:
+"Safe. Reliable. On Time."
+Visual elements:
+- A realistic red gas cylinder placed prominently on the right side
+- Soft blurred kitchen background with a gas stove flame to suggest usage
+- Minimalist icons representing key features
+Service highlights (with icons):
+- "100% Safe – Your safety is our priority"
+- "Precise Weight – Accurate refill every time"
+- "Fast Delivery – Quick service at your doorstep"
+- "Friendly Support – Always ready to help"
+Call-to-action section:
+- A bold button-style element: "BOOK NOW"
+- Phone number placeholder: "1234 567 890"
+- Include "Call or WhatsApp"
+Bottom tagline:
+"We Refill. You Relax."
+"Gas Refill Service You Can Trust."
+Additional details:
+- Add badges like "Trusted Quality", "Safe Handling", "Customer Satisfaction"
+- Use modern sans-serif fonts
+- Balanced layout with strong visual hierarchy
+- Bright lighting, realistic shadows, and sharp details
+- Print-ready, high resolution, poster/flyer format (A3 portrait)
+Style keywords: realistic, commercial, clean layout, high contrast, professional advertising, sharp, vibrant
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/686efcd0-d29c-4ac0-acaa-0d8d779fdd89?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/abs_uiux/status/2069735942806470704>)
+
+---
+
+<a id="prompt-8b49d085-4aaf-48ac-a708-7ba5424f5e48"></a>
+
+## Mother’s Day Cherry Blossom Editorial Poster
+
+<a href="https://musesignal.com/zh/prompt/8b49d085-4aaf-48ac-a708-7ba5424f5e48?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HH85P1OaYAAh0TD.jpg?format=jpg&amp;name=small" width="480" alt="Mother’s Day Cherry Blossom Editorial Poster" /></a>
+
+**GPT Image 2** · 原作者: Ayesha.
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-premium cinematic Mother’s Day editorial poster featuring a beautiful young mother and her little daughter beneath blooming cherry blossom trees during golden hour sunset. The mother gently holding the child close while the little girl looks up at her with love and admiration. Soft petals floating through the air, dreamy warm sunlight, emotional atmosphere, elegant natural poses, realistic skin texture, and deep emotional connection.
+
+Background filled with soft pink cherry blossoms, cinematic bokeh, sunlight rays, gentle wind movement, and luxury spring aesthetics. Mother wearing an elegant flowing pastel dress, daughter in a delicate soft-toned outfit, both looking graceful and angelic.
+
+Add elegant minimal white serif typography artistically around the poster.
+
+Main quote:
+
+> “Before the world loved me, she did.”
+
+Side quotes:
+
+* “A mother’s love is the child’s first home.”
+* “Her arms were my first safe place.”
+* “No love is quieter, deeper, or stronger.”
+
+Style: ultra realistic, cinematic luxury editorial photography, Vogue-style composition, emotional storytelling, warm golden color grading, soft film grain, dreamy atmosphere, premium magazine aesthetic, shallow depth of field, visually addictive, emotional masterpiece, 8K realism.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8b49d085-4aaf-48ac-a708-7ba5424f5e48?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iayeshayousuf/status/2053422902725538153>)
+
+---

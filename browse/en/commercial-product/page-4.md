@@ -1038,3 +1038,24 @@ Minimalist commercial ad featuring an oversized premium luxury Swiss mechanical 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2082067804472360967>)
 
 ---
+
+<a id="prompt-1340a219-a707-4033-8185-ba4ceb1e30fd"></a>
+
+## Red Bull Minimalist Commercial Ad
+
+<a href="https://musesignal.com/prompt/1340a219-a707-4033-8185-ba4ceb1e30fd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOFim5CaYAAjAjj.jpg?format=jpg&amp;name=small" width="480" alt="Red Bull Minimalist Commercial Ad" /></a>
+
+**GPT Image 2** · Creator: Mr Das
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Minimalist commercial ad featuring an oversized Red Bull can, ultra clean design. A young athletic woman in a sleek red-and-blue outfit leans casually against the giant can in a dynamic confident pose, eyes closed, holding a Red Bull can. Soft gradient blue-to-red background with large bold “Red Bull” text and wings logo behind. Glossy reflective floor, soft studio lighting, modern high end fashion and product photography. Small top right text “Designed by Mr Das”. Bottom center tagline in small white font: “Gives You Wings.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1340a219-a707-4033-8185-ba4ceb1e30fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2081052933895159955>)
+
+---

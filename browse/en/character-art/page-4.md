@@ -100,3 +100,25 @@ Studio product photography, seamless light gray background, soft diffused lighti
 **[Try on MuseSignal →](<https://musesignal.com/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/VoxcatAI/status/2108497704829829397>)
 
 ---
+
+<a id="prompt-b3429ace-8c98-4da4-96c7-3ccf81eabaec"></a>
+
+## Low-Poly Football Player Portrait
+
+<a href="https://musesignal.com/prompt/b3429ace-8c98-4da4-96c7-3ccf81eabaec?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLUsgUVbwAAFuPC.jpg?format=jpg&amp;name=small" width="480" alt="Low-Poly Football Player Portrait" /></a>
+
+**GPT Image 2** · Creator: Simply Ray
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-detailed low poly digital portrait illustration of a young professional football player, head-and-shoulders composition, looking confidently toward the upper right, short black buzz cut with a clean skin fade, athletic face with strong jawline, calm determined expression, wearing a modern royal blue football jersey with subtle geometric polygon texture. The face is constructed from sharp angular polygonal facets with smooth gradients, realistic skin tones, crisp edges, high-detail eyes, cinematic lighting, dramatic shadows, premium vector illustration quality.
+Background features a bold abstract composition inspired by the French flag, with deep blue on the left, white in the center, vibrant red on the right, combined with dynamic geometric shards, polygon shapes, angular streaks, and motion graphics. High contrast, modern sports poster aesthetic, clean composition, vibrant colors, editorial quality, esports branding style, Adobe Illustrator vector look, Behance portfolio quality, ultra sharp, 8K, centered portrait, vertical 4:5.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b3429ace-8c98-4da4-96c7-3ccf81eabaec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2068608547546636769>)
+
+---
