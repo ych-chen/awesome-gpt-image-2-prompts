@@ -1059,3 +1059,115 @@ Minimalist commercial ad featuring an oversized Red Bull can, ultra clean design
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1340a219-a707-4033-8185-ba4ceb1e30fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2081052933895159955>)
 
 ---
+
+<a id="prompt-60e40e19-66a4-4a51-80a1-485207321fd4"></a>
+
+## Ultra-Premium Luxury Brand Advertising Poster
+
+<a href="https://musesignal.com/prompt/60e40e19-66a4-4a51-80a1-485207321fd4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM7KzQka0AAQdMp.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Premium Luxury Brand Advertising Poster" /></a>
+
+**GPT Image 2** · Creator: Maverick \| AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-premium cinematic advertising poster for [PRODUCT] by [BRAND]. The product is the hero of the composition, featuring hyper-realistic materials, cinematic lighting, realistic reflections, premium textures, atmospheric depth, floating particles, and luxury editorial styling. Showcase extreme detail with macro-quality realism, physically accurate materials, elegant branding, shallow depth of field, minimal premium background, and world-class commercial photography. Include [BRAND], [PRODUCT], and an optional tagline: "[TAGLINE]". 8K, photorealistic, award-winning luxury advertising campaign.
+
+Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor lighting, cheap advertising style, watermark, noise, distorted proportions.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/60e40e19-66a4-4a51-80a1-485207321fd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2075819502940610858>)
+
+---
+
+<a id="prompt-f9f62125-8d0b-42f4-b452-d46c7c30d7b9"></a>
+
+## Vitamin C Serum Luxury Skincare Ad
+
+<a href="https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMD0EfzXAAAdDH6.jpg?format=jpg&amp;name=small" width="480" alt="Vitamin C Serum Luxury Skincare Ad" /></a>
+
+**GPT Image 2** · Creator: Maercih
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+    "scene": "Luxury skincare product advertisement featuring a vitamin C serum bottle centered on a polished marble pedestal. Behind the bottle is a large warm peach-beige circular backdrop with oversized elegant serif typography reading 'RADIANT SKIN' in the background and handwritten script text 'Glow' at the top. Fresh orange slices, lemon peels, white citrus blossoms, and glossy golden serum droplets are arranged around the bottle to emphasize citrus ingredients and hydration.",
+    "subject": {
+      "product_type": "Vitamin C glow serum",
+      "bottle_material": "Transparent glass bottle filled with golden-orange serum liquid",
+      "dropper": "White rubber dropper with reflective metallic gold collar",
+      "label": "Minimal luxury skincare label with serif typography, centered and clean"
+    },
+    "composition": {
+      "framing": "Centered hero shot",
+      "camera_angle": "Slightly low eye-level angle for premium presence",
+      "layout": "Symmetrical product placement with balanced ingredient arrangement on both sides",
+      "depth": "Shallow to medium depth of field with crisp product focus"
+    },
+    "environment": {
+      "background": "Soft creamy beige luxury backdrop with subtle marble texture and thin abstract golden curves",
+      "surface": "Glossy marble pedestal with soft reflections",
+      "props": [
+        "Orange halves",
+        "Lemon peel spirals",
+        "White citrus flowers",
+        "Floating golden serum spheres"
+      ]
+    },
+    "lighting": {
+      "type": "Soft diffused studio lighting with warm sunlight glow",
+      "direction": "Top-left directional light",
+      "highlights": "Strong glass reflections and golden metallic shine",
+      "mood": "Fresh, radiant, luxurious, clean"
+    },
+    "style": {
+      "visual_style": "Premium beauty campaign",
+      "render_quality": "Ultra photorealistic 3D render",
+      "details": "Sharp glass refractions, realistic liquid bubbles, luxury skincare branding",
+      "color_palette": [
+        "Warm beige",
+        "Soft peach",
+        "Golden amber",
+        "Citrus orange",
+        "Cream white"
+      ]
+    },
+    "text_elements": {
+      "headline_top": "Glow",
+      "headline_background": "RADIANT SKIN",
+      "side_text": "Brighten and refresh with vitamin-rich care — smooth, radiant, and healthy-looking skin.",
+      "cta_button": "SHOP NOW",
+      "footer_text": "Daily glow powered by citrus care"
+    }
+  },
+  "negative_prompt": [
+    "blurry product",
+    "low resolution",
+    "cropped bottle",
+    "harsh shadows",
+    "plastic-looking materials",
+    "messy composition",
+    "oversaturated colors",
+    "distorted text",
+    "cheap advertisement look"
+  ],
+  "settings": {
+    "aspect_ratio": "4:5",
+    "resolution": "1536x1920",
+    "render_engine": "photorealistic",
+    "quality": "ultra",
+    "stylize": 250
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2071924190907896129>)
+
+---

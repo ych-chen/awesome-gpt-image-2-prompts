@@ -1795,6 +1795,32 @@
     "content_hash": "091d7225a4000113da9c8fc0f57d0395e4018c96221a9cf3433f4e0c13bcbe2d"
   },
   {
+    "id": "1c97e4bf-7e34-4872-814c-385d61e1b73a",
+    "title": "Golden Hour Temple Travel Portrait",
+    "prompt": "Ultra realistic cinematic travel portrait of a beautiful young East Asian woman standing in front of ancient weathered brick temple ruins during golden hour. She has long silky dark brown hair with soft natural waves, subtle wind movement, fair glowing skin, delicate facial features, warm brown eyes, natural makeup, and a gentle dreamy smile while looking slightly upward into the distance. She wears a sleeveless black crop top with intricate red traditional embroidered geometric patterns across the chest and small red pom-pom tassels, a delicate silver necklace with a tiny pendant, and red floral hair accessories behind one ear.\n\nSeveral pigeons are flying dynamically around her with realistic motion blur, one pigeon passing directly above her head and others flying through the foreground and background, creating depth and storytelling. Massive ancient reddish-brown brick temple ruins fill the background with detailed textures, surrounded by tall tropical trees. Warm golden sunlight streams through the trees from the left side, producing soft volumetric rays, cinematic rim lighting around her hair, realistic highlights, and a warm atmospheric glow.\n\nNatural candid pose, upper body portrait, right hand slightly raised mid-motion, shallow depth of field, creamy background bokeh, razor-sharp focus on the face, lifelike skin texture, realistic hair strands, HDR photography, DSLR quality, 85mm lens, f/1.8, ISO 100, soft golden-hour lighting, ultra detailed, photorealistic, cinematic color grading, high dynamic range, natural colors, travel photography, National Geographic style, masterpiece, 8K.\nNegative Prompt:\n\n> low quality, blurry, overprocessed skin, plastic face, extra fingers, deformed hands, duplicate birds, bad anatomy, low resolution, cartoon, CGI, oversaturated colors, noise, watermark, logo, text, cropped face, distorted proportions, artificial lighting, flat lighting, unrealistic background, motion artifacts.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "auqib",
+      "handle": "auqibhabib"
+    },
+    "source_platform": "X",
+    "source_id": "2074812152872128722",
+    "source_url": "https://x.com/auqibhabib/status/2074812152872128722",
+    "images": [
+      "https://pbs.twimg.com/media/HMs2puJaAAAbGh3.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a",
+    "published_at": "2026-10-18T06:11:42.645468+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e8306c0cc42ad0b7cc065de7cf0af9b97546a9d4c03f3a307b626df3fb967c37"
+  },
+  {
     "id": "1cc2280f-331b-41f4-b578-bdac663fa139",
     "title": "Luxury Subway Ad with Oversized Sandwich",
     "prompt": "Create a minimalist commercial advertisement featuring an oversized Subway sandwich as the hero product in an ultra-clean, luxury campaign style. A young woman dressed in an elegant all-white outfit leans casually against the giant sandwich in a relaxed yet confident pose, eyes gently closed, while holding a freshly made Subway sandwich in one hand. The composition is modern and editorial, emphasizing scale, freshness, and visual impact.\nUse a soft gradient green-to-yellow background with large bold white “SUBWAY” typography placed prominently behind the subject. Include a glossy reflective floor that subtly mirrors the sandwich and the model, enhanced with soft studio lighting and premium food photography aesthetics. Ensure the sandwich appears hyper-realistic, packed with fresh crisp lettuce, sliced tomatoes, cucumbers, onions, cheese, savory meat or veggie filling, signature sauces, and artisan bread with mouthwatering texture and detail.\nMaintain a clean, luxurious layout with balanced negative space and a sophisticated commercial look suitable for a high-end global advertising campaign.\nAdd small text in the top-right corner reading “Designed by M”. At the bottom center, place the tagline in small white font: “Freshly made. Delicious in every bite.”",
@@ -2340,6 +2366,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "9e29aa030988154718fcbf3d236d4e0f942b9870a6fdf8cca1d8fa55d06d6f7d"
+  },
+  {
+    "id": "278dbc1c-9b99-4b80-88b5-26725cf9be6e",
+    "title": "Moody Mirror Reflection Fashion Portrait",
+    "prompt": "A stylish young man standing beside an ornate black vintage mirror in a dark luxury room, looking at his reflection while adjusting black sunglasses. Messy textured brown hair with volume, light stubble, oversized charcoal gray sweatshirt, silver rings, bracelet, and watch. Moody cinematic lighting, matte black interior, high-end fashion editorial, ultra-realistic, shallow depth of field, sharp focus, 85mm lens, soft shadows, premium Instagram aesthetic, 8K.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ORHAN",
+      "handle": "OrhanGhazi65942"
+    },
+    "source_platform": "X",
+    "source_id": "2072526693500391821",
+    "source_url": "https://x.com/OrhanGhazi65942/status/2072526693500391821",
+    "images": [
+      "https://pbs.twimg.com/media/HMMYCTHagAApxVO.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e",
+    "published_at": "2026-10-18T06:11:40.381008+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3f1833ace223cd6465c932738d5bbcc8b6e3326f642b1e1a8255441ce1d8f504"
   },
   {
     "id": "279512a3-6b7c-455f-b7ae-7b28359ac0cb",
@@ -5305,6 +5357,35 @@
     "content_hash": "309c0daa125ac3c0d2fcfa9816c0aa1384ea5b3f06276440c958f40399129296"
   },
   {
+    "id": "60e40e19-66a4-4a51-80a1-485207321fd4",
+    "title": "Ultra-Premium Luxury Brand Advertising Poster",
+    "prompt": "Create an ultra-premium cinematic advertising poster for [PRODUCT] by [BRAND]. The product is the hero of the composition, featuring hyper-realistic materials, cinematic lighting, realistic reflections, premium textures, atmospheric depth, floating particles, and luxury editorial styling. Showcase extreme detail with macro-quality realism, physically accurate materials, elegant branding, shallow depth of field, minimal premium background, and world-class commercial photography. Include [BRAND], [PRODUCT], and an optional tagline: \"[TAGLINE]\". 8K, photorealistic, award-winning luxury advertising campaign.\n\nNegative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor lighting, cheap advertising style, watermark, noise, distorted proportions.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Maverick | AI",
+      "handle": "RizwanAly07"
+    },
+    "source_platform": "X",
+    "source_id": "2075819502940610858",
+    "source_url": "https://x.com/RizwanAly07/status/2075819502940610858",
+    "images": [
+      "https://pbs.twimg.com/media/HM7KzQka0AAQdMp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HM7Kz-baoAAQoqo.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HM7K0hobQAADgCe.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HM7K1HcakAA6ZDV.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/60e40e19-66a4-4a51-80a1-485207321fd4",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/60e40e19-66a4-4a51-80a1-485207321fd4",
+    "published_at": "2026-10-18T06:11:50.724605+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3dd9489952b83b06535d20a45b22fbb847bc06ed4e98734675ed7beb720d9f0e"
+  },
+  {
     "id": "6143e9a3-f911-4a96-b4f5-0291b7840ecc",
     "title": "South Asian Man Emerging from Glossy App Icons",
     "prompt": "> Ultra-realistic 3D app icon collage featuring the same handsome young South Asian man emerging from oversized, glossy smartphone application icons arranged in a clean 4×3 grid against a smooth dark charcoal background. Each icon has rounded corners, premium 3D depth, soft bevels, and realistic reflections, creating the illusion that the person is interacting with the app itself.\nThe man has thick, textured black hair, sharp eyebrows, deep brown eyes, a well-groomed trimmed beard and mustache, defined jawline, medium warm skin tone, and a confident expression while looking directly at the camera. He appears in every icon with different casual outfits matching the app's color theme, leaning over the icon edges, pointing at the logo, resting one arm on top, or sitting inside the icon naturally.\nThe collage includes Spotify (green hoodie), Netflix (black hoodie holding a remote), TikTok (black hoodie with colorful sleeve accents), Gmail (white shirt), Google (white hoodie), Safari (blue sweater), App Store (royal blue sweatshirt), Chrome (yellow hoodie), Clock (black shirt), Calendar (red sweater), Instagram (pink sweatshirt), and Notes (mustard yellow shirt).\nEvery app icon features the authentic logo, bold branding, realistic shadows, soft ambient occlusion, glossy plastic texture, subtle reflections, and studio-quality lighting. The character seamlessly blends into each icon with arms and shoulders extending outside the frame for a playful, premium 3D effect.\nStyle: Apple-inspired 3D icon design, Pixar-quality character rendering, hyper-realistic CGI, Octane Render, Unreal Engine 5, cinematic studio lighting, global illumination, ray tracing, ultra-detailed textures, HDR, sharp focus, vibrant colors, premium advertising aesthetic, clean composition, symmetrical layout, photorealistic, 8K UHD, masterpiece quality.",
@@ -5762,6 +5843,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "493f022434977816d0ab0e34cbd50fa14bc3390f26ab2e1a451cc8bdfc20ad73"
+  },
+  {
+    "id": "67c16892-f508-438b-9fe8-75b8ed75cf1a",
+    "title": "Vintage Street Portrait with Long-Exposure Motion Blur",
+    "prompt": "A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "PromptLab",
+      "handle": "iamaiistudio"
+    },
+    "source_platform": "X",
+    "source_id": "2068887185269616803",
+    "source_url": "https://x.com/iamaiistudio/status/2068887185269616803",
+    "images": [
+      "https://pbs.twimg.com/media/HLYppZ-boAA7PSQ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a",
+    "published_at": "2026-10-18T06:11:34.100594+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "4bbffb867d895d644c13fb7d0099f83d0b1d9012626dedab3338db8e98a725f2"
   },
   {
     "id": "686efcd0-d29c-4ac0-acaa-0d8d779fdd89",
@@ -9702,6 +9809,32 @@
     "content_hash": "f55e404adaf8ab5e3682bf11d552abeaba5d2d41d195c335d2ed7238f792e1ad"
   },
   {
+    "id": "a3a3deb2-4667-4550-9d47-d73907d002f1",
+    "title": "Golden Hour Beauty Portrait Triptych",
+    "prompt": "\"image_type\": \"Ultra-realistic cinematic beauty portrait triptych\",\n  \"composition\": {\n    \"layout\": \"Three vertical portraits in a single frame (triptych)\",\n    \"aspect_ratio\": \"16:9\",\n    \"camera_angle\": \"Eye level\",\n    \"framing\": \"Close-up to medium close-up\",\n    \"orientation\": \"Vertical panels arranged side-by-side\",\n    \"subject_variation\": [\n      \"Left panel: Head turned slightly toward camera\",\n      \"Center panel: Direct eye contact\",\n      \"Right panel: Looking off-camera to the right\"\n    ]\n  },\n  \"subject\": {\n    \"gender\": \"Young woman\",\n    \"age\": \"Early 20s\",\n    \"ethnicity\": \"Ambiguous\",\n    \"beauty_style\": \"Luxury editorial\",\n    \"expression\": \"Soft, calm, captivating, serene\",\n    \"pose\": \"Elegant and relaxed\"\n  },\n  \"face\": {\n    \"skin\": {\n      \"tone\": \"Luminous porcelain-fair\",\n      \"finish\": \"Natural dewy glow\",\n      \"texture\": \"Highly realistic with visible pores\",\n      \"freckles\": \"Soft freckles across nose and cheeks\",\n      \"blush\": \"Rosy cheeks\"\n    },\n    \"eyes\": {\n      \"color\": \"Light green-hazel\",\n      \"detail\": \"Hyper-detailed iris\",\n      \"eyelashes\": \"Long curled\",\n      \"eyebrows\": \"Thick, naturally shaped\"\n    },\n    \"lips\": {\n      \"color\": \"Natural pink\",\n      \"finish\": \"Glossy\"\n    },\n    \"makeup\": {\n      \"style\": \"Minimal natural makeup\",\n      \"foundation\": \"Skin-like\",\n      \"highlight\": \"Soft glow\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Jet black\",\n    \"length\": \"Long\",\n    \"style\": \"Voluminous natural waves\",\n    \"bangs\": \"Soft curtain bangs\",\n    \"texture\": \"Silky with realistic strands\",\n    \"lighting\": \"Golden rim light around hair\"\n  },\n  \"clothing\": {\n    \"upper\": {\n      \"type\": \"Traditional white outfit\",\n      \"fabric\": \"Sheer chiffon\",\n      \"dupatta\": {\n        \"color\": \"Pure white\",\n        \"style\": \"Soft transparent chiffon\",\n        \"drape\": \"Wrapped over shoulders and chest\"\n      }\n    }\n  },\n  \"accessories\": {\n    \"jewelry\": \"Minimal or none\",\n    \"mehndi\": {\n      \"style\": \"Elegant floral henna\",\n      \"placement\": \"Back of hand and fingers\",\n      \"visibility\": \"Most prominent in center portrait\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"Golden hour\",\n    \"direction\": \"Backlit\",\n    \"rim_light\": \"Strong glowing halo around hair\",\n    \"lens_flare\": \"Soft cinematic flare\",\n    \"quality\": \"Warm diffused sunlight\",\n    \"hdr\": true\n  },\n  \"background\": {\n    \"style\": \"Creamy bokeh\",\n    \"depth\": \"Very shallow depth of field\",\n    \"environment\": \"Sunlit outdoor garden or courtyard\",\n    \"colors\": [\n      \"Warm gold\",\n      \"Cream\",\n      \"Soft beige\",\n      \"Muted green\"\n    ]\n  },\n  \"camera\": {\n    \"camera_type\": \"Professional DSLR / Mirrorless\",\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/1.4\",\n    \"focus\": \"Extremely sharp on eyes\",\n    \"depth_of_field\": \"Very shallow\"\n  },\n  \"color_grading\": {\n    \"style\": \"Luxury cinematic\",\n    \"palette\": [\n      \"Golden amber\",\n      \"Cream white\",\n      \"Warm brown\",\n      \"Soft peach\",\n      \"Natural skin tones\"\n    ],\n    \"contrast\": \"Balanced\",\n    \"saturation\": \"Natural\",\n    \"mood\": \"Dreamy, elegant, premium\"\n  },\n  \"render_quality\": {\n    \"resolution\": \"4K Ultra HD\",\n    \"detail\": \"Hyper-realistic\",\n    \"sharpness\": \"Ultra crisp\",\n    \"quality\": \"Award-winning editorial photography\",\n    \"style\": [\n      \"Luxury beauty campaign\",\n      \"Vogue editorial\",\n      \"High-end fashion\",\n      \"Photorealistic\",\n      \"Cinematic\"\n    ]\n  },\n  \"negative_prompt\": {\n    \"avoid\": [\n      \"Low quality\",\n      \"Blurry\",\n      \"Extra fingers\",\n      \"Extra hands\",\n      \"Duplicate face\",\n      \"Cross-eyed\",\n      \"Plastic skin\",\n      \"Overprocessed beauty filter\",\n      \"Noise\",\n      \"Watermark\",\n      \"Logo\",\n      \"Text\",\n      \"Cropped face\",\n      \"Artifacts\",\n      \"Distorted anatomy\",\n      \"Flat lighting\",\n      \"Overexposed highlights\"\n    ]\n  }",
+    "category": "portrait",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "NUSRAT",
+      "handle": "nxnusratul"
+    },
+    "source_platform": "X",
+    "source_id": "2075401547543195942",
+    "source_url": "https://x.com/nxnusratul/status/2075401547543195942",
+    "images": [
+      "https://pbs.twimg.com/media/HM1Os3YbwAEHZ3l.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1",
+    "published_at": "2026-10-18T06:11:48.067877+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "36a11094323099d4a2d1dca722f3724aed5a90499bec1912148dcdd3b265a0ea"
+  },
+  {
     "id": "a47a37d7-d0c8-4199-b9ee-a9981138f539",
     "title": "Cool Rain Amidst Nature's Shades",
     "prompt": "The contrast of the cool rain and the shades of nature\nCreated in @vadooai\nModel: Nano Banana 2 and GPT Image 2\nPrompt in ALT⤵️",
@@ -11278,6 +11411,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "c70fcd859b3eb8bae88f51f345e0e8f305819877d885cc1cd6dc66badaa2497e"
+  },
+  {
+    "id": "c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db",
+    "title": "Coastal Cliff Cinematic Portrait",
+    "prompt": "Prompt -\nUltra-realistic cinematic portrait photography, vertical 9:16 composition. Low-angle shot looking upward toward the subject standing at the edge of a coastal cliff overlooking a vast turquoise ocean during early summer. Warm sunlight illuminates the scene from behind, creating a soft golden rim light around the hair and shoulders while the sea sparkles in the distance.\nShort, slightly windswept hair moving naturally in the ocean breeze. Subject gazing toward the endless horizon with a quiet expression of anticipation and freedom, as if stepping into a completely new chapter. Natural skin texture, authentic facial details, photorealistic eyes, subtle natural makeup, realistic lifestyle appearance.\nShot on an 85mm portrait lens with ultra-shallow depth of field. Coastal wildflowers and tall grass softly blur in the foreground while the distant ocean melts into creamy bokeh. Layered composition creates strong depth, with sunlit grass partially framing the lower edge of the image. Bright blue sky filled with soft white clouds enhances the feeling of possibility and adventure.\nNatural sunlight, high dynamic range, cinematic lighting, delicate highlights along the face and hair, realistic shadow transitions, premium DSLR quality, subtle filmic color grading, vibrant summer tones balanced with soft pastel hues. Gentle motion from wind adds life and authenticity to the scene.\nProfessional editorial lifestyle photography, candid storytelling moment, emotional coming-of-age atmosphere, luxury travel magazine aesthetic, realistic lens characteristics, ultra-detailed, masterpiece quality, photorealistic rendering, premium camera optics, immersive environmental portrait.\nNO heavy retouching, NO artificial beauty filters, NO exaggerated makeup, NO fantasy effects, NO cartoon style, NO unrealistic skin smoothing, NO face alterations, NO body modifications, NO artificial poses.\nReference style: low-angle cinematic portrait, expansive natural landscape, soft sunlight, emotional storytelling, dreamy atmosphere, shallow depth of field, realistic photography, symbolizing the beginning of a new chapter and endless possibilities. 🌊☀️✨",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Mani",
+      "handle": "manibuildsAI"
+    },
+    "source_platform": "X",
+    "source_id": "2066738771920576634",
+    "source_url": "https://x.com/manibuildsAI/status/2066738771920576634",
+    "images": [
+      "https://pbs.twimg.com/media/HK6H9QfbgAA2OH6.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db",
+    "published_at": "2026-10-18T06:11:26.40234+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "9f23741a7fcbebdda24105504a3784ab9d9707c3a17013cb32be020793107e3e"
   },
   {
     "id": "c531e9f8-6478-4467-a45c-e25d3915df86",
@@ -14004,6 +14163,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "bac77c978c4d9d47a974305ee15d675c57e2a5ab4586af9ae17dc9a642ba33f1"
+  },
+  {
+    "id": "f9f62125-8d0b-42f4-b452-d46c7c30d7b9",
+    "title": "Vitamin C Serum Luxury Skincare Ad",
+    "prompt": "{\n    \"scene\": \"Luxury skincare product advertisement featuring a vitamin C serum bottle centered on a polished marble pedestal. Behind the bottle is a large warm peach-beige circular backdrop with oversized elegant serif typography reading 'RADIANT SKIN' in the background and handwritten script text 'Glow' at the top. Fresh orange slices, lemon peels, white citrus blossoms, and glossy golden serum droplets are arranged around the bottle to emphasize citrus ingredients and hydration.\",\n    \"subject\": {\n      \"product_type\": \"Vitamin C glow serum\",\n      \"bottle_material\": \"Transparent glass bottle filled with golden-orange serum liquid\",\n      \"dropper\": \"White rubber dropper with reflective metallic gold collar\",\n      \"label\": \"Minimal luxury skincare label with serif typography, centered and clean\"\n    },\n    \"composition\": {\n      \"framing\": \"Centered hero shot\",\n      \"camera_angle\": \"Slightly low eye-level angle for premium presence\",\n      \"layout\": \"Symmetrical product placement with balanced ingredient arrangement on both sides\",\n      \"depth\": \"Shallow to medium depth of field with crisp product focus\"\n    },\n    \"environment\": {\n      \"background\": \"Soft creamy beige luxury backdrop with subtle marble texture and thin abstract golden curves\",\n      \"surface\": \"Glossy marble pedestal with soft reflections\",\n      \"props\": [\n        \"Orange halves\",\n        \"Lemon peel spirals\",\n        \"White citrus flowers\",\n        \"Floating golden serum spheres\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Soft diffused studio lighting with warm sunlight glow\",\n      \"direction\": \"Top-left directional light\",\n      \"highlights\": \"Strong glass reflections and golden metallic shine\",\n      \"mood\": \"Fresh, radiant, luxurious, clean\"\n    },\n    \"style\": {\n      \"visual_style\": \"Premium beauty campaign\",\n      \"render_quality\": \"Ultra photorealistic 3D render\",\n      \"details\": \"Sharp glass refractions, realistic liquid bubbles, luxury skincare branding\",\n      \"color_palette\": [\n        \"Warm beige\",\n        \"Soft peach\",\n        \"Golden amber\",\n        \"Citrus orange\",\n        \"Cream white\"\n      ]\n    },\n    \"text_elements\": {\n      \"headline_top\": \"Glow\",\n      \"headline_background\": \"RADIANT SKIN\",\n      \"side_text\": \"Brighten and refresh with vitamin-rich care — smooth, radiant, and healthy-looking skin.\",\n      \"cta_button\": \"SHOP NOW\",\n      \"footer_text\": \"Daily glow powered by citrus care\"\n    }\n  },\n  \"negative_prompt\": [\n    \"blurry product\",\n    \"low resolution\",\n    \"cropped bottle\",\n    \"harsh shadows\",\n    \"plastic-looking materials\",\n    \"messy composition\",\n    \"oversaturated colors\",\n    \"distorted text\",\n    \"cheap advertisement look\"\n  ],\n  \"settings\": {\n    \"aspect_ratio\": \"4:5\",\n    \"resolution\": \"1536x1920\",\n    \"render_engine\": \"photorealistic\",\n    \"quality\": \"ultra\",\n    \"stylize\": 250\n  }\n}",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Maercih",
+      "handle": "Maercihh"
+    },
+    "source_platform": "X",
+    "source_id": "2071924190907896129",
+    "source_url": "https://x.com/Maercihh/status/2071924190907896129",
+    "images": [
+      "https://pbs.twimg.com/media/HMD0EfzXAAAdDH6.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9",
+    "published_at": "2026-10-18T06:11:35.544842+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e61e53e228388c009922ee91e39d149a02cdcc473582115f4adc9028fb66beac"
   },
   {
     "id": "fa1f9274-eccb-49db-9bbc-18d7dd75b06b",

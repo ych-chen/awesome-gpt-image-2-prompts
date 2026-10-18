@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **532** | **60** | 2026-10-17 |
+| **539** | **60** | 2026-10-18 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,8 +28,8 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| Portrait | 145 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| Commercial &amp; Product | 106 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| Portrait | 150 | [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| Commercial &amp; Product | 108 | [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
 | Poster &amp; Graphic | 119 | [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | Food &amp; Drink | 26 | [GPT Image](<https://musesignal.com/?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | Character &amp; Art | 94 | [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 13
+### Portrait · 14
 
 [GPT Image](<https://musesignal.com/?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -368,6 +368,279 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-a3a3deb2-4667-4550-9d47-d73907d002f1"></a>
+
+#### Golden Hour Beauty Portrait Triptych
+
+<a href="https://musesignal.com/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM1Os3YbwAEHZ3l.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Beauty Portrait Triptych" /></a>
+
+**GPT Image** · Creator: NUSRAT
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"image_type": "Ultra-realistic cinematic beauty portrait triptych",
+  "composition": {
+    "layout": "Three vertical portraits in a single frame (triptych)",
+    "aspect_ratio": "16:9",
+    "camera_angle": "Eye level",
+    "framing": "Close-up to medium close-up",
+    "orientation": "Vertical panels arranged side-by-side",
+    "subject_variation": [
+      "Left panel: Head turned slightly toward camera",
+      "Center panel: Direct eye contact",
+      "Right panel: Looking off-camera to the right"
+    ]
+  },
+  "subject": {
+    "gender": "Young woman",
+    "age": "Early 20s",
+    "ethnicity": "Ambiguous",
+    "beauty_style": "Luxury editorial",
+    "expression": "Soft, calm, captivating, serene",
+    "pose": "Elegant and relaxed"
+  },
+  "face": {
+    "skin": {
+      "tone": "Luminous porcelain-fair",
+      "finish": "Natural dewy glow",
+      "texture": "Highly realistic with visible pores",
+      "freckles": "Soft freckles across nose and cheeks",
+      "blush": "Rosy cheeks"
+    },
+    "eyes": {
+      "color": "Light green-hazel",
+      "detail": "Hyper-detailed iris",
+      "eyelashes": "Long curled",
+      "eyebrows": "Thick, naturally shaped"
+    },
+    "lips": {
+      "color": "Natural pink",
+      "finish": "Glossy"
+    },
+    "makeup": {
+      "style": "Minimal natural makeup",
+      "foundation": "Skin-like",
+      "highlight": "Soft glow"
+    }
+  },
+  "hair": {
+    "color": "Jet black",
+    "length": "Long",
+    "style": "Voluminous natural waves",
+    "bangs": "Soft curtain bangs",
+    "texture": "Silky with realistic strands",
+    "lighting": "Golden rim light around hair"
+  },
+  "clothing": {
+    "upper": {
+      "type": "Traditional white outfit",
+      "fabric": "Sheer chiffon",
+      "dupatta": {
+        "color": "Pure white",
+        "style": "Soft transparent chiffon",
+        "drape": "Wrapped over shoulders and chest"
+      }
+    }
+  },
+  "accessories": {
+    "jewelry": "Minimal or none",
+    "mehndi": {
+      "style": "Elegant floral henna",
+      "placement": "Back of hand and fingers",
+      "visibility": "Most prominent in center portrait"
+    }
+  },
+  "lighting": {
+    "type": "Golden hour",
+    "direction": "Backlit",
+    "rim_light": "Strong glowing halo around hair",
+    "lens_flare": "Soft cinematic flare",
+    "quality": "Warm diffused sunlight",
+    "hdr": true
+  },
+  "background": {
+    "style": "Creamy bokeh",
+    "depth": "Very shallow depth of field",
+    "environment": "Sunlit outdoor garden or courtyard",
+    "colors": [
+      "Warm gold",
+      "Cream",
+      "Soft beige",
+      "Muted green"
+    ]
+  },
+  "camera": {
+    "camera_type": "Professional DSLR / Mirrorless",
+    "lens": "85mm",
+    "aperture": "f/1.4",
+    "focus": "Extremely sharp on eyes",
+    "depth_of_field": "Very shallow"
+  },
+  "color_grading": {
+    "style": "Luxury cinematic",
+    "palette": [
+      "Golden amber",
+      "Cream white",
+      "Warm brown",
+      "Soft peach",
+      "Natural skin tones"
+    ],
+    "contrast": "Balanced",
+    "saturation": "Natural",
+    "mood": "Dreamy, elegant, premium"
+  },
+  "render_quality": {
+    "resolution": "4K Ultra HD",
+    "detail": "Hyper-realistic",
+    "sharpness": "Ultra crisp",
+    "quality": "Award-winning editorial photography",
+    "style": [
+      "Luxury beauty campaign",
+      "Vogue editorial",
+      "High-end fashion",
+      "Photorealistic",
+      "Cinematic"
+    ]
+  },
+  "negative_prompt": {
+    "avoid": [
+      "Low quality",
+      "Blurry",
+      "Extra fingers",
+      "Extra hands",
+      "Duplicate face",
+      "Cross-eyed",
+      "Plastic skin",
+      "Overprocessed beauty filter",
+      "Noise",
+      "Watermark",
+      "Logo",
+      "Text",
+      "Cropped face",
+      "Artifacts",
+      "Distorted anatomy",
+      "Flat lighting",
+      "Overexposed highlights"
+    ]
+  }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2075401547543195942>)
+
+---
+
+<a id="prompt-1c97e4bf-7e34-4872-814c-385d61e1b73a"></a>
+
+#### Golden Hour Temple Travel Portrait
+
+<a href="https://musesignal.com/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMs2puJaAAAbGh3.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Temple Travel Portrait" /></a>
+
+**GPT Image 2** · Creator: auqib
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra realistic cinematic travel portrait of a beautiful young East Asian woman standing in front of ancient weathered brick temple ruins during golden hour. She has long silky dark brown hair with soft natural waves, subtle wind movement, fair glowing skin, delicate facial features, warm brown eyes, natural makeup, and a gentle dreamy smile while looking slightly upward into the distance. She wears a sleeveless black crop top with intricate red traditional embroidered geometric patterns across the chest and small red pom-pom tassels, a delicate silver necklace with a tiny pendant, and red floral hair accessories behind one ear.
+
+Several pigeons are flying dynamically around her with realistic motion blur, one pigeon passing directly above her head and others flying through the foreground and background, creating depth and storytelling. Massive ancient reddish-brown brick temple ruins fill the background with detailed textures, surrounded by tall tropical trees. Warm golden sunlight streams through the trees from the left side, producing soft volumetric rays, cinematic rim lighting around her hair, realistic highlights, and a warm atmospheric glow.
+
+Natural candid pose, upper body portrait, right hand slightly raised mid-motion, shallow depth of field, creamy background bokeh, razor-sharp focus on the face, lifelike skin texture, realistic hair strands, HDR photography, DSLR quality, 85mm lens, f/1.8, ISO 100, soft golden-hour lighting, ultra detailed, photorealistic, cinematic color grading, high dynamic range, natural colors, travel photography, National Geographic style, masterpiece, 8K.
+Negative Prompt:
+
+> low quality, blurry, overprocessed skin, plastic face, extra fingers, deformed hands, duplicate birds, bad anatomy, low resolution, cartoon, CGI, oversaturated colors, noise, watermark, logo, text, cropped face, distorted proportions, artificial lighting, flat lighting, unrealistic background, motion artifacts.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/auqibhabib/status/2074812152872128722>)
+
+---
+
+<a id="prompt-278dbc1c-9b99-4b80-88b5-26725cf9be6e"></a>
+
+#### Moody Mirror Reflection Fashion Portrait
+
+<a href="https://musesignal.com/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMMYCTHagAApxVO.jpg?format=jpg&amp;name=small" width="480" alt="Moody Mirror Reflection Fashion Portrait" /></a>
+
+**GPT Image 2** · Creator: ORHAN
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A stylish young man standing beside an ornate black vintage mirror in a dark luxury room, looking at his reflection while adjusting black sunglasses. Messy textured brown hair with volume, light stubble, oversized charcoal gray sweatshirt, silver rings, bracelet, and watch. Moody cinematic lighting, matte black interior, high-end fashion editorial, ultra-realistic, shallow depth of field, sharp focus, 85mm lens, soft shadows, premium Instagram aesthetic, 8K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/OrhanGhazi65942/status/2072526693500391821>)
+
+---
+
+<a id="prompt-67c16892-f508-438b-9fe8-75b8ed75cf1a"></a>
+
+#### Vintage Street Portrait with Long-Exposure Motion Blur
+
+<a href="https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLYppZ-boAA7PSQ.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Street Portrait with Long-Exposure Motion Blur" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068887185269616803>)
+
+---
+
+<a id="prompt-c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db"></a>
+
+#### Coastal Cliff Cinematic Portrait
+
+<a href="https://musesignal.com/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK6H9QfbgAA2OH6.jpg?format=jpg&amp;name=small" width="480" alt="Coastal Cliff Cinematic Portrait" /></a>
+
+**GPT Image 2** · Creator: Mani
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt -
+Ultra-realistic cinematic portrait photography, vertical 9:16 composition. Low-angle shot looking upward toward the subject standing at the edge of a coastal cliff overlooking a vast turquoise ocean during early summer. Warm sunlight illuminates the scene from behind, creating a soft golden rim light around the hair and shoulders while the sea sparkles in the distance.
+Short, slightly windswept hair moving naturally in the ocean breeze. Subject gazing toward the endless horizon with a quiet expression of anticipation and freedom, as if stepping into a completely new chapter. Natural skin texture, authentic facial details, photorealistic eyes, subtle natural makeup, realistic lifestyle appearance.
+Shot on an 85mm portrait lens with ultra-shallow depth of field. Coastal wildflowers and tall grass softly blur in the foreground while the distant ocean melts into creamy bokeh. Layered composition creates strong depth, with sunlit grass partially framing the lower edge of the image. Bright blue sky filled with soft white clouds enhances the feeling of possibility and adventure.
+Natural sunlight, high dynamic range, cinematic lighting, delicate highlights along the face and hair, realistic shadow transitions, premium DSLR quality, subtle filmic color grading, vibrant summer tones balanced with soft pastel hues. Gentle motion from wind adds life and authenticity to the scene.
+Professional editorial lifestyle photography, candid storytelling moment, emotional coming-of-age atmosphere, luxury travel magazine aesthetic, realistic lens characteristics, ultra-detailed, masterpiece quality, photorealistic rendering, premium camera optics, immersive environmental portrait.
+NO heavy retouching, NO artificial beauty filters, NO exaggerated makeup, NO fantasy effects, NO cartoon style, NO unrealistic skin smoothing, NO face alterations, NO body modifications, NO artificial poses.
+Reference style: low-angle cinematic portrait, expansive natural landscape, soft sunlight, emotional storytelling, dreamy atmosphere, shallow depth of field, realistic photography, symbolizing the beginning of a new chapter and endless possibilities. 🌊☀️✨
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/manibuildsAI/status/2066738771920576634>)
+
+---
+
 <a id="prompt-37ef654e-9911-4042-a7d6-00447cf42ca9"></a>
 
 #### Flash-Photography Candid Portrait
@@ -391,226 +664,9 @@ Create A candid, flash-photography portrait of a young woman with voluminous, wa
 
 ---
 
-<a id="prompt-8e4650ac-3282-45c3-9889-1958847b20a4"></a>
-
-#### Man on Mossy River Rock Portrait
-
-<a href="https://musesignal.com/prompt/8e4650ac-3282-45c3-9889-1958847b20a4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWR8J5a8AA39kE.jpg?format=jpg&amp;name=small" width="480" alt="Man on Mossy River Rock Portrait" /></a>
-
-**GPT Image 2** · Creator: Akash
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Prompt:
-A contemplative young man with a man-bun sits barefoot on a mossy river rock in a clear mountain stream, rolled-up khaki cargo pants and a simple black t‑shirt, feet in the shallow flowing water, hands loosely clasped, gaze toward the camera with a calm, introspective expression; framed by tall evergreen pines and distant rugged peaks with a thin waterfall cascading between them, low mist and soft clouds hugging the summits. Natural, diffused overcast light, cool earthy color palette with deep greens, muted browns and slate blues, soft contrast and gentle highlights on the face. Compose slightly off-center with leading lines of the river drawing to the subject, low camera angle at near-seated eye level, shallow depth of field to separate subject from textured background. Lens 35–85mm, aperture f/2.8–5.6, shutter speed fast enough to keep subject sharp while showing slight motion in water (1/125–1/250) or longer exposure with tripod for silkier water if subject remains still, ISO 100–400. Capture RAW; edit with subtle desaturation, lifted shadows, boosted clarity, cool teal-green midtones, warm skin tone recovery and light vignette for mood. Natural, serene, adventurous outdoor portrait.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/8e4650ac-3282-45c3-9889-1958847b20a4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/heyakash_ai/status/2068720070726226215>)
-
----
-
-<a id="prompt-1c6dee32-21e8-4bee-bf6c-5fca7929c345"></a>
-
-#### Cozy Bedroom Korean Beauty Portrait
-
-<a href="https://musesignal.com/prompt/1c6dee32-21e8-4bee-bf6c-5fca7929c345?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUPrzAOaoAAkx-k.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Bedroom Korean Beauty Portrait" /></a>
-
-**GPT Image** · Creator: ayzalnoor
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT image on chatgpt 
-
-Prompt:
-
-Create an ultra-realistic, high-quality portrait of a beautiful young Korean woman sitting casually in a cozy, softly illuminated bedroom. Use a photorealistic aesthetic with natural skin texture, detailed facial features, realistic lighting, and an elegant Korean beauty-inspired makeup style.
-
-Face and Facial Features: She has a delicate, feminine face with a softly defined jawline, a small refined nose, large expressive light-brown eyes, long curled eyelashes, perfectly shaped dark eyebrows, and full, beautifully defined rosy-brown lips. Her cheeks have a soft pink blush, and her complexion is fair, smooth, and naturally luminous. Her makeup features subtle warm eyeshadow, sharp black eyeliner with a small wing, softly highlighted cheekbones, and a natural glossy finish. Her expression is calm, slightly dreamy, and confident as she looks directly into the camera.
-
-Hair: She has shoulder-length, silky jet-black hair with soft layers and wispy, straight bangs framing her forehead. Distinctive deep burgundy-red highlights run through several front strands of her hair, especially around the sides of her face. Her hair has a natural shine, realistic individual strands, and slightly curved ends resting around her shoulders and collarbone.
-
-Outfit: She is wearing a fitted, deep burgundy-red ribbed knit top with long sleeves, a wide square neckline, and a delicate drawstring bow detail at the center of the chest. The top sits naturally on her shoulders, with one side slightly off the shoulder. She pairs it with dark charcoal-black denim jeans featuring subtle white contrast stitching.
-
-Accessories: A shiny black patent-leather shoulder bag rests beside her body, featuring thick silver chain-link straps and polished metallic hardware. She wears delicate silver butterfly drop earrings, a fine silver necklace with a small butterfly pendant, and elegant silver rings, including a butterfly-shaped statement ring on the hand resting against her cheek.
-
-Pose and Composition: She is seated in a relaxed, slightly curled-up position, with one knee raised toward the camera. Her upper body leans gently forward. One hand is lifted beside her face, with her fingers resting softly against her cheek and temple. Her other arm rests naturally near her lap. The composition captures her from approximately the waist up, with her face positioned in the upper-center portion of the frame. Her pose feels candid, intimate, and effortlessly stylish, like a carefully captured personal lifestyle photograph.
-
-Background and Environment: A cozy, aesthetically decorated bedroom with warm beige walls. On the left side, there is a large black-framed mirror above a white vanity or dresser. A clear glass vase filled with deep burgundy-red tulips sits on the dresser, alongside several elegant perfume bottles. A warm table lamp glows softly beside the flowers. A black wall print with the words “Good Things Take Time” and a small heart is visible near the mirror. On the right side of the background, small photographic prints and aesthetic wall pictures are arranged casually, with a green trailing plant hanging down from above. The background feels personal, stylish, and lived-in, with a subtle Korean Pinterest-inspired bedroom aesthetic.
-
-Lighting and Color Grading: Warm, soft indoor lighting with a gentle amber glow from the bedside lamp. Natural-looking light falls evenly across her face, creating delicate highlights on her eyes, lips, hair, jewelry, and glossy handbag. Soft shadows add depth without making the image too dark. The color palette features burgundy red, black, warm beige, soft cream, and silver accents.
-
-Photography Style: Ultra-photorealistic portrait photography, close-up lifestyle composition, shot on a professional full-frame camera with an 85mm portrait lens, shallow depth of field, softly blurred background, realistic skin pores, finely detailed hair strands, lifelike eyes, accurate hands and fingers, natural facial proportions, subtle cinematic warmth, and high dynamic range.
-
-Image Quality: 8K-level detail, photorealistic textures, realistic fabric ribbing, detailed denim stitching, reflective silver jewelry, natural skin rendering, balanced exposure, crisp facial focus, and soft background bokeh.
-
-Important Instructions: Maintain natural human anatomy, realistic hands, symmetrical facial features, and consistent lighting. Avoid cartoon effects, anime styling, excessive skin smoothing, plastic-looking skin, distorted fingers, extra jewelry, exaggerated facial proportions, oversaturated colors, artificial facial features, text overlays, watermarks, and logos. The final image should look like a genuine, beautifully captured photograph rather than an AI-generated illustration.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/1c6dee32-21e8-4bee-bf6c-5fca7929c345?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/ayzalnooor24521/status/2108788480675631552>)
-
----
-
-<a id="prompt-d2a15333-6119-4dfb-ba81-4cd1f1ba5c41"></a>
-
-#### Korean Girl on Stone Staircase in Urban Park
-
-<a href="https://musesignal.com/prompt/d2a15333-6119-4dfb-ba81-4cd1f1ba5c41?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTmkx-3a0AAlqKu.jpg?format=jpg&amp;name=small" width="480" alt="Korean Girl on Stone Staircase in Urban Park" /></a>
-
-**GPT Image** · Creator: ayzalnoor
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A beautiful Korean girl standing naturally on a stone staircase in a lush green urban park, wearing a fitted beige ribbed sleeveless top, relaxed dark jeans, silver over-ear headphones, and a black backpack. She looks back toward the camera with a soft, confident expression while one hand gently rests on her hair and touches the top of her headphones. Keep her long brown hair naturally flowing with a few loose strands around her face, realistic skin texture, subtle makeup, natural daylight, and authentic smartphone photography. Preserve the same outdoor background with green trees, bushes, white fence, stone steps, signboard, distant scooters, and soft depth of field. Use a vertical 9:16 composition, realistic proportions, natural body posture, candid fashion photography style, soft colors, detailed fabric and hair texture, gentle shadows, and a clean Korean lifestyle aesthetic.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/d2a15333-6119-4dfb-ba81-4cd1f1ba5c41?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/ayzalnooor24521/status/2105895502181261608>)
-
----
-
-<a id="prompt-be7eff8b-2f90-4f22-a50f-3136e8bb0930"></a>
-
-#### Enchanted Lakeside Garden Portrait with Shih Tzu
-
-<a href="https://musesignal.com/prompt/be7eff8b-2f90-4f22-a50f-3136e8bb0930?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLosaDDacAEFFmB.jpg?format=jpg&amp;name=small" width="480" alt="Enchanted Lakeside Garden Portrait with Shih Tzu" /></a>
-
-**GPT Image 2** · Creator: NUSRAT
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-"style": "ultra-detailed cinematic fantasy realism, magical cottagecore aesthetic, high-end CGI, photorealistic, storybook fantasy, Unreal Engine 5 quality",
-    "quality": "4K UHD",
-    "aspect_ratio": "9:16",
-    "camera": {
-      "shot_type": "medium full-body portrait",
-      "angle": "slightly low eye-level angle",
-      "lens": "85mm portrait lens",
-      "depth_of_field": "shallow DOF with creamy bokeh",
-      "focus": "sharp focus on woman and dog, softly blurred background"
-    },
-    "scene": {
-      "location": "enchanted lakeside garden at twilight",
-      "environment": "lush flower garden beside a calm reflective lake",
-      "season": "late spring",
-      "time_of_day": "blue hour, early evening sunset",
-      "mood": "peaceful, cozy, magical, romantic, serene"
-    },
-    "subject": {
-      "gender": "young woman",
-      "pose": "sitting gracefully on a picnic blanket, legs folded to one side",
-      "expression": "soft gentle smile, calm and focused",
-      "action": "reading an open book",
-      "hair": {
-        "color": "dark chestnut brown",
-        "style": "long wavy hair with soft curls",
-        "length": "waist-length"
-      },
-      "outfit": {
-        "dress": "flowing black embroidered gown",
-        "fabric": "sheer layered fabric with floral embroidery",
-        "details": "pink floral patterns on sleeves and hem, elegant bohemian design"
-      }
-    },
-    "companion": {
-      "animal": "small fluffy Shih Tzu dog",
-      "pose": "lying beside the woman",
-      "expression": "looking up lovingly at her"
-    },
-    "props": {
-      "book": "black hardcover book with silver floral detailing",
-      "food": [
-        "wooden tray with grapes",
-        "ceramic cup of tea or coffee"
-      ],
-      "decorations": [
-        "multiple glowing candles",
-        "vintage lanterns",
-        "basket filled with white roses",
-        "soft picnic blankets and cushions"
-      ]
-    },
-    "background": {
-      "architecture": {
-        "structure": "wooden lakeside gazebo or cottage veranda",
-        "style": "cozy rustic architecture with curtains and warm interior lighting"
-      },
-      "nature": [
-        "blooming hydrangeas",
-        "pink and white roses",
-        "lush green grass",
-        "large tree canopy",
-        "calm reflective lake",
-        "distant tree silhouettes"
-      ],
-      "water_feature": "ornamental stone fountain with candles",
-      "lighting_elements": [
-        "hanging lanterns",
-        "warm fairy string lights",
-        "glowing candles throughout the garden"
-      ]
-    },
-    "lighting": {
-      "type": "cinematic ambient twilight lighting",
-      "key_light": "warm candlelight and lantern illumination",
-      "fill_light": "soft blue evening sky light",
-      "effect": "golden glow, dreamy atmosphere, magical realism"
-    },
-    "color_palette": {
-      "primary_colors": [
-        "deep black",
-        "warm gold",
-        "soft pink",
-        "cream white",
-        "forest green",
-        "twilight blue"
-      ],
-      "tone": "warm, romantic, elegant"
-    },
-    "render_settings": {
-      "resolution": "3840x2160",
-      "render_engine": "Unreal Engine 5",
-      "detail_level": "extremely high",
-      "texture_quality": "hyper-detailed",
-      "post_processing": [
-        "cinematic color grading",
-        "soft bloom",
-        "volumetric lighting",
-        "natural skin textures",
-        "high dynamic range"
-      ]
-    }
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/be7eff8b-2f90-4f22-a50f-3136e8bb0930?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2070015816905675043>)
-
----
-
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 9
+### Commercial &amp; Product · 10
 
 [GPT Image](<https://musesignal.com/?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>)
 
@@ -1109,13 +1165,13 @@ Use case: Commercial &amp; Product
 
 ---
 
-<a id="prompt-1340a219-a707-4033-8185-ba4ceb1e30fd"></a>
+<a id="prompt-60e40e19-66a4-4a51-80a1-485207321fd4"></a>
 
-#### Red Bull Minimalist Commercial Ad
+#### Ultra-Premium Luxury Brand Advertising Poster
 
-<a href="https://musesignal.com/prompt/1340a219-a707-4033-8185-ba4ceb1e30fd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOFim5CaYAAjAjj.jpg?format=jpg&amp;name=small" width="480" alt="Red Bull Minimalist Commercial Ad" /></a>
+<a href="https://musesignal.com/prompt/60e40e19-66a4-4a51-80a1-485207321fd4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM7KzQka0AAQdMp.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Premium Luxury Brand Advertising Poster" /></a>
 
-**GPT Image 2** · Creator: Mr Das
+**GPT Image 2** · Creator: Maverick \| AI
 
 Use case: Commercial &amp; Product
 
@@ -1123,18 +1179,111 @@ Use case: Commercial &amp; Product
 <summary>Full prompt</summary>
 
 ```text
-Minimalist commercial ad featuring an oversized Red Bull can, ultra clean design. A young athletic woman in a sleek red-and-blue outfit leans casually against the giant can in a dynamic confident pose, eyes closed, holding a Red Bull can. Soft gradient blue-to-red background with large bold “Red Bull” text and wings logo behind. Glossy reflective floor, soft studio lighting, modern high end fashion and product photography. Small top right text “Designed by Mr Das”. Bottom center tagline in small white font: “Gives You Wings.”
+Create an ultra-premium cinematic advertising poster for [PRODUCT] by [BRAND]. The product is the hero of the composition, featuring hyper-realistic materials, cinematic lighting, realistic reflections, premium textures, atmospheric depth, floating particles, and luxury editorial styling. Showcase extreme detail with macro-quality realism, physically accurate materials, elegant branding, shallow depth of field, minimal premium background, and world-class commercial photography. Include [BRAND], [PRODUCT], and an optional tagline: "[TAGLINE]". 8K, photorealistic, award-winning luxury advertising campaign.
+
+Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor lighting, cheap advertising style, watermark, noise, distorted proportions.
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/1340a219-a707-4033-8185-ba4ceb1e30fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2081052933895159955>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/60e40e19-66a4-4a51-80a1-485207321fd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2075819502940610858>)
+
+---
+
+<a id="prompt-f9f62125-8d0b-42f4-b452-d46c7c30d7b9"></a>
+
+#### Vitamin C Serum Luxury Skincare Ad
+
+<a href="https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMD0EfzXAAAdDH6.jpg?format=jpg&amp;name=small" width="480" alt="Vitamin C Serum Luxury Skincare Ad" /></a>
+
+**GPT Image 2** · Creator: Maercih
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+    "scene": "Luxury skincare product advertisement featuring a vitamin C serum bottle centered on a polished marble pedestal. Behind the bottle is a large warm peach-beige circular backdrop with oversized elegant serif typography reading 'RADIANT SKIN' in the background and handwritten script text 'Glow' at the top. Fresh orange slices, lemon peels, white citrus blossoms, and glossy golden serum droplets are arranged around the bottle to emphasize citrus ingredients and hydration.",
+    "subject": {
+      "product_type": "Vitamin C glow serum",
+      "bottle_material": "Transparent glass bottle filled with golden-orange serum liquid",
+      "dropper": "White rubber dropper with reflective metallic gold collar",
+      "label": "Minimal luxury skincare label with serif typography, centered and clean"
+    },
+    "composition": {
+      "framing": "Centered hero shot",
+      "camera_angle": "Slightly low eye-level angle for premium presence",
+      "layout": "Symmetrical product placement with balanced ingredient arrangement on both sides",
+      "depth": "Shallow to medium depth of field with crisp product focus"
+    },
+    "environment": {
+      "background": "Soft creamy beige luxury backdrop with subtle marble texture and thin abstract golden curves",
+      "surface": "Glossy marble pedestal with soft reflections",
+      "props": [
+        "Orange halves",
+        "Lemon peel spirals",
+        "White citrus flowers",
+        "Floating golden serum spheres"
+      ]
+    },
+    "lighting": {
+      "type": "Soft diffused studio lighting with warm sunlight glow",
+      "direction": "Top-left directional light",
+      "highlights": "Strong glass reflections and golden metallic shine",
+      "mood": "Fresh, radiant, luxurious, clean"
+    },
+    "style": {
+      "visual_style": "Premium beauty campaign",
+      "render_quality": "Ultra photorealistic 3D render",
+      "details": "Sharp glass refractions, realistic liquid bubbles, luxury skincare branding",
+      "color_palette": [
+        "Warm beige",
+        "Soft peach",
+        "Golden amber",
+        "Citrus orange",
+        "Cream white"
+      ]
+    },
+    "text_elements": {
+      "headline_top": "Glow",
+      "headline_background": "RADIANT SKIN",
+      "side_text": "Brighten and refresh with vitamin-rich care — smooth, radiant, and healthy-looking skin.",
+      "cta_button": "SHOP NOW",
+      "footer_text": "Daily glow powered by citrus care"
+    }
+  },
+  "negative_prompt": [
+    "blurry product",
+    "low resolution",
+    "cropped bottle",
+    "harsh shadows",
+    "plastic-looking materials",
+    "messy composition",
+    "oversaturated colors",
+    "distorted text",
+    "cheap advertisement look"
+  ],
+  "settings": {
+    "aspect_ratio": "4:5",
+    "resolution": "1536x1920",
+    "render_engine": "photorealistic",
+    "quality": "ultra",
+    "stylize": 250
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Maercihh/status/2071924190907896129>)
 
 ---
 
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 10
+### Poster &amp; Graphic · 9
 
 [GPT Image](<https://musesignal.com/?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>)
 
@@ -1624,45 +1773,6 @@ Use case: Poster &amp; Graphic
 
 ---
 
-<a id="prompt-8b49d085-4aaf-48ac-a708-7ba5424f5e48"></a>
-
-#### Mother’s Day Cherry Blossom Editorial Poster
-
-<a href="https://musesignal.com/prompt/8b49d085-4aaf-48ac-a708-7ba5424f5e48?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HH85P1OaYAAh0TD.jpg?format=jpg&amp;name=small" width="480" alt="Mother’s Day Cherry Blossom Editorial Poster" /></a>
-
-**GPT Image 2** · Creator: Ayesha.
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-premium cinematic Mother’s Day editorial poster featuring a beautiful young mother and her little daughter beneath blooming cherry blossom trees during golden hour sunset. The mother gently holding the child close while the little girl looks up at her with love and admiration. Soft petals floating through the air, dreamy warm sunlight, emotional atmosphere, elegant natural poses, realistic skin texture, and deep emotional connection.
-
-Background filled with soft pink cherry blossoms, cinematic bokeh, sunlight rays, gentle wind movement, and luxury spring aesthetics. Mother wearing an elegant flowing pastel dress, daughter in a delicate soft-toned outfit, both looking graceful and angelic.
-
-Add elegant minimal white serif typography artistically around the poster.
-
-Main quote:
-
-> “Before the world loved me, she did.”
-
-Side quotes:
-
-* “A mother’s love is the child’s first home.”
-* “Her arms were my first safe place.”
-* “No love is quieter, deeper, or stronger.”
-
-Style: ultra realistic, cinematic luxury editorial photography, Vogue-style composition, emotional storytelling, warm golden color grading, soft film grain, dreamy atmosphere, premium magazine aesthetic, shallow depth of field, visually addictive, emotional masterpiece, 8K realism.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/8b49d085-4aaf-48ac-a708-7ba5424f5e48?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iayeshayousuf/status/2053422902725538153>)
-
----
-
 <a id="selected-food-drink"></a>
 
 ### Food &amp; Drink · 8
@@ -1867,7 +1977,7 @@ A minimalist, surrealist food advertisement photograph on a warm, muted beige ta
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 9
+### Character &amp; Art · 8
 
 [GPT Image](<https://musesignal.com/?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>)
 
@@ -2077,30 +2187,6 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/74dc8865-8352-428f-b55e-d2d90a72545f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AIwithkhan/status/2066858886511161451>)
-
----
-
-<a id="prompt-b3429ace-8c98-4da4-96c7-3ccf81eabaec"></a>
-
-#### Low-Poly Football Player Portrait
-
-<a href="https://musesignal.com/prompt/b3429ace-8c98-4da4-96c7-3ccf81eabaec?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLUsgUVbwAAFuPC.jpg?format=jpg&amp;name=small" width="480" alt="Low-Poly Football Player Portrait" /></a>
-
-**GPT Image 2** · Creator: Simply Ray
-
-Use case: Character &amp; Art
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Ultra-detailed low poly digital portrait illustration of a young professional football player, head-and-shoulders composition, looking confidently toward the upper right, short black buzz cut with a clean skin fade, athletic face with strong jawline, calm determined expression, wearing a modern royal blue football jersey with subtle geometric polygon texture. The face is constructed from sharp angular polygonal facets with smooth gradients, realistic skin tones, crisp edges, high-detail eyes, cinematic lighting, dramatic shadows, premium vector illustration quality.
-Background features a bold abstract composition inspired by the French flag, with deep blue on the left, white in the center, vibrant red on the right, combined with dynamic geometric shards, polygon shapes, angular streaks, and motion graphics. High contrast, modern sports poster aesthetic, clean composition, vibrant colors, editorial quality, esports branding style, Adobe Illustrator vector look, Behance portfolio quality, ultra sharp, 8K, centered portrait, vertical 4:5.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/b3429ace-8c98-4da4-96c7-3ccf81eabaec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2068608547546636769>)
 
 ---
 
@@ -2447,20 +2533,20 @@ Explore more examples, search and filters on MuseSignal.
 
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
-| GPT Image | 55 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 451 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image | 56 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
+| GPT Image 2 | 457 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 26 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## Recently published
 
+- [Ultra-Premium Luxury Brand Advertising Poster](<https://musesignal.com/prompt/60e40e19-66a4-4a51-80a1-485207321fd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Golden Hour Beauty Portrait Triptych](<https://musesignal.com/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
+- [Golden Hour Temple Travel Portrait](<https://musesignal.com/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Moody Mirror Reflection Fashion Portrait](<https://musesignal.com/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Vitamin C Serum Luxury Skincare Ad](<https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Vintage Street Portrait with Long-Exposure Motion Blur](<https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Coastal Cliff Cinematic Portrait](<https://musesignal.com/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Flash-Photography Candid Portrait](<https://musesignal.com/prompt/37ef654e-9911-4042-a7d6-00447cf42ca9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Impasto Autumn Lake Oil Painting](<https://musesignal.com/prompt/88df658a-ab87-4b70-a3ad-7a208dc0fc1b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Silhouette Sunset Over Frozen Marbled Lake](<https://musesignal.com/prompt/3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Neon Yacht Under Full Moon Night Harbour](<https://musesignal.com/prompt/a8a2275b-2150-43c3-8037-f1564c1f0cbe?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
-- [Minimalist Blue Editorial Illustration](<https://musesignal.com/prompt/a5b8c43d-78c2-4d57-b6f4-1541f0a50bec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Man on Mossy River Rock Portrait](<https://musesignal.com/prompt/8e4650ac-3282-45c3-9889-1958847b20a4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Low-Poly Football Player Portrait](<https://musesignal.com/prompt/b3429ace-8c98-4da4-96c7-3ccf81eabaec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Mother’s Day Cherry Blossom Editorial Poster](<https://musesignal.com/prompt/8b49d085-4aaf-48ac-a708-7ba5424f5e48?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -2481,7 +2567,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 532](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 539](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
