@@ -2179,6 +2179,35 @@
     "content_hash": "ac3fcdf66b4cac8a19586bfc0840783aae28d46b06fcffff823450995b7b04dd"
   },
   {
+    "id": "24167adc-d70c-4ecf-abae-d468dde89954",
+    "title": "Force-Reactive Oversized Typography Campaign Poster",
+    "prompt": "Prompt:\nCreate a bold editorial campaign poster where oversized typography reacts to a physical force created by the subject or product.\nBrand: [BRAND NAME]\nProduct / Campaign: [PRODUCT OR CAMPAIGN]\nMain Word: [SHORT WORD]\nSubject: [PERSON / PRODUCT / BOTH]\nAction: [STEP / JUMP / PULL / SKATE / ETC.]\nForce: [PRESS / PUSH / WRAP / SLIDE / OTHER]\nForce Direction: [DOWN / UP / ROTATE / DIAGONAL / OTHER]\nMain Color: [COLOR]\nAccent Color: [COLOR]\nAspect Ratio: [9:16]\nUse realistic commercial photography, oversized typography, high-contrast colors, and contemporary editorial design.\nMake the main word extremely large, filling roughly 50–75% of the frame. The typography should visibly respond to the chosen force instead of remaining static.\nFor example:\nPRESS: compress, bend, or shift the letters at the point of impact.\nPUSH: stretch the typography along an upward or forward direction.\nWRAP: let large letterforms pass behind and in front of the subject to create an enclosing motion.\nSLIDE: offset and shift the letters along one strong directional axis.\nThe deformation must follow the subject’s actual movement and force direction. Keep the typography graphic and readable — avoid turning it into soft 3D, liquid, or cartoon lettering.\nCreate clear foreground–subject–background interaction so the person or product feels physically connected to the type.\nUse one dominant high-impact color with black, white, and a contrasting accent color. Add only a few meaningful campaign details such as the brand name, product name, slogan, specifications, labels, or small editorial text.\nKeep people and products realistic, with believable proportions, materials, lighting, shadows, and dynamic movement.\nThe final image should feel like a finished campaign key visual where force, subject, typography, and composition all move together.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Larus Canus",
+      "handle": "MrLarus"
+    },
+    "source_platform": "X",
+    "source_id": "2092034848718274659",
+    "source_url": "https://x.com/MrLarus/status/2092034848718274659",
+    "images": [
+      "https://pbs.twimg.com/media/HQhmZ_LWwAAtjGM.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQhmZ_LWYAAoN9I.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQhmZ_LWcAAo08t.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQhmZ_LWsAA715k.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/24167adc-d70c-4ecf-abae-d468dde89954",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/24167adc-d70c-4ecf-abae-d468dde89954",
+    "published_at": "2026-10-19T06:22:38.858321+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b984b86998dc2f7d44657f9fb6df669a1e94149f7bd38934dd117b40cc91ae32"
+  },
+  {
     "id": "25bc979c-b42e-420b-a6ce-c7712adf3516",
     "title": "Candid Travel Portrait on a Railway Platform",
     "prompt": "A photorealistic candid travel portrait of a young woman standing on a busy railway platform beside a long passenger train. She has long, straight, voluminous dark brown hair flowing naturally over her shoulders and down her back, with a few loose strands around her face. She has delicate youthful features, natural skin texture, subtle makeup, soft pink lips, and a relaxed slightly dreamy expression while looking directly toward the camera.\nShe is wearing a cream-beige sleeveless camisole with black trim around the neckline, layered casually with dark short shorts. A dark jacket is draped loosely over one arm. She carries a black shoulder bag and holds a tablet or thin electronic device in one hand. White wired earphones are connected to the device, with the cable naturally hanging across her outfit.\nShe stands casually beside the train, one hand lightly touching her hair or shoulder strap, giving the photograph an effortless spontaneous travel moment.\nThe train beside her is white with deep burgundy and yellow horizontal stripes, large rectangular windows, and visible carriage numbering. The train extends far into the background, creating strong perspective and leading lines. The platform has tiled flooring, a yellow tactile safety strip along the edge, overhead metal roofing, structural columns, and several distant passengers.\nBright warm daylight streams through the station roof, creating strong highlights and soft shadows across the woman's hair, face, clothing, and train. The atmosphere feels like a spontaneous travel photograph captured at a busy Southeast Asian railway station.\nComposition: vertical 4:5 portrait, medium-to-full body framing, woman positioned slightly left of center, train dominating the left side, platform and roof creating strong diagonal leading lines toward the background, natural handheld smartphone perspective.\nPhotography style: ultra-realistic smartphone photography, candid travel aesthetic, natural skin texture, realistic individual hair strands, detailed fabric, authentic train textures, realistic daylight exposure, subtle motion and depth, gentle warm color grading, slight film grain, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped train, distorted windows, artificial hair, oversaturated colors, extreme blur, low resolution, text, watermark, logo.",
@@ -4154,6 +4183,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "298656c76b4b1cf5490c0a9e0a3b54c27b93c141782200f25d96c83dd105633f"
+  },
+  {
+    "id": "49f58242-72b9-4ae0-be2a-f2f0bb96e89f",
+    "title": "Editorial Character Poster Template",
+    "prompt": "Create a finished editorial character poster, 9:16, edge-to-edge warm off-white paper. Flat geometric illustration, exaggerated asymmetric proportions, soft airbrushed shading, fine print grain.\n\nOne adult character built from a few oversized, asymmetric shapes: small head, long capsule limbs, simple mitten hands. One large object is part of the pose and changes the silhouette. Black cut-paper facial features: crescent eyes, minimal mouth. The emotion reads from the whole-body gesture.\n\nPalette: off-white #F3F1EB, near-black #10100F, hot pink #F553D2, warm red #F42726, cobalt #293EA1, emerald #13785D. Flat color blocks with crisp edges; soft dark-to-color spray gradients where shapes overlap. Fine stipple grain sits mostly inside the ink areas, barely visible on the paper.\n\nOne short caption in small bold black uppercase sans-serif, set in an open paper pocket. Not a headline.\n\nCaption: \"[MAIN_TEXT]\"\nCharacter & Object: [WHO + THE OVERSIZED THING]\nGesture & Emotion: [POSE + FEELING]\nShape Idea: [HOW BODY AND OBJECT FORM THE SILHOUETTE]\n\nNo extra text, no logos, no outlined cartoon look, no glossy 3D, no realistic skin, no coarse canvas texture, no busy background, no extra limbs.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Vigo Zhao",
+      "handle": "VigoCreativeAI"
+    },
+    "source_platform": "X",
+    "source_id": "2105644398990266649",
+    "source_url": "https://x.com/VigoCreativeAI/status/2105644398990266649",
+    "images": [
+      "https://pbs.twimg.com/media/HTjAP5CasAATZ8-.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTjAP5MaAAE8fBA.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTjAP5AbcAA592A.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTjAP5oa8AANxCj.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/49f58242-72b9-4ae0-be2a-f2f0bb96e89f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/49f58242-72b9-4ae0-be2a-f2f0bb96e89f",
+    "published_at": "2026-10-18T15:16:57.597002+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "5a82f039e4a3b9c72b397ddf4d9808176ffecf2aa816545cdc89f5766c044e03"
   },
   {
     "id": "4b7c6205-7eaf-479c-a488-475af629add8",
@@ -6350,6 +6408,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "37f907fce408fe5d33cf9f3d07acc8d970713ae9eeecc04a7af5847662899913"
+  },
+  {
+    "id": "7478ba5c-a68b-4309-9f23-bac2896a5481",
+    "title": "Out-of-Focus Balcony Portrait by the Sea",
+    "prompt": "Do not change the facial features, proportions, hair color, or hair type. 100% likeness.\n\nA spontaneous shot, captured by chance. Chest-up close-up, on a balcony with white wrought-iron railings.\n\nFOCUS: The camera is focused only on the sea and sky—the dark blue sea with a clearly defined horizon and the bright sky are sharp and detailed. The girl is completely out of focus, appearing as a soft, glowing blurred silhouette in the foreground, with only hints of her white dress and hair visible through the blur.\n\nHer torso is slightly tilted backward, with one hand lifting her hair at the crown of her head—the silhouette is only faintly discernible through the out-of-focus effect.\n\nA white slip dress with ruffles and thin straps. A delicate gold chain necklace and bracelet.\n\nThe white wrought-iron balcony railings are partially sharp, creating a frame.\n\nNatural, bright daylight, clean contrast.\n\nNatural skin with visible pores. No plastic look, no AI appearance. Film grain, clean and bright color palette.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Meem",
+      "handle": "mehvishs25"
+    },
+    "source_platform": "X",
+    "source_id": "2092600682616586632",
+    "source_url": "https://x.com/mehvishs25/status/2092600682616586632",
+    "images": [
+      "https://pbs.twimg.com/media/HQppNs0b0AAVVNi.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQppOTYagAAlfL7.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481",
+    "published_at": "2026-10-19T06:22:42.84686+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "75d6e31aca34b26b8e95d3a56c6693de39c67f0d4dbfdc0e103b8330946e914d"
   },
   {
     "id": "74b459bd-f12a-426d-a003-2d21727f7532",
@@ -8946,6 +9031,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0ed0b9500467ed2ce60bb695ea07e5dd6bb3a0a63849279273342858a765d523"
+  },
+  {
+    "id": "95d216a2-9143-4ff4-bbfd-3c445e4ead0c",
+    "title": "Luxury Marine Life Body Scrub Ad",
+    "prompt": "Cinematic luxury skincare advertisement featuring a Marine Life body scrub jar, open to reveal a thick whipped cream-like Mango and Passionfruit formula, golden and orange tones, fruit pieces suspended mid-air alongside dramatic liquid splash effects, backlighting for extra glow on the droplets, minimalist warm peach background with shallow depth of field, fresh tropical mood, shot in 8K resolution with hyperrealistic detail and commercial advertising polish",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "PromptLab",
+      "handle": "iamaiistudio"
+    },
+    "source_platform": "X",
+    "source_id": "2068895380159496377",
+    "source_url": "https://x.com/iamaiistudio/status/2068895380159496377",
+    "images": [
+      "https://pbs.twimg.com/media/HLYxFJRaIAASNyU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c",
+    "published_at": "2026-10-19T06:22:25.841831+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "48c0e210b51785368fda233a4c611db341200d4d64b6f8d53a966903a04023cb"
   },
   {
     "id": "96172455-25ee-4a03-909a-785c8869aa6f",
@@ -11868,6 +11979,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "7651c32d86c9b59b397e6172e4c48ac65ec75d08bf0956b9c86c5803717b8fab"
+  },
+  {
+    "id": "cfdc0fa5-ca7c-48ac-bc62-f564e96f3810",
+    "title": "12-Panel Collectible Diorama Lifestyle Collage",
+    "prompt": "Ultra-realistic 3D collectible lifestyle collage featuring the same handsome young South Asian man appearing in 12 different miniature premium diorama scenes, arranged in a perfectly aligned 4×3 grid with equal spacing against a matte dark charcoal background. Each scene is enclosed inside a luxurious rounded-square 3D frame with thick glossy borders, soft bevels, subtle reflections, ambient occlusion, and cinematic depth, resembling premium collectible display boxes rather than app icons.\n\nThe man has thick textured black hair, sharp eyebrows, deep brown eyes, a neatly trimmed beard and mustache, warm medium skin tone, and an athletic physique. His face remains identical in every frame while his clothing changes naturally according to each activity. Hyper-realistic skin texture, natural facial expressions, crisp details, and lifelike proportions.\n\nEvery frame tells a different story:\n\n1. Morning routine — brushing teeth in a modern bathroom.\n\n2. Goal planning — writing in a notebook at a wooden desk.\n\n3. Deep focus mode — working on a laptop with headphones in a moody workspace.\n\n4. Reading & self-development — relaxing with a book in a cozy library.\n\n5. Late-night hustle — working with city lights outside the window.\n\n6. Photography — holding a professional DSLR camera outdoors.\n\n7. Motorcycle lifestyle — sitting on a sleek black sports bike.\n\n8. Gym session — lifting dumbbells in a luxury fitness studio.\n\n9. Coffee break — enjoying coffee in a stylish café.\n\n10. Adventure travel — holding a map beside mountains and a lake.\n\n11. Kindness moment — playing with a golden retriever in a street scene.\n\n12. Night routine — reading a book before sleep in a warm bedroom.\n\nEach miniature environment is uniquely designed with realistic props, cinematic lighting, volumetric light rays, soft shadows, premium materials, and rich environmental storytelling. A small elegant gold nameplate at the bottom of every frame displays the activity title with a matching minimalist icon.\n\nLuxury editorial aesthetic, ultra-clean composition, realistic reflections, shallow depth of field, HDR, ray-traced global illumination, Unreal Engine 5 quality, Octane Render, 8K resolution, photorealistic textures, premium collectible toy-box style, cinematic color grading, perfectly symmetrical layout, highly detailed, masterpiece quality.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Harry Potter",
+      "handle": "mon010_de"
+    },
+    "source_platform": "X",
+    "source_id": "2076872926784278745",
+    "source_url": "https://x.com/mon010_de/status/2076872926784278745",
+    "images": [
+      "https://pbs.twimg.com/media/HNKI6flbUAASBZ7.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810",
+    "published_at": "2026-10-19T06:22:31.417306+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "64795a8a8ee28ae46435abe7727d83b566388bf7a359d8ff87046b8212d790c6"
   },
   {
     "id": "cfea5eac-5899-4e25-a4d3-9e64aa3339f8",

@@ -1171,3 +1171,24 @@ Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor ligh
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2071924190907896129>)
 
 ---
+
+<a id="prompt-95d216a2-9143-4ff4-bbfd-3c445e4ead0c"></a>
+
+## Luxury Marine Life Body Scrub Ad
+
+<a href="https://musesignal.com/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLYxFJRaIAASNyU.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Marine Life Body Scrub Ad" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Cinematic luxury skincare advertisement featuring a Marine Life body scrub jar, open to reveal a thick whipped cream-like Mango and Passionfruit formula, golden and orange tones, fruit pieces suspended mid-air alongside dramatic liquid splash effects, backlighting for extra glow on the droplets, minimalist warm peach background with shallow depth of field, fresh tropical mood, shot in 8K resolution with hyperrealistic detail and commercial advertising polish
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068895380159496377>)
+
+---

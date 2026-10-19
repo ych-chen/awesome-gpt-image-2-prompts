@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **539** | **60** | 2026-10-18 |
+| **544** | **60** | 2026-10-19 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,9 +28,9 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| 人像摄影 | 150 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
-| 商业产品 | 108 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
-| 海报设计 | 119 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
+| 人像摄影 | 152 | [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) |
+| 商业产品 | 109 | [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) |
+| 海报设计 | 121 | [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) |
 | 食物饮品 | 26 | [GPT Image](<https://musesignal.com/zh?category=food-drink&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) · [GPT Image 2.5](<https://musesignal.com/zh?category=food-drink&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_food-drink>) |
 | 角色艺术 | 94 | [GPT Image](<https://musesignal.com/zh?category=character-art&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) · [GPT Image 2](<https://musesignal.com/zh?category=character-art&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_character-art>) |
 | 场景空间 | 42 | [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) |
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 14
+### 人像摄影 · 16
 
 [GPT Image](<https://musesignal.com/zh?category=portrait&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2](<https://musesignal.com/zh?category=portrait&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>) · [GPT Image 2.5](<https://musesignal.com/zh?category=portrait&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_portrait>)
 
@@ -368,6 +368,98 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ---
 
+<a id="prompt-7478ba5c-a68b-4309-9f23-bac2896a5481"></a>
+
+#### Out-of-Focus Balcony Portrait by the Sea
+
+<a href="https://musesignal.com/zh/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQppNs0b0AAVVNi.jpg?format=jpg&amp;name=small" width="480" alt="Out-of-Focus Balcony Portrait by the Sea" /></a>
+
+**GPT Image 2** · 原作者: Meem
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Do not change the facial features, proportions, hair color, or hair type. 100% likeness.
+
+A spontaneous shot, captured by chance. Chest-up close-up, on a balcony with white wrought-iron railings.
+
+FOCUS: The camera is focused only on the sea and sky—the dark blue sea with a clearly defined horizon and the bright sky are sharp and detailed. The girl is completely out of focus, appearing as a soft, glowing blurred silhouette in the foreground, with only hints of her white dress and hair visible through the blur.
+
+Her torso is slightly tilted backward, with one hand lifting her hair at the crown of her head—the silhouette is only faintly discernible through the out-of-focus effect.
+
+A white slip dress with ruffles and thin straps. A delicate gold chain necklace and bracelet.
+
+The white wrought-iron balcony railings are partially sharp, creating a frame.
+
+Natural, bright daylight, clean contrast.
+
+Natural skin with visible pores. No plastic look, no AI appearance. Film grain, clean and bright color palette.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/mehvishs25/status/2092600682616586632>)
+
+---
+
+<a id="prompt-cfdc0fa5-ca7c-48ac-bc62-f564e96f3810"></a>
+
+#### 12-Panel Collectible Diorama Lifestyle Collage
+
+<a href="https://musesignal.com/zh/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNKI6flbUAASBZ7.jpg?format=jpg&amp;name=small" width="480" alt="12-Panel Collectible Diorama Lifestyle Collage" /></a>
+
+**GPT Image 2** · 原作者: Harry Potter
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic 3D collectible lifestyle collage featuring the same handsome young South Asian man appearing in 12 different miniature premium diorama scenes, arranged in a perfectly aligned 4×3 grid with equal spacing against a matte dark charcoal background. Each scene is enclosed inside a luxurious rounded-square 3D frame with thick glossy borders, soft bevels, subtle reflections, ambient occlusion, and cinematic depth, resembling premium collectible display boxes rather than app icons.
+
+The man has thick textured black hair, sharp eyebrows, deep brown eyes, a neatly trimmed beard and mustache, warm medium skin tone, and an athletic physique. His face remains identical in every frame while his clothing changes naturally according to each activity. Hyper-realistic skin texture, natural facial expressions, crisp details, and lifelike proportions.
+
+Every frame tells a different story:
+
+1. Morning routine — brushing teeth in a modern bathroom.
+
+2. Goal planning — writing in a notebook at a wooden desk.
+
+3. Deep focus mode — working on a laptop with headphones in a moody workspace.
+
+4. Reading & self-development — relaxing with a book in a cozy library.
+
+5. Late-night hustle — working with city lights outside the window.
+
+6. Photography — holding a professional DSLR camera outdoors.
+
+7. Motorcycle lifestyle — sitting on a sleek black sports bike.
+
+8. Gym session — lifting dumbbells in a luxury fitness studio.
+
+9. Coffee break — enjoying coffee in a stylish café.
+
+10. Adventure travel — holding a map beside mountains and a lake.
+
+11. Kindness moment — playing with a golden retriever in a street scene.
+
+12. Night routine — reading a book before sleep in a warm bedroom.
+
+Each miniature environment is uniquely designed with realistic props, cinematic lighting, volumetric light rays, soft shadows, premium materials, and rich environmental storytelling. A small elegant gold nameplate at the bottom of every frame displays the activity title with a matching minimalist icon.
+
+Luxury editorial aesthetic, ultra-clean composition, realistic reflections, shallow depth of field, HDR, ray-traced global illumination, Unreal Engine 5 quality, Octane Render, 8K resolution, photorealistic textures, premium collectible toy-box style, cinematic color grading, perfectly symmetrical layout, highly detailed, masterpiece quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/mon010_de/status/2076872926784278745>)
+
+---
+
 <a id="prompt-a3a3deb2-4667-4550-9d47-d73907d002f1"></a>
 
 #### Golden Hour Beauty Portrait Triptych
@@ -666,7 +758,7 @@ Create A candid, flash-photography portrait of a young woman with voluminous, wa
 
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 10
+### 商业产品 · 11
 
 [GPT Image](<https://musesignal.com/zh?category=commercial-product&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>) · [GPT Image 2.5](<https://musesignal.com/zh?category=commercial-product&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_commercial-product>)
 
@@ -1165,6 +1257,29 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 ---
 
+<a id="prompt-95d216a2-9143-4ff4-bbfd-3c445e4ead0c"></a>
+
+#### Luxury Marine Life Body Scrub Ad
+
+<a href="https://musesignal.com/zh/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLYxFJRaIAASNyU.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Marine Life Body Scrub Ad" /></a>
+
+**GPT Image 2** · 原作者: PromptLab
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Cinematic luxury skincare advertisement featuring a Marine Life body scrub jar, open to reveal a thick whipped cream-like Mango and Passionfruit formula, golden and orange tones, fruit pieces suspended mid-air alongside dramatic liquid splash effects, backlighting for extra glow on the droplets, minimalist warm peach background with shallow depth of field, fresh tropical mood, shot in 8K resolution with hyperrealistic detail and commercial advertising polish
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068895380159496377>)
+
+---
+
 <a id="prompt-60e40e19-66a4-4a51-80a1-485207321fd4"></a>
 
 #### Ultra-Premium Luxury Brand Advertising Poster
@@ -1286,6 +1401,42 @@ Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor ligh
 ### 海报设计 · 9
 
 [GPT Image](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>) · [GPT Image 2.5](<https://musesignal.com/zh?category=poster-graphic&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_poster-graphic>)
+
+<a id="prompt-49f58242-72b9-4ae0-be2a-f2f0bb96e89f"></a>
+
+#### Editorial Character Poster Template
+
+<a href="https://musesignal.com/zh/prompt/49f58242-72b9-4ae0-be2a-f2f0bb96e89f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTjAP5CasAATZ8-.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Character Poster Template" /></a>
+
+**GPT Image 2.5** · 原作者: Vigo Zhao
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a finished editorial character poster, 9:16, edge-to-edge warm off-white paper. Flat geometric illustration, exaggerated asymmetric proportions, soft airbrushed shading, fine print grain.
+
+One adult character built from a few oversized, asymmetric shapes: small head, long capsule limbs, simple mitten hands. One large object is part of the pose and changes the silhouette. Black cut-paper facial features: crescent eyes, minimal mouth. The emotion reads from the whole-body gesture.
+
+Palette: off-white #F3F1EB, near-black #10100F, hot pink #F553D2, warm red #F42726, cobalt #293EA1, emerald #13785D. Flat color blocks with crisp edges; soft dark-to-color spray gradients where shapes overlap. Fine stipple grain sits mostly inside the ink areas, barely visible on the paper.
+
+One short caption in small bold black uppercase sans-serif, set in an open paper pocket. Not a headline.
+
+Caption: "[MAIN_TEXT]"
+Character & Object: [WHO + THE OVERSIZED THING]
+Gesture & Emotion: [POSE + FEELING]
+Shape Idea: [HOW BODY AND OBJECT FORM THE SILHOUETTE]
+
+No extra text, no logos, no outlined cartoon look, no glossy 3D, no realistic skin, no coarse canvas texture, no busy background, no extra limbs.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/49f58242-72b9-4ae0-be2a-f2f0bb96e89f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2105644398990266649>)
+
+---
 
 <a id="prompt-587ea551-9368-4ee0-bd1c-2d70beb7c56a"></a>
 
@@ -1727,36 +1878,13 @@ Thick white outline cutout around the character, white doodle overlays, clean ne
 
 ---
 
-<a id="prompt-921bd691-513e-4273-af55-4a32602a8ef8"></a>
+<a id="prompt-24167adc-d70c-4ecf-abae-d468dde89954"></a>
 
-#### Luxury Birthday Poster with 3D Number and Festive Decor
+#### Force-Reactive Oversized Typography Campaign Poster
 
-<a href="https://musesignal.com/zh/prompt/921bd691-513e-4273-af55-4a32602a8ef8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKnqyqTbcAARATR.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Birthday Poster with 3D Number and Festive Decor" /></a>
+<a href="https://musesignal.com/zh/prompt/24167adc-d70c-4ecf-abae-d468dde89954?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQhmZ_LWwAAtjGM.jpg?format=jpg&amp;name=small" width="480" alt="Force-Reactive Oversized Typography Campaign Poster" /></a>
 
-**GPT Image** · 原作者: Maverick \| AI
-
-创作场景: 海报设计
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled with high-quality snow-white paper with a texture for the walls. A large number “04", precisely carved on the wall, with visible depth, realistic inner shadows and elegant volumetric details. Inside the room: dark blue, pastel blue and white balloons, delicate white flowers, exquisite bouquet arrangements and first-class festive style. The happy man from the attached photo is sitting casually on the lower bend of the number “,04”, bending one leg and casually hanging the other, smiling radiantly and looking slightly up. The face, shoulder, one arm, and one leg extend beyond the cut-out number, creating a realistic 3D pop-up window effect. Warm cinematic sunlight penetrating from one side, soft lighting at the edges, photorealistic skin texture, first-class studio shooting, ultra-realistic details, clear focus, luxurious editorial quality. The inscriptions on the wall: “Maverick AI", “CHAPTER 28", “365 MORE DAYS OF MIRACLES". Pure minimalistic composition, luxurious aesthetics of the magazine cover, high-class art direction, realistic shadows, natural colors, absence of shadows from trees, artificial lighting, artificial intelligence artifacts, first-class photography for the birthday campaign, masterpiece quality."
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/921bd691-513e-4273-af55-4a32602a8ef8?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/RizwanAly07/status/2065440072980377654>)
-
----
-
-<a id="prompt-a5b8c43d-78c2-4d57-b6f4-1541f0a50bec"></a>
-
-#### Minimalist Blue Editorial Illustration
-
-<a href="https://musesignal.com/zh/prompt/a5b8c43d-78c2-4d57-b6f4-1541f0a50bec?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpoogKa8AAha0a.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Blue Editorial Illustration" /></a>
-
-**GPT Image 2** · 原作者: 沐阳
+**GPT Image 2** · 原作者: Larus Canus
 
 创作场景: 海报设计
 
@@ -1764,12 +1892,35 @@ Professional luxury birthday poster, in a 3:4 ratio. The entire frame is filled 
 <summary>完整提示词</summary>
 
 ```text
-一张极简主义现代编辑风格插画，主体为【xxx】。画面以干净流畅的优雅线条塑造主体轮廓，强调修长比例、简洁造型与高级审美。背景保留大面积留白，并搭配少量抽象几何构成、半透明叠层、弧线或简化自然元素。整体色彩以蓝色为主，包括冷白、雾灰、浅灰蓝、冰蓝、湖蓝、钢蓝、钴蓝等冷调色系，辅以少量米白与银灰平衡画面，并在局部加入一处高纯度亮蓝或宝石蓝作为视觉焦点。整体氛围清冷、安静、现代、优雅，具有高级杂志插画与现代艺术海报质感。无文字、无水印、无复杂背景、无低幼卡通感。
+Prompt:
+Create a bold editorial campaign poster where oversized typography reacts to a physical force created by the subject or product.
+Brand: [BRAND NAME]
+Product / Campaign: [PRODUCT OR CAMPAIGN]
+Main Word: [SHORT WORD]
+Subject: [PERSON / PRODUCT / BOTH]
+Action: [STEP / JUMP / PULL / SKATE / ETC.]
+Force: [PRESS / PUSH / WRAP / SLIDE / OTHER]
+Force Direction: [DOWN / UP / ROTATE / DIAGONAL / OTHER]
+Main Color: [COLOR]
+Accent Color: [COLOR]
+Aspect Ratio: [9:16]
+Use realistic commercial photography, oversized typography, high-contrast colors, and contemporary editorial design.
+Make the main word extremely large, filling roughly 50–75% of the frame. The typography should visibly respond to the chosen force instead of remaining static.
+For example:
+PRESS: compress, bend, or shift the letters at the point of impact.
+PUSH: stretch the typography along an upward or forward direction.
+WRAP: let large letterforms pass behind and in front of the subject to create an enclosing motion.
+SLIDE: offset and shift the letters along one strong directional axis.
+The deformation must follow the subject’s actual movement and force direction. Keep the typography graphic and readable — avoid turning it into soft 3D, liquid, or cartoon lettering.
+Create clear foreground–subject–background interaction so the person or product feels physically connected to the type.
+Use one dominant high-impact color with black, white, and a contrasting accent color. Add only a few meaningful campaign details such as the brand name, product name, slogan, specifications, labels, or small editorial text.
+Keep people and products realistic, with believable proportions, materials, lighting, shadows, and dynamic movement.
+The final image should feel like a finished campaign key visual where force, subject, typography, and composition all move together.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a5b8c43d-78c2-4d57-b6f4-1541f0a50bec?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/yyyole/status/2070084443793166792>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/24167adc-d70c-4ecf-abae-d468dde89954?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/MrLarus/status/2092034848718274659>)
 
 ---
 
@@ -2192,7 +2343,7 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 <a id="selected-scene-space"></a>
 
-### 场景空间 · 11
+### 场景空间 · 8
 
 [GPT Image](<https://musesignal.com/zh?category=scene-space&model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>) · [GPT Image 2.5](<https://musesignal.com/zh?category=scene-space&model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=category_scene-space>)
 
@@ -2410,119 +2561,6 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 ---
 
-<a id="prompt-88df658a-ab87-4b70-a3ad-7a208dc0fc1b"></a>
-
-#### Impasto Autumn Lake Oil Painting
-
-<a href="https://musesignal.com/zh/prompt/88df658a-ab87-4b70-a3ad-7a208dc0fc1b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUwSNOtWsAAnLi2.jpg?format=jpg&amp;name=small" width="480" alt="Impasto Autumn Lake Oil Painting" /></a>
-
-**GPT Image 2.5** · 原作者: Viki
-
-创作场景: 场景空间
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Extremely thick impasto oil painting on rough grainy ground, sculptural palette-knife paint standing up in real three-dimensional petals and slabs, wide 16:9 panoramic composition. Edge to edge, no frame, no border.
-
-SKY: a luminous iridescent sky fills the upper middle, washed in soft pastel lavender, mint green, pale turquoise, blush pink and peach, shimmering like mother-of-pearl and crinkled foil. Behind it, distant slender tree trunks fade into a pale violet and green haze.
-
-LEFT: the hero, one young maple tree in brilliant golden-orange, its leaves raised into thick knife-petals of amber, ochre, burnt orange and pale yellow, each leaf a sculpted curl catching light, thin dark branches rising from a narrow trunk.
-
-RIGHT: a stand of slender birches, white trunks marked with rough black dashes, crowned with small green and yellow leaves in crisp short dabs, rising to the top edge.
-
-MIDDLE: a pale bank of drifted snow and cream ground runs between the trees, cracked into heavy ridges, with low green shrubs and dry orange leaves lying along the waterline.
-
-WATER: the bottom half is a still flooded surface reflecting everything above in broken marbled bands — slabs of gold, amber and white for the maple, long vertical green and white streaks for the birches, and a wide band of iridescent mint, pink and turquoise at the centre. The reflections lie as separate thick paint slabs, each edged with a bright rim.
-
-GROUND: bare areas of unpainted canvas show as pale cream, coarse and grainy, scattering the lower corners and left edge with heavy texture.
-
-PALETTE: golden amber, burnt orange, ivory cream, pale mint, turquoise, blush pink, soft violet, deep green, black. Heavy tactile ridges, glossy thick paint, clean and unmarked.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/88df658a-ab87-4b70-a3ad-7a208dc0fc1b?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/churvikv/status/2111082882315755584>)
-
----
-
-<a id="prompt-3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7"></a>
-
-#### Silhouette Sunset Over Frozen Marbled Lake
-
-<a href="https://musesignal.com/zh/prompt/3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUiiLaRXkAAI34K.jpg?format=jpg&amp;name=small" width="480" alt="Silhouette Sunset Over Frozen Marbled Lake" /></a>
-
-**GPT Image 2.5** · 原作者: Viki
-
-创作场景: 场景空间
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Photorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
-
-SKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.
-
-SUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.
-
-TREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.
-
-CITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.
-
-WATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.
-
-REFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.
-
-PALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.
-
-text, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/churvikv/status/2110114825082945740>)
-
----
-
-<a id="prompt-a8a2275b-2150-43c3-8037-f1564c1f0cbe"></a>
-
-#### Neon Yacht Under Full Moon Night Harbour
-
-<a href="https://musesignal.com/zh/prompt/a8a2275b-2150-43c3-8037-f1564c1f0cbe?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-gpt-image-2-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUcyh5PXcAAGeQf.jpg?format=jpg&amp;name=small" width="480" alt="Neon Yacht Under Full Moon Night Harbour" /></a>
-
-**GPT Image 2.5** · 原作者: Viki
-
-创作场景: 场景空间
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Photorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
-
-HARBOUR: the lower half is calm black water rippling in fine horizontal chop, carrying long smeared vertical reflections that stretch down the frame.
-
-MOON: high in the upper middle of the deep navy night sky hangs one enormous, sharply detailed full moon, its craters crisp, ringed by a soft cool blue-white halo. The sky is darkest at the top corners, paling slightly toward the horizon.
-
-BOAT: just left of centre sits a sleek modern white motor yacht at rest, seen broadside from the front-left. Its flanks are washed in vivid neon ultraviolet magenta along the hull and glowing electric cyan along the upper deck and railings, with a dark tinted glass bridge, a radar mast, a blue-lit stern platform and a line of small dark portholes.
-
-HILLS: behind, layered dark ridgelines rise across the full width, their slopes dotted with scattered warm gold lights of hillside villas and small windows.
-
-TOWN: along the water's edge runs a continuous waterfront promenade of low pale buildings with warm golden lit façades, arcades, windows and streetlamps. A row of moored white boats and small yachts lines the quay in dark silhouette.
-
-REFLECTIONS: the water is split into ribbons of colour. Directly beneath the yacht run two bold vertical bands — bright magenta and electric cyan — vivid and saturated, broken into short ripples. Across the rest of the surface, the town lights throw long warm amber and orange columns, with cooler teal and deep green streaks threading between them in the lower right.
-
-PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amber gold, teal green, silver-white moon. Sharp focus, high dynamic range, glossy wet highlights, clean and unmarked.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a8a2275b-2150-43c3-8037-f1564c1f0cbe?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/churvikv/status/2109710598972035578>)
-
----
-
 ## 继续探索
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples>) · [领取免费积分开始创作](<https://musesignal.com/zh?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=after_examples_create>)
@@ -2534,19 +2572,19 @@ PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amb
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | GPT Image | 56 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 457 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
-| GPT Image 2.5 | 26 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
+| GPT Image 2 | 461 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2.5 | 27 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_gpt-image-2.5>) |
 
 ## 最近发布
 
+- [Out-of-Focus Balcony Portrait by the Sea](<https://musesignal.com/zh/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Force-Reactive Oversized Typography Campaign Poster](<https://musesignal.com/zh/prompt/24167adc-d70c-4ecf-abae-d468dde89954?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [12-Panel Collectible Diorama Lifestyle Collage](<https://musesignal.com/zh/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Luxury Marine Life Body Scrub Ad](<https://musesignal.com/zh/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
+- [Editorial Character Poster Template](<https://musesignal.com/zh/prompt/49f58242-72b9-4ae0-be2a-f2f0bb96e89f?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
 - [Ultra-Premium Luxury Brand Advertising Poster](<https://musesignal.com/zh/prompt/60e40e19-66a4-4a51-80a1-485207321fd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
 - [Golden Hour Beauty Portrait Triptych](<https://musesignal.com/zh/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image
 - [Golden Hour Temple Travel Portrait](<https://musesignal.com/zh/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Moody Mirror Reflection Fashion Portrait](<https://musesignal.com/zh/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Vitamin C Serum Luxury Skincare Ad](<https://musesignal.com/zh/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Vintage Street Portrait with Long-Exposure Motion Blur](<https://musesignal.com/zh/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Coastal Cliff Cinematic Portrait](<https://musesignal.com/zh/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2
-- [Flash-Photography Candid Portrait](<https://musesignal.com/zh/prompt/37ef654e-9911-4042-a7d6-00447cf42ca9?utm_source=github&utm_medium=repository&utm_campaign=awesome-gpt-image-2-prompts&utm_content=latest>) — GPT Image 2.5
 
 ## 在 MuseSignal 生成
 
@@ -2567,7 +2605,7 @@ PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amb
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 539](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 544](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
